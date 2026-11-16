@@ -12,7 +12,7 @@ Sprites, animations, maps and screens ripped from the game.
 
 | Directory | Format | Contents |
 |---|---|---|
-| `sprites/front/` | PNG 40–56 px | battle sprites, named by number (`6.png`, forms `201-a.png`, `243-alt.png`); `transparent/` without the white box |
+| `sprites/front/` | PNG 40–56 px | battle sprites by number (`6.png`, `201-a.png`); `transparent/` too |
 | `sprites/shiny/` | PNG | shiny palette; `transparent/` too |
 | `sprites/animated/` | GIF | battle animations; `shiny/` too |
 | `sprites/frames/` | PNG strip | every animation frame, base first |
