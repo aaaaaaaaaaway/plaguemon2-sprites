@@ -2,6 +2,8 @@
 
 <p align="center"><img src="view/title-screen.gif" alt="Plaguemon II: The AfterWorld title screen"></p>
 
+<p align="center"><img src="view/banner-eyebally.gif" alt="EYEBALLY"></p>
+
 <br>
 
 *Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a horror ROM hack of Pokémon Crystal set in a cyberpunk dystopia, and the follow-up to *Plaguemon: Lost Diaries* (2018). It redraws 240 monsters, most of them animated, adds 19 new types and redesigns every map.
