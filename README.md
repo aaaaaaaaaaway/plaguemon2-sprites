@@ -18,7 +18,7 @@ Sprites, animations, maps and screens ripped from the game.
 | `sprites/frames/` | PNG strip | every animation frame, base first |
 | `sprites/icons/` | PNG 36×16 | party icons, both frames |
 | `data/pokedex.json` | JSON | names, types, stats, palettes, animation mode, file paths |
-| `characters/`, `backgrounds/`, `miscellaneous/`, `more/` | PNG 1× | sprite sheets |
+| `pokemon/`, `characters/`, `backgrounds/`, `miscellaneous/`, `more/` | PNG 1× | sprite sheets |
 | `view/` | Markdown | pages for browsing on GitHub (generated) |
 
 ## Pokémon
