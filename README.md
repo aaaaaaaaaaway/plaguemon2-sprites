@@ -10,10 +10,9 @@
 
 This repo collects its sprites, animations, maps and screens from v0.1.0, the first public release.
 
-- **By:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))
-- **Download:** [plaguemon.com](https://plaguemon.com)
-- **Requires:** Pokémon Crystal (USA/Europe) base ROM
-- **Version:** v0.1.0 · [changelog](CHANGELOG.md)
+&gt;**By:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
+&gt;**Download:** [plaguemon.com](https://plaguemon.com)<br>
+&gt;**Requires:** Pokémon Crystal (USA/Europe) base ROM
 
 <br>
 
@@ -113,7 +112,7 @@ Click a sheet to view it enlarged; **1×** is the original.
 
 ## Credits
 
-- Plaguemon II: The AfterWorld by [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com)).
-- Pokémon © Nintendo / Creatures Inc. / GAME FREAK inc.
-- Extracted with tools built on the formats documented by [pret/pokecrystal](https://github.com/pret/pokecrystal).
-- Unofficial fan archive, not affiliated with either. No ROM or game code is included.
+&gt;Plaguemon II: The AfterWorld by [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com)).<br>
+&gt;Pokémon © Nintendo / Creatures Inc. / GAME FREAK inc.<br>
+&gt;Extracted with tools built on the formats documented by [pret/pokecrystal](https://github.com/pret/pokecrystal).<br>
+&gt;Unofficial fan archive, not affiliated with either. No ROM or game code is included.
