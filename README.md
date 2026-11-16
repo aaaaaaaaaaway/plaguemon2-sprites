@@ -1,5 +1,7 @@
 # Plaguemon II: The AfterWorld sprite rip
 
+<p align="center"><img src="view/pokedex/img/039_EYEBALLY_anim.gif" alt="EYEBALLY"></p>
+
 Sprites, animations, maps and screens ripped from the game.
 
 <table><tr><td><b>Game</b></td><td>Plaguemon II: The AfterWorld v0.1.0</td></tr><tr><td><b>By</b></td><td>Hikikomori @ <a href="https://plaguelabs.com">Plague Labs</a></td></tr><tr><td><b>Download</b></td><td><a href="https://plaguemon.com">plaguemon.com</a></td></tr><tr><td><b>Requires</b></td><td>Pokémon Crystal (USA/Europe) base ROM; the download is a patch</td></tr></table>
