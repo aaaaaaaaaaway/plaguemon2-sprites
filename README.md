@@ -2,13 +2,15 @@
 
 Sprite sheets for v0.1.0, laid out like the Pokémon Crystal page on [The Spriters Resource](https://www.spriters-resource.com/game_boy_gbc/pokemoncrystal/).
 
-## Pokédex
+## Pokémon
 
 <a href="view/pokedex.md"><img src="view/pokedex-banner.png" alt="Pokédex"></a>
 
 ### [Open the Pokédex →](view/pokedex.md)
 
 260 monsters, each with front and shiny sprites, battle animations (normal and shiny), every frame, palettes and base stats. Also: [all animations](view/animated.md) · [shiny](view/animated-shiny.md)
+
+<sub>1× sheets: [Generation 1 Pokémon](pokemon/generation-1-pokemon.png) · [Generation 2 Pokémon](pokemon/generation-2-pokemon.png) · [Unown Formes](pokemon/unown-formes.png)</sub>
 
 <details><summary>Show every monster here</summary>
 
@@ -19,12 +21,6 @@ Sprite sheets for v0.1.0, laid out like the Pokémon Crystal page on [The Sprite
 ## Characters
 
 <table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td></tr></table>
-
-## Pokémon
-
-<table><tr><td align="center" valign="top"><a href="view/pokemon/generation-1-pokemon.md"><img src="thumbs/pokemon/generation-1-pokemon.png"></a><br><a href="view/pokemon/generation-1-pokemon.md">Generation 1 Pokémon</a> <sub><a href="pokemon/generation-1-pokemon.png">1×</a></sub></td><td align="center" valign="top"><a href="view/pokemon/generation-2-pokemon.md"><img src="thumbs/pokemon/generation-2-pokemon.png"></a><br><a href="view/pokemon/generation-2-pokemon.md">Generation 2 Pokémon</a> <sub><a href="pokemon/generation-2-pokemon.png">1×</a></sub></td><td align="center" valign="top"><a href="view/pokemon/unown-formes.md"><img src="thumbs/pokemon/unown-formes.png"></a><br><a href="view/pokemon/unown-formes.md">Unown Formes</a> <sub>Paratypes</sub> <sub><a href="pokemon/unown-formes.png">1×</a></sub></td></tr></table>
-
-**[Pokédex](view/pokedex.md)**: every monster with all sprites, animation and stats · [Animated battle sprites](view/animated.md) ([shiny](view/animated-shiny.md))
 
 ## Backgrounds (Routes)
 
