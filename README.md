@@ -10,8 +10,8 @@
 
 This repo collects its sprites, animations, maps and screens from v0.1.0, the first public release.
 
-&gt;**By:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
-&gt;**Download:** [plaguemon.com](https://plaguemon.com)<br>
+&gt;**by:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
+&gt;**download:** [plaguemon.com](https://plaguemon.com)<br>
 &gt;**baserom:** Pokémon Crystal (USA/Europe)
 
 <br>
@@ -50,15 +50,11 @@ This repo collects its sprites, animations, maps and screens from v0.1.0, the fi
 
 <br>
 
-Boot animations at 2×. The 1× GIFs are in `sprites/intro/`.
-
-<br>
-
 ## Characters
 
 <table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png" alt="Characters (Battle)"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png" alt="Characters (Overworld)"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td></tr></table>
 
-Trainer teams and locations: [trainers](view/trainers.md).
+[Trainer teams](view/trainers.md)
 
 <br>
 
@@ -98,15 +94,13 @@ Every other map in the game, by its in-game place name.
 
 ## Items
 
-169 items (37 renamed from Crystal) and 12 TMs/HMs with new moves: [full list](view/items.md).
+[Item list](view/items.md)
 
 <br>
 
 ## Music
 
-The 18 new and changed songs, recorded from the game and saved as MP3: [listen](view/music.md).
-
-Click a sheet to view it enlarged; **1×** is the original.
+[18 songs](view/music.md), new and changed only
 
 <br>
 
