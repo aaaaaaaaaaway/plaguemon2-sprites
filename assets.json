@@ -797,6 +797,19 @@
   "kb": 33
  },
  {
+  "section": "Miscellaneous",
+  "name": "Intro Sprites",
+  "sub": "",
+  "file": "miscellaneous/intro-sprites.png",
+  "thumb": "thumbs/miscellaneous/intro-sprites.png",
+  "page": "view/miscellaneous/intro-sprites.md",
+  "view_zoom": 4,
+  "view_parts": 5,
+  "w": 863,
+  "h": 920,
+  "kb": 24
+ },
+ {
   "section": "More maps",
   "name": "Area 1",
   "sub": "map",
