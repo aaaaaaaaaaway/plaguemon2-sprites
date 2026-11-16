@@ -716,6 +716,19 @@
  },
  {
   "section": "Miscellaneous",
+  "name": "Bag Interface",
+  "sub": "",
+  "file": "miscellaneous/bag-interface.png",
+  "thumb": "thumbs/miscellaneous/bag-interface.png",
+  "page": "view/miscellaneous/bag-interface.md",
+  "view_zoom": 4,
+  "view_parts": 2,
+  "w": 1016,
+  "h": 330,
+  "kb": 8
+ },
+ {
+  "section": "Miscellaneous",
   "name": "Game Freak Intro",
   "sub": "",
   "file": "miscellaneous/game-freak-intro.png",
@@ -752,6 +765,19 @@
   "w": 1016,
   "h": 634,
   "kb": 31
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Trainer Card",
+  "sub": "",
+  "file": "miscellaneous/trainer-card.png",
+  "thumb": "thumbs/miscellaneous/trainer-card.png",
+  "page": "view/miscellaneous/trainer-card.md",
+  "view_zoom": 4,
+  "view_parts": 1,
+  "w": 1016,
+  "h": 178,
+  "kb": 13
  },
  {
   "section": "More",
