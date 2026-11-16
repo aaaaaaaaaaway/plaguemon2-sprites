@@ -8,7 +8,7 @@ Sheets organised like [The Spriters Resource](https://www.spriters-resource.com/
 | Game | Plaguemon II: The AfterWorld, v0.1.0 (free release, plaguemon.com) |
 | Developer | Hikikomori / Plague Labs |
 | Base | Pokémon Crystal ROM hack |
-| Assets | 50 of 71 ripped |
+| Assets | 55 of 71 ripped |
 | Ripped by | aaaaaaaaaaway |
 
 Sheets are at original 1× resolution, PNG. `pokemon/animated/` holds 3× GIFs of each monster's
@@ -92,7 +92,15 @@ Not ripped yet: Magnet Train Tracks
 
 ## Miscellaneous [20]
 
-Not ripped yet: Bag Interface · Bill's PC Interface · Credits · Font · Game Freak Intro · Intro Backgrounds · Intro Sprites · Mail · Minigames · Mobile Content · Mystery Gift Screen · Pokégear · Pokémon Egg · Professor Oak's Opening Lecture · Super Game Boy Error Message · Tileset (Day) · Tileset (Morning) · Tileset (Night) · Trading Sequence · Trainer Card
+| Preview | Name | Size | Format | Notes |
+|---|---|---|---|---|
+| <a href="miscellaneous/font.png"><img src="miscellaneous/font.png" width="160"></a> | [Font](miscellaneous/font.png) | 5 KB (520×171) | PNG |  |
+| <a href="miscellaneous/pokemon-egg.png"><img src="miscellaneous/pokemon-egg.png" width="160"></a> | [Pokémon Egg](miscellaneous/pokemon-egg.png) | 4 KB (520×150) | PNG | 3 frames |
+| <a href="miscellaneous/tileset-day.png"><img src="miscellaneous/tileset-day.png" width="160"></a> | [Tileset (Day)](miscellaneous/tileset-day.png) | 165 KB (1002×808) | PNG | 36 tilesets |
+| <a href="miscellaneous/tileset-morning.png"><img src="miscellaneous/tileset-morning.png" width="160"></a> | [Tileset (Morning)](miscellaneous/tileset-morning.png) | 157 KB (1002×808) | PNG | 36 tilesets |
+| <a href="miscellaneous/tileset-night.png"><img src="miscellaneous/tileset-night.png" width="160"></a> | [Tileset (Night)](miscellaneous/tileset-night.png) | 166 KB (1002×808) | PNG | 36 tilesets |
+
+Not ripped yet: Bag Interface · Bill's PC Interface · Credits · Game Freak Intro · Intro Backgrounds · Intro Sprites · Mail · Minigames · Mobile Content · Mystery Gift Screen · Pokégear · Professor Oak's Opening Lecture · Super Game Boy Error Message · Trading Sequence · Trainer Card
 
 ## Credits
 

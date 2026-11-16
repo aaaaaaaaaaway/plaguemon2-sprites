@@ -449,6 +449,51 @@
    "h": 950,
    "kb": 85.90234375,
    "note": "7 maps"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Tileset (Day)",
+   "file": "miscellaneous/tileset-day.png",
+   "w": 1002,
+   "h": 808,
+   "kb": 164.7119140625,
+   "note": "36 tilesets"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Tileset (Morning)",
+   "file": "miscellaneous/tileset-morning.png",
+   "w": 1002,
+   "h": 808,
+   "kb": 157.3564453125,
+   "note": "36 tilesets"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Tileset (Night)",
+   "file": "miscellaneous/tileset-night.png",
+   "w": 1002,
+   "h": 808,
+   "kb": 166.2685546875,
+   "note": "36 tilesets"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Font",
+   "file": "miscellaneous/font.png",
+   "w": 520,
+   "h": 171,
+   "kb": 4.734375,
+   "note": ""
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Pokémon Egg",
+   "file": "miscellaneous/pokemon-egg.png",
+   "w": 520,
+   "h": 150,
+   "kb": 4.078125,
+   "note": "3 frames"
   }
  ],
  "skipped": {
