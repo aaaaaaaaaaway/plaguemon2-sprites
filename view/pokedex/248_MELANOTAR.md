@@ -1,0 +1,30 @@
+# 248 MELANOTAR
+
+[← 247 MYCOTAR](247_MYCOTAR.md) · [Pokédex](../pokedex.md) · [249 DEMEMENTIA →](249_DEMEMENTIA.md)
+
+<img src="img/248_MELANOTAR_front.png"> <img src="img/248_MELANOTAR_shiny.png"> <img src="../../pokemon/animated/248_MELANOTAR.gif">
+
+<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+
+<img src="img/248_MELANOTAR_frames.png">
+
+<sub>animation frames (base + 3)</sub>
+
+<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
+
+<img src="img/248_MELANOTAR_palette.png"> <sub>palette: normal · shiny</sub>
+
+| | |
+|---|---|
+| Type | MINERAL / DOOM |
+| HP | 100 `████████████` |
+| Attack | 134 `█████████████████` |
+| Defense | 110 `██████████████` |
+| Sp. Atk | 95 `████████████` |
+| Sp. Def | 100 `████████████` |
+| Speed | 61 `████████` |
+| Total | 600 |
+| Catch rate | 45 |
+| Base exp | 218 |
+| Gender | 50% female |
+| Growth | Slow |

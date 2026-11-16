@@ -1,0 +1,28 @@
+# 110 LUNGANSER
+
+[← 109 SARSARAS](109_SARSARAS.md) · [Pokédex](../pokedex.md) · [111 ELICORPS →](111_ELICORPS.md)
+
+<img src="img/110_LUNGANSER_front.png"> <img src="img/110_LUNGANSER_shiny.png"> <img src="../../pokemon/animated/110_LUNGANSER.gif">
+
+<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+
+<img src="img/110_LUNGANSER_frames.png">
+
+<sub>animation frames (base + 3)</sub>
+
+<img src="img/110_LUNGANSER_palette.png"> <sub>palette: normal · shiny</sub>
+
+| | |
+|---|---|
+| Type | MEDICAL |
+| HP | 65 `████████` |
+| Attack | 90 `███████████` |
+| Defense | 120 `███████████████` |
+| Sp. Atk | 85 `███████████` |
+| Sp. Def | 70 `█████████` |
+| Speed | 60 `████████` |
+| Total | 490 |
+| Catch rate | 60 |
+| Base exp | 173 |
+| Gender | 50% female |
+| Growth | Medium Fast |
