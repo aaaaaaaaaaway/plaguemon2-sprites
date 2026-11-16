@@ -1,0 +1,1582 @@
+{
+ "game": "Plaguemon II: The AfterWorld",
+ "version": "0.1.0",
+ "items": [
+  {
+   "id": 1,
+   "name": "SPECIMEN JAR",
+   "pocket": "Balls",
+   "price": 0,
+   "description": "The best BALL. It\nnever misses.",
+   "crystal_name": "MASTER BALL"
+  },
+  {
+   "id": 2,
+   "name": "PLAGUE FLASK",
+   "pocket": "Balls",
+   "price": 1200,
+   "description": "A BALL with a high\nrate of success.",
+   "crystal_name": "ULTRA BALL"
+  },
+  {
+   "id": 3,
+   "name": "BRIGHTPOWDER",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Lowers the foe's\naccuracy. (HOLD)"
+  },
+  {
+   "id": 4,
+   "name": "PLAGUE TUBE",
+   "pocket": "Balls",
+   "price": 600,
+   "description": "A BALL with a de-\ncent success rate.",
+   "crystal_name": "GREAT BALL"
+  },
+  {
+   "id": 5,
+   "name": "PLAGUE VIAL",
+   "pocket": "Balls",
+   "price": 200,
+   "description": "An item for catch-\ning POKéMON.",
+   "crystal_name": "POKé BALL"
+  },
+  {
+   "id": 7,
+   "name": "SKATEBOARD",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "SKATE DECK v0.3\nJump with B.",
+   "crystal_name": "BICYCLE"
+  },
+  {
+   "id": 8,
+   "name": "CRYSTALLIZE",
+   "pocket": "Items",
+   "price": 0,
+   "description": "Evolves certain\nkinds of POKéMON.",
+   "crystal_name": "MOON STONE"
+  },
+  {
+   "id": 9,
+   "name": "CHEMOTHERAPY",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Cures poisoned\nPOKéMON.",
+   "crystal_name": "ANTIDOTE"
+  },
+  {
+   "id": 10,
+   "name": "CRUCIFIX",
+   "pocket": "Items",
+   "price": 250,
+   "description": "Heals burned\nPOKéMON.",
+   "crystal_name": "BURN HEAL"
+  },
+  {
+   "id": 11,
+   "name": "NALOXONE",
+   "pocket": "Items",
+   "price": 250,
+   "description": "Defrosts frozen\nPOKéMON.",
+   "crystal_name": "ICE HEAL"
+  },
+  {
+   "id": 12,
+   "name": "MIRACLE",
+   "pocket": "Items",
+   "price": 250,
+   "description": "Awakens sleeping\nPOKéMON.",
+   "crystal_name": "AWAKENING"
+  },
+  {
+   "id": 13,
+   "name": "XANAX",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Heals paralyzed\nPOKéMON.",
+   "crystal_name": "PARLYZ HEAL"
+  },
+  {
+   "id": 14,
+   "name": "FULL RESTORE",
+   "pocket": "Items",
+   "price": 3000,
+   "description": "Fully restores HP\n& status."
+  },
+  {
+   "id": 15,
+   "name": "FENTANYL",
+   "pocket": "Items",
+   "price": 2500,
+   "description": "Fully restores\nPOKéMON HP.",
+   "crystal_name": "MAX POTION"
+  },
+  {
+   "id": 16,
+   "name": "MORPHINE",
+   "pocket": "Items",
+   "price": 1200,
+   "description": "Restores POKéMON\nHP by 200.",
+   "crystal_name": "HYPER POTION"
+  },
+  {
+   "id": 17,
+   "name": "CODEINE",
+   "pocket": "Items",
+   "price": 700,
+   "description": "Restores POKéMON\nHP by 50.",
+   "crystal_name": "SUPER POTION"
+  },
+  {
+   "id": 18,
+   "name": "PARACETAMOL",
+   "pocket": "Items",
+   "price": 300,
+   "description": "Restores POKéMON\nHP by 20.",
+   "crystal_name": "POTION"
+  },
+  {
+   "id": 19,
+   "name": "RAGEQUIT",
+   "pocket": "Items",
+   "price": 550,
+   "description": "Use for escaping\nfrom caves, etc.",
+   "crystal_name": "ESCAPE ROPE"
+  },
+  {
+   "id": 20,
+   "name": "REPEL",
+   "pocket": "Items",
+   "price": 350,
+   "description": "Repels weak POKé-\nMON for 100 steps."
+  },
+  {
+   "id": 21,
+   "name": "MAX ELIXER",
+   "pocket": "Items",
+   "price": 4500,
+   "description": "Fully restores the\nPP of one POKéMON."
+  },
+  {
+   "id": 22,
+   "name": "FIRE STONE",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "Evolves certain\nkinds of POKéMON."
+  },
+  {
+   "id": 23,
+   "name": "X-RAY",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "Evolves certain\nkinds of POKéMON.",
+   "crystal_name": "THUNDERSTONE"
+  },
+  {
+   "id": 24,
+   "name": "BROKEN CONDOM",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "Evolves certain\nkinds of POKéMON.",
+   "crystal_name": "WATER STONE"
+  },
+  {
+   "id": 25,
+   "name": "DRIFT CAR",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "?",
+   "crystal_name": "TERU-SAMA"
+  },
+  {
+   "id": 26,
+   "name": "HP UP",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Raises the HP of\none POKéMON."
+  },
+  {
+   "id": 27,
+   "name": "PROTEIN",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Raises ATTACK of\none POKéMON."
+  },
+  {
+   "id": 28,
+   "name": "IRON",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Raises DEFENSE of\none POKéMON."
+  },
+  {
+   "id": 29,
+   "name": "CARBOS",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Raises SPEED of\none POKéMON."
+  },
+  {
+   "id": 30,
+   "name": "LUCKY PUNCH",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Ups critical hit\nratio of CHANSEY."
+  },
+  {
+   "id": 31,
+   "name": "CALCIUM",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Ups SPECIAL stats\nof one POKéMON."
+  },
+  {
+   "id": 32,
+   "name": "AGENT P",
+   "pocket": "Items",
+   "price": 4800,
+   "description": "Raises level of a\nPOKéMON by one.",
+   "crystal_name": "RARE CANDY"
+  },
+  {
+   "id": 33,
+   "name": "X ACCURACY",
+   "pocket": "Items",
+   "price": 950,
+   "description": "Raises accuracy.\n(1 BTL)"
+  },
+  {
+   "id": 34,
+   "name": "LEAF STONE",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "Evolves certain\nkinds of POKéMON."
+  },
+  {
+   "id": 35,
+   "name": "METAL POWDER",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Raises DEFENSE of\nDITTO. (HOLD)"
+  },
+  {
+   "id": 36,
+   "name": "NUGGET",
+   "pocket": "Items",
+   "price": 10000,
+   "description": "Made of pure gold.\nSell high."
+  },
+  {
+   "id": 37,
+   "name": "POKé DOLL",
+   "pocket": "Items",
+   "price": 1000,
+   "description": "Use to escape from\na wild POKéMON."
+  },
+  {
+   "id": 38,
+   "name": "FULL HEAL",
+   "pocket": "Items",
+   "price": 600,
+   "description": "Eliminates all\nstatus problems."
+  },
+  {
+   "id": 39,
+   "name": "REVIVE",
+   "pocket": "Items",
+   "price": 1500,
+   "description": "Restores a fainted\nPOKéMON to 1/2 HP."
+  },
+  {
+   "id": 40,
+   "name": "FLAMETHROWER",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Fully restores a\nfainted POKéMON.",
+   "crystal_name": "MAX REVIVE"
+  },
+  {
+   "id": 41,
+   "name": "GUARD SPEC.",
+   "pocket": "Items",
+   "price": 700,
+   "description": "Prevents stats\nreduction. (1 BTL)"
+  },
+  {
+   "id": 42,
+   "name": "SUPER REPEL",
+   "pocket": "Items",
+   "price": 500,
+   "description": "Repels weak POKé-\nMON for 200 steps."
+  },
+  {
+   "id": 43,
+   "name": "MAX REPEL",
+   "pocket": "Items",
+   "price": 700,
+   "description": "Repels weak POKé-\nMON for 250 steps."
+  },
+  {
+   "id": 44,
+   "name": "DIRE HIT",
+   "pocket": "Items",
+   "price": 650,
+   "description": "Ups critical hit\nratio. (1 BTL)"
+  },
+  {
+   "id": 45,
+   "name": "pPSC",
+   "pocket": "Items",
+   "price": 300,
+   "description": "plague PLURIPOTENT\nSTEM CELL.",
+   "crystal_name": "TERU-SAMA"
+  },
+  {
+   "id": 46,
+   "name": "MICROPLASTICS",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Restores POKéMON\nHP by 50.",
+   "crystal_name": "FRESH WATER"
+  },
+  {
+   "id": 47,
+   "name": "SODA POP",
+   "pocket": "Items",
+   "price": 300,
+   "description": "Restores POKéMON\nHP by 60."
+  },
+  {
+   "id": 48,
+   "name": "LEMONADE",
+   "pocket": "Items",
+   "price": 350,
+   "description": "Restores POKéMON\nHP by 80."
+  },
+  {
+   "id": 49,
+   "name": "X ATTACK",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Raises ATTACK.\n(1 BTL)"
+  },
+  {
+   "id": 50,
+   "name": "GOD HAND",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "?",
+   "crystal_name": "TERU-SAMA"
+  },
+  {
+   "id": 51,
+   "name": "X DEFEND",
+   "pocket": "Items",
+   "price": 550,
+   "description": "Raises DEFENSE.\n(1 BTL)"
+  },
+  {
+   "id": 52,
+   "name": "X SPEED",
+   "pocket": "Items",
+   "price": 350,
+   "description": "Raises SPEED.\n(1 BTL)"
+  },
+  {
+   "id": 53,
+   "name": "X SPECIAL",
+   "pocket": "Items",
+   "price": 350,
+   "description": "Raises SPECIAL\nATTACK. (1 BTL)"
+  },
+  {
+   "id": 54,
+   "name": "COIN CASE",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Holds up to 9,999\ngame coins."
+  },
+  {
+   "id": 55,
+   "name": "ITEMFINDER",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Checks for unseen\nitems in the area."
+  },
+  {
+   "id": 57,
+   "name": "EXP.SHARE",
+   "pocket": "Items",
+   "price": 3000,
+   "description": "Shares battle EXP.\nPoints. (HOLD)"
+  },
+  {
+   "id": 58,
+   "name": "OLD ROD",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Use by water to\nfish for POKéMON."
+  },
+  {
+   "id": 59,
+   "name": "GOOD ROD",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A good ROD for\ncatching POKéMON."
+  },
+  {
+   "id": 60,
+   "name": "SILVER LEAF",
+   "pocket": "Items",
+   "price": 1000,
+   "description": "A strange, silver-\ncolored leaf."
+  },
+  {
+   "id": 61,
+   "name": "SUPER ROD",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "The best ROD for\ncatching POKéMON."
+  },
+  {
+   "id": 62,
+   "name": "PP UP",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Raises max PP of\na selected move."
+  },
+  {
+   "id": 63,
+   "name": "ETHER",
+   "pocket": "Items",
+   "price": 1200,
+   "description": "Restores PP of one\nmove by 10."
+  },
+  {
+   "id": 64,
+   "name": "MAX ETHER",
+   "pocket": "Items",
+   "price": 2000,
+   "description": "Fully restores PP\nof one move."
+  },
+  {
+   "id": 65,
+   "name": "ELIXER",
+   "pocket": "Items",
+   "price": 3000,
+   "description": "Restores PP of all\nmoves by 10."
+  },
+  {
+   "id": 66,
+   "name": "RED SCALE",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A scale from the\nred GYARADOS."
+  },
+  {
+   "id": 67,
+   "name": "AMPCAPACITOR",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Fully heals any\nPOKéMON.",
+   "crystal_name": "SECRETPOTION"
+  },
+  {
+   "id": 68,
+   "name": "S.S.TICKET",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A ticket for the\nS.S.AQUA."
+  },
+  {
+   "id": 69,
+   "name": "SPECIMEN CONT.",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "An EGG obtained\nfrom MR.POKéMON.",
+   "crystal_name": "MYSTERY EGG"
+  },
+  {
+   "id": 70,
+   "name": "CLEAR BELL",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Makes a gentle\nringing."
+  },
+  {
+   "id": 71,
+   "name": "SILVER WING",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A strange, silver-\ncolored feather."
+  },
+  {
+   "id": 72,
+   "name": "MOOMOO MILK",
+   "pocket": "Items",
+   "price": 500,
+   "description": "Restores POKéMON\nHP by 100."
+  },
+  {
+   "id": 73,
+   "name": "QUICK CLAW",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Raises 1st strike\nratio. (HOLD)"
+  },
+  {
+   "id": 74,
+   "name": "WHITE WIDOW",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-cure for\npoison. (HOLD)",
+   "crystal_name": "PSNCUREBERRY"
+  },
+  {
+   "id": 75,
+   "name": "GOLD LEAF",
+   "pocket": "Items",
+   "price": 1000,
+   "description": "A strange, gold-\ncolored leaf."
+  },
+  {
+   "id": 76,
+   "name": "SOFT SAND",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up ground-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 77,
+   "name": "SHARP BEAK",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up flying-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 78,
+   "name": "SUPER SKUNK",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-cure for\nparalysis. (HOLD)",
+   "crystal_name": "PRZCUREBERRY"
+  },
+  {
+   "id": 79,
+   "name": "HASHISH OIL",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-cure for\nfreezing. (HOLD)",
+   "crystal_name": "BURNT BERRY"
+  },
+  {
+   "id": 80,
+   "name": "L S D",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A self-heal for a\nburn. (HOLD)",
+   "crystal_name": "ICE BERRY"
+  },
+  {
+   "id": 81,
+   "name": "POISON BARB",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up poison-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 82,
+   "name": "KING'S ROCK",
+   "pocket": "Items",
+   "price": 100,
+   "description": "May make the foe\nflinch. (HOLD)"
+  },
+  {
+   "id": 83,
+   "name": "NEPAL HASH",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-cure for\nconfusion. (HOLD)",
+   "crystal_name": "BITTER BERRY"
+  },
+  {
+   "id": 84,
+   "name": "MINT BERRY",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-awakening\nfor sleep. (HOLD)"
+  },
+  {
+   "id": 85,
+   "name": "RED APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A red APRICORN."
+  },
+  {
+   "id": 86,
+   "name": "TINYMUSHROOM",
+   "pocket": "Items",
+   "price": 500,
+   "description": "An ordinary mush-\nroom. Sell low."
+  },
+  {
+   "id": 87,
+   "name": "BIG MUSHROOM",
+   "pocket": "Items",
+   "price": 5000,
+   "description": "A rare mushroom.\nSell high."
+  },
+  {
+   "id": 88,
+   "name": "SILVERPOWDER",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up bug-type\nmoves. (HOLD)"
+  },
+  {
+   "id": 89,
+   "name": "BLU APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A blue APRICORN."
+  },
+  {
+   "id": 91,
+   "name": "AMULET COIN",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Doubles monetary\nearnings. (HOLD)"
+  },
+  {
+   "id": 92,
+   "name": "YLW APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A yellow APRICORN."
+  },
+  {
+   "id": 93,
+   "name": "GRN APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A green APRICORN."
+  },
+  {
+   "id": 94,
+   "name": "CLEANSE TAG",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Helps repel wild\nPOKéMON. (HOLD)"
+  },
+  {
+   "id": 95,
+   "name": "MYSTIC WATER",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up water-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 96,
+   "name": "TWISTEDSPOON",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up psychic-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 97,
+   "name": "WHT APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A white APRICORN."
+  },
+  {
+   "id": 98,
+   "name": "BLACKBELT",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Boosts fighting-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 99,
+   "name": "BLK APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A black APRICORN.\n"
+  },
+  {
+   "id": 101,
+   "name": "PNK APRICORN",
+   "pocket": "Items",
+   "price": 200,
+   "description": "A pink APRICORN.\n"
+  },
+  {
+   "id": 102,
+   "name": "BLACKGLASSES",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up dark-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 103,
+   "name": "SLOWPOKETAIL",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Very tasty. Sell\nhigh."
+  },
+  {
+   "id": 104,
+   "name": "PINK BOW",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up normal-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 105,
+   "name": "STICK",
+   "pocket": "Items",
+   "price": 200,
+   "description": "An ordinary stick.\nSell low."
+  },
+  {
+   "id": 106,
+   "name": "SMOKE BALL",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Escape from wild\nPOKéMON. (HOLD)"
+  },
+  {
+   "id": 107,
+   "name": "NEVERMELTICE",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up ice-type\nmoves. (HOLD)"
+  },
+  {
+   "id": 108,
+   "name": "MAGNET",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Boosts electric-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 109,
+   "name": "MIRACLEBERRY",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Cures all status\nproblems. (HOLD)"
+  },
+  {
+   "id": 110,
+   "name": "PEARL",
+   "pocket": "Items",
+   "price": 1400,
+   "description": "A beautiful pearl.\nSell low."
+  },
+  {
+   "id": 111,
+   "name": "BIG PEARL",
+   "pocket": "Items",
+   "price": 7500,
+   "description": "A big, beautiful\npearl. Sell high."
+  },
+  {
+   "id": 112,
+   "name": "EVERSTONE",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Stops evolution.\n(HOLD)"
+  },
+  {
+   "id": 113,
+   "name": "SPELL TAG",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up ghost-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 114,
+   "name": "RAGECANDYBAR",
+   "pocket": "Items",
+   "price": 300,
+   "description": "Restores POKéMON\nHP by 20."
+  },
+  {
+   "id": 115,
+   "name": "GS BALL",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "The mysterious\nBALL."
+  },
+  {
+   "id": 116,
+   "name": "BLUE CARD",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Card to save\npoints."
+  },
+  {
+   "id": 117,
+   "name": "MIRACLE SEED",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up grass-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 118,
+   "name": "THICK CLUB",
+   "pocket": "Items",
+   "price": 500,
+   "description": "A bone of some\nsort. Sell low."
+  },
+  {
+   "id": 119,
+   "name": "FOCUS BAND",
+   "pocket": "Items",
+   "price": 200,
+   "description": "May prevent faint-\ning. (HOLD)"
+  },
+  {
+   "id": 121,
+   "name": "ENERGYPOWDER",
+   "pocket": "Items",
+   "price": 500,
+   "description": "Restores POKéMON\nHP by 50. Bitter."
+  },
+  {
+   "id": 122,
+   "name": "ENERGY ROOT",
+   "pocket": "Items",
+   "price": 800,
+   "description": "Restores POKéMON\nHP by 200. Bitter."
+  },
+  {
+   "id": 123,
+   "name": "HEAL POWDER",
+   "pocket": "Items",
+   "price": 450,
+   "description": "Cures all status\nproblems. Bitter."
+  },
+  {
+   "id": 124,
+   "name": "REVIVAL HERB",
+   "pocket": "Items",
+   "price": 2800,
+   "description": "Revives fainted\nPOKéMON. Bitter."
+  },
+  {
+   "id": 125,
+   "name": "HARD STONE",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up rock-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 126,
+   "name": "LUCKY EGG",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Earns extra EXP.\npoints. (HOLD)"
+  },
+  {
+   "id": 127,
+   "name": "CARD KEY",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Opens shutters in\nthe RADIO TOWER."
+  },
+  {
+   "id": 128,
+   "name": "MACHINE PART",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A machine part for\nthe POWER PLANT."
+  },
+  {
+   "id": 129,
+   "name": "EGG TICKET",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "May use at Golden-\nrod trade corner."
+  },
+  {
+   "id": 130,
+   "name": "LOST ITEM",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "The POKé DOLL lost\nby the COPYCAT."
+  },
+  {
+   "id": 131,
+   "name": "STARDUST",
+   "pocket": "Items",
+   "price": 2000,
+   "description": "Pretty, red sand.\nSell high."
+  },
+  {
+   "id": 132,
+   "name": "STAR PIECE",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "A hunk of red gem.\nSell very high."
+  },
+  {
+   "id": 133,
+   "name": "BASEMENT KEY",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "Opens doors."
+  },
+  {
+   "id": 134,
+   "name": "PASS",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A ticket for the\nMAGNET TRAIN."
+  },
+  {
+   "id": 138,
+   "name": "DEMON SIGIL",
+   "pocket": "Items",
+   "price": 9800,
+   "description": "Powers up fire-\ntype moves. (HOLD)",
+   "crystal_name": "CHARCOAL"
+  },
+  {
+   "id": 139,
+   "name": "BERRY JUICE",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Restores POKéMON\nHP by 20."
+  },
+  {
+   "id": 140,
+   "name": "SCOPE LENS",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Raises critical\nhit ratio. (HOLD)"
+  },
+  {
+   "id": 143,
+   "name": "MERCURY",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up steel-\ntype moves. (HOLD)",
+   "crystal_name": "METAL COAT"
+  },
+  {
+   "id": 144,
+   "name": "DRAGON FANG",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up dragon-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 146,
+   "name": "LEFTOVERS",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Restores HP during\nbattle. (HOLD)"
+  },
+  {
+   "id": 150,
+   "name": "MYSTERYBERRY",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-restore\nfor PP. (HOLD)"
+  },
+  {
+   "id": 151,
+   "name": "DRAGON SCALE",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "A rare dragon-type\nitem."
+  },
+  {
+   "id": 152,
+   "name": "BERSERK GENE",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Boosts ATTACK but\ncauses confusion."
+  },
+  {
+   "id": 156,
+   "name": "SACRED ASH",
+   "pocket": "Items",
+   "price": 200,
+   "description": "Fully revives all\nfainted POKéMON."
+  },
+  {
+   "id": 157,
+   "name": "HEAVY BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL for catch-\ning heavy POKéMON."
+  },
+  {
+   "id": 158,
+   "name": "FLOWER MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "Flower-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 159,
+   "name": "LEVEL BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL for lower-\nlevel POKéMON."
+  },
+  {
+   "id": 160,
+   "name": "PETRI DISH",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL for POKéMON\nhooked by a ROD.",
+   "crystal_name": "LURE BALL"
+  },
+  {
+   "id": 161,
+   "name": "FAST BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL for catch-\ning fast POKéMON."
+  },
+  {
+   "id": 163,
+   "name": "LIGHT BALL",
+   "pocket": "Items",
+   "price": 100,
+   "description": "An odd, electrical\norb. (HOLD)"
+  },
+  {
+   "id": 164,
+   "name": "FRIEND BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL that makes\nPOKéMON friendly."
+  },
+  {
+   "id": 165,
+   "name": "MOON BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "A BALL for MOON\nSTONE evolvers."
+  },
+  {
+   "id": 166,
+   "name": "LOVE BALL",
+   "pocket": "Balls",
+   "price": 150,
+   "description": "For catching the\nopposite gender."
+  },
+  {
+   "id": 167,
+   "name": "NORMAL BOX",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Open it and see\nwhat's inside."
+  },
+  {
+   "id": 168,
+   "name": "GORGEOUS BOX",
+   "pocket": "Items",
+   "price": 10,
+   "description": "Open it and see\nwhat's inside."
+  },
+  {
+   "id": 169,
+   "name": "SUN STONE",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "Evolves certain\nkinds of POKéMON."
+  },
+  {
+   "id": 170,
+   "name": "POLKADOT BOW",
+   "pocket": "Items",
+   "price": 100,
+   "description": "Powers up normal-\ntype moves. (HOLD)"
+  },
+  {
+   "id": 172,
+   "name": "UP-GRADE",
+   "pocket": "Items",
+   "price": 2100,
+   "description": "A mysterious box\nmade by SILPH CO."
+  },
+  {
+   "id": 173,
+   "name": "WEED",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-restore\nitem. (10HP, HOLD)",
+   "crystal_name": "BERRY"
+  },
+  {
+   "id": 174,
+   "name": "GOLD BERRY",
+   "pocket": "Items",
+   "price": 10,
+   "description": "A self-restore\nitem. (30HP, HOLD)"
+  },
+  {
+   "id": 175,
+   "name": "KNOT CUTTER",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A bottle used for\nwatering plants.",
+   "crystal_name": "SQUIRTBOTTLE"
+  },
+  {
+   "id": 177,
+   "name": "PARK BALL",
+   "pocket": "Balls",
+   "price": 0,
+   "description": "The Bug-Catching\nContest BALL."
+  },
+  {
+   "id": 178,
+   "name": "RAINBOW WING",
+   "pocket": "Key Items",
+   "price": 0,
+   "description": "A mystical feather\nof rainbow colors."
+  },
+  {
+   "id": 179,
+   "name": "HIKI DECO",
+   "pocket": "Items",
+   "price": 12288,
+   "description": "?",
+   "crystal_name": "TERU-SAMA"
+  },
+  {
+   "id": 180,
+   "name": "BRICK PIECE",
+   "pocket": "Items",
+   "price": 50,
+   "description": "A rare chunk of\ntile."
+  },
+  {
+   "id": 181,
+   "name": "SURF MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "LAPRAS-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 182,
+   "name": "LITEBLUEMAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "DRATINI-print\nMAIL. (HOLD)"
+  },
+  {
+   "id": 183,
+   "name": "PORTRAITMAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "MAIL featuring the\nholder's likeness."
+  },
+  {
+   "id": 184,
+   "name": "LOVELY MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "Heart-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 185,
+   "name": "EON MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "EEVEE-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 186,
+   "name": "MORPH MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "DITTO-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 187,
+   "name": "BLUESKY MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "Sky-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 188,
+   "name": "MUSIC MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "NATU-print MAIL.\n(HOLD)"
+  },
+  {
+   "id": 189,
+   "name": "MIRAGE MAIL",
+   "pocket": "Items",
+   "price": 50,
+   "description": "MEW-print MAIL.\n(HOLD)"
+  }
+ ],
+ "tmhm": [
+  {
+   "id": 191,
+   "name": "TM01",
+   "move": "DYNAMICPUNCH",
+   "item_name": "TM01"
+  },
+  {
+   "id": 192,
+   "name": "TM02",
+   "move": "SCAVENGE",
+   "item_name": "CS02",
+   "crystal_move": "HEADBUTT"
+  },
+  {
+   "id": 193,
+   "name": "TM03",
+   "move": "CURSE",
+   "item_name": "TM03"
+  },
+  {
+   "id": 194,
+   "name": "TM04",
+   "move": "ROLLOUT",
+   "item_name": "TM04"
+  },
+  {
+   "id": 196,
+   "name": "TM05",
+   "move": "ROAR",
+   "item_name": "TM05"
+  },
+  {
+   "id": 197,
+   "name": "TM06",
+   "move": "TOXIC",
+   "item_name": "TM06"
+  },
+  {
+   "id": 198,
+   "name": "TM07",
+   "move": "ZAP CANNON",
+   "item_name": "TM07"
+  },
+  {
+   "id": 199,
+   "name": "TM08",
+   "move": "ROCK SMASH",
+   "item_name": "TM08"
+  },
+  {
+   "id": 200,
+   "name": "TM09",
+   "move": "PSYCH UP",
+   "item_name": "TM09"
+  },
+  {
+   "id": 201,
+   "name": "TM10",
+   "move": "HIDDEN POWER",
+   "item_name": "TM10"
+  },
+  {
+   "id": 202,
+   "name": "TM11",
+   "move": "SUNNY DAY",
+   "item_name": "TM11"
+  },
+  {
+   "id": 203,
+   "name": "TM12",
+   "move": "MDMA",
+   "item_name": "TM12",
+   "crystal_move": "SWEET SCENT"
+  },
+  {
+   "id": 204,
+   "name": "TM13",
+   "move": "SNORE",
+   "item_name": "TM13"
+  },
+  {
+   "id": 205,
+   "name": "TM14",
+   "move": "BLIZZARD",
+   "item_name": "TM14"
+  },
+  {
+   "id": 206,
+   "name": "TM15",
+   "move": "ETERNAL TAO",
+   "item_name": "TM15",
+   "crystal_move": "HYPER BEAM"
+  },
+  {
+   "id": 207,
+   "name": "TM16",
+   "move": "ICY WIND",
+   "item_name": "TM16"
+  },
+  {
+   "id": 208,
+   "name": "TM17",
+   "move": "PROTECT",
+   "item_name": "TM17"
+  },
+  {
+   "id": 209,
+   "name": "TM18",
+   "move": "RAIN DANCE",
+   "item_name": "TM18"
+  },
+  {
+   "id": 210,
+   "name": "TM19",
+   "move": "GIGA DRAIN",
+   "item_name": "TM19"
+  },
+  {
+   "id": 211,
+   "name": "TM20",
+   "move": "ENDURE",
+   "item_name": "TM20"
+  },
+  {
+   "id": 212,
+   "name": "TM21",
+   "move": "FRUSTRATION",
+   "item_name": "TM21"
+  },
+  {
+   "id": 213,
+   "name": "TM22",
+   "move": "SOLARBEAM",
+   "item_name": "TM22"
+  },
+  {
+   "id": 214,
+   "name": "TM23",
+   "move": "ENCRYPT",
+   "item_name": "TM23",
+   "crystal_move": "IRON TAIL"
+  },
+  {
+   "id": 215,
+   "name": "TM24",
+   "move": "DRAGONBREATH",
+   "item_name": "TM24"
+  },
+  {
+   "id": 216,
+   "name": "TM25",
+   "move": "THUNDER",
+   "item_name": "TM25"
+  },
+  {
+   "id": 217,
+   "name": "TM26",
+   "move": "EARTHQUAKE",
+   "item_name": "TM26"
+  },
+  {
+   "id": 218,
+   "name": "TM27",
+   "move": "RETURN",
+   "item_name": "TM27"
+  },
+  {
+   "id": 219,
+   "name": "TM28",
+   "move": "DIG",
+   "item_name": "TM28"
+  },
+  {
+   "id": 221,
+   "name": "TM29",
+   "move": "MK ULTRA",
+   "item_name": "TM29",
+   "crystal_move": "PSYCHIC"
+  },
+  {
+   "id": 222,
+   "name": "TM30",
+   "move": "SARIN GAS",
+   "item_name": "TM30",
+   "crystal_move": "SHADOW BALL"
+  },
+  {
+   "id": 223,
+   "name": "TM31",
+   "move": "MUD-SLAP",
+   "item_name": "TM31"
+  },
+  {
+   "id": 224,
+   "name": "TM32",
+   "move": "DOUBLE TEAM",
+   "item_name": "TM32"
+  },
+  {
+   "id": 225,
+   "name": "TM33",
+   "move": "ICE PUNCH",
+   "item_name": "TM33"
+  },
+  {
+   "id": 226,
+   "name": "TM34",
+   "move": "SWAGGER",
+   "item_name": "TM34"
+  },
+  {
+   "id": 227,
+   "name": "TM35",
+   "move": "SLEEP TALK",
+   "item_name": "TM35"
+  },
+  {
+   "id": 228,
+   "name": "TM36",
+   "move": "SLUDGE BOMB",
+   "item_name": "TM36"
+  },
+  {
+   "id": 229,
+   "name": "TM37",
+   "move": "SANDSTORM",
+   "item_name": "TM37"
+  },
+  {
+   "id": 230,
+   "name": "TM38",
+   "move": "FIRE BLAST",
+   "item_name": "TM38"
+  },
+  {
+   "id": 231,
+   "name": "TM39",
+   "move": "SWIFT",
+   "item_name": "TM39"
+  },
+  {
+   "id": 232,
+   "name": "TM40",
+   "move": "DEFENSE CURL",
+   "item_name": "TM40"
+  },
+  {
+   "id": 233,
+   "name": "TM41",
+   "move": "THUNDERPUNCH",
+   "item_name": "TM41"
+  },
+  {
+   "id": 234,
+   "name": "TM42",
+   "move": "DREAM EATER",
+   "item_name": "TM42"
+  },
+  {
+   "id": 235,
+   "name": "TM43",
+   "move": "DETECT",
+   "item_name": "TM43"
+  },
+  {
+   "id": 236,
+   "name": "TM44",
+   "move": "REST",
+   "item_name": "TM44"
+  },
+  {
+   "id": 237,
+   "name": "TM45",
+   "move": "SEDUCTION",
+   "item_name": "TM45",
+   "crystal_move": "ATTRACT"
+  },
+  {
+   "id": 238,
+   "name": "TM46",
+   "move": "THIEF",
+   "item_name": "TM46"
+  },
+  {
+   "id": 239,
+   "name": "TM47",
+   "move": "STEEL WING",
+   "item_name": "TM47"
+  },
+  {
+   "id": 240,
+   "name": "TM48",
+   "move": "FIRE PUNCH",
+   "item_name": "TM48"
+  },
+  {
+   "id": 241,
+   "name": "TM49",
+   "move": "PSYCHOSTABBR",
+   "item_name": "TM49",
+   "crystal_move": "FURY CUTTER"
+  },
+  {
+   "id": 242,
+   "name": "TM50",
+   "move": "NIGHTMARE",
+   "item_name": "TM50"
+  },
+  {
+   "id": 243,
+   "name": "HM01",
+   "move": "BITJAMMER",
+   "item_name": "HM01",
+   "crystal_move": "CUT"
+  },
+  {
+   "id": 244,
+   "name": "HM02",
+   "move": "QUANTUM LEAP",
+   "item_name": "HM02",
+   "crystal_move": "FLY"
+  },
+  {
+   "id": 245,
+   "name": "HM03",
+   "move": "JETSKI",
+   "item_name": "HM03",
+   "crystal_move": "SURF"
+  },
+  {
+   "id": 246,
+   "name": "HM04",
+   "move": "FREE-WILL",
+   "item_name": "HM04",
+   "crystal_move": "STRENGTH"
+  },
+  {
+   "id": 247,
+   "name": "HM05",
+   "move": "FLASH",
+   "item_name": "HM05"
+  },
+  {
+   "id": 248,
+   "name": "HM06",
+   "move": "WHIRLPOOL",
+   "item_name": "HM06"
+  },
+  {
+   "id": 249,
+   "name": "HM07",
+   "move": "WATERFALL",
+   "item_name": "HM07"
+  }
+ ]
+}

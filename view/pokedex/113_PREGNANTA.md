@@ -4,10 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/113_PREGNANTA_front3.png" alt="113 PREGNANTA front"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_shiny3.png" alt="113 PREGNANTA shiny"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_anim.gif" alt="113 PREGNANTA animation"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_anim_shiny.gif" alt="113 PREGNANTA shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
-<sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">250</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">5</td><td>▇</td></tr><tr><td>Defense</td><td align="right">5</td><td>▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>450</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>30</td></tr><tr><td>Base exp</td><td>255</td></tr><tr><td>Gender</td><td>100% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/09_CLEFAIRY_icon.png" alt="113 PREGNANTA party icon"><br><sub>party icon</sub><br><img src="img/113_PREGNANTA_palette.png" alt="113 PREGNANTA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -20,32 +16,6 @@
 
 > People try to catch it for its extremely nutritious eggs, but it rarely can be found.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves into [POSTPARTOU](242_POSTPARTOU.md) (happiness, any time)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | POUND | MUTANT | 40 | 100% | 35 |
-| 5 | GROWL | MUTANT | — | 100% | 40 |
-| 9 | TAIL WHIP | MUTANT | — | 100% | 30 |
-| 13 | SOFTBOILED | MUTANT | — | 100% | 10 |
-| 17 | DOUBLESLAP | MUTANT | 15 | 85% | 10 |
-| 23 | MINIMIZE | MUTANT | — | 100% | 20 |
-| 29 | SING | MUTANT | — | 55% | 15 |
-| 35 | FETUS BOMB | MUTANT | 100 | 75% | 10 |
-| 41 | DEFENSE CURL | MUTANT | — | 100% | 40 |
-| 49 | LIGHT SCREEN | NEURAL | — | 100% | 30 |
-| 57 | DOUBLE-EDGE | MUTANT | 120 | 100% | 15 |
-
-## Wild
-
-| Where | How | Chance | Levels |
-|---|---|---|--:|
-| Area 13 | walking | 1% | 25 |
-| Area 14 | walking | 1% | 28 |
-| Area 15 | walking | 1% | 25 |

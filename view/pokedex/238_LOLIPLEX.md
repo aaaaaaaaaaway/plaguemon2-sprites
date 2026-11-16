@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/238_LOLIPLEX_front3.png" alt="238 LOLIPLEX front"></td><td align="center" valign="bottom"><img src="img/238_LOLIPLEX_shiny3.png" alt="238 LOLIPLEX shiny"></td><td align="center" valign="bottom"><img src="img/238_LOLIPLEX_anim.gif" alt="238 LOLIPLEX animation"></td><td align="center" valign="bottom"><img src="img/238_LOLIPLEX_anim_shiny.gif" alt="238 LOLIPLEX shiny animation"></td><td align="center" valign="bottom"><img src="img/238_LOLIPLEX_back3.png" alt="238 LOLIPLEX back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">15</td><td>▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>305</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>87</td></tr><tr><td>Gender</td><td>100% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/14_HUMANSHAPE_icon.png" alt="238 LOLIPLEX party icon"><br><sub>party icon</sub><br><img src="img/238_LOLIPLEX_palette.png" alt="238 LOLIPLEX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -18,27 +16,6 @@
 
 > The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves into [JYZZO](124_JYZZO.md) (level 30)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | POUND | MUTANT | 40 | 100% | 35 |
-| 1 | LICK | DEATH | 20 | 100% | 30 |
-| 9 | BENOT-AFRAID | MUTANT | — | 75% | 10 |
-| 13 | POWDER SNOW | CHEMICAL | 40 | 100% | 25 |
-| 21 | CONFUSION | NEURAL | 50 | 100% | 25 |
-| 25 | SING | MUTANT | — | 55% | 15 |
-| 33 | MEAN LOOK | MUTANT | — | 100% | 5 |
-| 37 | MK ULTRA | NEURAL | 90 | 100% | 10 |
-| 45 | PERISH SONG | MUTANT | — | 100% | 5 |
-| 49 | BLIZZARD | CHEMICAL | 120 | 70% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

@@ -4,10 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_front3.png" alt="213 PROGLOTTO front"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_shiny3.png" alt="213 PROGLOTTO shiny"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_anim.gif" alt="213 PROGLOTTO animation"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_anim_shiny.gif" alt="213 PROGLOTTO shiny animation"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_back3.png" alt="213 PROGLOTTO back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
-<sub>No animation; its frame data in v0.1.0 doesn't match the sprite.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">10</td><td>▇</td></tr><tr><td>Defense</td><td align="right">230</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">10</td><td>▇</td></tr><tr><td>Sp. Def</td><td align="right">230</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">5</td><td>▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>505</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>80</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/11_BUG_icon.png" alt="213 PROGLOTTO party icon"><br><sub>party icon</sub><br><img src="img/213_PROGLOTTO_palette.png" alt="213 PROGLOTTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 ## Pokédex
@@ -16,24 +12,6 @@
 
 > The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves from [SHITTO](132_SHITTO.md) (use X-RAY)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | CONSTRICT | MUTANT | 10 | 100% | 35 |
-| 1 | WITHDRAW | SEX | — | 100% | 40 |
-| 9 | WRAP | MUTANT | 15 | 85% | 20 |
-| 14 | ENCORE | MUTANT | — | 100% | 5 |
-| 23 | SAFEGUARD | MUTANT | — | 100% | 25 |
-| 28 | BIDE | MUTANT | — | 100% | 10 |
-| 37 | REST | NEURAL | — | 100% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

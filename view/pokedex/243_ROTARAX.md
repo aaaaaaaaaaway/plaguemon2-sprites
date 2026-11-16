@@ -4,10 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/243_ROTARAX_front3.png" alt="243 ROTARAX front"></td><td align="center" valign="bottom"><img src="img/243_ROTARAX_shiny3.png" alt="243 ROTARAX shiny"></td><td align="center" valign="bottom"><img src="img/243_ROTARAX_anim.gif" alt="243 ROTARAX animation"></td><td align="center" valign="bottom"><img src="img/243_ROTARAX_anim_shiny.gif" alt="243 ROTARAX shiny animation"></td><td align="center" valign="bottom"><img src="img/243_ROTARAX_back3.png" alt="243 ROTARAX back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
-<sub>No animation; its frame data in v0.1.0 doesn't match the sprite.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>580</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>3</td></tr><tr><td>Base exp</td><td>216</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="243 ROTARAX party icon"><br><sub>party icon</sub><br><img src="img/243_ROTARAX_palette.png" alt="243 ROTARAX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 ## Pokédex
@@ -16,26 +12,6 @@
 
 > This rough POKéMON stores energy inside its body, then sweeps across the land, shooting off electricity.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | BITE | DOOM | 60 | 100% | 25 |
-| 1 | LEER | MUTANT | — | 100% | 30 |
-| 11 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
-| 21 | ROAR | MUTANT | — | 100% | 20 |
-| 31 | QUICK ATTACK | MUTANT | 40 | 100% | 30 |
-| 41 | SPARK | NUCLEAR | 65 | 100% | 20 |
-| 51 | REFLECT | NEURAL | — | 100% | 20 |
-| 61 | CRUNCH | DOOM | 80 | 100% | 15 |
-| 71 | THUNDER | NUCLEAR | 120 | 70% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

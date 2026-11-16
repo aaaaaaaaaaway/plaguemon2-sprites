@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/009_SCOLENE_front3.png" alt="009 SCOLENE front"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_shiny3.png" alt="009 SCOLENE shiny"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_anim.gif" alt="009 SCOLENE animation"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_anim_shiny.gif" alt="009 SCOLENE shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">79</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">83</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">78</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>530</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>210</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/21_SQUIRTLE_icon.png" alt="009 SCOLENE party icon"><br><sub>party icon</sub><br><img src="img/009_SCOLENE_palette.png" alt="009 SCOLENE palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,26 +19,3 @@
 ## Evolution
 
 Evolves from [SCOLANO](008_SCOLANO.md) (level 36)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 1 | TAIL WHIP | MUTANT | — | 100% | 30 |
-| 1 | SALIVA | SEX | 20 | 100% | 30 |
-| 1 | WITHDRAW | SEX | — | 100% | 40 |
-| 4 | TAIL WHIP | MUTANT | — | 100% | 30 |
-| 7 | SALIVA | SEX | 20 | 100% | 30 |
-| 10 | WITHDRAW | SEX | — | 100% | 40 |
-| 13 | PISS BOMB | SEX | 40 | 100% | 25 |
-| 19 | BITE | DOOM | 60 | 100% | 25 |
-| 25 | RAPID SPIN | MUTANT | 20 | 100% | 40 |
-| 31 | PROTECT | MUTANT | — | 100% | 10 |
-| 42 | RAIN DANCE | SEX | — | 90% | 5 |
-| 55 | SKULL BASH | MUTANT | 100 | 100% | 15 |
-| 68 | MEGA SQUIRT | SEX | 120 | 80% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

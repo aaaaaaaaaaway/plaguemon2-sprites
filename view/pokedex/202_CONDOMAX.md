@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/202_CONDOMAX_front3.png" alt="202 CONDOMAX front"></td><td align="center" valign="bottom"><img src="img/202_CONDOMAX_shiny3.png" alt="202 CONDOMAX shiny"></td><td align="center" valign="bottom"><img src="img/202_CONDOMAX_anim.gif" alt="202 CONDOMAX animation"></td><td align="center" valign="bottom"><img src="img/202_CONDOMAX_anim_shiny.gif" alt="202 CONDOMAX shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">190</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">33</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">33</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">33</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>405</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>177</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/12_GHOST_icon.png" alt="202 CONDOMAX party icon"><br><sub>party icon</sub><br><img src="img/202_CONDOMAX_palette.png" alt="202 CONDOMAX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 2)
@@ -18,23 +16,6 @@
 
 > In order to con- ceal its black tail, it lives in a dark cave and only moves about at night.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | COUNTER | VIOLENCE | — | 100% | 20 |
-| 1 | MIRROR COAT | NEURAL | — | 100% | 20 |
-| 1 | SAFEGUARD | MUTANT | — | 100% | 25 |
-| 1 | DESTINY BOND | DEATH | — | 100% | 5 |
-
-## Wild
-
-| Where | How | Chance | Levels |
-|---|---|---|--:|
-| Sewers (Dark Cave Blackthorn Entrance) | walking | 15% night | 20-25 |

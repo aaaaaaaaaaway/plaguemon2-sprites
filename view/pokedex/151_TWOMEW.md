@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/151_TWOMEW_front3.png" alt="151 TWOMEW front"></td><td align="center" valign="bottom"><img src="img/151_TWOMEW_shiny3.png" alt="151 TWOMEW shiny"></td><td align="center" valign="bottom"><img src="img/151_TWOMEW_anim.gif" alt="151 TWOMEW animation"></td><td align="center" valign="bottom"><img src="img/151_TWOMEW_anim_shiny.gif" alt="151 TWOMEW shiny animation"></td><td align="center" valign="bottom"><img src="img/151_TWOMEW_back3.png" alt="151 TWOMEW back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>600</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>64</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/14_HUMANSHAPE_icon.png" alt="151 TWOMEW party icon"><br><sub>party icon</sub><br><img src="img/151_TWOMEW_palette.png" alt="151 TWOMEW palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,18 +19,3 @@
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | POUND | MUTANT | 40 | 100% | 35 |
-| 10 | TRANSFORM | MUTANT | — | 100% | 10 |
-| 20 | MEGA PUNCH | MUTANT | 80 | 85% | 20 |
-| 30 | METRONOME | MUTANT | — | 100% | 10 |
-| 40 | MK ULTRA | NEURAL | 90 | 100% | 10 |
-| 50 | ANCIENTPOWER | MINERAL | 60 | 100% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

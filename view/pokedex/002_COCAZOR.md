@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/002_COCAZOR_front3.png" alt="002 COCAZOR front"></td><td align="center" valign="bottom"><img src="img/002_COCAZOR_shiny3.png" alt="002 COCAZOR shiny"></td><td align="center" valign="bottom"><img src="img/002_COCAZOR_anim.gif" alt="002 COCAZOR animation"></td><td align="center" valign="bottom"><img src="img/002_COCAZOR_anim_shiny.gif" alt="002 COCAZOR shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">62</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">63</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>405</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>141</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/22_BULBASAUR_icon.png" alt="002 COCAZOR party icon"><br><sub>party icon</sub><br><img src="img/002_COCAZOR_palette.png" alt="002 COCAZOR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,25 +19,3 @@
 ## Evolution
 
 Evolves from [WEEDAZOR](001_WEEDAZOR.md) (level 16)<br>Evolves into [OPIUMZOR](003_OPIUMZOR.md) (level 32)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 1 | GROWL | MUTANT | — | 100% | 40 |
-| 1 | LEECH SEED | DRUGS | — | 90% | 10 |
-| 4 | GROWL | MUTANT | — | 100% | 40 |
-| 7 | LEECH SEED | DRUGS | — | 90% | 10 |
-| 10 | VINE WHIP | DRUGS | 35 | 100% | 10 |
-| 15 | POISONPOWDER | MEDICAL | — | 75% | 35 |
-| 15 | SLEEP POWDER | DRUGS | — | 75% | 15 |
-| 22 | RAZOR LEAF | DRUGS | 55 | 95% | 25 |
-| 29 | MDMA | MUTANT | — | 100% | 20 |
-| 38 | GROWTH | MUTANT | — | 100% | 40 |
-| 47 | SYNTHESIS | DRUGS | — | 100% | 5 |
-| 56 | SOLARBEAM | DRUGS | 120 | 100% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

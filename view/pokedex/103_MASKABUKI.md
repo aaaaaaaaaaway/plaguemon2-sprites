@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/103_MASKABUKI_front3.png" alt="103 MASKABUKI front"></td><td align="center" valign="bottom"><img src="img/103_MASKABUKI_shiny3.png" alt="103 MASKABUKI shiny"></td><td align="center" valign="bottom"><img src="img/103_MASKABUKI_anim.gif" alt="103 MASKABUKI animation"></td><td align="center" valign="bottom"><img src="img/103_MASKABUKI_anim_shiny.gif" alt="103 MASKABUKI shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">125</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>520</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>212</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="103 MASKABUKI party icon"><br><sub>party icon</sub><br><img src="img/103_MASKABUKI_palette.png" alt="103 MASKABUKI palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,17 +19,3 @@
 ## Evolution
 
 Evolves from [DARUMORT](102_DARUMORT.md) (use LEAF STONE)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | BARRAGE | MUTANT | 15 | 85% | 20 |
-| 1 | HYPNOSIS | NEURAL | — | 60% | 20 |
-| 1 | CONFUSION | NEURAL | 50 | 100% | 25 |
-| 19 | STOMP | MUTANT | 65 | 100% | 20 |
-| 31 | FETUS BOMB | MUTANT | 100 | 75% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

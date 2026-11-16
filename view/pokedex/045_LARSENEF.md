@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/045_LARSENEF_front3.png" alt="045 LARSENEF front"></td><td align="center" valign="bottom"><img src="img/045_LARSENEF_shiny3.png" alt="045 LARSENEF shiny"></td><td align="center" valign="bottom"><img src="img/045_LARSENEF_anim.gif" alt="045 LARSENEF animation"></td><td align="center" valign="bottom"><img src="img/045_LARSENEF_anim_shiny.gif" alt="045 LARSENEF shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>480</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>184</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="045 LARSENEF party icon"><br><sub>party icon</sub><br><img src="img/045_LARSENEF_palette.png" alt="045 LARSENEF palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,16 +19,3 @@
 ## Evolution
 
 Evolves from [INFECTO](044_INFECTO.md) (use LEAF STONE)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | ABSORB | DRUGS | 20 | 100% | 20 |
-| 1 | MDMA | MUTANT | — | 100% | 20 |
-| 1 | STUN SPORE | DRUGS | — | 75% | 30 |
-| 1 | PETAL DANCE | DRUGS | 70 | 100% | 20 |
-
-## Wild
-
-Not in any wild encounter table.

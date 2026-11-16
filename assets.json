@@ -690,7 +690,7 @@
   "view_parts": 1,
   "w": 144,
   "h": 98,
-  "kb": 2
+  "kb": 3
  },
  {
   "section": "Miscellaneous",
@@ -798,6 +798,19 @@
  },
  {
   "section": "Miscellaneous",
+  "name": "Battle Screen",
+  "sub": "",
+  "file": "more/battle-screen.png",
+  "thumb": "thumbs/more/battle-screen.png",
+  "page": "view/more/battle-screen.md",
+  "view_zoom": 4,
+  "view_parts": 2,
+  "w": 1016,
+  "h": 330,
+  "kb": 29
+ },
+ {
+  "section": "Miscellaneous",
   "name": "Intro Sprites",
   "sub": "",
   "file": "miscellaneous/intro-sprites.png",
@@ -834,6 +847,32 @@
   "w": 7520,
   "h": 4320,
   "kb": 1214
+ },
+ {
+  "section": "World Map",
+  "name": "Region Map (Johto)",
+  "sub": "map",
+  "file": "backgrounds/region-map-johto.png",
+  "thumb": "thumbs/backgrounds/region-map-johto.png",
+  "page": "view/backgrounds/region-map-johto.md",
+  "view_zoom": 1,
+  "view_parts": 1,
+  "w": 160,
+  "h": 144,
+  "kb": 3
+ },
+ {
+  "section": "World Map",
+  "name": "Region Map (Kanto)",
+  "sub": "map",
+  "file": "backgrounds/region-map-kanto.png",
+  "thumb": "thumbs/backgrounds/region-map-kanto.png",
+  "page": "view/backgrounds/region-map-kanto.md",
+  "view_zoom": 1,
+  "view_parts": 1,
+  "w": 160,
+  "h": 144,
+  "kb": 2
  },
  {
   "section": "Miscellaneous",

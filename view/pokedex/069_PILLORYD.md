@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/069_PILLORYD_front3.png" alt="069 PILLORYD front"></td><td align="center" valign="bottom"><img src="img/069_PILLORYD_shiny3.png" alt="069 PILLORYD shiny"></td><td align="center" valign="bottom"><img src="img/069_PILLORYD_anim.gif" alt="069 PILLORYD animation"></td><td align="center" valign="bottom"><img src="img/069_PILLORYD_anim_shiny.gif" alt="069 PILLORYD shiny animation"></td><td align="center" valign="bottom"><img src="img/069_PILLORYD_back3.png" alt="069 PILLORYD back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>300</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>84</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="069 PILLORYD party icon"><br><sub>party icon</sub><br><img src="img/069_PILLORYD_palette.png" alt="069 PILLORYD palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 2)
@@ -21,29 +19,3 @@
 ## Evolution
 
 Evolves into [GUILTYOTIN](070_GUILTYOTIN.md) (level 21)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | VINE WHIP | DRUGS | 35 | 100% | 10 |
-| 6 | GROWTH | MUTANT | — | 100% | 40 |
-| 11 | WRAP | MUTANT | 15 | 85% | 20 |
-| 15 | SLEEP POWDER | DRUGS | — | 75% | 15 |
-| 17 | POISONPOWDER | MEDICAL | — | 75% | 35 |
-| 19 | STUN SPORE | DRUGS | — | 75% | 30 |
-| 23 | ACID | MEDICAL | 40 | 100% | 30 |
-| 30 | MDMA | MUTANT | — | 100% | 20 |
-| 37 | RAZOR LEAF | DRUGS | 55 | 95% | 25 |
-| 45 | SLAM | MUTANT | 80 | 75% | 20 |
-
-## Wild
-
-| Where | How | Chance | Levels |
-|---|---|---|--:|
-| Area 31 | walking | 20% | 5 |
-| Area 32 | walking | 20% | 7 |
-| Area 36 | walking | 20% | 5 |
-| Area 44 | walking | 20% | 22 |
-| Area 24 | walking | 5% | 10 |
-| Area 25 | walking | 5% | 10 |

@@ -4,10 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_front3.png" alt="222 NEURAPSYS front"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_shiny3.png" alt="222 NEURAPSYS shiny"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim.gif" alt="222 NEURAPSYS animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim_shiny.gif" alt="222 NEURAPSYS shiny animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_back3.png" alt="222 NEURAPSYS back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
-<sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>380</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>113</td></tr><tr><td>Gender</td><td>75% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="222 NEURAPSYS party icon"><br><sub>party icon</sub><br><img src="img/222_NEURAPSYS_palette.png" alt="222 NEURAPSYS palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 2)
@@ -20,25 +16,6 @@
 
 > The points on its head absorb nutrients from clean water. They cannot survive in polluted water.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 7 | HARDEN | MUTANT | — | 100% | 30 |
-| 13 | SALIVA | SEX | 20 | 100% | 30 |
-| 19 | RECOVER | MUTANT | — | 100% | 20 |
-| 25 | BUBBLEBEAM | SEX | 65 | 100% | 20 |
-| 31 | SPIKE CANNON | MUTANT | 20 | 100% | 15 |
-| 37 | MIRROR COAT | NEURAL | — | 100% | 20 |
-| 43 | ANCIENTPOWER | MINERAL | 60 | 100% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

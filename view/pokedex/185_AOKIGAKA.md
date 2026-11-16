@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/185_AOKIGAKA_front3.png" alt="185 AOKIGAKA front"></td><td align="center" valign="bottom"><img src="img/185_AOKIGAKA_shiny3.png" alt="185 AOKIGAKA shiny"></td><td align="center" valign="bottom"><img src="img/185_AOKIGAKA_anim.gif" alt="185 AOKIGAKA animation"></td><td align="center" valign="bottom"><img src="img/185_AOKIGAKA_anim_shiny.gif" alt="185 AOKIGAKA shiny animation"></td><td align="center" valign="bottom"><img src="img/185_AOKIGAKA_back3.png" alt="185 AOKIGAKA back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">30</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>410</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>65</td></tr><tr><td>Base exp</td><td>135</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/37_SUDOWOODO_icon.png" alt="185 AOKIGAKA party icon"><br><sub>party icon</sub><br><img src="img/185_AOKIGAKA_palette.png" alt="185 AOKIGAKA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -18,24 +16,6 @@
 
 > If a tree branch shakes when there is no wind, it's a SUDOWOODO, not a tree. It hides from the rain.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | FECAL MATTER | ORGANIC | 50 | 90% | 15 |
-| 1 | MIMIC | MUTANT | — | 100% | 10 |
-| 10 | FLAIL | MUTANT | — | 100% | 15 |
-| 19 | LOW KICK | VIOLENCE | 50 | 90% | 20 |
-| 28 | ROCK SLIDE | MINERAL | 75 | 90% | 10 |
-| 37 | FAINT ATTACK | DOOM | 60 | 100% | 20 |
-| 46 | SLAM | MUTANT | 80 | 75% | 20 |
-
-## Wild
-
-Not in any wild encounter table.

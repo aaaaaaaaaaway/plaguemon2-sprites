@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_front3.png" alt="207 TWOMEWTWO front"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_shiny3.png" alt="207 TWOMEWTWO shiny"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_anim.gif" alt="207 TWOMEWTWO animation"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_anim_shiny.gif" alt="207 TWOMEWTWO shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>430</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>108</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/11_BUG_icon.png" alt="207 TWOMEWTWO party icon"><br><sub>party icon</sub><br><img src="img/207_TWOMEWTWO_palette.png" alt="207 TWOMEWTWO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -21,20 +19,3 @@
 ## Evolution
 
 Does not evolve.
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | DIRTY NEEDLE | MEDICAL | 15 | 100% | 35 |
-| 6 | SAND-ATTACK | ORGANIC | — | 100% | 15 |
-| 13 | HARDEN | MUTANT | — | 100% | 30 |
-| 20 | QUICK ATTACK | MUTANT | 40 | 100% | 30 |
-| 28 | FAINT ATTACK | DOOM | 60 | 100% | 20 |
-| 36 | SLASH | MUTANT | 70 | 100% | 20 |
-| 44 | SCREECH | MUTANT | — | 85% | 40 |
-| 52 | GUILLOTINE | MUTANT | — | 30% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

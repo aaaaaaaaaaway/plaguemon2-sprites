@@ -4,10 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_front3.png" alt="121 IRUKUNJI front"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_shiny3.png" alt="121 IRUKUNJI shiny"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_anim.gif" alt="121 IRUKUNJI animation"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_anim_shiny.gif" alt="121 IRUKUNJI shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
-<sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>520</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>207</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/05_STARYU_icon.png" alt="121 IRUKUNJI party icon"><br><sub>party icon</sub><br><img src="img/121_IRUKUNJI_palette.png" alt="121 IRUKUNJI palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 2)
@@ -20,22 +16,6 @@
 
 > It is said that it uses the seven- colored core of its body to send electric waves into outer space.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves from [MALOKINGI](120_MALOKINGI.md) (use BROKEN CONDOM)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 1 | RAPID SPIN | MUTANT | 20 | 100% | 40 |
-| 1 | RECOVER | MUTANT | — | 100% | 20 |
-| 1 | BUBBLEBEAM | SEX | 65 | 100% | 20 |
-| 37 | CONFUSE RAY | DEATH | — | 100% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

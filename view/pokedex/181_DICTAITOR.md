@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/181_DICTAITOR_front3.png" alt="181 DICTAITOR front"></td><td align="center" valign="bottom"><img src="img/181_DICTAITOR_shiny3.png" alt="181 DICTAITOR shiny"></td><td align="center" valign="bottom"><img src="img/181_DICTAITOR_anim.gif" alt="181 DICTAITOR animation"></td><td align="center" valign="bottom"><img src="img/181_DICTAITOR_anim_shiny.gif" alt="181 DICTAITOR shiny animation"></td><td align="center" valign="bottom"><img src="img/181_DICTAITOR_back3.png" alt="181 DICTAITOR back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>500</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>194</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="181 DICTAITOR party icon"><br><sub>party icon</sub><br><img src="img/181_DICTAITOR_palette.png" alt="181 DICTAITOR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -18,27 +16,6 @@
 
 > When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves from [ALGOCRAT](180_ALGOCRAT.md) (level 30)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 1 | GROWL | MUTANT | — | 100% | 40 |
-| 1 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
-| 1 | THUNDER WAVE | NUCLEAR | — | 100% | 20 |
-| 9 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
-| 18 | THUNDER WAVE | NUCLEAR | — | 100% | 20 |
-| 27 | COTTON SPORE | DRUGS | — | 85% | 40 |
-| 30 | THUNDERPUNCH | NUCLEAR | 75 | 100% | 15 |
-| 42 | LIGHT SCREEN | NEURAL | — | 100% | 30 |
-| 57 | THUNDER | NUCLEAR | 120 | 70% | 10 |
-
-## Wild
-
-Not in any wild encounter table.

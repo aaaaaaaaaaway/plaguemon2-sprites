@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_front3.png" alt="160 CROCOSNUFF front"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_shiny3.png" alt="160 CROCOSNUFF shiny"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim.gif" alt="160 CROCOSNUFF animation"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim_shiny.gif" alt="160 CROCOSNUFF shiny animation"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_back3.png" alt="160 CROCOSNUFF back"></td></tr></table>
 
-<sub>Back sprite unchanged from Pokémon Crystal.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">79</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">83</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">78</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>530</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>210</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="160 CROCOSNUFF party icon"><br><sub>party icon</sub><br><img src="img/160_CROCOSNUFF_palette.png" alt="160 CROCOSNUFF palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
@@ -18,28 +16,6 @@
 
 > Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves from [GAGOGO](159_GAGOGO.md) (level 30)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | SCRATCH | MUTANT | 40 | 100% | 35 |
-| 1 | LEER | MUTANT | — | 100% | 30 |
-| 1 | RAGE | MUTANT | 20 | 100% | 20 |
-| 1 | PISS BOMB | SEX | 40 | 100% | 25 |
-| 7 | RAGE | MUTANT | 20 | 100% | 20 |
-| 13 | PISS BOMB | SEX | 40 | 100% | 25 |
-| 21 | BITE | DOOM | 60 | 100% | 25 |
-| 28 | SCARY FACE | MUTANT | — | 90% | 10 |
-| 38 | SLASH | MUTANT | 70 | 100% | 20 |
-| 47 | SCREECH | MUTANT | — | 85% | 40 |
-| 58 | MEGA SQUIRT | SEX | 120 | 80% | 5 |
-
-## Wild
-
-Not in any wild encounter table.

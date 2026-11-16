@@ -4,8 +4,6 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/010_GUNBAG_front3.png" alt="010 GUNBAG front"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_shiny3.png" alt="010 GUNBAG shiny"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_anim.gif" alt="010 GUNBAG animation"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_anim_shiny.gif" alt="010 GUNBAG shiny animation"></td></tr></table>
 
-<sub>No back sprite of its own in v0.1.0.</sub>
-
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>195</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>53</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/24_CATERPILLAR_icon.png" alt="010 GUNBAG party icon"><br><sub>party icon</sub><br><img src="img/010_GUNBAG_palette.png" alt="010 GUNBAG palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 2)
@@ -18,27 +16,6 @@
 
 > It crawls into foliage where it camouflages itself among leaves that are the same color as its body.
 
-<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
-
 ## Evolution
 
 Evolves into [KAKUZI](014_KAKUZI.md) (level 7)
-
-## Moves
-
-| Level | Move | Type | Power | Accuracy | PP |
-|--:|---|---|--:|--:|--:|
-| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
-| 1 | STRING SHOT | MILITARY | — | 95% | 40 |
-
-## Wild
-
-| Where | How | Chance | Levels |
-|---|---|---|--:|
-| Area 24 | walking | 60% morning, 50% day | 8-10 |
-| Area 30 | walking | 50% morning/day | 3-4 |
-| Area 2 | walking | 30% morning/day | 3 |
-| Area 25 | walking | 30% morning/day | 10 |
-| Area 31 | walking | 30% morning/day | 4 |
-| Suicide Forest | walking | 30% morning/day | 5 |
-| National Park | walking | 5% morning/day | 10 |
