@@ -12510,47 +12510,47 @@
    }
   },
   {
-   "key": "243-alt",
-   "id": 243,
-   "name": "ALT FORM (#243/#244)",
-   "form": "alt",
+   "key": "244-tuned",
+   "id": 244,
+   "name": "244 VITATEC (tuned)",
+   "form": "tuned",
    "types": [
-    "NUCLEAR"
+    "SATANIC"
    ],
    "stats": {
-    "hp": 90,
-    "atk": 85,
-    "df": 75,
-    "spa": 115,
-    "spd": 100,
-    "spe": 115
+    "hp": 115,
+    "atk": 115,
+    "df": 85,
+    "spa": 90,
+    "spd": 75,
+    "spe": 100
    },
    "total": 580,
    "catch_rate": 3,
-   "base_exp": 216,
+   "base_exp": 217,
    "gender": "genderless",
    "growth": "Slow",
    "size": "56x56",
    "frames": 3,
    "animation": "cycle",
    "palette": [
-    "#d5de31",
-    "#9c4194",
-    "#001000"
+    "#627b7b",
+    "#731839",
+    "#001029"
    ],
    "shiny_palette": [
-    "#c5417b",
-    "#5a2952",
-    "#002029"
+    "#a45208",
+    "#525241",
+    "#000052"
    ],
    "files": {
-    "front": "sprites/front/243-alt.png",
-    "front_transparent": "sprites/front/transparent/243-alt.png",
-    "shiny": "sprites/shiny/243-alt.png",
-    "shiny_transparent": "sprites/shiny/transparent/243-alt.png",
-    "animated": "sprites/animated/243-alt.gif",
-    "animated_shiny": "sprites/animated/shiny/243-alt.gif",
-    "frames": "sprites/frames/243-alt.png"
+    "front": "sprites/front/244-tuned.png",
+    "front_transparent": "sprites/front/transparent/244-tuned.png",
+    "shiny": "sprites/shiny/244-tuned.png",
+    "shiny_transparent": "sprites/shiny/transparent/244-tuned.png",
+    "animated": "sprites/animated/244-tuned.gif",
+    "animated_shiny": "sprites/animated/shiny/244-tuned.gif",
+    "frames": "sprites/frames/244-tuned.png"
    }
   }
  ]

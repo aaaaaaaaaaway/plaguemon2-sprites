@@ -1,6 +1,6 @@
 # 001 WEEDAZOR
 
-**DRUGS / MEDICAL** · [← ALT FORM (#243/#244)](243_ALT_FORM.md) · [Pokédex](../pokedex.md) · [002 COCAZOR →](002_COCAZOR.md)
+**DRUGS / MEDICAL** · [← 244 VITATEC (tuned)](244_VITATEC_TUNED.md) · [Pokédex](../pokedex.md) · [002 COCAZOR →](002_COCAZOR.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_front3.png" alt="001 WEEDAZOR front"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_shiny3.png" alt="001 WEEDAZOR shiny"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_anim.gif" alt="001 WEEDAZOR animation"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_anim_shiny.gif" alt="001 WEEDAZOR shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # PARATYPE Z
 
-**NEURAL** · [← PARATYPE Y](201_PARATYPE_Y.md) · [Pokédex](../pokedex.md) · [ALT FORM (#243/#244) →](243_ALT_FORM.md)
+**NEURAL** · [← PARATYPE Y](201_PARATYPE_Y.md) · [Pokédex](../pokedex.md) · [244 VITATEC (tuned) →](244_VITATEC_TUNED.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/201_PARATYPE_Z_front3.png" alt="PARATYPE Z front"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_Z_shiny3.png" alt="PARATYPE Z shiny"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_Z_anim.gif" alt="PARATYPE Z animation"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_Z_anim_shiny.gif" alt="PARATYPE Z shiny animation"></td></tr></table>
 
