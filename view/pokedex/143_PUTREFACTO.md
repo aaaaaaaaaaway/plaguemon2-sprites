@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/32_SNORLAX_icon.png"> <sub>party icon</sub>
+
 <img src="img/143_PUTREFACTO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

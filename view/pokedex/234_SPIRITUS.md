@@ -1,6 +1,6 @@
 # 234 SPIRITUS
 
-[← 230 HERMAPHROD](230_HERMAPHROD.md) · [Pokédex](../pokedex.md) · [237 JUTSUFAITA →](237_JUTSUFAITA.md)
+[← 233 BIBRODO](233_BIBRODO.md) · [Pokédex](../pokedex.md) · [235 SMEARGLE →](235_SMEARGLE.md)
 
 <img src="img/234_SPIRITUS_front.png"> <img src="img/234_SPIRITUS_shiny.png">
 

@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/21_SQUIRTLE_icon.png"> <sub>party icon</sub>
+
 <img src="img/008_SCOLANO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

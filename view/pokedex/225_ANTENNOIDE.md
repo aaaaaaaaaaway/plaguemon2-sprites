@@ -1,6 +1,6 @@
 # 225 ANTENNOIDE
 
-[← 223 ANIFISH](223_ANIFISH.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
+[← 224 OCTILLERY](224_OCTILLERY.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
 
 <img src="img/225_ANTENNOIDE_front.png"> <img src="img/225_ANTENNOIDE_shiny.png">
 

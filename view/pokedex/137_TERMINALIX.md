@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/20_VOLTORB_icon.png"> <sub>party icon</sub>
+
 <img src="img/137_TERMINALIX_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

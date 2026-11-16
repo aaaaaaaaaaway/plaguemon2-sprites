@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/35_GYARADOS_icon.png"> <sub>party icon</sub>
+
 <img src="img/130_HANNYADOS_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/24_CATERPILLAR_icon.png"> <sub>party icon</sub>
+
 <img src="img/048_GNAKGNAK_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

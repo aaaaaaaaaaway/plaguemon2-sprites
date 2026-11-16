@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/36_SLOWPOKE_icon.png"> <sub>party icon</sub>
+
 <img src="img/080_KORNUPIAK_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

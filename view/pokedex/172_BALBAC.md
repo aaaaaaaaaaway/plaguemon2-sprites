@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/04_PIKACHU_icon.png"> <sub>party icon</sub>
+
 <img src="img/172_BALBAC_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

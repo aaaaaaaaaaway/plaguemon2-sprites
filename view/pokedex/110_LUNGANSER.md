@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/18_BLOB_icon.png"> <sub>party icon</sub>
+
 <img src="img/110_LUNGANSER_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

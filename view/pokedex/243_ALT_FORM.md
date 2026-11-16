@@ -1,6 +1,6 @@
 # ALT FORM (#243/#244)
 
-[← PARATYPE PQRSTU](201_PARATYPE_P.md) · [Pokédex](../pokedex.md) · [001 WEEDAZOR →](001_WEEDAZOR.md)
+[← PARATYPE Z](201_PARATYPE_Z.md) · [Pokédex](../pokedex.md) · [001 WEEDAZOR →](001_WEEDAZOR.md)
 
 <img src="img/243_ALT_FORM_front.png"> <img src="img/243_ALT_FORM_shiny.png">
 

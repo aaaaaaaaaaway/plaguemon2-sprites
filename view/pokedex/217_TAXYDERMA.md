@@ -1,6 +1,6 @@
 # 217 TAXYDERMA
 
-[← 216 FLESHPLUSH](216_FLESHPLUSH.md) · [Pokédex](../pokedex.md) · [222 NEURAPSYS →](222_NEURAPSYS.md)
+[← 216 FLESHPLUSH](216_FLESHPLUSH.md) · [Pokédex](../pokedex.md) · [218 SLUGMA →](218_SLUGMA.md)
 
 <img src="img/217_TAXYDERMA_front.png"> <img src="img/217_TAXYDERMA_shiny.png">
 

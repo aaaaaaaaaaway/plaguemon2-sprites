@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/18_BLOB_icon.png"> <sub>party icon</sub>
+
 <img src="img/132_SHITTO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

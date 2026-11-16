@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 1)</sub>
 
+<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
+
 <img src="img/062_SMEGMATIC_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

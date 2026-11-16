@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
+
 <img src="img/061_PROLIFIK_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

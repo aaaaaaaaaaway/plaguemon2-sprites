@@ -2,8 +2,6 @@
 
 Sprite sheets for v0.1.0, laid out like the Pokémon Crystal page on [The Spriters Resource](https://www.spriters-resource.com/game_boy_gbc/pokemoncrystal/).
 
-Graphics unchanged from Pokémon Crystal are left out.
-
 ## Characters
 
 <table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td></tr></table>

@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/26_GEODUDE_icon.png"> <sub>party icon</sub>
+
 <img src="img/076_ATOMIUM_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

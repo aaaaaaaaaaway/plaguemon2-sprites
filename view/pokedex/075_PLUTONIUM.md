@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/26_GEODUDE_icon.png"> <sub>party icon</sub>
+
 <img src="img/075_PLUTONIUM_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

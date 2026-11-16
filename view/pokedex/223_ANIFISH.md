@@ -1,6 +1,6 @@
 # 223 ANIFISH
 
-[← 222 NEURAPSYS](222_NEURAPSYS.md) · [Pokédex](../pokedex.md) · [225 ANTENNOIDE →](225_ANTENNOIDE.md)
+[← 222 NEURAPSYS](222_NEURAPSYS.md) · [Pokédex](../pokedex.md) · [224 OCTILLERY →](224_OCTILLERY.md)
 
 <img src="img/223_ANIFISH_front.png"> <img src="img/223_ANIFISH_shiny.png">
 
@@ -13,6 +13,8 @@
 <img src="img/223_ANIFISH_frames.png">
 
 <sub>animation frames (base + 3)</sub>
+
+<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
 
 <img src="img/223_ANIFISH_palette.png"> <sub>palette: normal · shiny</sub>
 

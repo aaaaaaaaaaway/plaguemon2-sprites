@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
+
 <img src="img/060_SPERMOTZ_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

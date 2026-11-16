@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/27_FIGHTER_icon.png"> <sub>party icon</sub>
+
 <img src="img/067_STERODO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

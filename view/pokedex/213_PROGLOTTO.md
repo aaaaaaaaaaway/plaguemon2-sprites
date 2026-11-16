@@ -10,6 +10,8 @@
 
 <sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
 
+<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
+
 <img src="img/213_PROGLOTTO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

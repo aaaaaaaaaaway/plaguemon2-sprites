@@ -1,6 +1,6 @@
 # 230 HERMAPHROD
 
-[← 229 HOUNDOOM](229_HOUNDOOM.md) · [Pokédex](../pokedex.md) · [234 SPIRITUS →](234_SPIRITUS.md)
+[← 229 HOUNDOOM](229_HOUNDOOM.md) · [Pokédex](../pokedex.md) · [231 PHANPY →](231_PHANPY.md)
 
 <img src="img/230_HERMAPHROD_front.png"> <img src="img/230_HERMAPHROD_shiny.png">
 
@@ -13,6 +13,8 @@
 <img src="img/230_HERMAPHROD_frames.png">
 
 <sub>animation frames (base + 3)</sub>
+
+<img src="img/38_BIGMON_icon.png"> <sub>party icon</sub>
 
 <img src="img/230_HERMAPHROD_palette.png"> <sub>palette: normal · shiny</sub>
 

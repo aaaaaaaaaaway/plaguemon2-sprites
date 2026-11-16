@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/24_CATERPILLAR_icon.png"> <sub>party icon</sub>
+
 <img src="img/013_WERMIX_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
+
 <img src="img/211_NAVALMINO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

@@ -9,8 +9,8 @@
   "view_zoom": 4,
   "view_parts": 2,
   "w": 648,
-  "h": 406,
-  "kb": 58
+  "h": 634,
+  "kb": 82
  },
  {
   "section": "Characters",
@@ -20,10 +20,10 @@
   "thumb": "thumbs/characters/characters-overworld.png",
   "page": "view/characters/characters-overworld.md",
   "view_zoom": 4,
-  "view_parts": 1,
-  "w": 876,
-  "h": 138,
-  "kb": 16
+  "view_parts": 2,
+  "w": 900,
+  "h": 386,
+  "kb": 46
  },
  {
   "section": "Pokémon",
@@ -36,7 +36,7 @@
   "view_parts": 14,
   "w": 1436,
   "h": 3562,
-  "kb": 753
+  "kb": 771
  },
  {
   "section": "Pokémon",
@@ -48,8 +48,8 @@
   "view_zoom": 1,
   "view_parts": 3,
   "w": 3176,
-  "h": 2066,
-  "kb": 499
+  "h": 2338,
+  "kb": 558
  },
  {
   "section": "Pokémon",
@@ -62,7 +62,7 @@
   "view_parts": 1,
   "w": 836,
   "h": 206,
-  "kb": 10
+  "kb": 13
  },
  {
   "section": "Backgrounds (Routes)",

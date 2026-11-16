@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/31_BAT_icon.png"> <sub>party icon</sub>
+
 <img src="img/042_VAMPESSA_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

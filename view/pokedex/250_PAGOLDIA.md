@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/33_HO_OH_icon.png"> <sub>party icon</sub>
+
 <img src="img/250_PAGOLDIA_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

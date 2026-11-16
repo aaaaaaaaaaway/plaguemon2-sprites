@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/37_SUDOWOODO_icon.png"> <sub>party icon</sub>
+
 <img src="img/185_AOKIGAKA_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

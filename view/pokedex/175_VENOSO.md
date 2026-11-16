@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/09_CLEFAIRY_icon.png"> <sub>party icon</sub>
+
 <img src="img/175_VENOSO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

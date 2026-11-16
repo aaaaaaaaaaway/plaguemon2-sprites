@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/03_DIGLETT_icon.png"> <sub>party icon</sub>
+
 <img src="img/050_KAZETTO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

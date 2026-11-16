@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/20_VOLTORB_icon.png"> <sub>party icon</sub>
+
 <img src="img/081_GHOSHELLO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

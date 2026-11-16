@@ -1,6 +1,6 @@
 # PARATYPE PQRSTU
 
-[← PARATYPE JKLMNO](201_PARATYPE_J.md) · [Pokédex](../pokedex.md) · [ALT FORM (#243/#244) →](243_ALT_FORM.md)
+[← PARATYPE JKLMNO](201_PARATYPE_J.md) · [Pokédex](../pokedex.md) · [PARATYPE V →](201_PARATYPE_V.md)
 
 <img src="img/201_PARATYPE_P_front.png"> <img src="img/201_PARATYPE_P_shiny.png">
 

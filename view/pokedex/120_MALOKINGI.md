@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/05_STARYU_icon.png"> <sub>party icon</sub>
+
 <img src="img/120_MALOKINGI_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

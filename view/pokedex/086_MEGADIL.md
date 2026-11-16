@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/13_LAPRAS_icon.png"> <sub>party icon</sub>
+
 <img src="img/086_MEGADIL_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

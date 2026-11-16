@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
+
 <img src="img/170_RELICTOU_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

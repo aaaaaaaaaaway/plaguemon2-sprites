@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/14_HUMANSHAPE_icon.png"> <sub>party icon</sub>
+
 <img src="img/096_DUPUPETT_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

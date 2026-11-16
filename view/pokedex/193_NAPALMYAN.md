@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
+
 <img src="img/193_NAPALMYAN_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

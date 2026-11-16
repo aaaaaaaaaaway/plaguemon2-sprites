@@ -1,6 +1,6 @@
 # 237 JUTSUFAITA
 
-[← 234 SPIRITUS](234_SPIRITUS.md) · [Pokédex](../pokedex.md) · [238 LOLIPLEX →](238_LOLIPLEX.md)
+[← 236 SKOONITSO](236_SKOONITSO.md) · [Pokédex](../pokedex.md) · [238 LOLIPLEX →](238_LOLIPLEX.md)
 
 <img src="img/237_JUTSUFAITA_front.png"> <img src="img/237_JUTSUFAITA_shiny.png">
 
@@ -13,6 +13,8 @@
 <img src="img/237_JUTSUFAITA_frames.png">
 
 <sub>animation frames (base + 3)</sub>
+
+<img src="img/27_FIGHTER_icon.png"> <sub>party icon</sub>
 
 <img src="img/237_JUTSUFAITA_palette.png"> <sub>palette: normal · shiny</sub>
 

@@ -1,6 +1,6 @@
 # 222 NEURAPSYS
 
-[← 217 TAXYDERMA](217_TAXYDERMA.md) · [Pokédex](../pokedex.md) · [223 ANIFISH →](223_ANIFISH.md)
+[← 221 PILOSWINE](221_PILOSWINE.md) · [Pokédex](../pokedex.md) · [223 ANIFISH →](223_ANIFISH.md)
 
 <img src="img/222_NEURAPSYS_front.png"> <img src="img/222_NEURAPSYS_shiny.png">
 

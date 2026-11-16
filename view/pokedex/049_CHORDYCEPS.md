@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 2)</sub>
 
+<img src="img/30_MOTH_icon.png"> <sub>party icon</sub>
+
 <img src="img/049_CHORDYCEPS_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

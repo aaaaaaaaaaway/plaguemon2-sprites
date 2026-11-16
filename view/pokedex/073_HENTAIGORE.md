@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/29_JELLYFISH_icon.png"> <sub>party icon</sub>
+
 <img src="img/073_HENTAIGORE_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

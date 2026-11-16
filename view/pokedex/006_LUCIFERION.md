@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/38_BIGMON_icon.png"> <sub>party icon</sub>
+
 <img src="img/006_LUCIFERION_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |

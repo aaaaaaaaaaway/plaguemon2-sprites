@@ -14,6 +14,8 @@
 
 <sub>animation frames (base + 3)</sub>
 
+<img src="img/19_SERPENT_icon.png"> <sub>party icon</sub>
+
 <img src="img/206_DUOFUNTO_palette.png"> <sub>palette: normal · shiny</sub>
 
 | | |
