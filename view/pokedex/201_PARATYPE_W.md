@@ -10,4 +10,4 @@
 
 <img src="img/201_PARATYPE_W_frames.png" alt="PARATYPE W animation frames">
 
-<sub>Letters W share this sprite; stats are the Paratype species (#201).</sub>
+<sub>Letter W uses this sprite; stats are the Paratype species (#201).</sub>

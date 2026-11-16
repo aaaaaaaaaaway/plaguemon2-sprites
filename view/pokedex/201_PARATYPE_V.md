@@ -10,4 +10,4 @@
 
 <img src="img/201_PARATYPE_V_frames.png" alt="PARATYPE V animation frames">
 
-<sub>Letters V share this sprite; stats are the Paratype species (#201).</sub>
+<sub>Letter V uses this sprite; stats are the Paratype species (#201).</sub>

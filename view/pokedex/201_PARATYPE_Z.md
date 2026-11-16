@@ -10,4 +10,4 @@
 
 <img src="img/201_PARATYPE_Z_frames.png" alt="PARATYPE Z animation frames">
 
-<sub>Letters Z share this sprite; stats are the Paratype species (#201).</sub>
+<sub>Letter Z uses this sprite; stats are the Paratype species (#201).</sub>

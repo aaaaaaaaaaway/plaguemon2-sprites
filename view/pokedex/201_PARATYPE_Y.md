@@ -10,4 +10,4 @@
 
 <img src="img/201_PARATYPE_Y_frames.png" alt="PARATYPE Y animation frames">
 
-<sub>Letters Y share this sprite; stats are the Paratype species (#201).</sub>
+<sub>Letter Y uses this sprite; stats are the Paratype species (#201).</sub>

@@ -10,4 +10,4 @@
 
 <img src="img/201_PARATYPE_X_frames.png" alt="PARATYPE X animation frames">
 
-<sub>Letters X share this sprite; stats are the Paratype species (#201).</sub>
+<sub>Letter X uses this sprite; stats are the Paratype species (#201).</sub>
