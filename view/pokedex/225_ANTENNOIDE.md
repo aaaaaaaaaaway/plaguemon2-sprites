@@ -2,9 +2,13 @@
 
 [← 223 ANIFISH](223_ANIFISH.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
 
-<img src="img/225_ANTENNOIDE_front.png"> <img src="img/225_ANTENNOIDE_shiny.png"> <img src="../../pokemon/animated/225_ANTENNOIDE.gif">
+<img src="img/225_ANTENNOIDE_front.png"> <img src="img/225_ANTENNOIDE_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/225_ANTENNOIDE.gif"> <img src="../../pokemon/animated/shiny/225_ANTENNOIDE.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/225_ANTENNOIDE_frames.png">
 

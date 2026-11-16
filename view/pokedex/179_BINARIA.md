@@ -2,9 +2,13 @@
 
 [← 178 QUELZALCOT](178_QUELZALCOT.md) · [Pokédex](../pokedex.md) · [180 ALGOCRAT →](180_ALGOCRAT.md)
 
-<img src="img/179_BINARIA_front.png"> <img src="img/179_BINARIA_shiny.png"> <img src="../../pokemon/animated/179_BINARIA.gif">
+<img src="img/179_BINARIA_front.png"> <img src="img/179_BINARIA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/179_BINARIA.gif"> <img src="../../pokemon/animated/shiny/179_BINARIA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/179_BINARIA_frames.png">
 

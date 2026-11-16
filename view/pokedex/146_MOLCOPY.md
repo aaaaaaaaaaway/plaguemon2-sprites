@@ -2,9 +2,13 @@
 
 [← 145 ZAPGOLD](145_ZAPGOLD.md) · [Pokédex](../pokedex.md) · [147 CHERUBIUM →](147_CHERUBIUM.md)
 
-<img src="img/146_MOLCOPY_front.png"> <img src="img/146_MOLCOPY_shiny.png"> <img src="../../pokemon/animated/146_MOLCOPY.gif">
+<img src="img/146_MOLCOPY_front.png"> <img src="img/146_MOLCOPY_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/146_MOLCOPY.gif"> <img src="../../pokemon/animated/shiny/146_MOLCOPY.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/146_MOLCOPY_frames.png">
 

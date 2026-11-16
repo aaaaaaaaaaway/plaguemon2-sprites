@@ -2,9 +2,13 @@
 
 [← 143 PUTREFACTO](143_PUTREFACTO.md) · [Pokédex](../pokedex.md) · [145 ZAPGOLD →](145_ZAPGOLD.md)
 
-<img src="img/144_ARTICLONE_front.png"> <img src="img/144_ARTICLONE_shiny.png"> <img src="../../pokemon/animated/144_ARTICLONE.gif">
+<img src="img/144_ARTICLONE_front.png"> <img src="img/144_ARTICLONE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/144_ARTICLONE.gif"> <img src="../../pokemon/animated/shiny/144_ARTICLONE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/144_ARTICLONE_frames.png">
 

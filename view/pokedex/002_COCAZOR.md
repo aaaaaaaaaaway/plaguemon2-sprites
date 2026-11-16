@@ -2,9 +2,13 @@
 
 [← 001 WEEDAZOR](001_WEEDAZOR.md) · [Pokédex](../pokedex.md) · [003 OPIUMZOR →](003_OPIUMZOR.md)
 
-<img src="img/002_COCAZOR_front.png"> <img src="img/002_COCAZOR_shiny.png"> <img src="../../pokemon/animated/002_COCAZOR.gif">
+<img src="img/002_COCAZOR_front.png"> <img src="img/002_COCAZOR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/002_COCAZOR.gif"> <img src="../../pokemon/animated/shiny/002_COCAZOR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/002_COCAZOR_frames.png">
 

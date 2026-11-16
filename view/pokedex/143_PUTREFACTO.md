@@ -2,9 +2,13 @@
 
 [← 142 PTEROXIS](142_PTEROXIS.md) · [Pokédex](../pokedex.md) · [144 ARTICLONE →](144_ARTICLONE.md)
 
-<img src="img/143_PUTREFACTO_front.png"> <img src="img/143_PUTREFACTO_shiny.png"> <img src="../../pokemon/animated/143_PUTREFACTO.gif">
+<img src="img/143_PUTREFACTO_front.png"> <img src="img/143_PUTREFACTO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/143_PUTREFACTO.gif"> <img src="../../pokemon/animated/shiny/143_PUTREFACTO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/143_PUTREFACTO_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 013 WERMIX](013_WERMIX.md) · [Pokédex](../pokedex.md) · [015 CAMOGATL →](015_CAMOGATL.md)
 
-<img src="img/014_KAKUZI_front.png"> <img src="img/014_KAKUZI_shiny.png"> <img src="../../pokemon/animated/014_KAKUZI.gif">
+<img src="img/014_KAKUZI_front.png"> <img src="img/014_KAKUZI_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/014_KAKUZI.gif"> <img src="../../pokemon/animated/shiny/014_KAKUZI.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/014_KAKUZI_frames.png">
 

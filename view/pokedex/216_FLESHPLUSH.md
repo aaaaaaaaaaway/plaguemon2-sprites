@@ -2,9 +2,13 @@
 
 [← 215 KUNOIGA](215_KUNOIGA.md) · [Pokédex](../pokedex.md) · [217 TAXYDERMA →](217_TAXYDERMA.md)
 
-<img src="img/216_FLESHPLUSH_front.png"> <img src="img/216_FLESHPLUSH_shiny.png"> <img src="../../pokemon/animated/216_FLESHPLUSH.gif">
+<img src="img/216_FLESHPLUSH_front.png"> <img src="img/216_FLESHPLUSH_shiny.png">
 
-<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/216_FLESHPLUSH.gif"> <img src="../../pokemon/animated/shiny/216_FLESHPLUSH.gif">
+
+<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
 

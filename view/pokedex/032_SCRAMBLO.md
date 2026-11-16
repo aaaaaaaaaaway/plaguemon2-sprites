@@ -2,9 +2,13 @@
 
 [← 031 KALEDENDS](031_KALEDENDS.md) · [Pokédex](../pokedex.md) · [033 GRABOIDO →](033_GRABOIDO.md)
 
-<img src="img/032_SCRAMBLO_front.png"> <img src="img/032_SCRAMBLO_shiny.png"> <img src="../../pokemon/animated/032_SCRAMBLO.gif">
+<img src="img/032_SCRAMBLO_front.png"> <img src="img/032_SCRAMBLO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/032_SCRAMBLO.gif"> <img src="../../pokemon/animated/shiny/032_SCRAMBLO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/032_SCRAMBLO_frames.png">
 

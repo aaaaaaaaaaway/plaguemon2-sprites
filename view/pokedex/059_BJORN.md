@@ -2,9 +2,13 @@
 
 [← 058 SCRATCHY](058_SCRATCHY.md) · [Pokédex](../pokedex.md) · [060 SPERMOTZ →](060_SPERMOTZ.md)
 
-<img src="img/059_BJORN_front.png"> <img src="img/059_BJORN_shiny.png"> <img src="../../pokemon/animated/059_BJORN.gif">
+<img src="img/059_BJORN_front.png"> <img src="img/059_BJORN_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/059_BJORN.gif"> <img src="../../pokemon/animated/shiny/059_BJORN.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/059_BJORN_frames.png">
 

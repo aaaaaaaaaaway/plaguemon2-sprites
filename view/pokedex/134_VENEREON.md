@@ -2,9 +2,13 @@
 
 [← 133 DEADDOG](133_DEADDOG.md) · [Pokédex](../pokedex.md) · [135 NUKENION →](135_NUKENION.md)
 
-<img src="img/134_VENEREON_front.png"> <img src="img/134_VENEREON_shiny.png"> <img src="../../pokemon/animated/134_VENEREON.gif">
+<img src="img/134_VENEREON_front.png"> <img src="img/134_VENEREON_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/134_VENEREON.gif"> <img src="../../pokemon/animated/shiny/134_VENEREON.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/134_VENEREON_frames.png">
 

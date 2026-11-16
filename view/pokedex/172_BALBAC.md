@@ -2,9 +2,13 @@
 
 [← 171 SOVIETO](171_SOVIETO.md) · [Pokédex](../pokedex.md) · [173 VOIDILIA →](173_VOIDILIA.md)
 
-<img src="img/172_BALBAC_front.png"> <img src="img/172_BALBAC_shiny.png"> <img src="../../pokemon/animated/172_BALBAC.gif">
+<img src="img/172_BALBAC_front.png"> <img src="img/172_BALBAC_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/172_BALBAC.gif"> <img src="../../pokemon/animated/shiny/172_BALBAC.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/172_BALBAC_frames.png">
 

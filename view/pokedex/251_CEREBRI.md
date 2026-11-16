@@ -2,9 +2,13 @@
 
 [← 250 PAGOLDIA](250_PAGOLDIA.md) · [Pokédex](../pokedex.md) · [PARATYPE ABC →](201_PARATYPE_A.md)
 
-<img src="img/251_CEREBRI_front.png"> <img src="img/251_CEREBRI_shiny.png"> <img src="../../pokemon/animated/251_CEREBRI.gif">
+<img src="img/251_CEREBRI_front.png"> <img src="img/251_CEREBRI_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/251_CEREBRI.gif"> <img src="../../pokemon/animated/shiny/251_CEREBRI.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/251_CEREBRI_frames.png">
 

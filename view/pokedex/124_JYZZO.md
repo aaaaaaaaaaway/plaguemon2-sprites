@@ -2,9 +2,13 @@
 
 [← 123 HANZORU](123_HANZORU.md) · [Pokédex](../pokedex.md) · [125 VOLCUTION →](125_VOLCUTION.md)
 
-<img src="img/124_JYZZO_front.png"> <img src="img/124_JYZZO_shiny.png"> <img src="../../pokemon/animated/124_JYZZO.gif">
+<img src="img/124_JYZZO_front.png"> <img src="img/124_JYZZO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/124_JYZZO.gif"> <img src="../../pokemon/animated/shiny/124_JYZZO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/124_JYZZO_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 193 NAPALMYAN](193_NAPALMYAN.md) · [Pokédex](../pokedex.md) · [195 ASPHYXIAR →](195_ASPHYXIAR.md)
 
-<img src="img/194_KOTZWAR_front.png"> <img src="img/194_KOTZWAR_shiny.png"> <img src="../../pokemon/animated/194_KOTZWAR.gif">
+<img src="img/194_KOTZWAR_front.png"> <img src="img/194_KOTZWAR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/194_KOTZWAR.gif"> <img src="../../pokemon/animated/shiny/194_KOTZWAR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/194_KOTZWAR_frames.png">
 

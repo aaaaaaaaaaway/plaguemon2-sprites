@@ -2,9 +2,13 @@
 
 [← 063 GENESUS](063_GENESUS.md) · [Pokédex](../pokedex.md) · [065 MARTIRUS →](065_MARTIRUS.md)
 
-<img src="img/064_PROFETUS_front.png"> <img src="img/064_PROFETUS_shiny.png"> <img src="../../pokemon/animated/064_PROFETUS.gif">
+<img src="img/064_PROFETUS_front.png"> <img src="img/064_PROFETUS_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/064_PROFETUS.gif"> <img src="../../pokemon/animated/shiny/064_PROFETUS.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/064_PROFETUS_frames.png">
 

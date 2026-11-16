@@ -2,9 +2,13 @@
 
 [← 156 CRUXADO](156_CRUXADO.md) · [Pokédex](../pokedex.md) · [158 BONDILE →](158_BONDILE.md)
 
-<img src="img/157_INFERNATUS_front.png"> <img src="img/157_INFERNATUS_shiny.png"> <img src="../../pokemon/animated/157_INFERNATUS.gif">
+<img src="img/157_INFERNATUS_front.png"> <img src="img/157_INFERNATUS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/157_INFERNATUS.gif"> <img src="../../pokemon/animated/shiny/157_INFERNATUS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/157_INFERNATUS_frames.png">
 

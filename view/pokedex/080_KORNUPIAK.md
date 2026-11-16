@@ -2,9 +2,13 @@
 
 [← 079 SLOWGHOST](079_SLOWGHOST.md) · [Pokédex](../pokedex.md) · [081 GHOSHELLO →](081_GHOSHELLO.md)
 
-<img src="img/080_KORNUPIAK_front.png"> <img src="img/080_KORNUPIAK_shiny.png"> <img src="../../pokemon/animated/080_KORNUPIAK.gif">
+<img src="img/080_KORNUPIAK_front.png"> <img src="img/080_KORNUPIAK_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/080_KORNUPIAK.gif"> <img src="../../pokemon/animated/shiny/080_KORNUPIAK.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/080_KORNUPIAK_frames.png">
 

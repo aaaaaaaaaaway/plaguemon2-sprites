@@ -2,9 +2,13 @@
 
 [← 185 AOKIGAKA](185_AOKIGAKA.md) · [Pokédex](../pokedex.md) · [187 ABORTITO →](187_ABORTITO.md)
 
-<img src="img/186_FETUSO_front.png"> <img src="img/186_FETUSO_shiny.png"> <img src="../../pokemon/animated/186_FETUSO.gif">
+<img src="img/186_FETUSO_front.png"> <img src="img/186_FETUSO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/186_FETUSO.gif"> <img src="../../pokemon/animated/shiny/186_FETUSO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/186_FETUSO_frames.png">
 

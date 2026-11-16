@@ -2,9 +2,13 @@
 
 [← 151 TWOMEW](151_TWOMEW.md) · [Pokédex](../pokedex.md) · [153 DIVINORUM →](153_DIVINORUM.md)
 
-<img src="img/152_STRAMONIUM_front.png"> <img src="img/152_STRAMONIUM_shiny.png"> <img src="../../pokemon/animated/152_STRAMONIUM.gif">
+<img src="img/152_STRAMONIUM_front.png"> <img src="img/152_STRAMONIUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/152_STRAMONIUM.gif"> <img src="../../pokemon/animated/shiny/152_STRAMONIUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/152_STRAMONIUM_frames.png">
 

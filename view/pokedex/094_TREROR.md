@@ -2,9 +2,13 @@
 
 [← 093 WRAITARL](093_WRAITARL.md) · [Pokédex](../pokedex.md) · [095 OBSIDIAN →](095_OBSIDIAN.md)
 
-<img src="img/094_TREROR_front.png"> <img src="img/094_TREROR_shiny.png"> <img src="../../pokemon/animated/094_TREROR.gif">
+<img src="img/094_TREROR_front.png"> <img src="img/094_TREROR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/094_TREROR.gif"> <img src="../../pokemon/animated/shiny/094_TREROR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/094_TREROR_frames.png">
 

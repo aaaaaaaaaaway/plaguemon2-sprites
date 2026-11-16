@@ -2,9 +2,13 @@
 
 [← 010 GUNBAG](010_GUNBAG.md) · [Pokédex](../pokedex.md) · [012 MONASIGHT →](012_MONASIGHT.md)
 
-<img src="img/011_MUTAPUD_front.png"> <img src="img/011_MUTAPUD_shiny.png"> <img src="../../pokemon/animated/011_MUTAPUD.gif">
+<img src="img/011_MUTAPUD_front.png"> <img src="img/011_MUTAPUD_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/011_MUTAPUD.gif"> <img src="../../pokemon/animated/shiny/011_MUTAPUD.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/011_MUTAPUD_frames.png">
 

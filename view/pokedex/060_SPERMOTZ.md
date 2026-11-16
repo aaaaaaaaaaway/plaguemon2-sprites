@@ -2,9 +2,13 @@
 
 [← 059 BJORN](059_BJORN.md) · [Pokédex](../pokedex.md) · [061 PROLIFIK →](061_PROLIFIK.md)
 
-<img src="img/060_SPERMOTZ_front.png"> <img src="img/060_SPERMOTZ_shiny.png"> <img src="../../pokemon/animated/060_SPERMOTZ.gif">
+<img src="img/060_SPERMOTZ_front.png"> <img src="img/060_SPERMOTZ_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/060_SPERMOTZ.gif"> <img src="../../pokemon/animated/shiny/060_SPERMOTZ.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/060_SPERMOTZ_frames.png">
 

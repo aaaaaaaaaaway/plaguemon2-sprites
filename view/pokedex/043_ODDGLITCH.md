@@ -2,9 +2,13 @@
 
 [← 042 VAMPESSA](042_VAMPESSA.md) · [Pokédex](../pokedex.md) · [044 INFECTO →](044_INFECTO.md)
 
-<img src="img/043_ODDGLITCH_front.png"> <img src="img/043_ODDGLITCH_shiny.png"> <img src="../../pokemon/animated/043_ODDGLITCH.gif">
+<img src="img/043_ODDGLITCH_front.png"> <img src="img/043_ODDGLITCH_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/043_ODDGLITCH.gif"> <img src="../../pokemon/animated/shiny/043_ODDGLITCH.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/043_ODDGLITCH_frames.png">
 

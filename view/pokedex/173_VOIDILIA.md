@@ -2,9 +2,13 @@
 
 [← 172 BALBAC](172_BALBAC.md) · [Pokédex](../pokedex.md) · [174 RETINOL →](174_RETINOL.md)
 
-<img src="img/173_VOIDILIA_front.png"> <img src="img/173_VOIDILIA_shiny.png"> <img src="../../pokemon/animated/173_VOIDILIA.gif">
+<img src="img/173_VOIDILIA_front.png"> <img src="img/173_VOIDILIA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/173_VOIDILIA.gif"> <img src="../../pokemon/animated/shiny/173_VOIDILIA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/173_VOIDILIA_frames.png">
 

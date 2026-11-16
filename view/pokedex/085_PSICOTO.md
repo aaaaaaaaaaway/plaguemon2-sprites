@@ -2,9 +2,13 @@
 
 [← 084 BIPOLARIO](084_BIPOLARIO.md) · [Pokédex](../pokedex.md) · [086 MEGADIL →](086_MEGADIL.md)
 
-<img src="img/085_PSICOTO_front.png"> <img src="img/085_PSICOTO_shiny.png"> <img src="../../pokemon/animated/085_PSICOTO.gif">
+<img src="img/085_PSICOTO_front.png"> <img src="img/085_PSICOTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/085_PSICOTO.gif"> <img src="../../pokemon/animated/shiny/085_PSICOTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/085_PSICOTO_frames.png">
 

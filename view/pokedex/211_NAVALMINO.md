@@ -2,9 +2,13 @@
 
 [← 210 GALAXIAN](210_GALAXIAN.md) · [Pokédex](../pokedex.md) · [212 CYNOBI →](212_CYNOBI.md)
 
-<img src="img/211_NAVALMINO_front.png"> <img src="img/211_NAVALMINO_shiny.png"> <img src="../../pokemon/animated/211_NAVALMINO.gif">
+<img src="img/211_NAVALMINO_front.png"> <img src="img/211_NAVALMINO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/211_NAVALMINO.gif"> <img src="../../pokemon/animated/shiny/211_NAVALMINO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/211_NAVALMINO_frames.png">
 

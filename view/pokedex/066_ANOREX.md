@@ -2,9 +2,13 @@
 
 [← 065 MARTIRUS](065_MARTIRUS.md) · [Pokédex](../pokedex.md) · [067 STERODO →](067_STERODO.md)
 
-<img src="img/066_ANOREX_front.png"> <img src="img/066_ANOREX_shiny.png"> <img src="../../pokemon/animated/066_ANOREX.gif">
+<img src="img/066_ANOREX_front.png"> <img src="img/066_ANOREX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/066_ANOREX.gif"> <img src="../../pokemon/animated/shiny/066_ANOREX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/066_ANOREX_frames.png">
 

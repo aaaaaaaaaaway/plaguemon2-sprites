@@ -2,9 +2,13 @@
 
 [← 189 ITTIOSO](189_ITTIOSO.md) · [Pokédex](../pokedex.md) · [191 GRUMO →](191_GRUMO.md)
 
-<img src="img/190_MOLESTO_front.png"> <img src="img/190_MOLESTO_shiny.png"> <img src="../../pokemon/animated/190_MOLESTO.gif">
+<img src="img/190_MOLESTO_front.png"> <img src="img/190_MOLESTO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/190_MOLESTO.gif"> <img src="../../pokemon/animated/shiny/190_MOLESTO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/190_MOLESTO_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 134 VENEREON](134_VENEREON.md) · [Pokédex](../pokedex.md) · [136 CERBERION →](136_CERBERION.md)
 
-<img src="img/135_NUKENION_front.png"> <img src="img/135_NUKENION_shiny.png"> <img src="../../pokemon/animated/135_NUKENION.gif">
+<img src="img/135_NUKENION_front.png"> <img src="img/135_NUKENION_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/135_NUKENION.gif"> <img src="../../pokemon/animated/shiny/135_NUKENION.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/135_NUKENION_frames.png">
 

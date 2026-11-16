@@ -2,9 +2,13 @@
 
 [← 129 ROKUJOSHI](129_ROKUJOSHI.md) · [Pokédex](../pokedex.md) · [131 KARONTIS →](131_KARONTIS.md)
 
-<img src="img/130_HANNYADOS_front.png"> <img src="img/130_HANNYADOS_shiny.png"> <img src="../../pokemon/animated/130_HANNYADOS.gif">
+<img src="img/130_HANNYADOS_front.png"> <img src="img/130_HANNYADOS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/130_HANNYADOS.gif"> <img src="../../pokemon/animated/shiny/130_HANNYADOS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/130_HANNYADOS_frames.png">
 

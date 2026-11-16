@@ -2,9 +2,13 @@
 
 [← 248 MELANOTAR](248_MELANOTAR.md) · [Pokédex](../pokedex.md) · [250 PAGOLDIA →](250_PAGOLDIA.md)
 
-<img src="img/249_DEMEMENTIA_front.png"> <img src="img/249_DEMEMENTIA_shiny.png"> <img src="../../pokemon/animated/249_DEMEMENTIA.gif">
+<img src="img/249_DEMEMENTIA_front.png"> <img src="img/249_DEMEMENTIA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/249_DEMEMENTIA.gif"> <img src="../../pokemon/animated/shiny/249_DEMEMENTIA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/249_DEMEMENTIA_frames.png">
 

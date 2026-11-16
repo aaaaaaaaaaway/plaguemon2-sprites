@@ -2,9 +2,13 @@
 
 [← ALT FORM (#243/#244)](243_ALT_FORM.md) · [Pokédex](../pokedex.md) · [002 COCAZOR →](002_COCAZOR.md)
 
-<img src="img/001_WEEDAZOR_front.png"> <img src="img/001_WEEDAZOR_shiny.png"> <img src="../../pokemon/animated/001_WEEDAZOR.gif">
+<img src="img/001_WEEDAZOR_front.png"> <img src="img/001_WEEDAZOR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/001_WEEDAZOR.gif"> <img src="../../pokemon/animated/shiny/001_WEEDAZOR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/001_WEEDAZOR_frames.png">
 

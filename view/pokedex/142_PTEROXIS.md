@@ -2,9 +2,13 @@
 
 [← 141 ZILOSNAK](141_ZILOSNAK.md) · [Pokédex](../pokedex.md) · [143 PUTREFACTO →](143_PUTREFACTO.md)
 
-<img src="img/142_PTEROXIS_front.png"> <img src="img/142_PTEROXIS_shiny.png"> <img src="../../pokemon/animated/142_PTEROXIS.gif">
+<img src="img/142_PTEROXIS_front.png"> <img src="img/142_PTEROXIS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/142_PTEROXIS.gif"> <img src="../../pokemon/animated/shiny/142_PTEROXIS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/142_PTEROXIS_frames.png">
 

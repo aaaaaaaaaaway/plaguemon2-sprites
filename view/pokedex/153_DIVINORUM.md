@@ -2,9 +2,13 @@
 
 [← 152 STRAMONIUM](152_STRAMONIUM.md) · [Pokédex](../pokedex.md) · [154 AYAHUASCO →](154_AYAHUASCO.md)
 
-<img src="img/153_DIVINORUM_front.png"> <img src="img/153_DIVINORUM_shiny.png"> <img src="../../pokemon/animated/153_DIVINORUM.gif">
+<img src="img/153_DIVINORUM_front.png"> <img src="img/153_DIVINORUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/153_DIVINORUM.gif"> <img src="../../pokemon/animated/shiny/153_DIVINORUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/153_DIVINORUM_frames.png">
 

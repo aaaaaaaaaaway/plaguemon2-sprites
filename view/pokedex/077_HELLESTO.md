@@ -2,9 +2,13 @@
 
 [← 076 ATOMIUM](076_ATOMIUM.md) · [Pokédex](../pokedex.md) · [078 FAXHIRO →](078_FAXHIRO.md)
 
-<img src="img/077_HELLESTO_front.png"> <img src="img/077_HELLESTO_shiny.png"> <img src="../../pokemon/animated/077_HELLESTO.gif">
+<img src="img/077_HELLESTO_front.png"> <img src="img/077_HELLESTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/077_HELLESTO.gif"> <img src="../../pokemon/animated/shiny/077_HELLESTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/077_HELLESTO_frames.png">
 

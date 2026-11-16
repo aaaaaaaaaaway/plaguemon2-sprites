@@ -2,9 +2,13 @@
 
 [← 051 GANGBANGO](051_GANGBANGO.md) · [Pokédex](../pokedex.md) · [053 TENKA →](053_TENKA.md)
 
-<img src="img/052_NIGGA_front.png"> <img src="img/052_NIGGA_shiny.png"> <img src="../../pokemon/animated/052_NIGGA.gif">
+<img src="img/052_NIGGA_front.png"> <img src="img/052_NIGGA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/052_NIGGA.gif"> <img src="../../pokemon/animated/shiny/052_NIGGA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/052_NIGGA_frames.png">
 

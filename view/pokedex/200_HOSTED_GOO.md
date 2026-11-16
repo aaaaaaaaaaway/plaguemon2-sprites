@@ -2,9 +2,13 @@
 
 [← 199 DEPRECLOWN](199_DEPRECLOWN.md) · [Pokédex](../pokedex.md) · [202 CONDOMAX →](202_CONDOMAX.md)
 
-<img src="img/200_HOSTED_GOO_front.png"> <img src="img/200_HOSTED_GOO_shiny.png"> <img src="../../pokemon/animated/200_HOSTED_GOO.gif">
+<img src="img/200_HOSTED_GOO_front.png"> <img src="img/200_HOSTED_GOO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/200_HOSTED_GOO.gif"> <img src="../../pokemon/animated/shiny/200_HOSTED_GOO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/200_HOSTED_GOO_frames.png">
 

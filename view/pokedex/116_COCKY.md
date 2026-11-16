@@ -2,9 +2,13 @@
 
 [← 115 HELLTECH](115_HELLTECH.md) · [Pokédex](../pokedex.md) · [117 SCROTRA →](117_SCROTRA.md)
 
-<img src="img/116_COCKY_front.png"> <img src="img/116_COCKY_shiny.png"> <img src="../../pokemon/animated/116_COCKY.gif">
+<img src="img/116_COCKY_front.png"> <img src="img/116_COCKY_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/116_COCKY.gif"> <img src="../../pokemon/animated/shiny/116_COCKY.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/116_COCKY_frames.png">
 

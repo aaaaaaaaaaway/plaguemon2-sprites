@@ -2,9 +2,13 @@
 
 [← 187 ABORTITO](187_ABORTITO.md) · [Pokédex](../pokedex.md) · [189 ITTIOSO →](189_ITTIOSO.md)
 
-<img src="img/188_INCUBATO_front.png"> <img src="img/188_INCUBATO_shiny.png"> <img src="../../pokemon/animated/188_INCUBATO.gif">
+<img src="img/188_INCUBATO_front.png"> <img src="img/188_INCUBATO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/188_INCUBATO.gif"> <img src="../../pokemon/animated/shiny/188_INCUBATO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/188_INCUBATO_frames.png">
 

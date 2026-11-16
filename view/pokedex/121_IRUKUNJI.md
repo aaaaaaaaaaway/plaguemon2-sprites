@@ -2,9 +2,13 @@
 
 [← 120 MALOKINGI](120_MALOKINGI.md) · [Pokédex](../pokedex.md) · [122 MR.SHADOW →](122_MR_SHADOW.md)
 
-<img src="img/121_IRUKUNJI_front.png"> <img src="img/121_IRUKUNJI_shiny.png"> <img src="../../pokemon/animated/121_IRUKUNJI.gif">
+<img src="img/121_IRUKUNJI_front.png"> <img src="img/121_IRUKUNJI_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/121_IRUKUNJI.gif"> <img src="../../pokemon/animated/shiny/121_IRUKUNJI.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/121_IRUKUNJI_frames.png">
 

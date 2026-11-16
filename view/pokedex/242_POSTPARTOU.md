@@ -2,9 +2,13 @@
 
 [← 241 INTENSIVO](241_INTENSIVO.md) · [Pokédex](../pokedex.md) · [243 ROTARAX →](243_ROTARAX.md)
 
-<img src="img/242_POSTPARTOU_front.png"> <img src="img/242_POSTPARTOU_shiny.png"> <img src="../../pokemon/animated/242_POSTPARTOU.gif">
+<img src="img/242_POSTPARTOU_front.png"> <img src="img/242_POSTPARTOU_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/242_POSTPARTOU.gif"> <img src="../../pokemon/animated/shiny/242_POSTPARTOU.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/242_POSTPARTOU_frames.png">
 

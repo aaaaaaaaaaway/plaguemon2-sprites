@@ -2,9 +2,13 @@
 
 [← 192 OVARIAN](192_OVARIAN.md) · [Pokédex](../pokedex.md) · [194 KOTZWAR →](194_KOTZWAR.md)
 
-<img src="img/193_NAPALMYAN_front.png"> <img src="img/193_NAPALMYAN_shiny.png"> <img src="../../pokemon/animated/193_NAPALMYAN.gif">
+<img src="img/193_NAPALMYAN_front.png"> <img src="img/193_NAPALMYAN_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/193_NAPALMYAN.gif"> <img src="../../pokemon/animated/shiny/193_NAPALMYAN.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/193_NAPALMYAN_frames.png">
 

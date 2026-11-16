@@ -2,9 +2,13 @@
 
 [← 081 GHOSHELLO](081_GHOSHELLO.md) · [Pokédex](../pokedex.md) · [083 BONDAGEDOG →](083_BONDAGEDOG.md)
 
-<img src="img/082_SORAYAMBOT_front.png"> <img src="img/082_SORAYAMBOT_shiny.png"> <img src="../../pokemon/animated/082_SORAYAMBOT.gif">
+<img src="img/082_SORAYAMBOT_front.png"> <img src="img/082_SORAYAMBOT_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/082_SORAYAMBOT.gif"> <img src="../../pokemon/animated/shiny/082_SORAYAMBOT.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/082_SORAYAMBOT_frames.png">
 

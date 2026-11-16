@@ -2,9 +2,13 @@
 
 [← 213 PROGLOTTO](213_PROGLOTTO.md) · [Pokédex](../pokedex.md) · [215 KUNOIGA →](215_KUNOIGA.md)
 
-<img src="img/214_KINBUGUBI_front.png"> <img src="img/214_KINBUGUBI_shiny.png"> <img src="../../pokemon/animated/214_KINBUGUBI.gif">
+<img src="img/214_KINBUGUBI_front.png"> <img src="img/214_KINBUGUBI_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/214_KINBUGUBI.gif"> <img src="../../pokemon/animated/shiny/214_KINBUGUBI.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/214_KINBUGUBI_frames.png">
 

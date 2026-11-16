@@ -2,9 +2,13 @@
 
 [← 165 SBIRETTO](165_SBIRETTO.md) · [Pokédex](../pokedex.md) · [167 NAZETTO →](167_NAZETTO.md)
 
-<img src="img/166_FACISTA_front.png"> <img src="img/166_FACISTA_shiny.png"> <img src="../../pokemon/animated/166_FACISTA.gif">
+<img src="img/166_FACISTA_front.png"> <img src="img/166_FACISTA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/166_FACISTA.gif"> <img src="../../pokemon/animated/shiny/166_FACISTA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/166_FACISTA_frames.png">
 

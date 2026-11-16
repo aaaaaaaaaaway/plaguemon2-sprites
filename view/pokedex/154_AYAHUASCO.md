@@ -2,9 +2,13 @@
 
 [← 153 DIVINORUM](153_DIVINORUM.md) · [Pokédex](../pokedex.md) · [155 SCARFITO →](155_SCARFITO.md)
 
-<img src="img/154_AYAHUASCO_front.png"> <img src="img/154_AYAHUASCO_shiny.png"> <img src="../../pokemon/animated/154_AYAHUASCO.gif">
+<img src="img/154_AYAHUASCO_front.png"> <img src="img/154_AYAHUASCO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/154_AYAHUASCO.gif"> <img src="../../pokemon/animated/shiny/154_AYAHUASCO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/154_AYAHUASCO_frames.png">
 

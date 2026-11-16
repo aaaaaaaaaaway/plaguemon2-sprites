@@ -2,9 +2,13 @@
 
 [← 016 CIKKAN](016_CIKKAN.md) · [Pokédex](../pokedex.md) · [018 HEPOCORPS →](018_HEPOCORPS.md)
 
-<img src="img/017_UBERBIRO_front.png"> <img src="img/017_UBERBIRO_shiny.png"> <img src="../../pokemon/animated/017_UBERBIRO.gif">
+<img src="img/017_UBERBIRO_front.png"> <img src="img/017_UBERBIRO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/017_UBERBIRO.gif"> <img src="../../pokemon/animated/shiny/017_UBERBIRO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/017_UBERBIRO_frames.png">
 

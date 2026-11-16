@@ -2,9 +2,13 @@
 
 [← 121 IRUKUNJI](121_IRUKUNJI.md) · [Pokédex](../pokedex.md) · [123 HANZORU →](123_HANZORU.md)
 
-<img src="img/122_MR_SHADOW_front.png"> <img src="img/122_MR_SHADOW_shiny.png"> <img src="../../pokemon/animated/122_MR_SHADOW.gif">
+<img src="img/122_MR_SHADOW_front.png"> <img src="img/122_MR_SHADOW_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/122_MR_SHADOW.gif"> <img src="../../pokemon/animated/shiny/122_MR_SHADOW.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/122_MR_SHADOW_frames.png">
 

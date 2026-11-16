@@ -2,9 +2,13 @@
 
 [← 109 SARSARAS](109_SARSARAS.md) · [Pokédex](../pokedex.md) · [111 ELICORPS →](111_ELICORPS.md)
 
-<img src="img/110_LUNGANSER_front.png"> <img src="img/110_LUNGANSER_shiny.png"> <img src="../../pokemon/animated/110_LUNGANSER.gif">
+<img src="img/110_LUNGANSER_front.png"> <img src="img/110_LUNGANSER_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/110_LUNGANSER.gif"> <img src="../../pokemon/animated/shiny/110_LUNGANSER.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/110_LUNGANSER_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← PARATYPE JKLMNO](201_PARATYPE_J.md) · [Pokédex](../pokedex.md) · [ALT FORM (#243/#244) →](243_ALT_FORM.md)
 
-<img src="img/201_PARATYPE_P_front.png"> <img src="img/201_PARATYPE_P_shiny.png"> <img src="../../pokemon/animated/201_PARATYPE_P.gif">
+<img src="img/201_PARATYPE_P_front.png"> <img src="img/201_PARATYPE_P_shiny.png">
 
-<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/201_PARATYPE_P.gif"> <img src="../../pokemon/animated/shiny/201_PARATYPE_P.gif">
+
+<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/201_PARATYPE_P_palette.png"> <sub>palette: normal · shiny</sub>
 

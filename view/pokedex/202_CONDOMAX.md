@@ -2,9 +2,13 @@
 
 [← 200 HOSTED.GOO](200_HOSTED_GOO.md) · [Pokédex](../pokedex.md) · [203 ENIGMAGUS →](203_ENIGMAGUS.md)
 
-<img src="img/202_CONDOMAX_front.png"> <img src="img/202_CONDOMAX_shiny.png"> <img src="../../pokemon/animated/202_CONDOMAX.gif">
+<img src="img/202_CONDOMAX_front.png"> <img src="img/202_CONDOMAX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/202_CONDOMAX.gif"> <img src="../../pokemon/animated/shiny/202_CONDOMAX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/202_CONDOMAX_frames.png">
 

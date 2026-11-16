@@ -2,9 +2,13 @@
 
 [← 009 SCOLENE](009_SCOLENE.md) · [Pokédex](../pokedex.md) · [011 MUTAPUD →](011_MUTAPUD.md)
 
-<img src="img/010_GUNBAG_front.png"> <img src="img/010_GUNBAG_shiny.png"> <img src="../../pokemon/animated/010_GUNBAG.gif">
+<img src="img/010_GUNBAG_front.png"> <img src="img/010_GUNBAG_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/010_GUNBAG.gif"> <img src="../../pokemon/animated/shiny/010_GUNBAG.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/010_GUNBAG_frames.png">
 

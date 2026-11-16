@@ -2,9 +2,13 @@
 
 [← 186 FETUSO](186_FETUSO.md) · [Pokédex](../pokedex.md) · [188 INCUBATO →](188_INCUBATO.md)
 
-<img src="img/187_ABORTITO_front.png"> <img src="img/187_ABORTITO_shiny.png"> <img src="../../pokemon/animated/187_ABORTITO.gif">
+<img src="img/187_ABORTITO_front.png"> <img src="img/187_ABORTITO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/187_ABORTITO.gif"> <img src="../../pokemon/animated/shiny/187_ABORTITO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/187_ABORTITO_frames.png">
 

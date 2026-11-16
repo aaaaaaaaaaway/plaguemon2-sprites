@@ -2,9 +2,13 @@
 
 [← 068 KONGORISH](068_KONGORISH.md) · [Pokédex](../pokedex.md) · [070 GUILTYOTIN →](070_GUILTYOTIN.md)
 
-<img src="img/069_PILLORYD_front.png"> <img src="img/069_PILLORYD_shiny.png"> <img src="../../pokemon/animated/069_PILLORYD.gif">
+<img src="img/069_PILLORYD_front.png"> <img src="img/069_PILLORYD_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/069_PILLORYD.gif"> <img src="../../pokemon/animated/shiny/069_PILLORYD.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/069_PILLORYD_frames.png">
 

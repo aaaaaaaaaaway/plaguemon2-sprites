@@ -2,9 +2,13 @@
 
 [← 041 GOTCHICK](041_GOTCHICK.md) · [Pokédex](../pokedex.md) · [043 ODDGLITCH →](043_ODDGLITCH.md)
 
-<img src="img/042_VAMPESSA_front.png"> <img src="img/042_VAMPESSA_shiny.png"> <img src="../../pokemon/animated/042_VAMPESSA.gif">
+<img src="img/042_VAMPESSA_front.png"> <img src="img/042_VAMPESSA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/042_VAMPESSA.gif"> <img src="../../pokemon/animated/shiny/042_VAMPESSA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/042_VAMPESSA_frames.png">
 

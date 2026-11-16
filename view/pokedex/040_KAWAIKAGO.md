@@ -2,9 +2,13 @@
 
 [← 039 EYEBALLY](039_EYEBALLY.md) · [Pokédex](../pokedex.md) · [041 GOTCHICK →](041_GOTCHICK.md)
 
-<img src="img/040_KAWAIKAGO_front.png"> <img src="img/040_KAWAIKAGO_shiny.png"> <img src="../../pokemon/animated/040_KAWAIKAGO.gif">
+<img src="img/040_KAWAIKAGO_front.png"> <img src="img/040_KAWAIKAGO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/040_KAWAIKAGO.gif"> <img src="../../pokemon/animated/shiny/040_KAWAIKAGO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/040_KAWAIKAGO_frames.png">
 

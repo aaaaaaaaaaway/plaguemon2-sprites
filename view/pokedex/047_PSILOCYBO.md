@@ -2,9 +2,13 @@
 
 [← 046 PARASITO](046_PARASITO.md) · [Pokédex](../pokedex.md) · [048 GNAKGNAK →](048_GNAKGNAK.md)
 
-<img src="img/047_PSILOCYBO_front.png"> <img src="img/047_PSILOCYBO_shiny.png"> <img src="../../pokemon/animated/047_PSILOCYBO.gif">
+<img src="img/047_PSILOCYBO_front.png"> <img src="img/047_PSILOCYBO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/047_PSILOCYBO.gif"> <img src="../../pokemon/animated/shiny/047_PSILOCYBO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/047_PSILOCYBO_frames.png">
 

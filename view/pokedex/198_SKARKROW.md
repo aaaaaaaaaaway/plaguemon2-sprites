@@ -2,9 +2,13 @@
 
 [← 197 DAMNATEON](197_DAMNATEON.md) · [Pokédex](../pokedex.md) · [199 DEPRECLOWN →](199_DEPRECLOWN.md)
 
-<img src="img/198_SKARKROW_front.png"> <img src="img/198_SKARKROW_shiny.png"> <img src="../../pokemon/animated/198_SKARKROW.gif">
+<img src="img/198_SKARKROW_front.png"> <img src="img/198_SKARKROW_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/198_SKARKROW.gif"> <img src="../../pokemon/animated/shiny/198_SKARKROW.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/198_SKARKROW_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 243 ROTARAX](243_ROTARAX.md) · [Pokédex](../pokedex.md) · [245 SKYLITE →](245_SKYLITE.md)
 
-<img src="img/244_VITATEC_front.png"> <img src="img/244_VITATEC_shiny.png"> <img src="../../pokemon/animated/244_VITATEC.gif">
+<img src="img/244_VITATEC_front.png"> <img src="img/244_VITATEC_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/244_VITATEC.gif"> <img src="../../pokemon/animated/shiny/244_VITATEC.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/244_VITATEC_frames.png">
 

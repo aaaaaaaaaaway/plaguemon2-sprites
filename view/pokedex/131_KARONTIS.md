@@ -2,9 +2,13 @@
 
 [← 130 HANNYADOS](130_HANNYADOS.md) · [Pokédex](../pokedex.md) · [132 SHITTO →](132_SHITTO.md)
 
-<img src="img/131_KARONTIS_front.png"> <img src="img/131_KARONTIS_shiny.png"> <img src="../../pokemon/animated/131_KARONTIS.gif">
+<img src="img/131_KARONTIS_front.png"> <img src="img/131_KARONTIS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/131_KARONTIS.gif"> <img src="../../pokemon/animated/shiny/131_KARONTIS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/131_KARONTIS_frames.png">
 

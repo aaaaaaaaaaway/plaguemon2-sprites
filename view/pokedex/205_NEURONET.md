@@ -2,9 +2,13 @@
 
 [← 204 HIDENLAYER](204_HIDENLAYER.md) · [Pokédex](../pokedex.md) · [206 DUOFUNTO →](206_DUOFUNTO.md)
 
-<img src="img/205_NEURONET_front.png"> <img src="img/205_NEURONET_shiny.png"> <img src="../../pokemon/animated/205_NEURONET.gif">
+<img src="img/205_NEURONET_front.png"> <img src="img/205_NEURONET_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/205_NEURONET.gif"> <img src="../../pokemon/animated/shiny/205_NEURONET.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/205_NEURONET_frames.png">
 

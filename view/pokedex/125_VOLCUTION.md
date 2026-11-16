@@ -2,9 +2,13 @@
 
 [← 124 JYZZO](124_JYZZO.md) · [Pokédex](../pokedex.md) · [126 BURNAR →](126_BURNAR.md)
 
-<img src="img/125_VOLCUTION_front.png"> <img src="img/125_VOLCUTION_shiny.png"> <img src="../../pokemon/animated/125_VOLCUTION.gif">
+<img src="img/125_VOLCUTION_front.png"> <img src="img/125_VOLCUTION_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/125_VOLCUTION.gif"> <img src="../../pokemon/animated/shiny/125_VOLCUTION.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/125_VOLCUTION_frames.png">
 

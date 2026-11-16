@@ -2,9 +2,13 @@
 
 [← 006 LUCIFERION](006_LUCIFERION.md) · [Pokédex](../pokedex.md) · [008 SCOLANO →](008_SCOLANO.md)
 
-<img src="img/007_SCOLINA_front.png"> <img src="img/007_SCOLINA_shiny.png"> <img src="../../pokemon/animated/007_SCOLINA.gif">
+<img src="img/007_SCOLINA_front.png"> <img src="img/007_SCOLINA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/007_SCOLINA.gif"> <img src="../../pokemon/animated/shiny/007_SCOLINA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/007_SCOLINA_frames.png">
 

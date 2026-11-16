@@ -2,9 +2,13 @@
 
 [← 070 GUILTYOTIN](070_GUILTYOTIN.md) · [Pokédex](../pokedex.md) · [072 HENTAICOOL →](072_HENTAICOOL.md)
 
-<img src="img/071_NORIMBERGU_front.png"> <img src="img/071_NORIMBERGU_shiny.png"> <img src="../../pokemon/animated/071_NORIMBERGU.gif">
+<img src="img/071_NORIMBERGU_front.png"> <img src="img/071_NORIMBERGU_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/071_NORIMBERGU.gif"> <img src="../../pokemon/animated/shiny/071_NORIMBERGU.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/071_NORIMBERGU_frames.png">
 

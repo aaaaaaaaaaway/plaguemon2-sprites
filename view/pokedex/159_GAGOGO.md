@@ -2,9 +2,13 @@
 
 [← 158 BONDILE](158_BONDILE.md) · [Pokédex](../pokedex.md) · [160 CROCOSNUFF →](160_CROCOSNUFF.md)
 
-<img src="img/159_GAGOGO_front.png"> <img src="img/159_GAGOGO_shiny.png"> <img src="../../pokemon/animated/159_GAGOGO.gif">
+<img src="img/159_GAGOGO_front.png"> <img src="img/159_GAGOGO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/159_GAGOGO.gif"> <img src="../../pokemon/animated/shiny/159_GAGOGO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/159_GAGOGO_frames.png">
 

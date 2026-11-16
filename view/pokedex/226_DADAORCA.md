@@ -2,9 +2,13 @@
 
 [← 225 ANTENNOIDE](225_ANTENNOIDE.md) · [Pokédex](../pokedex.md) · [227 AXIOM:APEX →](227_AXIOM_APEX.md)
 
-<img src="img/226_DADAORCA_front.png"> <img src="img/226_DADAORCA_shiny.png"> <img src="../../pokemon/animated/226_DADAORCA.gif">
+<img src="img/226_DADAORCA_front.png"> <img src="img/226_DADAORCA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/226_DADAORCA.gif"> <img src="../../pokemon/animated/shiny/226_DADAORCA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/226_DADAORCA_frames.png">
 

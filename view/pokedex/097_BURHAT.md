@@ -2,9 +2,13 @@
 
 [← 096 DUPUPETT](096_DUPUPETT.md) · [Pokédex](../pokedex.md) · [098 TOXIWASTE →](098_TOXIWASTE.md)
 
-<img src="img/097_BURHAT_front.png"> <img src="img/097_BURHAT_shiny.png"> <img src="../../pokemon/animated/097_BURHAT.gif">
+<img src="img/097_BURHAT_front.png"> <img src="img/097_BURHAT_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/097_BURHAT.gif"> <img src="../../pokemon/animated/shiny/097_BURHAT.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/097_BURHAT_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 159 GAGOGO](159_GAGOGO.md) · [Pokédex](../pokedex.md) · [161 BURQO →](161_BURQO.md)
 
-<img src="img/160_CROCOSNUFF_front.png"> <img src="img/160_CROCOSNUFF_shiny.png"> <img src="../../pokemon/animated/160_CROCOSNUFF.gif">
+<img src="img/160_CROCOSNUFF_front.png"> <img src="img/160_CROCOSNUFF_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/160_CROCOSNUFF.gif"> <img src="../../pokemon/animated/shiny/160_CROCOSNUFF.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/160_CROCOSNUFF_frames.png">
 

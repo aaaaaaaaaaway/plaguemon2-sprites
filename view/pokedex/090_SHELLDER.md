@@ -2,9 +2,13 @@
 
 [← 089 KUMORAH](089_KUMORAH.md) · [Pokédex](../pokedex.md) · [091 VAGINDAM →](091_VAGINDAM.md)
 
-<img src="img/090_SHELLDER_front.png"> <img src="img/090_SHELLDER_shiny.png"> <img src="../../pokemon/animated/090_SHELLDER.gif">
+<img src="img/090_SHELLDER_front.png"> <img src="img/090_SHELLDER_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/090_SHELLDER.gif"> <img src="../../pokemon/animated/shiny/090_SHELLDER.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/090_SHELLDER_frames.png">
 

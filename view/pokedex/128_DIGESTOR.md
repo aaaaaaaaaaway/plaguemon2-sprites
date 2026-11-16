@@ -2,9 +2,13 @@
 
 [← 127 SHAMABOO](127_SHAMABOO.md) · [Pokédex](../pokedex.md) · [129 ROKUJOSHI →](129_ROKUJOSHI.md)
 
-<img src="img/128_DIGESTOR_front.png"> <img src="img/128_DIGESTOR_shiny.png"> <img src="../../pokemon/animated/128_DIGESTOR.gif">
+<img src="img/128_DIGESTOR_front.png"> <img src="img/128_DIGESTOR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/128_DIGESTOR.gif"> <img src="../../pokemon/animated/shiny/128_DIGESTOR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/128_DIGESTOR_frames.png">
 

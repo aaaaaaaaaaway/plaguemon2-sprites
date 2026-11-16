@@ -2,9 +2,13 @@
 
 [← 071 NORIMBERGU](071_NORIMBERGU.md) · [Pokédex](../pokedex.md) · [073 HENTAIGORE →](073_HENTAIGORE.md)
 
-<img src="img/072_HENTAICOOL_front.png"> <img src="img/072_HENTAICOOL_shiny.png"> <img src="../../pokemon/animated/072_HENTAICOOL.gif">
+<img src="img/072_HENTAICOOL_front.png"> <img src="img/072_HENTAICOOL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/072_HENTAICOOL.gif"> <img src="../../pokemon/animated/shiny/072_HENTAICOOL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/072_HENTAICOOL_frames.png">
 

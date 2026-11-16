@@ -2,9 +2,13 @@
 
 [← 249 DEMEMENTIA](249_DEMEMENTIA.md) · [Pokédex](../pokedex.md) · [251 CEREBRI →](251_CEREBRI.md)
 
-<img src="img/250_PAGOLDIA_front.png"> <img src="img/250_PAGOLDIA_shiny.png"> <img src="../../pokemon/animated/250_PAGOLDIA.gif">
+<img src="img/250_PAGOLDIA_front.png"> <img src="img/250_PAGOLDIA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/250_PAGOLDIA.gif"> <img src="../../pokemon/animated/shiny/250_PAGOLDIA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/250_PAGOLDIA_frames.png">
 

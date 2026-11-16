@@ -2,9 +2,13 @@
 
 [← 211 NAVALMINO](211_NAVALMINO.md) · [Pokédex](../pokedex.md) · [213 PROGLOTTO →](213_PROGLOTTO.md)
 
-<img src="img/212_CYNOBI_front.png"> <img src="img/212_CYNOBI_shiny.png"> <img src="../../pokemon/animated/212_CYNOBI.gif">
+<img src="img/212_CYNOBI_front.png"> <img src="img/212_CYNOBI_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/212_CYNOBI.gif"> <img src="../../pokemon/animated/shiny/212_CYNOBI.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/212_CYNOBI_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 045 LARSENEF](045_LARSENEF.md) · [Pokédex](../pokedex.md) · [047 PSILOCYBO →](047_PSILOCYBO.md)
 
-<img src="img/046_PARASITO_front.png"> <img src="img/046_PARASITO_shiny.png"> <img src="../../pokemon/animated/046_PARASITO.gif">
+<img src="img/046_PARASITO_front.png"> <img src="img/046_PARASITO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/046_PARASITO.gif"> <img src="../../pokemon/animated/shiny/046_PARASITO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/046_PARASITO_frames.png">
 

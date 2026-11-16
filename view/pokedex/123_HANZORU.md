@@ -2,9 +2,13 @@
 
 [← 122 MR.SHADOW](122_MR_SHADOW.md) · [Pokédex](../pokedex.md) · [124 JYZZO →](124_JYZZO.md)
 
-<img src="img/123_HANZORU_front.png"> <img src="img/123_HANZORU_shiny.png"> <img src="../../pokemon/animated/123_HANZORU.gif">
+<img src="img/123_HANZORU_front.png"> <img src="img/123_HANZORU_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/123_HANZORU.gif"> <img src="../../pokemon/animated/shiny/123_HANZORU.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/123_HANZORU_frames.png">
 

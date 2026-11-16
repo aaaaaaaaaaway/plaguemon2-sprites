@@ -2,9 +2,13 @@
 
 [← 072 HENTAICOOL](072_HENTAICOOL.md) · [Pokédex](../pokedex.md) · [074 URANIUM →](074_URANIUM.md)
 
-<img src="img/073_HENTAIGORE_front.png"> <img src="img/073_HENTAIGORE_shiny.png"> <img src="../../pokemon/animated/073_HENTAIGORE.gif">
+<img src="img/073_HENTAIGORE_front.png"> <img src="img/073_HENTAIGORE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/073_HENTAIGORE.gif"> <img src="../../pokemon/animated/shiny/073_HENTAIGORE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/073_HENTAIGORE_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 087 MEGADIL500](087_MEGADIL500.md) · [Pokédex](../pokedex.md) · [089 KUMORAH →](089_KUMORAH.md)
 
-<img src="img/088_GRINDED_front.png"> <img src="img/088_GRINDED_shiny.png"> <img src="../../pokemon/animated/088_GRINDED.gif">
+<img src="img/088_GRINDED_front.png"> <img src="img/088_GRINDED_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/088_GRINDED.gif"> <img src="../../pokemon/animated/shiny/088_GRINDED.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/088_GRINDED_frames.png">
 

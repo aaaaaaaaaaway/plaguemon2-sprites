@@ -2,9 +2,13 @@
 
 [← 228 HOUNDOUR](228_HOUNDOUR.md) · [Pokédex](../pokedex.md) · [230 HERMAPHROD →](230_HERMAPHROD.md)
 
-<img src="img/229_HOUNDOOM_front.png"> <img src="img/229_HOUNDOOM_shiny.png"> <img src="../../pokemon/animated/229_HOUNDOOM.gif">
+<img src="img/229_HOUNDOOM_front.png"> <img src="img/229_HOUNDOOM_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/229_HOUNDOOM.gif"> <img src="../../pokemon/animated/shiny/229_HOUNDOOM.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/229_HOUNDOOM_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 049 CHORDYCEPS](049_CHORDYCEPS.md) · [Pokédex](../pokedex.md) · [051 GANGBANGO →](051_GANGBANGO.md)
 
-<img src="img/050_KAZETTO_front.png"> <img src="img/050_KAZETTO_shiny.png"> <img src="../../pokemon/animated/050_KAZETTO.gif">
+<img src="img/050_KAZETTO_front.png"> <img src="img/050_KAZETTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/050_KAZETTO.gif"> <img src="../../pokemon/animated/shiny/050_KAZETTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/050_KAZETTO_frames.png">
 

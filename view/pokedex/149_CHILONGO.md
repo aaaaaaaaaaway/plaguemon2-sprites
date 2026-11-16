@@ -2,9 +2,13 @@
 
 [← 148 SERAPHIUM](148_SERAPHIUM.md) · [Pokédex](../pokedex.md) · [150 MEWTATED →](150_MEWTATED.md)
 
-<img src="img/149_CHILONGO_front.png"> <img src="img/149_CHILONGO_shiny.png"> <img src="../../pokemon/animated/149_CHILONGO.gif">
+<img src="img/149_CHILONGO_front.png"> <img src="img/149_CHILONGO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/149_CHILONGO.gif"> <img src="../../pokemon/animated/shiny/149_CHILONGO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/149_CHILONGO_frames.png">
 

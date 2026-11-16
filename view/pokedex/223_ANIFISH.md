@@ -2,9 +2,13 @@
 
 [← 222 NEURAPSYS](222_NEURAPSYS.md) · [Pokédex](../pokedex.md) · [225 ANTENNOIDE →](225_ANTENNOIDE.md)
 
-<img src="img/223_ANIFISH_front.png"> <img src="img/223_ANIFISH_shiny.png"> <img src="../../pokemon/animated/223_ANIFISH.gif">
+<img src="img/223_ANIFISH_front.png"> <img src="img/223_ANIFISH_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/223_ANIFISH.gif"> <img src="../../pokemon/animated/shiny/223_ANIFISH.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/223_ANIFISH_frames.png">
 

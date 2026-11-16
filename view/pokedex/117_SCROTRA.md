@@ -2,9 +2,13 @@
 
 [← 116 COCKY](116_COCKY.md) · [Pokédex](../pokedex.md) · [118 BLINKY →](118_BLINKY.md)
 
-<img src="img/117_SCROTRA_front.png"> <img src="img/117_SCROTRA_shiny.png"> <img src="../../pokemon/animated/117_SCROTRA.gif">
+<img src="img/117_SCROTRA_front.png"> <img src="img/117_SCROTRA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/117_SCROTRA.gif"> <img src="../../pokemon/animated/shiny/117_SCROTRA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/117_SCROTRA_frames.png">
 

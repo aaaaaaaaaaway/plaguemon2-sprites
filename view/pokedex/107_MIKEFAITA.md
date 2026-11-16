@@ -2,9 +2,13 @@
 
 [← 106 THAIFAITA](106_THAIFAITA.md) · [Pokédex](../pokedex.md) · [108 PUKALOT →](108_PUKALOT.md)
 
-<img src="img/107_MIKEFAITA_front.png"> <img src="img/107_MIKEFAITA_shiny.png"> <img src="../../pokemon/animated/107_MIKEFAITA.gif">
+<img src="img/107_MIKEFAITA_front.png"> <img src="img/107_MIKEFAITA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/107_MIKEFAITA.gif"> <img src="../../pokemon/animated/shiny/107_MIKEFAITA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/107_MIKEFAITA_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 195 ASPHYXIAR](195_ASPHYXIAR.md) · [Pokédex](../pokedex.md) · [197 DAMNATEON →](197_DAMNATEON.md)
 
-<img src="img/196_EMBRYEON_front.png"> <img src="img/196_EMBRYEON_shiny.png"> <img src="../../pokemon/animated/196_EMBRYEON.gif">
+<img src="img/196_EMBRYEON_front.png"> <img src="img/196_EMBRYEON_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/196_EMBRYEON.gif"> <img src="../../pokemon/animated/shiny/196_EMBRYEON.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/196_EMBRYEON_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 021 SBLARFO](021_SBLARFO.md) · [Pokédex](../pokedex.md) · [023 ANFESIBO →](023_ANFESIBO.md)
 
-<img src="img/022_SGLARFO_front.png"> <img src="img/022_SGLARFO_shiny.png"> <img src="../../pokemon/animated/022_SGLARFO.gif">
+<img src="img/022_SGLARFO_front.png"> <img src="img/022_SGLARFO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/022_SGLARFO.gif"> <img src="../../pokemon/animated/shiny/022_SGLARFO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/022_SGLARFO_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 029 FINGAH](029_FINGAH.md) · [Pokédex](../pokedex.md) · [031 KALEDENDS →](031_KALEDENDS.md)
 
-<img src="img/030_HANDA_front.png"> <img src="img/030_HANDA_shiny.png"> <img src="../../pokemon/animated/030_HANDA.gif">
+<img src="img/030_HANDA_front.png"> <img src="img/030_HANDA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/030_HANDA.gif"> <img src="../../pokemon/animated/shiny/030_HANDA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/030_HANDA_frames.png">
 

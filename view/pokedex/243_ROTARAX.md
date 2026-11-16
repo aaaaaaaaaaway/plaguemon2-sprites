@@ -2,9 +2,13 @@
 
 [← 242 POSTPARTOU](242_POSTPARTOU.md) · [Pokédex](../pokedex.md) · [244 VITATEC →](244_VITATEC.md)
 
-<img src="img/243_ROTARAX_front.png"> <img src="img/243_ROTARAX_shiny.png"> <img src="../../pokemon/animated/243_ROTARAX.gif">
+<img src="img/243_ROTARAX_front.png"> <img src="img/243_ROTARAX_shiny.png">
 
-<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/243_ROTARAX.gif"> <img src="../../pokemon/animated/shiny/243_ROTARAX.gif">
+
+<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/15_FOX_icon.png"> <sub>party icon</sub>
 

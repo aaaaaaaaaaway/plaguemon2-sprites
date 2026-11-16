@@ -2,9 +2,13 @@
 
 [← 094 TREROR](094_TREROR.md) · [Pokédex](../pokedex.md) · [096 DUPUPETT →](096_DUPUPETT.md)
 
-<img src="img/095_OBSIDIAN_front.png"> <img src="img/095_OBSIDIAN_shiny.png"> <img src="../../pokemon/animated/095_OBSIDIAN.gif">
+<img src="img/095_OBSIDIAN_front.png"> <img src="img/095_OBSIDIAN_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/095_OBSIDIAN.gif"> <img src="../../pokemon/animated/shiny/095_OBSIDIAN.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/095_OBSIDIAN_frames.png">
 

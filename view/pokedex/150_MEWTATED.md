@@ -2,9 +2,13 @@
 
 [← 149 CHILONGO](149_CHILONGO.md) · [Pokédex](../pokedex.md) · [151 TWOMEW →](151_TWOMEW.md)
 
-<img src="img/150_MEWTATED_front.png"> <img src="img/150_MEWTATED_shiny.png"> <img src="../../pokemon/animated/150_MEWTATED.gif">
+<img src="img/150_MEWTATED_front.png"> <img src="img/150_MEWTATED_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/150_MEWTATED.gif"> <img src="../../pokemon/animated/shiny/150_MEWTATED.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/150_MEWTATED_frames.png">
 

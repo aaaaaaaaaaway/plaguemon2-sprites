@@ -2,9 +2,13 @@
 
 [← 091 VAGINDAM](091_VAGINDAM.md) · [Pokédex](../pokedex.md) · [093 WRAITARL →](093_WRAITARL.md)
 
-<img src="img/092_GOSBAMP_front.png"> <img src="img/092_GOSBAMP_shiny.png"> <img src="../../pokemon/animated/092_GOSBAMP.gif">
+<img src="img/092_GOSBAMP_front.png"> <img src="img/092_GOSBAMP_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/092_GOSBAMP.gif"> <img src="../../pokemon/animated/shiny/092_GOSBAMP.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/092_GOSBAMP_frames.png">
 

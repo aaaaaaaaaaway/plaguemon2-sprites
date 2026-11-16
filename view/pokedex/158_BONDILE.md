@@ -2,9 +2,13 @@
 
 [← 157 INFERNATUS](157_INFERNATUS.md) · [Pokédex](../pokedex.md) · [159 GAGOGO →](159_GAGOGO.md)
 
-<img src="img/158_BONDILE_front.png"> <img src="img/158_BONDILE_shiny.png"> <img src="../../pokemon/animated/158_BONDILE.gif">
+<img src="img/158_BONDILE_front.png"> <img src="img/158_BONDILE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/158_BONDILE.gif"> <img src="../../pokemon/animated/shiny/158_BONDILE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/158_BONDILE_frames.png">
 

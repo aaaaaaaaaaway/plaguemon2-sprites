@@ -2,9 +2,13 @@
 
 [← 180 ALGOCRAT](180_ALGOCRAT.md) · [Pokédex](../pokedex.md) · [182 MANDELBRO →](182_MANDELBRO.md)
 
-<img src="img/181_DICTAITOR_front.png"> <img src="img/181_DICTAITOR_shiny.png"> <img src="../../pokemon/animated/181_DICTAITOR.gif">
+<img src="img/181_DICTAITOR_front.png"> <img src="img/181_DICTAITOR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/181_DICTAITOR.gif"> <img src="../../pokemon/animated/shiny/181_DICTAITOR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/181_DICTAITOR_frames.png">
 

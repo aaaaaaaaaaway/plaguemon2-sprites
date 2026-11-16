@@ -2,9 +2,13 @@
 
 [← 154 AYAHUASCO](154_AYAHUASCO.md) · [Pokédex](../pokedex.md) · [156 CRUXADO →](156_CRUXADO.md)
 
-<img src="img/155_SCARFITO_front.png"> <img src="img/155_SCARFITO_shiny.png"> <img src="../../pokemon/animated/155_SCARFITO.gif">
+<img src="img/155_SCARFITO_front.png"> <img src="img/155_SCARFITO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/155_SCARFITO.gif"> <img src="../../pokemon/animated/shiny/155_SCARFITO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/155_SCARFITO_frames.png">
 

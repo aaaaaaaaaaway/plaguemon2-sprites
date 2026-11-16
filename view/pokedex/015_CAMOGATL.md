@@ -2,9 +2,13 @@
 
 [← 014 KAKUZI](014_KAKUZI.md) · [Pokédex](../pokedex.md) · [016 CIKKAN →](016_CIKKAN.md)
 
-<img src="img/015_CAMOGATL_front.png"> <img src="img/015_CAMOGATL_shiny.png"> <img src="../../pokemon/animated/015_CAMOGATL.gif">
+<img src="img/015_CAMOGATL_front.png"> <img src="img/015_CAMOGATL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/015_CAMOGATL.gif"> <img src="../../pokemon/animated/shiny/015_CAMOGATL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/015_CAMOGATL_frames.png">
 

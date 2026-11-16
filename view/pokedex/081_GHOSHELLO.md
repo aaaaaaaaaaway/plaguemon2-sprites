@@ -2,9 +2,13 @@
 
 [← 080 KORNUPIAK](080_KORNUPIAK.md) · [Pokédex](../pokedex.md) · [082 SORAYAMBOT →](082_SORAYAMBOT.md)
 
-<img src="img/081_GHOSHELLO_front.png"> <img src="img/081_GHOSHELLO_shiny.png"> <img src="../../pokemon/animated/081_GHOSHELLO.gif">
+<img src="img/081_GHOSHELLO_front.png"> <img src="img/081_GHOSHELLO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/081_GHOSHELLO.gif"> <img src="../../pokemon/animated/shiny/081_GHOSHELLO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/081_GHOSHELLO_frames.png">
 

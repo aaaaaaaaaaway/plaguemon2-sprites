@@ -2,9 +2,13 @@
 
 [← 023 ANFESIBO](023_ANFESIBO.md) · [Pokédex](../pokedex.md) · [025 PIKACHEWED →](025_PIKACHEWED.md)
 
-<img src="img/024_URBOROK_front.png"> <img src="img/024_URBOROK_shiny.png"> <img src="../../pokemon/animated/024_URBOROK.gif">
+<img src="img/024_URBOROK_front.png"> <img src="img/024_URBOROK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/024_URBOROK.gif"> <img src="../../pokemon/animated/shiny/024_URBOROK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/024_URBOROK_frames.png">
 

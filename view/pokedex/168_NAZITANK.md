@@ -2,9 +2,13 @@
 
 [← 167 NAZETTO](167_NAZETTO.md) · [Pokédex](../pokedex.md) · [169 TRIZOM →](169_TRIZOM.md)
 
-<img src="img/168_NAZITANK_front.png"> <img src="img/168_NAZITANK_shiny.png"> <img src="../../pokemon/animated/168_NAZITANK.gif">
+<img src="img/168_NAZITANK_front.png"> <img src="img/168_NAZITANK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/168_NAZITANK.gif"> <img src="../../pokemon/animated/shiny/168_NAZITANK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/168_NAZITANK_frames.png">
 

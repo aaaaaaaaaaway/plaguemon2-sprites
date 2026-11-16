@@ -2,9 +2,13 @@
 
 [← 107 MIKEFAITA](107_MIKEFAITA.md) · [Pokédex](../pokedex.md) · [109 SARSARAS →](109_SARSARAS.md)
 
-<img src="img/108_PUKALOT_front.png"> <img src="img/108_PUKALOT_shiny.png"> <img src="../../pokemon/animated/108_PUKALOT.gif">
+<img src="img/108_PUKALOT_front.png"> <img src="img/108_PUKALOT_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/108_PUKALOT.gif"> <img src="../../pokemon/animated/shiny/108_PUKALOT.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/108_PUKALOT_frames.png">
 

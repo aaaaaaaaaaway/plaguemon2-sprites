@@ -2,9 +2,13 @@
 
 [← 017 UBERBIRO](017_UBERBIRO.md) · [Pokédex](../pokedex.md) · [019 FOGNUS →](019_FOGNUS.md)
 
-<img src="img/018_HEPOCORPS_front.png"> <img src="img/018_HEPOCORPS_shiny.png"> <img src="../../pokemon/animated/018_HEPOCORPS.gif">
+<img src="img/018_HEPOCORPS_front.png"> <img src="img/018_HEPOCORPS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/018_HEPOCORPS.gif"> <img src="../../pokemon/animated/shiny/018_HEPOCORPS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/018_HEPOCORPS_frames.png">
 

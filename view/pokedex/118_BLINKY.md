@@ -2,9 +2,13 @@
 
 [← 117 SCROTRA](117_SCROTRA.md) · [Pokédex](../pokedex.md) · [119 HOGEROT →](119_HOGEROT.md)
 
-<img src="img/118_BLINKY_front.png"> <img src="img/118_BLINKY_shiny.png"> <img src="../../pokemon/animated/118_BLINKY.gif">
+<img src="img/118_BLINKY_front.png"> <img src="img/118_BLINKY_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/118_BLINKY.gif"> <img src="../../pokemon/animated/shiny/118_BLINKY.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/118_BLINKY_frames.png">
 

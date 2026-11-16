@@ -2,9 +2,13 @@
 
 [← 226 DADAORCA](226_DADAORCA.md) · [Pokédex](../pokedex.md) · [228 HOUNDOUR →](228_HOUNDOUR.md)
 
-<img src="img/227_AXIOM_APEX_front.png"> <img src="img/227_AXIOM_APEX_shiny.png"> <img src="../../pokemon/animated/227_AXIOM_APEX.gif">
+<img src="img/227_AXIOM_APEX_front.png"> <img src="img/227_AXIOM_APEX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/227_AXIOM_APEX.gif"> <img src="../../pokemon/animated/shiny/227_AXIOM_APEX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/227_AXIOM_APEX_frames.png">
 

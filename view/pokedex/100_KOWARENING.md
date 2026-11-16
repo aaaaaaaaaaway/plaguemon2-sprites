@@ -2,9 +2,13 @@
 
 [← 099 NUKEBARL](099_NUKEBARL.md) · [Pokédex](../pokedex.md) · [101 NINGOGORE →](101_NINGOGORE.md)
 
-<img src="img/100_KOWARENING_front.png"> <img src="img/100_KOWARENING_shiny.png"> <img src="../../pokemon/animated/100_KOWARENING.gif">
+<img src="img/100_KOWARENING_front.png"> <img src="img/100_KOWARENING_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/100_KOWARENING.gif"> <img src="../../pokemon/animated/shiny/100_KOWARENING.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/100_KOWARENING_frames.png">
 

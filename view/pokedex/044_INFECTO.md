@@ -2,9 +2,13 @@
 
 [← 043 ODDGLITCH](043_ODDGLITCH.md) · [Pokédex](../pokedex.md) · [045 LARSENEF →](045_LARSENEF.md)
 
-<img src="img/044_INFECTO_front.png"> <img src="img/044_INFECTO_shiny.png"> <img src="../../pokemon/animated/044_INFECTO.gif">
+<img src="img/044_INFECTO_front.png"> <img src="img/044_INFECTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/044_INFECTO.gif"> <img src="../../pokemon/animated/shiny/044_INFECTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/044_INFECTO_frames.png">
 

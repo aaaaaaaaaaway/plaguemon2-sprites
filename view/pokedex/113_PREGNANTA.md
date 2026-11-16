@@ -2,9 +2,13 @@
 
 [← 112 MEDUCUNT](112_MEDUCUNT.md) · [Pokédex](../pokedex.md) · [114 WORMICELLI →](114_WORMICELLI.md)
 
-<img src="img/113_PREGNANTA_front.png"> <img src="img/113_PREGNANTA_shiny.png"> <img src="../../pokemon/animated/113_PREGNANTA.gif">
+<img src="img/113_PREGNANTA_front.png"> <img src="img/113_PREGNANTA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/113_PREGNANTA.gif"> <img src="../../pokemon/animated/shiny/113_PREGNANTA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/113_PREGNANTA_frames.png">
 

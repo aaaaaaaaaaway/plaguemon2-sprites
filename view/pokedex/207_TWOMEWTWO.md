@@ -2,9 +2,13 @@
 
 [← 206 DUOFUNTO](206_DUOFUNTO.md) · [Pokédex](../pokedex.md) · [208 HYDRAGYRUM →](208_HYDRAGYRUM.md)
 
-<img src="img/207_TWOMEWTWO_front.png"> <img src="img/207_TWOMEWTWO_shiny.png"> <img src="../../pokemon/animated/207_TWOMEWTWO.gif">
+<img src="img/207_TWOMEWTWO_front.png"> <img src="img/207_TWOMEWTWO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/207_TWOMEWTWO.gif"> <img src="../../pokemon/animated/shiny/207_TWOMEWTWO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/207_TWOMEWTWO_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 048 GNAKGNAK](048_GNAKGNAK.md) · [Pokédex](../pokedex.md) · [050 KAZETTO →](050_KAZETTO.md)
 
-<img src="img/049_CHORDYCEPS_front.png"> <img src="img/049_CHORDYCEPS_shiny.png"> <img src="../../pokemon/animated/049_CHORDYCEPS.gif">
+<img src="img/049_CHORDYCEPS_front.png"> <img src="img/049_CHORDYCEPS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/049_CHORDYCEPS.gif"> <img src="../../pokemon/animated/shiny/049_CHORDYCEPS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/049_CHORDYCEPS_frames.png">
 

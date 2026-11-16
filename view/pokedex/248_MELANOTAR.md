@@ -2,9 +2,13 @@
 
 [← 247 MYCOTAR](247_MYCOTAR.md) · [Pokédex](../pokedex.md) · [249 DEMEMENTIA →](249_DEMEMENTIA.md)
 
-<img src="img/248_MELANOTAR_front.png"> <img src="img/248_MELANOTAR_shiny.png"> <img src="../../pokemon/animated/248_MELANOTAR.gif">
+<img src="img/248_MELANOTAR_front.png"> <img src="img/248_MELANOTAR_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/248_MELANOTAR.gif"> <img src="../../pokemon/animated/shiny/248_MELANOTAR.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/248_MELANOTAR_frames.png">
 

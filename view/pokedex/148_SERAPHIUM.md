@@ -2,9 +2,13 @@
 
 [← 147 CHERUBIUM](147_CHERUBIUM.md) · [Pokédex](../pokedex.md) · [149 CHILONGO →](149_CHILONGO.md)
 
-<img src="img/148_SERAPHIUM_front.png"> <img src="img/148_SERAPHIUM_shiny.png"> <img src="../../pokemon/animated/148_SERAPHIUM.gif">
+<img src="img/148_SERAPHIUM_front.png"> <img src="img/148_SERAPHIUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/148_SERAPHIUM.gif"> <img src="../../pokemon/animated/shiny/148_SERAPHIUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/148_SERAPHIUM_frames.png">
 

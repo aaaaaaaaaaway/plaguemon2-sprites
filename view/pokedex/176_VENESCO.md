@@ -2,9 +2,13 @@
 
 [← 175 VENOSO](175_VENOSO.md) · [Pokédex](../pokedex.md) · [177 SACRILUT →](177_SACRILUT.md)
 
-<img src="img/176_VENESCO_front.png"> <img src="img/176_VENESCO_shiny.png"> <img src="../../pokemon/animated/176_VENESCO.gif">
+<img src="img/176_VENESCO_front.png"> <img src="img/176_VENESCO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/176_VENESCO.gif"> <img src="../../pokemon/animated/shiny/176_VENESCO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/176_VENESCO_frames.png">
 

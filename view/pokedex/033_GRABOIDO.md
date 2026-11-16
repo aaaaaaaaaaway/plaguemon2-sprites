@@ -2,9 +2,13 @@
 
 [← 032 SCRAMBLO](032_SCRAMBLO.md) · [Pokédex](../pokedex.md) · [034 KESARUS →](034_KESARUS.md)
 
-<img src="img/033_GRABOIDO_front.png"> <img src="img/033_GRABOIDO_shiny.png"> <img src="../../pokemon/animated/033_GRABOIDO.gif">
+<img src="img/033_GRABOIDO_front.png"> <img src="img/033_GRABOIDO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/033_GRABOIDO.gif"> <img src="../../pokemon/animated/shiny/033_GRABOIDO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/033_GRABOIDO_frames.png">
 

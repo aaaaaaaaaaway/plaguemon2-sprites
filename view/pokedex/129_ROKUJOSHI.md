@@ -2,9 +2,13 @@
 
 [← 128 DIGESTOR](128_DIGESTOR.md) · [Pokédex](../pokedex.md) · [130 HANNYADOS →](130_HANNYADOS.md)
 
-<img src="img/129_ROKUJOSHI_front.png"> <img src="img/129_ROKUJOSHI_shiny.png"> <img src="../../pokemon/animated/129_ROKUJOSHI.gif">
+<img src="img/129_ROKUJOSHI_front.png"> <img src="img/129_ROKUJOSHI_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/129_ROKUJOSHI.gif"> <img src="../../pokemon/animated/shiny/129_ROKUJOSHI.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/129_ROKUJOSHI_frames.png">
 

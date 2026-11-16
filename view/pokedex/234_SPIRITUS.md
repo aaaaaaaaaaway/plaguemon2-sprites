@@ -2,9 +2,13 @@
 
 [← 230 HERMAPHROD](230_HERMAPHROD.md) · [Pokédex](../pokedex.md) · [237 JUTSUFAITA →](237_JUTSUFAITA.md)
 
-<img src="img/234_SPIRITUS_front.png"> <img src="img/234_SPIRITUS_shiny.png"> <img src="../../pokemon/animated/234_SPIRITUS.gif">
+<img src="img/234_SPIRITUS_front.png"> <img src="img/234_SPIRITUS_shiny.png">
 
-<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/234_SPIRITUS.gif"> <img src="../../pokemon/animated/shiny/234_SPIRITUS.gif">
+
+<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/16_EQUINE_icon.png"> <sub>party icon</sub>
 

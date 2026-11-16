@@ -2,9 +2,13 @@
 
 [← 108 PUKALOT](108_PUKALOT.md) · [Pokédex](../pokedex.md) · [110 LUNGANSER →](110_LUNGANSER.md)
 
-<img src="img/109_SARSARAS_front.png"> <img src="img/109_SARSARAS_shiny.png"> <img src="../../pokemon/animated/109_SARSARAS.gif">
+<img src="img/109_SARSARAS_front.png"> <img src="img/109_SARSARAS_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/109_SARSARAS.gif"> <img src="../../pokemon/animated/shiny/109_SARSARAS.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/109_SARSARAS_frames.png">
 

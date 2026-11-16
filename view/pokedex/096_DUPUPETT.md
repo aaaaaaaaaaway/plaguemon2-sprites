@@ -2,9 +2,13 @@
 
 [← 095 OBSIDIAN](095_OBSIDIAN.md) · [Pokédex](../pokedex.md) · [097 BURHAT →](097_BURHAT.md)
 
-<img src="img/096_DUPUPETT_front.png"> <img src="img/096_DUPUPETT_shiny.png"> <img src="../../pokemon/animated/096_DUPUPETT.gif">
+<img src="img/096_DUPUPETT_front.png"> <img src="img/096_DUPUPETT_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/096_DUPUPETT.gif"> <img src="../../pokemon/animated/shiny/096_DUPUPETT.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/096_DUPUPETT_frames.png">
 

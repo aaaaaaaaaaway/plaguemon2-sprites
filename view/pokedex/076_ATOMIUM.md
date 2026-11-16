@@ -2,9 +2,13 @@
 
 [← 075 PLUTONIUM](075_PLUTONIUM.md) · [Pokédex](../pokedex.md) · [077 HELLESTO →](077_HELLESTO.md)
 
-<img src="img/076_ATOMIUM_front.png"> <img src="img/076_ATOMIUM_shiny.png"> <img src="../../pokemon/animated/076_ATOMIUM.gif">
+<img src="img/076_ATOMIUM_front.png"> <img src="img/076_ATOMIUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/076_ATOMIUM.gif"> <img src="../../pokemon/animated/shiny/076_ATOMIUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/076_ATOMIUM_frames.png">
 

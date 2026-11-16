@@ -2,9 +2,13 @@
 
 [← 008 SCOLANO](008_SCOLANO.md) · [Pokédex](../pokedex.md) · [010 GUNBAG →](010_GUNBAG.md)
 
-<img src="img/009_SCOLENE_front.png"> <img src="img/009_SCOLENE_shiny.png"> <img src="../../pokemon/animated/009_SCOLENE.gif">
+<img src="img/009_SCOLENE_front.png"> <img src="img/009_SCOLENE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/009_SCOLENE.gif"> <img src="../../pokemon/animated/shiny/009_SCOLENE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/009_SCOLENE_frames.png">
 

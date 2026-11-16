@@ -2,9 +2,13 @@
 
 [← 002 COCAZOR](002_COCAZOR.md) · [Pokédex](../pokedex.md) · [004 CHARMHELL →](004_CHARMHELL.md)
 
-<img src="img/003_OPIUMZOR_front.png"> <img src="img/003_OPIUMZOR_shiny.png"> <img src="../../pokemon/animated/003_OPIUMZOR.gif">
+<img src="img/003_OPIUMZOR_front.png"> <img src="img/003_OPIUMZOR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/003_OPIUMZOR.gif"> <img src="../../pokemon/animated/shiny/003_OPIUMZOR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/003_OPIUMZOR_frames.png">
 

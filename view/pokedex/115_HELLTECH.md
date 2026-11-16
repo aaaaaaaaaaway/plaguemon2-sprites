@@ -2,9 +2,13 @@
 
 [← 114 WORMICELLI](114_WORMICELLI.md) · [Pokédex](../pokedex.md) · [116 COCKY →](116_COCKY.md)
 
-<img src="img/115_HELLTECH_front.png"> <img src="img/115_HELLTECH_shiny.png"> <img src="../../pokemon/animated/115_HELLTECH.gif">
+<img src="img/115_HELLTECH_front.png"> <img src="img/115_HELLTECH_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/115_HELLTECH.gif"> <img src="../../pokemon/animated/shiny/115_HELLTECH.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/115_HELLTECH_frames.png">
 

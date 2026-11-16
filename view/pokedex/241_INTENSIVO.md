@@ -2,9 +2,13 @@
 
 [← 240 CARBIFY](240_CARBIFY.md) · [Pokédex](../pokedex.md) · [242 POSTPARTOU →](242_POSTPARTOU.md)
 
-<img src="img/241_INTENSIVO_front.png"> <img src="img/241_INTENSIVO_shiny.png"> <img src="../../pokemon/animated/241_INTENSIVO.gif">
+<img src="img/241_INTENSIVO_front.png"> <img src="img/241_INTENSIVO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/241_INTENSIVO.gif"> <img src="../../pokemon/animated/shiny/241_INTENSIVO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/241_INTENSIVO_frames.png">
 

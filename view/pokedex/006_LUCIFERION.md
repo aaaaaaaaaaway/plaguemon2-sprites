@@ -2,9 +2,13 @@
 
 [← 005 BELIALEON](005_BELIALEON.md) · [Pokédex](../pokedex.md) · [007 SCOLINA →](007_SCOLINA.md)
 
-<img src="img/006_LUCIFERION_front.png"> <img src="img/006_LUCIFERION_shiny.png"> <img src="../../pokemon/animated/006_LUCIFERION.gif">
+<img src="img/006_LUCIFERION_front.png"> <img src="img/006_LUCIFERION_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/006_LUCIFERION.gif"> <img src="../../pokemon/animated/shiny/006_LUCIFERION.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/006_LUCIFERION_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 125 VOLCUTION](125_VOLCUTION.md) · [Pokédex](../pokedex.md) · [127 SHAMABOO →](127_SHAMABOO.md)
 
-<img src="img/126_BURNAR_front.png"> <img src="img/126_BURNAR_shiny.png"> <img src="../../pokemon/animated/126_BURNAR.gif">
+<img src="img/126_BURNAR_front.png"> <img src="img/126_BURNAR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/126_BURNAR.gif"> <img src="../../pokemon/animated/shiny/126_BURNAR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/126_BURNAR_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 053 TENKA](053_TENKA.md) · [Pokédex](../pokedex.md) · [055 DUKAKIS →](055_DUKAKIS.md)
 
-<img src="img/054_WORMACK_front.png"> <img src="img/054_WORMACK_shiny.png"> <img src="../../pokemon/animated/054_WORMACK.gif">
+<img src="img/054_WORMACK_front.png"> <img src="img/054_WORMACK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/054_WORMACK.gif"> <img src="../../pokemon/animated/shiny/054_WORMACK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/054_WORMACK_frames.png">
 

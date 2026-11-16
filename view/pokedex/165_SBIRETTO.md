@@ -2,9 +2,13 @@
 
 [← 164 ROBBINOWL](164_ROBBINOWL.md) · [Pokédex](../pokedex.md) · [166 FACISTA →](166_FACISTA.md)
 
-<img src="img/165_SBIRETTO_front.png"> <img src="img/165_SBIRETTO_shiny.png"> <img src="../../pokemon/animated/165_SBIRETTO.gif">
+<img src="img/165_SBIRETTO_front.png"> <img src="img/165_SBIRETTO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/165_SBIRETTO.gif"> <img src="../../pokemon/animated/shiny/165_SBIRETTO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/165_SBIRETTO_frames.png">
 

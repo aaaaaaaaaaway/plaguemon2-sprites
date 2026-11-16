@@ -2,9 +2,13 @@
 
 [← 103 MASKABUKI](103_MASKABUKI.md) · [Pokédex](../pokedex.md) · [105 TERORISTO →](105_TERORISTO.md)
 
-<img src="img/104_RIOTTO_front.png"> <img src="img/104_RIOTTO_shiny.png"> <img src="../../pokemon/animated/104_RIOTTO.gif">
+<img src="img/104_RIOTTO_front.png"> <img src="img/104_RIOTTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/104_RIOTTO.gif"> <img src="../../pokemon/animated/shiny/104_RIOTTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/104_RIOTTO_frames.png">
 

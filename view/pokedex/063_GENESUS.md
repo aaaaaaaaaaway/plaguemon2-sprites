@@ -2,9 +2,13 @@
 
 [← 062 SMEGMATIC](062_SMEGMATIC.md) · [Pokédex](../pokedex.md) · [064 PROFETUS →](064_PROFETUS.md)
 
-<img src="img/063_GENESUS_front.png"> <img src="img/063_GENESUS_shiny.png"> <img src="../../pokemon/animated/063_GENESUS.gif">
+<img src="img/063_GENESUS_front.png"> <img src="img/063_GENESUS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/063_GENESUS.gif"> <img src="../../pokemon/animated/shiny/063_GENESUS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/063_GENESUS_frames.png">
 

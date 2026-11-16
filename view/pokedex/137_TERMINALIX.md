@@ -2,9 +2,13 @@
 
 [← 136 CERBERION](136_CERBERION.md) · [Pokédex](../pokedex.md) · [138 SHARPIDER →](138_SHARPIDER.md)
 
-<img src="img/137_TERMINALIX_front.png"> <img src="img/137_TERMINALIX_shiny.png"> <img src="../../pokemon/animated/137_TERMINALIX.gif">
+<img src="img/137_TERMINALIX_front.png"> <img src="img/137_TERMINALIX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/137_TERMINALIX.gif"> <img src="../../pokemon/animated/shiny/137_TERMINALIX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/137_TERMINALIX_frames.png">
 

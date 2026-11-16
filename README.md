@@ -12,7 +12,7 @@ Graphics unchanged from Pokémon Crystal are left out.
 
 <table><tr><td align="center" valign="top"><a href="view/pokemon/generation-1-pokemon.md"><img src="thumbs/pokemon/generation-1-pokemon.png"></a><br><a href="view/pokemon/generation-1-pokemon.md">Generation 1 Pokémon</a> <sub><a href="pokemon/generation-1-pokemon.png">1×</a></sub></td><td align="center" valign="top"><a href="view/pokemon/generation-2-pokemon.md"><img src="thumbs/pokemon/generation-2-pokemon.png"></a><br><a href="view/pokemon/generation-2-pokemon.md">Generation 2 Pokémon</a> <sub><a href="pokemon/generation-2-pokemon.png">1×</a></sub></td><td align="center" valign="top"><a href="view/pokemon/unown-formes.md"><img src="thumbs/pokemon/unown-formes.png"></a><br><a href="view/pokemon/unown-formes.md">Unown Formes</a> <sub>Paratypes</sub> <sub><a href="pokemon/unown-formes.png">1×</a></sub></td></tr></table>
 
-**[Pokédex](view/pokedex.md)**: every monster with all sprites, animation and stats · [Animated battle sprites](view/animated.md)
+**[Pokédex](view/pokedex.md)**: every monster with all sprites, animation and stats · [Animated battle sprites](view/animated.md) ([shiny](view/animated-shiny.md))
 
 ## Backgrounds (Routes)
 

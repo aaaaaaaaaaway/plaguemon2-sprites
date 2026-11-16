@@ -2,9 +2,13 @@
 
 [← 203 ENIGMAGUS](203_ENIGMAGUS.md) · [Pokédex](../pokedex.md) · [205 /NEURONET →](205_NEURONET.md)
 
-<img src="img/204_HIDENLAYER_front.png"> <img src="img/204_HIDENLAYER_shiny.png"> <img src="../../pokemon/animated/204_HIDENLAYER.gif">
+<img src="img/204_HIDENLAYER_front.png"> <img src="img/204_HIDENLAYER_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/204_HIDENLAYER.gif"> <img src="../../pokemon/animated/shiny/204_HIDENLAYER.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/204_HIDENLAYER_frames.png">
 

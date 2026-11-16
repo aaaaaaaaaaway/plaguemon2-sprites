@@ -2,9 +2,13 @@
 
 [← 035 CRISTALIA](035_CRISTALIA.md) · [Pokédex](../pokedex.md) · [037 NYMPHAX →](037_NYMPHAX.md)
 
-<img src="img/036_AMELITA_front.png"> <img src="img/036_AMELITA_shiny.png"> <img src="../../pokemon/animated/036_AMELITA.gif">
+<img src="img/036_AMELITA_front.png"> <img src="img/036_AMELITA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/036_AMELITA.gif"> <img src="../../pokemon/animated/shiny/036_AMELITA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/036_AMELITA_frames.png">
 

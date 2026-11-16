@@ -2,9 +2,13 @@
 
 [← 090 SHELLDER](090_SHELLDER.md) · [Pokédex](../pokedex.md) · [092 GOSBAMP →](092_GOSBAMP.md)
 
-<img src="img/091_VAGINDAM_front.png"> <img src="img/091_VAGINDAM_shiny.png"> <img src="../../pokemon/animated/091_VAGINDAM.gif">
+<img src="img/091_VAGINDAM_front.png"> <img src="img/091_VAGINDAM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/091_VAGINDAM.gif"> <img src="../../pokemon/animated/shiny/091_VAGINDAM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/091_VAGINDAM_frames.png">
 

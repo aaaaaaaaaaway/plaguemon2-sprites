@@ -2,9 +2,13 @@
 
 [← 028 SPHINXO](028_SPHINXO.md) · [Pokédex](../pokedex.md) · [030 HANDA →](030_HANDA.md)
 
-<img src="img/029_FINGAH_front.png"> <img src="img/029_FINGAH_shiny.png"> <img src="../../pokemon/animated/029_FINGAH.gif">
+<img src="img/029_FINGAH_front.png"> <img src="img/029_FINGAH_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/029_FINGAH.gif"> <img src="../../pokemon/animated/shiny/029_FINGAH.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/029_FINGAH_frames.png">
 

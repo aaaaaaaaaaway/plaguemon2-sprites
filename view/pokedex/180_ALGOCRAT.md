@@ -2,9 +2,13 @@
 
 [← 179 BINARIA](179_BINARIA.md) · [Pokédex](../pokedex.md) · [181 DICTAITOR →](181_DICTAITOR.md)
 
-<img src="img/180_ALGOCRAT_front.png"> <img src="img/180_ALGOCRAT_shiny.png"> <img src="../../pokemon/animated/180_ALGOCRAT.gif">
+<img src="img/180_ALGOCRAT_front.png"> <img src="img/180_ALGOCRAT_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/180_ALGOCRAT.gif"> <img src="../../pokemon/animated/shiny/180_ALGOCRAT.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/180_ALGOCRAT_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 131 KARONTIS](131_KARONTIS.md) · [Pokédex](../pokedex.md) · [133 DEADDOG →](133_DEADDOG.md)
 
-<img src="img/132_SHITTO_front.png"> <img src="img/132_SHITTO_shiny.png"> <img src="../../pokemon/animated/132_SHITTO.gif">
+<img src="img/132_SHITTO_front.png"> <img src="img/132_SHITTO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/132_SHITTO.gif"> <img src="../../pokemon/animated/shiny/132_SHITTO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/132_SHITTO_frames.png">
 

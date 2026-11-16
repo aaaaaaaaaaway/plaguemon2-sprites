@@ -2,9 +2,13 @@
 
 [← 074 URANIUM](074_URANIUM.md) · [Pokédex](../pokedex.md) · [076 ATOMIUM →](076_ATOMIUM.md)
 
-<img src="img/075_PLUTONIUM_front.png"> <img src="img/075_PLUTONIUM_shiny.png"> <img src="../../pokemon/animated/075_PLUTONIUM.gif">
+<img src="img/075_PLUTONIUM_front.png"> <img src="img/075_PLUTONIUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/075_PLUTONIUM.gif"> <img src="../../pokemon/animated/shiny/075_PLUTONIUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/075_PLUTONIUM_frames.png">
 

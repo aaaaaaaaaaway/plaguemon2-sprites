@@ -2,9 +2,13 @@
 
 [← 085 PSICOTO](085_PSICOTO.md) · [Pokédex](../pokedex.md) · [087 MEGADIL500 →](087_MEGADIL500.md)
 
-<img src="img/086_MEGADIL_front.png"> <img src="img/086_MEGADIL_shiny.png"> <img src="../../pokemon/animated/086_MEGADIL.gif">
+<img src="img/086_MEGADIL_front.png"> <img src="img/086_MEGADIL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/086_MEGADIL.gif"> <img src="../../pokemon/animated/shiny/086_MEGADIL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/086_MEGADIL_frames.png">
 

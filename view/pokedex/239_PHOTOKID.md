@@ -2,9 +2,13 @@
 
 [← 238 LOLIPLEX](238_LOLIPLEX.md) · [Pokédex](../pokedex.md) · [240 CARBIFY →](240_CARBIFY.md)
 
-<img src="img/239_PHOTOKID_front.png"> <img src="img/239_PHOTOKID_shiny.png"> <img src="../../pokemon/animated/239_PHOTOKID.gif">
+<img src="img/239_PHOTOKID_front.png"> <img src="img/239_PHOTOKID_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/239_PHOTOKID.gif"> <img src="../../pokemon/animated/shiny/239_PHOTOKID.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/239_PHOTOKID_frames.png">
 

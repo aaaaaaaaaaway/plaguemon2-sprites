@@ -2,9 +2,13 @@
 
 [← 245 SKYLITE](245_SKYLITE.md) · [Pokédex](../pokedex.md) · [247 MYCOTAR →](247_MYCOTAR.md)
 
-<img src="img/246_SEBUTAR_front.png"> <img src="img/246_SEBUTAR_shiny.png"> <img src="../../pokemon/animated/246_SEBUTAR.gif">
+<img src="img/246_SEBUTAR_front.png"> <img src="img/246_SEBUTAR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/246_SEBUTAR.gif"> <img src="../../pokemon/animated/shiny/246_SEBUTAR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/246_SEBUTAR_frames.png">
 

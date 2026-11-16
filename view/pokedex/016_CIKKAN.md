@@ -2,9 +2,13 @@
 
 [← 015 CAMOGATL](015_CAMOGATL.md) · [Pokédex](../pokedex.md) · [017 UBERBIRO →](017_UBERBIRO.md)
 
-<img src="img/016_CIKKAN_front.png"> <img src="img/016_CIKKAN_shiny.png"> <img src="../../pokemon/animated/016_CIKKAN.gif">
+<img src="img/016_CIKKAN_front.png"> <img src="img/016_CIKKAN_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/016_CIKKAN.gif"> <img src="../../pokemon/animated/shiny/016_CIKKAN.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/016_CIKKAN_frames.png">
 

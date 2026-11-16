@@ -2,9 +2,13 @@
 
 [← 173 VOIDILIA](173_VOIDILIA.md) · [Pokédex](../pokedex.md) · [175 VENOSO →](175_VENOSO.md)
 
-<img src="img/174_RETINOL_front.png"> <img src="img/174_RETINOL_shiny.png"> <img src="../../pokemon/animated/174_RETINOL.gif">
+<img src="img/174_RETINOL_front.png"> <img src="img/174_RETINOL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/174_RETINOL.gif"> <img src="../../pokemon/animated/shiny/174_RETINOL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/174_RETINOL_frames.png">
 

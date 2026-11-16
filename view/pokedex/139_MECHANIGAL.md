@@ -2,9 +2,13 @@
 
 [← 138 SHARPIDER](138_SHARPIDER.md) · [Pokédex](../pokedex.md) · [140 ZIRLORG →](140_ZIRLORG.md)
 
-<img src="img/139_MECHANIGAL_front.png"> <img src="img/139_MECHANIGAL_shiny.png"> <img src="../../pokemon/animated/139_MECHANIGAL.gif">
+<img src="img/139_MECHANIGAL_front.png"> <img src="img/139_MECHANIGAL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/139_MECHANIGAL.gif"> <img src="../../pokemon/animated/shiny/139_MECHANIGAL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/139_MECHANIGAL_frames.png">
 

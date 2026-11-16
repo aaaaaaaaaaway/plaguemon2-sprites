@@ -2,9 +2,13 @@
 
 [← 184 KONTROLIO](184_KONTROLIO.md) · [Pokédex](../pokedex.md) · [186 FETUSO →](186_FETUSO.md)
 
-<img src="img/185_AOKIGAKA_front.png"> <img src="img/185_AOKIGAKA_shiny.png"> <img src="../../pokemon/animated/185_AOKIGAKA.gif">
+<img src="img/185_AOKIGAKA_front.png"> <img src="img/185_AOKIGAKA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/185_AOKIGAKA.gif"> <img src="../../pokemon/animated/shiny/185_AOKIGAKA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/185_AOKIGAKA_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 060 SPERMOTZ](060_SPERMOTZ.md) · [Pokédex](../pokedex.md) · [062 SMEGMATIC →](062_SMEGMATIC.md)
 
-<img src="img/061_PROLIFIK_front.png"> <img src="img/061_PROLIFIK_shiny.png"> <img src="../../pokemon/animated/061_PROLIFIK.gif">
+<img src="img/061_PROLIFIK_front.png"> <img src="img/061_PROLIFIK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/061_PROLIFIK.gif"> <img src="../../pokemon/animated/shiny/061_PROLIFIK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/061_PROLIFIK_frames.png">
 

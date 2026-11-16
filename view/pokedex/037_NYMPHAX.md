@@ -2,9 +2,13 @@
 
 [← 036 AMELITA](036_AMELITA.md) · [Pokédex](../pokedex.md) · [038 KITSUNAIL →](038_KITSUNAIL.md)
 
-<img src="img/037_NYMPHAX_front.png"> <img src="img/037_NYMPHAX_shiny.png"> <img src="../../pokemon/animated/037_NYMPHAX.gif">
+<img src="img/037_NYMPHAX_front.png"> <img src="img/037_NYMPHAX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/037_NYMPHAX.gif"> <img src="../../pokemon/animated/shiny/037_NYMPHAX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/037_NYMPHAX_frames.png">
 

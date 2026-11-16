@@ -2,9 +2,13 @@
 
 [← 078 FAXHIRO](078_FAXHIRO.md) · [Pokédex](../pokedex.md) · [080 KORNUPIAK →](080_KORNUPIAK.md)
 
-<img src="img/079_SLOWGHOST_front.png"> <img src="img/079_SLOWGHOST_shiny.png"> <img src="../../pokemon/animated/079_SLOWGHOST.gif">
+<img src="img/079_SLOWGHOST_front.png"> <img src="img/079_SLOWGHOST_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/079_SLOWGHOST.gif"> <img src="../../pokemon/animated/shiny/079_SLOWGHOST.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/079_SLOWGHOST_frames.png">
 

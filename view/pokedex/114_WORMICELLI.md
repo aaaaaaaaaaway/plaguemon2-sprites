@@ -2,9 +2,13 @@
 
 [← 113 PREGNANTA](113_PREGNANTA.md) · [Pokédex](../pokedex.md) · [115 HELLTECH →](115_HELLTECH.md)
 
-<img src="img/114_WORMICELLI_front.png"> <img src="img/114_WORMICELLI_shiny.png"> <img src="../../pokemon/animated/114_WORMICELLI.gif">
+<img src="img/114_WORMICELLI_front.png"> <img src="img/114_WORMICELLI_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/114_WORMICELLI.gif"> <img src="../../pokemon/animated/shiny/114_WORMICELLI.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/114_WORMICELLI_frames.png">
 

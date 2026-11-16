@@ -2,9 +2,13 @@
 
 [← 026 RAICHEWEDZ](026_RAICHEWEDZ.md) · [Pokédex](../pokedex.md) · [028 SPHINXO →](028_SPHINXO.md)
 
-<img src="img/027_PAPYRYU_front.png"> <img src="img/027_PAPYRYU_shiny.png"> <img src="../../pokemon/animated/027_PAPYRYU.gif">
+<img src="img/027_PAPYRYU_front.png"> <img src="img/027_PAPYRYU_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/027_PAPYRYU.gif"> <img src="../../pokemon/animated/shiny/027_PAPYRYU.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/027_PAPYRYU_frames.png">
 

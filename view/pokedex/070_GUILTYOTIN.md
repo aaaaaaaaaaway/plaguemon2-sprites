@@ -2,9 +2,13 @@
 
 [← 069 PILLORYD](069_PILLORYD.md) · [Pokédex](../pokedex.md) · [071 NORIMBERGU →](071_NORIMBERGU.md)
 
-<img src="img/070_GUILTYOTIN_front.png"> <img src="img/070_GUILTYOTIN_shiny.png"> <img src="../../pokemon/animated/070_GUILTYOTIN.gif">
+<img src="img/070_GUILTYOTIN_front.png"> <img src="img/070_GUILTYOTIN_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/070_GUILTYOTIN.gif"> <img src="../../pokemon/animated/shiny/070_GUILTYOTIN.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/070_GUILTYOTIN_frames.png">
 

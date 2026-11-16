@@ -2,9 +2,13 @@
 
 [← 207 TWOMEWTWO](207_TWOMEWTWO.md) · [Pokédex](../pokedex.md) · [209 BLEKHOLIA →](209_BLEKHOLIA.md)
 
-<img src="img/208_HYDRAGYRUM_front.png"> <img src="img/208_HYDRAGYRUM_shiny.png"> <img src="../../pokemon/animated/208_HYDRAGYRUM.gif">
+<img src="img/208_HYDRAGYRUM_front.png"> <img src="img/208_HYDRAGYRUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/208_HYDRAGYRUM.gif"> <img src="../../pokemon/animated/shiny/208_HYDRAGYRUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/208_HYDRAGYRUM_frames.png">
 

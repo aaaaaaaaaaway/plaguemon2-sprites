@@ -2,9 +2,13 @@
 
 [← 146 MOLCOPY](146_MOLCOPY.md) · [Pokédex](../pokedex.md) · [148 SERAPHIUM →](148_SERAPHIUM.md)
 
-<img src="img/147_CHERUBIUM_front.png"> <img src="img/147_CHERUBIUM_shiny.png"> <img src="../../pokemon/animated/147_CHERUBIUM.gif">
+<img src="img/147_CHERUBIUM_front.png"> <img src="img/147_CHERUBIUM_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/147_CHERUBIUM.gif"> <img src="../../pokemon/animated/shiny/147_CHERUBIUM.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/147_CHERUBIUM_frames.png">
 

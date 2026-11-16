@@ -2,9 +2,13 @@
 
 [← 057 NAGASAK](057_NAGASAK.md) · [Pokédex](../pokedex.md) · [059 BJORN →](059_BJORN.md)
 
-<img src="img/058_SCRATCHY_front.png"> <img src="img/058_SCRATCHY_shiny.png"> <img src="../../pokemon/animated/058_SCRATCHY.gif">
+<img src="img/058_SCRATCHY_front.png"> <img src="img/058_SCRATCHY_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/058_SCRATCHY.gif"> <img src="../../pokemon/animated/shiny/058_SCRATCHY.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/058_SCRATCHY_frames.png">
 

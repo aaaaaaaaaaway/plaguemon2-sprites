@@ -2,9 +2,13 @@
 
 [← 144 ARTICLONE](144_ARTICLONE.md) · [Pokédex](../pokedex.md) · [146 MOLCOPY →](146_MOLCOPY.md)
 
-<img src="img/145_ZAPGOLD_front.png"> <img src="img/145_ZAPGOLD_shiny.png"> <img src="../../pokemon/animated/145_ZAPGOLD.gif">
+<img src="img/145_ZAPGOLD_front.png"> <img src="img/145_ZAPGOLD_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/145_ZAPGOLD.gif"> <img src="../../pokemon/animated/shiny/145_ZAPGOLD.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/145_ZAPGOLD_frames.png">
 

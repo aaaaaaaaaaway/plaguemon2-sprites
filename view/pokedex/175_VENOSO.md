@@ -2,9 +2,13 @@
 
 [← 174 RETINOL](174_RETINOL.md) · [Pokédex](../pokedex.md) · [176 VENESCO →](176_VENESCO.md)
 
-<img src="img/175_VENOSO_front.png"> <img src="img/175_VENOSO_shiny.png"> <img src="../../pokemon/animated/175_VENOSO.gif">
+<img src="img/175_VENOSO_front.png"> <img src="img/175_VENOSO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/175_VENOSO.gif"> <img src="../../pokemon/animated/shiny/175_VENOSO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/175_VENOSO_frames.png">
 

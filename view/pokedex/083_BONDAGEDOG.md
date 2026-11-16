@@ -2,9 +2,13 @@
 
 [← 082 SORAYAMBOT](082_SORAYAMBOT.md) · [Pokédex](../pokedex.md) · [084 BIPOLARIO →](084_BIPOLARIO.md)
 
-<img src="img/083_BONDAGEDOG_front.png"> <img src="img/083_BONDAGEDOG_shiny.png"> <img src="../../pokemon/animated/083_BONDAGEDOG.gif">
+<img src="img/083_BONDAGEDOG_front.png"> <img src="img/083_BONDAGEDOG_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/083_BONDAGEDOG.gif"> <img src="../../pokemon/animated/shiny/083_BONDAGEDOG.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/083_BONDAGEDOG_frames.png">
 

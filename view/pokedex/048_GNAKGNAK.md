@@ -2,9 +2,13 @@
 
 [← 047 PSILOCYBO](047_PSILOCYBO.md) · [Pokédex](../pokedex.md) · [049 CHORDYCEPS →](049_CHORDYCEPS.md)
 
-<img src="img/048_GNAKGNAK_front.png"> <img src="img/048_GNAKGNAK_shiny.png"> <img src="../../pokemon/animated/048_GNAKGNAK.gif">
+<img src="img/048_GNAKGNAK_front.png"> <img src="img/048_GNAKGNAK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/048_GNAKGNAK.gif"> <img src="../../pokemon/animated/shiny/048_GNAKGNAK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/048_GNAKGNAK_frames.png">
 

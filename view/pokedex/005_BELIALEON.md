@@ -2,9 +2,13 @@
 
 [← 004 CHARMHELL](004_CHARMHELL.md) · [Pokédex](../pokedex.md) · [006 LUCIFERION →](006_LUCIFERION.md)
 
-<img src="img/005_BELIALEON_front.png"> <img src="img/005_BELIALEON_shiny.png"> <img src="../../pokemon/animated/005_BELIALEON.gif">
+<img src="img/005_BELIALEON_front.png"> <img src="img/005_BELIALEON_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/005_BELIALEON.gif"> <img src="../../pokemon/animated/shiny/005_BELIALEON.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/005_BELIALEON_frames.png">
 

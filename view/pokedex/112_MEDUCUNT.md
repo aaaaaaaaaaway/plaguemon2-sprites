@@ -2,9 +2,13 @@
 
 [← 111 ELICORPS](111_ELICORPS.md) · [Pokédex](../pokedex.md) · [113 PREGNANTA →](113_PREGNANTA.md)
 
-<img src="img/112_MEDUCUNT_front.png"> <img src="img/112_MEDUCUNT_shiny.png"> <img src="../../pokemon/animated/112_MEDUCUNT.gif">
+<img src="img/112_MEDUCUNT_front.png"> <img src="img/112_MEDUCUNT_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/112_MEDUCUNT.gif"> <img src="../../pokemon/animated/shiny/112_MEDUCUNT.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/112_MEDUCUNT_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 162 JIHADO](162_JIHADO.md) · [Pokédex](../pokedex.md) · [164 ROBBINOWL →](164_ROBBINOWL.md)
 
-<img src="img/163_BALAKLOWL_front.png"> <img src="img/163_BALAKLOWL_shiny.png"> <img src="../../pokemon/animated/163_BALAKLOWL.gif">
+<img src="img/163_BALAKLOWL_front.png"> <img src="img/163_BALAKLOWL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/163_BALAKLOWL.gif"> <img src="../../pokemon/animated/shiny/163_BALAKLOWL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/163_BALAKLOWL_frames.png">
 

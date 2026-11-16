@@ -2,9 +2,13 @@
 
 [← 155 SCARFITO](155_SCARFITO.md) · [Pokédex](../pokedex.md) · [157 INFERNATUS →](157_INFERNATUS.md)
 
-<img src="img/156_CRUXADO_front.png"> <img src="img/156_CRUXADO_shiny.png"> <img src="../../pokemon/animated/156_CRUXADO.gif">
+<img src="img/156_CRUXADO_front.png"> <img src="img/156_CRUXADO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/156_CRUXADO.gif"> <img src="../../pokemon/animated/shiny/156_CRUXADO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/156_CRUXADO_frames.png">
 

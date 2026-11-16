@@ -2,9 +2,13 @@
 
 [← 020 RATOZZO](020_RATOZZO.md) · [Pokédex](../pokedex.md) · [022 SGLARFO →](022_SGLARFO.md)
 
-<img src="img/021_SBLARFO_front.png"> <img src="img/021_SBLARFO_shiny.png"> <img src="../../pokemon/animated/021_SBLARFO.gif">
+<img src="img/021_SBLARFO_front.png"> <img src="img/021_SBLARFO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/021_SBLARFO.gif"> <img src="../../pokemon/animated/shiny/021_SBLARFO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/021_SBLARFO_frames.png">
 

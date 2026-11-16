@@ -2,9 +2,13 @@
 
 [← 161 BURQO](161_BURQO.md) · [Pokédex](../pokedex.md) · [163 BALAKLOWL →](163_BALAKLOWL.md)
 
-<img src="img/162_JIHADO_front.png"> <img src="img/162_JIHADO_shiny.png"> <img src="../../pokemon/animated/162_JIHADO.gif">
+<img src="img/162_JIHADO_front.png"> <img src="img/162_JIHADO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/162_JIHADO.gif"> <img src="../../pokemon/animated/shiny/162_JIHADO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/162_JIHADO_frames.png">
 

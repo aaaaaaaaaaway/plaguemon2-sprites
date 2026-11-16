@@ -2,9 +2,13 @@
 
 [← 229 HOUNDOOM](229_HOUNDOOM.md) · [Pokédex](../pokedex.md) · [234 SPIRITUS →](234_SPIRITUS.md)
 
-<img src="img/230_HERMAPHROD_front.png"> <img src="img/230_HERMAPHROD_shiny.png"> <img src="../../pokemon/animated/230_HERMAPHROD.gif">
+<img src="img/230_HERMAPHROD_front.png"> <img src="img/230_HERMAPHROD_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/230_HERMAPHROD.gif"> <img src="../../pokemon/animated/shiny/230_HERMAPHROD.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/230_HERMAPHROD_frames.png">
 

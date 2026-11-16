@@ -2,9 +2,13 @@
 
 [← 088 GRINDED](088_GRINDED.md) · [Pokédex](../pokedex.md) · [090 SHELLDER →](090_SHELLDER.md)
 
-<img src="img/089_KUMORAH_front.png"> <img src="img/089_KUMORAH_shiny.png"> <img src="../../pokemon/animated/089_KUMORAH.gif">
+<img src="img/089_KUMORAH_front.png"> <img src="img/089_KUMORAH_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/089_KUMORAH.gif"> <img src="../../pokemon/animated/shiny/089_KUMORAH.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/089_KUMORAH_frames.png">
 

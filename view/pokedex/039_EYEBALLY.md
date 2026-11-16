@@ -2,9 +2,13 @@
 
 [← 038 KITSUNAIL](038_KITSUNAIL.md) · [Pokédex](../pokedex.md) · [040 KAWAIKAGO →](040_KAWAIKAGO.md)
 
-<img src="img/039_EYEBALLY_front.png"> <img src="img/039_EYEBALLY_shiny.png"> <img src="../../pokemon/animated/039_EYEBALLY.gif">
+<img src="img/039_EYEBALLY_front.png"> <img src="img/039_EYEBALLY_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/039_EYEBALLY.gif"> <img src="../../pokemon/animated/shiny/039_EYEBALLY.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/039_EYEBALLY_frames.png">
 

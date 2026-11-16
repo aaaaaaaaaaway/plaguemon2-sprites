@@ -2,9 +2,13 @@
 
 [← 066 ANOREX](066_ANOREX.md) · [Pokédex](../pokedex.md) · [068 KONGORISH →](068_KONGORISH.md)
 
-<img src="img/067_STERODO_front.png"> <img src="img/067_STERODO_shiny.png"> <img src="../../pokemon/animated/067_STERODO.gif">
+<img src="img/067_STERODO_front.png"> <img src="img/067_STERODO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/067_STERODO.gif"> <img src="../../pokemon/animated/shiny/067_STERODO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/067_STERODO_frames.png">
 

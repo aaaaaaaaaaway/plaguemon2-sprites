@@ -2,9 +2,13 @@
 
 [← 097 BURHAT](097_BURHAT.md) · [Pokédex](../pokedex.md) · [099 NUKEBARL →](099_NUKEBARL.md)
 
-<img src="img/098_TOXIWASTE_front.png"> <img src="img/098_TOXIWASTE_shiny.png"> <img src="../../pokemon/animated/098_TOXIWASTE.gif">
+<img src="img/098_TOXIWASTE_front.png"> <img src="img/098_TOXIWASTE_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/098_TOXIWASTE.gif"> <img src="../../pokemon/animated/shiny/098_TOXIWASTE.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/098_TOXIWASTE_frames.png">
 

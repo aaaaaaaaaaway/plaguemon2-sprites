@@ -2,9 +2,13 @@
 
 [← 181 DICTAITOR](181_DICTAITOR.md) · [Pokédex](../pokedex.md) · [183 HALUAL →](183_HALUAL.md)
 
-<img src="img/182_MANDELBRO_front.png"> <img src="img/182_MANDELBRO_shiny.png"> <img src="../../pokemon/animated/182_MANDELBRO.gif">
+<img src="img/182_MANDELBRO_front.png"> <img src="img/182_MANDELBRO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/182_MANDELBRO.gif"> <img src="../../pokemon/animated/shiny/182_MANDELBRO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/182_MANDELBRO_frames.png">
 

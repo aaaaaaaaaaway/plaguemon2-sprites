@@ -2,9 +2,13 @@
 
 [← 034 KESARUS](034_KESARUS.md) · [Pokédex](../pokedex.md) · [036 AMELITA →](036_AMELITA.md)
 
-<img src="img/035_CRISTALIA_front.png"> <img src="img/035_CRISTALIA_shiny.png"> <img src="../../pokemon/animated/035_CRISTALIA.gif">
+<img src="img/035_CRISTALIA_front.png"> <img src="img/035_CRISTALIA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/035_CRISTALIA.gif"> <img src="../../pokemon/animated/shiny/035_CRISTALIA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/035_CRISTALIA_frames.png">
 

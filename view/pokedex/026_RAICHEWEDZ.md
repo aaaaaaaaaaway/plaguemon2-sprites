@@ -2,9 +2,13 @@
 
 [← 025 PIKACHEWED](025_PIKACHEWED.md) · [Pokédex](../pokedex.md) · [027 PAPYRYU →](027_PAPYRYU.md)
 
-<img src="img/026_RAICHEWEDZ_front.png"> <img src="img/026_RAICHEWEDZ_shiny.png"> <img src="../../pokemon/animated/026_RAICHEWEDZ.gif">
+<img src="img/026_RAICHEWEDZ_front.png"> <img src="img/026_RAICHEWEDZ_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/026_RAICHEWEDZ.gif"> <img src="../../pokemon/animated/shiny/026_RAICHEWEDZ.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/026_RAICHEWEDZ_frames.png">
 

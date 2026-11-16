@@ -2,9 +2,13 @@
 
 [← 169 TRIZOM](169_TRIZOM.md) · [Pokédex](../pokedex.md) · [171 SOVIETO →](171_SOVIETO.md)
 
-<img src="img/170_RELICTOU_front.png"> <img src="img/170_RELICTOU_shiny.png"> <img src="../../pokemon/animated/170_RELICTOU.gif">
+<img src="img/170_RELICTOU_front.png"> <img src="img/170_RELICTOU_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/170_RELICTOU.gif"> <img src="../../pokemon/animated/shiny/170_RELICTOU.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/170_RELICTOU_frames.png">
 

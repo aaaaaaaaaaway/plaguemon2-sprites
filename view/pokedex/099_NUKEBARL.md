@@ -2,9 +2,13 @@
 
 [← 098 TOXIWASTE](098_TOXIWASTE.md) · [Pokédex](../pokedex.md) · [100 KOWARENING →](100_KOWARENING.md)
 
-<img src="img/099_NUKEBARL_front.png"> <img src="img/099_NUKEBARL_shiny.png"> <img src="../../pokemon/animated/099_NUKEBARL.gif">
+<img src="img/099_NUKEBARL_front.png"> <img src="img/099_NUKEBARL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/099_NUKEBARL.gif"> <img src="../../pokemon/animated/shiny/099_NUKEBARL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/099_NUKEBARL_frames.png">
 

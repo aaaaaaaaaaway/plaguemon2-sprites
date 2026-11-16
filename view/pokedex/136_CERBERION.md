@@ -2,9 +2,13 @@
 
 [← 135 NUKENION](135_NUKENION.md) · [Pokédex](../pokedex.md) · [137 TERMINALIX →](137_TERMINALIX.md)
 
-<img src="img/136_CERBERION_front.png"> <img src="img/136_CERBERION_shiny.png"> <img src="../../pokemon/animated/136_CERBERION.gif">
+<img src="img/136_CERBERION_front.png"> <img src="img/136_CERBERION_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/136_CERBERION.gif"> <img src="../../pokemon/animated/shiny/136_CERBERION.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/136_CERBERION_frames.png">
 

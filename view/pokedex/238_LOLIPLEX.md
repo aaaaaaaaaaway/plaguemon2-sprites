@@ -2,9 +2,13 @@
 
 [← 237 JUTSUFAITA](237_JUTSUFAITA.md) · [Pokédex](../pokedex.md) · [239 PHOTOKID →](239_PHOTOKID.md)
 
-<img src="img/238_LOLIPLEX_front.png"> <img src="img/238_LOLIPLEX_shiny.png"> <img src="../../pokemon/animated/238_LOLIPLEX.gif">
+<img src="img/238_LOLIPLEX_front.png"> <img src="img/238_LOLIPLEX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/238_LOLIPLEX.gif"> <img src="../../pokemon/animated/shiny/238_LOLIPLEX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/238_LOLIPLEX_frames.png">
 

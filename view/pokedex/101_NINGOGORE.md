@@ -2,9 +2,13 @@
 
 [← 100 KOWARENING](100_KOWARENING.md) · [Pokédex](../pokedex.md) · [102 DARUMORT →](102_DARUMORT.md)
 
-<img src="img/101_NINGOGORE_front.png"> <img src="img/101_NINGOGORE_shiny.png"> <img src="../../pokemon/animated/101_NINGOGORE.gif">
+<img src="img/101_NINGOGORE_front.png"> <img src="img/101_NINGOGORE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/101_NINGOGORE.gif"> <img src="../../pokemon/animated/shiny/101_NINGOGORE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/101_NINGOGORE_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 150 MEWTATED](150_MEWTATED.md) · [Pokédex](../pokedex.md) · [152 STRAMONIUM →](152_STRAMONIUM.md)
 
-<img src="img/151_TWOMEW_front.png"> <img src="img/151_TWOMEW_shiny.png"> <img src="../../pokemon/animated/151_TWOMEW.gif">
+<img src="img/151_TWOMEW_front.png"> <img src="img/151_TWOMEW_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/151_TWOMEW.gif"> <img src="../../pokemon/animated/shiny/151_TWOMEW.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/151_TWOMEW_frames.png">
 

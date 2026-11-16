@@ -2,9 +2,13 @@
 
 [← 160 CROCOSNUFF](160_CROCOSNUFF.md) · [Pokédex](../pokedex.md) · [162 JIHADO →](162_JIHADO.md)
 
-<img src="img/161_BURQO_front.png"> <img src="img/161_BURQO_shiny.png"> <img src="../../pokemon/animated/161_BURQO.gif">
+<img src="img/161_BURQO_front.png"> <img src="img/161_BURQO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/161_BURQO.gif"> <img src="../../pokemon/animated/shiny/161_BURQO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/161_BURQO_frames.png">
 

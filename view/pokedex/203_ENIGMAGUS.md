@@ -2,9 +2,13 @@
 
 [← 202 CONDOMAX](202_CONDOMAX.md) · [Pokédex](../pokedex.md) · [204 HIDENLAYER →](204_HIDENLAYER.md)
 
-<img src="img/203_ENIGMAGUS_front.png"> <img src="img/203_ENIGMAGUS_shiny.png"> <img src="../../pokemon/animated/203_ENIGMAGUS.gif">
+<img src="img/203_ENIGMAGUS_front.png"> <img src="img/203_ENIGMAGUS_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/203_ENIGMAGUS.gif"> <img src="../../pokemon/animated/shiny/203_ENIGMAGUS.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/203_ENIGMAGUS_frames.png">
 

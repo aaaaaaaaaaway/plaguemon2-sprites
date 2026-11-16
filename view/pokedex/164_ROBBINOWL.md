@@ -2,9 +2,13 @@
 
 [← 163 BALAKLOWL](163_BALAKLOWL.md) · [Pokédex](../pokedex.md) · [165 SBIRETTO →](165_SBIRETTO.md)
 
-<img src="img/164_ROBBINOWL_front.png"> <img src="img/164_ROBBINOWL_shiny.png"> <img src="../../pokemon/animated/164_ROBBINOWL.gif">
+<img src="img/164_ROBBINOWL_front.png"> <img src="img/164_ROBBINOWL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/164_ROBBINOWL.gif"> <img src="../../pokemon/animated/shiny/164_ROBBINOWL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/164_ROBBINOWL_frames.png">
 

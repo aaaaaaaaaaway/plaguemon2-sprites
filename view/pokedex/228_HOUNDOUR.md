@@ -2,9 +2,13 @@
 
 [← 227 AXIOM:APEX](227_AXIOM_APEX.md) · [Pokédex](../pokedex.md) · [229 HOUNDOOM →](229_HOUNDOOM.md)
 
-<img src="img/228_HOUNDOUR_front.png"> <img src="img/228_HOUNDOUR_shiny.png"> <img src="../../pokemon/animated/228_HOUNDOUR.gif">
+<img src="img/228_HOUNDOUR_front.png"> <img src="img/228_HOUNDOUR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/228_HOUNDOUR.gif"> <img src="../../pokemon/animated/shiny/228_HOUNDOUR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/228_HOUNDOUR_frames.png">
 

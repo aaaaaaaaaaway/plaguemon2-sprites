@@ -2,9 +2,13 @@
 
 [← 092 GOSBAMP](092_GOSBAMP.md) · [Pokédex](../pokedex.md) · [094 TREROR →](094_TREROR.md)
 
-<img src="img/093_WRAITARL_front.png"> <img src="img/093_WRAITARL_shiny.png"> <img src="../../pokemon/animated/093_WRAITARL.gif">
+<img src="img/093_WRAITARL_front.png"> <img src="img/093_WRAITARL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/093_WRAITARL.gif"> <img src="../../pokemon/animated/shiny/093_WRAITARL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/093_WRAITARL_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 011 MUTAPUD](011_MUTAPUD.md) · [Pokédex](../pokedex.md) · [013 WERMIX →](013_WERMIX.md)
 
-<img src="img/012_MONASIGHT_front.png"> <img src="img/012_MONASIGHT_shiny.png"> <img src="../../pokemon/animated/012_MONASIGHT.gif">
+<img src="img/012_MONASIGHT_front.png"> <img src="img/012_MONASIGHT_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/012_MONASIGHT.gif"> <img src="../../pokemon/animated/shiny/012_MONASIGHT.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/012_MONASIGHT_frames.png">
 

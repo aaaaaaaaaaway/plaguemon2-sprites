@@ -2,9 +2,13 @@
 
 [← 104 RIOTTO](104_RIOTTO.md) · [Pokédex](../pokedex.md) · [106 THAIFAITA →](106_THAIFAITA.md)
 
-<img src="img/105_TERORISTO_front.png"> <img src="img/105_TERORISTO_shiny.png"> <img src="../../pokemon/animated/105_TERORISTO.gif">
+<img src="img/105_TERORISTO_front.png"> <img src="img/105_TERORISTO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/105_TERORISTO.gif"> <img src="../../pokemon/animated/shiny/105_TERORISTO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/105_TERORISTO_frames.png">
 

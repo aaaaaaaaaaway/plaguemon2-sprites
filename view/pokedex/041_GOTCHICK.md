@@ -2,9 +2,13 @@
 
 [← 040 KAWAIKAGO](040_KAWAIKAGO.md) · [Pokédex](../pokedex.md) · [042 VAMPESSA →](042_VAMPESSA.md)
 
-<img src="img/041_GOTCHICK_front.png"> <img src="img/041_GOTCHICK_shiny.png"> <img src="../../pokemon/animated/041_GOTCHICK.gif">
+<img src="img/041_GOTCHICK_front.png"> <img src="img/041_GOTCHICK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/041_GOTCHICK.gif"> <img src="../../pokemon/animated/shiny/041_GOTCHICK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/041_GOTCHICK_frames.png">
 

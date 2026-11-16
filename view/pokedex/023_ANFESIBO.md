@@ -2,9 +2,13 @@
 
 [← 022 SGLARFO](022_SGLARFO.md) · [Pokédex](../pokedex.md) · [024 URBOROK →](024_URBOROK.md)
 
-<img src="img/023_ANFESIBO_front.png"> <img src="img/023_ANFESIBO_shiny.png"> <img src="../../pokemon/animated/023_ANFESIBO.gif">
+<img src="img/023_ANFESIBO_front.png"> <img src="img/023_ANFESIBO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/023_ANFESIBO.gif"> <img src="../../pokemon/animated/shiny/023_ANFESIBO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/023_ANFESIBO_frames.png">
 

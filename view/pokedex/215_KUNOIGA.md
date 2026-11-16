@@ -2,9 +2,13 @@
 
 [← 214 KINBUGUBI](214_KINBUGUBI.md) · [Pokédex](../pokedex.md) · [216 FLESHPLUSH →](216_FLESHPLUSH.md)
 
-<img src="img/215_KUNOIGA_front.png"> <img src="img/215_KUNOIGA_shiny.png"> <img src="../../pokemon/animated/215_KUNOIGA.gif">
+<img src="img/215_KUNOIGA_front.png"> <img src="img/215_KUNOIGA_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/215_KUNOIGA.gif"> <img src="../../pokemon/animated/shiny/215_KUNOIGA.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/215_KUNOIGA_frames.png">
 

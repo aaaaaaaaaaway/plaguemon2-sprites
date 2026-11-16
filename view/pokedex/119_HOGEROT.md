@@ -2,9 +2,13 @@
 
 [← 118 BLINKY](118_BLINKY.md) · [Pokédex](../pokedex.md) · [120 MALOKINGI →](120_MALOKINGI.md)
 
-<img src="img/119_HOGEROT_front.png"> <img src="img/119_HOGEROT_shiny.png"> <img src="../../pokemon/animated/119_HOGEROT.gif">
+<img src="img/119_HOGEROT_front.png"> <img src="img/119_HOGEROT_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/119_HOGEROT.gif"> <img src="../../pokemon/animated/shiny/119_HOGEROT.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/119_HOGEROT_frames.png">
 

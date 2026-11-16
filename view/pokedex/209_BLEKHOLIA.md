@@ -2,9 +2,13 @@
 
 [← 208 HYDRAGYRUM](208_HYDRAGYRUM.md) · [Pokédex](../pokedex.md) · [210 GALAXIAN →](210_GALAXIAN.md)
 
-<img src="img/209_BLEKHOLIA_front.png"> <img src="img/209_BLEKHOLIA_shiny.png"> <img src="../../pokemon/animated/209_BLEKHOLIA.gif">
+<img src="img/209_BLEKHOLIA_front.png"> <img src="img/209_BLEKHOLIA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/209_BLEKHOLIA.gif"> <img src="../../pokemon/animated/shiny/209_BLEKHOLIA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/209_BLEKHOLIA_frames.png">
 

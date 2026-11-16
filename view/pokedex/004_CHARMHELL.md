@@ -2,9 +2,13 @@
 
 [← 003 OPIUMZOR](003_OPIUMZOR.md) · [Pokédex](../pokedex.md) · [005 BELIALEON →](005_BELIALEON.md)
 
-<img src="img/004_CHARMHELL_front.png"> <img src="img/004_CHARMHELL_shiny.png"> <img src="../../pokemon/animated/004_CHARMHELL.gif">
+<img src="img/004_CHARMHELL_front.png"> <img src="img/004_CHARMHELL_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/004_CHARMHELL.gif"> <img src="../../pokemon/animated/shiny/004_CHARMHELL.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/004_CHARMHELL_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 132 SHITTO](132_SHITTO.md) · [Pokédex](../pokedex.md) · [134 VENEREON →](134_VENEREON.md)
 
-<img src="img/133_DEADDOG_front.png"> <img src="img/133_DEADDOG_shiny.png"> <img src="../../pokemon/animated/133_DEADDOG.gif">
+<img src="img/133_DEADDOG_front.png"> <img src="img/133_DEADDOG_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/133_DEADDOG.gif"> <img src="../../pokemon/animated/shiny/133_DEADDOG.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/133_DEADDOG_frames.png">
 

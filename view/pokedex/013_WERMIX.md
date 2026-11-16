@@ -2,9 +2,13 @@
 
 [← 012 MONASIGHT](012_MONASIGHT.md) · [Pokédex](../pokedex.md) · [014 KAKUZI →](014_KAKUZI.md)
 
-<img src="img/013_WERMIX_front.png"> <img src="img/013_WERMIX_shiny.png"> <img src="../../pokemon/animated/013_WERMIX.gif">
+<img src="img/013_WERMIX_front.png"> <img src="img/013_WERMIX_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/013_WERMIX.gif"> <img src="../../pokemon/animated/shiny/013_WERMIX.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/013_WERMIX_frames.png">
 

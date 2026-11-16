@@ -2,9 +2,13 @@
 
 [← 188 INCUBATO](188_INCUBATO.md) · [Pokédex](../pokedex.md) · [190 MOLESTO →](190_MOLESTO.md)
 
-<img src="img/189_ITTIOSO_front.png"> <img src="img/189_ITTIOSO_shiny.png"> <img src="../../pokemon/animated/189_ITTIOSO.gif">
+<img src="img/189_ITTIOSO_front.png"> <img src="img/189_ITTIOSO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/189_ITTIOSO.gif"> <img src="../../pokemon/animated/shiny/189_ITTIOSO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/189_ITTIOSO_frames.png">
 

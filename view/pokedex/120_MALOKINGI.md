@@ -2,9 +2,13 @@
 
 [← 119 HOGEROT](119_HOGEROT.md) · [Pokédex](../pokedex.md) · [121 IRUKUNJI →](121_IRUKUNJI.md)
 
-<img src="img/120_MALOKINGI_front.png"> <img src="img/120_MALOKINGI_shiny.png"> <img src="../../pokemon/animated/120_MALOKINGI.gif">
+<img src="img/120_MALOKINGI_front.png"> <img src="img/120_MALOKINGI_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/120_MALOKINGI.gif"> <img src="../../pokemon/animated/shiny/120_MALOKINGI.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/120_MALOKINGI_frames.png">
 

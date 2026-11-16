@@ -2,9 +2,13 @@
 
 [← 191 GRUMO](191_GRUMO.md) · [Pokédex](../pokedex.md) · [193 NAPALMYAN →](193_NAPALMYAN.md)
 
-<img src="img/192_OVARIAN_front.png"> <img src="img/192_OVARIAN_shiny.png"> <img src="../../pokemon/animated/192_OVARIAN.gif">
+<img src="img/192_OVARIAN_front.png"> <img src="img/192_OVARIAN_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/192_OVARIAN.gif"> <img src="../../pokemon/animated/shiny/192_OVARIAN.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/192_OVARIAN_frames.png">
 

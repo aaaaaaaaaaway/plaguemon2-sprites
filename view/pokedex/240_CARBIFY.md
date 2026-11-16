@@ -2,9 +2,13 @@
 
 [← 239 PHOTOKID](239_PHOTOKID.md) · [Pokédex](../pokedex.md) · [241 INTENSIVO →](241_INTENSIVO.md)
 
-<img src="img/240_CARBIFY_front.png"> <img src="img/240_CARBIFY_shiny.png"> <img src="../../pokemon/animated/240_CARBIFY.gif">
+<img src="img/240_CARBIFY_front.png"> <img src="img/240_CARBIFY_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/240_CARBIFY.gif"> <img src="../../pokemon/animated/shiny/240_CARBIFY.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/240_CARBIFY_frames.png">
 

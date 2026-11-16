@@ -2,9 +2,13 @@
 
 [← 198 SKARKROW](198_SKARKROW.md) · [Pokédex](../pokedex.md) · [200 HOSTED.GOO →](200_HOSTED_GOO.md)
 
-<img src="img/199_DEPRECLOWN_front.png"> <img src="img/199_DEPRECLOWN_shiny.png"> <img src="../../pokemon/animated/199_DEPRECLOWN.gif">
+<img src="img/199_DEPRECLOWN_front.png"> <img src="img/199_DEPRECLOWN_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/199_DEPRECLOWN.gif"> <img src="../../pokemon/animated/shiny/199_DEPRECLOWN.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/199_DEPRECLOWN_frames.png">
 

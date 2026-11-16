@@ -2,9 +2,13 @@
 
 [← 205 /NEURONET](205_NEURONET.md) · [Pokédex](../pokedex.md) · [207 TWOMEWTWO →](207_TWOMEWTWO.md)
 
-<img src="img/206_DUOFUNTO_front.png"> <img src="img/206_DUOFUNTO_shiny.png"> <img src="../../pokemon/animated/206_DUOFUNTO.gif">
+<img src="img/206_DUOFUNTO_front.png"> <img src="img/206_DUOFUNTO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/206_DUOFUNTO.gif"> <img src="../../pokemon/animated/shiny/206_DUOFUNTO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/206_DUOFUNTO_frames.png">
 

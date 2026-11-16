@@ -2,9 +2,13 @@
 
 [← 024 URBOROK](024_URBOROK.md) · [Pokédex](../pokedex.md) · [026 RAICHEWEDZ →](026_RAICHEWEDZ.md)
 
-<img src="img/025_PIKACHEWED_front.png"> <img src="img/025_PIKACHEWED_shiny.png"> <img src="../../pokemon/animated/025_PIKACHEWED.gif">
+<img src="img/025_PIKACHEWED_front.png"> <img src="img/025_PIKACHEWED_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/025_PIKACHEWED.gif"> <img src="../../pokemon/animated/shiny/025_PIKACHEWED.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/025_PIKACHEWED_frames.png">
 

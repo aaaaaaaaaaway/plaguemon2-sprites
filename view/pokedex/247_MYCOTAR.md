@@ -2,9 +2,13 @@
 
 [← 246 SEBUTAR](246_SEBUTAR.md) · [Pokédex](../pokedex.md) · [248 MELANOTAR →](248_MELANOTAR.md)
 
-<img src="img/247_MYCOTAR_front.png"> <img src="img/247_MYCOTAR_shiny.png"> <img src="../../pokemon/animated/247_MYCOTAR.gif">
+<img src="img/247_MYCOTAR_front.png"> <img src="img/247_MYCOTAR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/247_MYCOTAR.gif"> <img src="../../pokemon/animated/shiny/247_MYCOTAR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/247_MYCOTAR_frames.png">
 

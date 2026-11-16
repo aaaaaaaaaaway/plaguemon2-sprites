@@ -2,9 +2,13 @@
 
 [← 037 NYMPHAX](037_NYMPHAX.md) · [Pokédex](../pokedex.md) · [039 EYEBALLY →](039_EYEBALLY.md)
 
-<img src="img/038_KITSUNAIL_front.png"> <img src="img/038_KITSUNAIL_shiny.png"> <img src="../../pokemon/animated/038_KITSUNAIL.gif">
+<img src="img/038_KITSUNAIL_front.png"> <img src="img/038_KITSUNAIL_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/038_KITSUNAIL.gif"> <img src="../../pokemon/animated/shiny/038_KITSUNAIL.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/038_KITSUNAIL_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 244 VITATEC](244_VITATEC.md) · [Pokédex](../pokedex.md) · [246 SEBUTAR →](246_SEBUTAR.md)
 
-<img src="img/245_SKYLITE_front.png"> <img src="img/245_SKYLITE_shiny.png"> <img src="../../pokemon/animated/245_SKYLITE.gif">
+<img src="img/245_SKYLITE_front.png"> <img src="img/245_SKYLITE_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/245_SKYLITE.gif"> <img src="../../pokemon/animated/shiny/245_SKYLITE.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/245_SKYLITE_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 194 KOTZWAR](194_KOTZWAR.md) · [Pokédex](../pokedex.md) · [196 EMBRYEON →](196_EMBRYEON.md)
 
-<img src="img/195_ASPHYXIAR_front.png"> <img src="img/195_ASPHYXIAR_shiny.png"> <img src="../../pokemon/animated/195_ASPHYXIAR.gif">
+<img src="img/195_ASPHYXIAR_front.png"> <img src="img/195_ASPHYXIAR_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/195_ASPHYXIAR.gif"> <img src="../../pokemon/animated/shiny/195_ASPHYXIAR.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/195_ASPHYXIAR_frames.png">
 

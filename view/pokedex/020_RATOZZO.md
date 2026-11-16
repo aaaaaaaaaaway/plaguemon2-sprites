@@ -2,9 +2,13 @@
 
 [← 019 FOGNUS](019_FOGNUS.md) · [Pokédex](../pokedex.md) · [021 SBLARFO →](021_SBLARFO.md)
 
-<img src="img/020_RATOZZO_front.png"> <img src="img/020_RATOZZO_shiny.png"> <img src="../../pokemon/animated/020_RATOZZO.gif">
+<img src="img/020_RATOZZO_front.png"> <img src="img/020_RATOZZO_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/020_RATOZZO.gif"> <img src="../../pokemon/animated/shiny/020_RATOZZO.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/020_RATOZZO_frames.png">
 

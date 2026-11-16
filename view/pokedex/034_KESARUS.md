@@ -2,9 +2,13 @@
 
 [← 033 GRABOIDO](033_GRABOIDO.md) · [Pokédex](../pokedex.md) · [035 CRISTALIA →](035_CRISTALIA.md)
 
-<img src="img/034_KESARUS_front.png"> <img src="img/034_KESARUS_shiny.png"> <img src="../../pokemon/animated/034_KESARUS.gif">
+<img src="img/034_KESARUS_front.png"> <img src="img/034_KESARUS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/034_KESARUS.gif"> <img src="../../pokemon/animated/shiny/034_KESARUS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/034_KESARUS_frames.png">
 

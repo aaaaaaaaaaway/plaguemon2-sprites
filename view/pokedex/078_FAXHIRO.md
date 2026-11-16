@@ -2,9 +2,13 @@
 
 [← 077 HELLESTO](077_HELLESTO.md) · [Pokédex](../pokedex.md) · [079 SLOWGHOST →](079_SLOWGHOST.md)
 
-<img src="img/078_FAXHIRO_front.png"> <img src="img/078_FAXHIRO_shiny.png"> <img src="../../pokemon/animated/078_FAXHIRO.gif">
+<img src="img/078_FAXHIRO_front.png"> <img src="img/078_FAXHIRO_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/078_FAXHIRO.gif"> <img src="../../pokemon/animated/shiny/078_FAXHIRO.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/078_FAXHIRO_frames.png">
 

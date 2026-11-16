@@ -2,9 +2,13 @@
 
 [← 140 ZIRLORG](140_ZIRLORG.md) · [Pokédex](../pokedex.md) · [142 PTEROXIS →](142_PTEROXIS.md)
 
-<img src="img/141_ZILOSNAK_front.png"> <img src="img/141_ZILOSNAK_shiny.png"> <img src="../../pokemon/animated/141_ZILOSNAK.gif">
+<img src="img/141_ZILOSNAK_front.png"> <img src="img/141_ZILOSNAK_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/141_ZILOSNAK.gif"> <img src="../../pokemon/animated/shiny/141_ZILOSNAK.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/141_ZILOSNAK_frames.png">
 

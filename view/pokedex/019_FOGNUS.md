@@ -2,9 +2,13 @@
 
 [← 018 HEPOCORPS](018_HEPOCORPS.md) · [Pokédex](../pokedex.md) · [020 RATOZZO →](020_RATOZZO.md)
 
-<img src="img/019_FOGNUS_front.png"> <img src="img/019_FOGNUS_shiny.png"> <img src="../../pokemon/animated/019_FOGNUS.gif">
+<img src="img/019_FOGNUS_front.png"> <img src="img/019_FOGNUS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/019_FOGNUS.gif"> <img src="../../pokemon/animated/shiny/019_FOGNUS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/019_FOGNUS_frames.png">
 

@@ -2,9 +2,13 @@
 
 [← 105 TERORISTO](105_TERORISTO.md) · [Pokédex](../pokedex.md) · [107 MIKEFAITA →](107_MIKEFAITA.md)
 
-<img src="img/106_THAIFAITA_front.png"> <img src="img/106_THAIFAITA_shiny.png"> <img src="../../pokemon/animated/106_THAIFAITA.gif">
+<img src="img/106_THAIFAITA_front.png"> <img src="img/106_THAIFAITA_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/106_THAIFAITA.gif"> <img src="../../pokemon/animated/shiny/106_THAIFAITA.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/106_THAIFAITA_frames.png">
 

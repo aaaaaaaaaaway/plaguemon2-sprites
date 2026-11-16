@@ -2,9 +2,13 @@
 
 [← 064 PROFETUS](064_PROFETUS.md) · [Pokédex](../pokedex.md) · [066 ANOREX →](066_ANOREX.md)
 
-<img src="img/065_MARTIRUS_front.png"> <img src="img/065_MARTIRUS_shiny.png"> <img src="../../pokemon/animated/065_MARTIRUS.gif">
+<img src="img/065_MARTIRUS_front.png"> <img src="img/065_MARTIRUS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/065_MARTIRUS.gif"> <img src="../../pokemon/animated/shiny/065_MARTIRUS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/065_MARTIRUS_frames.png">
 

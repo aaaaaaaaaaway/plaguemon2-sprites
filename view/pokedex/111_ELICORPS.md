@@ -2,9 +2,13 @@
 
 [← 110 LUNGANSER](110_LUNGANSER.md) · [Pokédex](../pokedex.md) · [112 MEDUCUNT →](112_MEDUCUNT.md)
 
-<img src="img/111_ELICORPS_front.png"> <img src="img/111_ELICORPS_shiny.png"> <img src="../../pokemon/animated/111_ELICORPS.gif">
+<img src="img/111_ELICORPS_front.png"> <img src="img/111_ELICORPS_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/111_ELICORPS.gif"> <img src="../../pokemon/animated/shiny/111_ELICORPS.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/111_ELICORPS_frames.png">
 

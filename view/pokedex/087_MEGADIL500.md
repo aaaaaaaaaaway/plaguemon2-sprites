@@ -2,9 +2,13 @@
 
 [← 086 MEGADIL](086_MEGADIL.md) · [Pokédex](../pokedex.md) · [088 GRINDED →](088_GRINDED.md)
 
-<img src="img/087_MEGADIL500_front.png"> <img src="img/087_MEGADIL500_shiny.png"> <img src="../../pokemon/animated/087_MEGADIL500.gif">
+<img src="img/087_MEGADIL500_front.png"> <img src="img/087_MEGADIL500_shiny.png">
 
-<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/087_MEGADIL500.gif"> <img src="../../pokemon/animated/shiny/087_MEGADIL500.gif">
+
+<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/087_MEGADIL500_frames.png">
 

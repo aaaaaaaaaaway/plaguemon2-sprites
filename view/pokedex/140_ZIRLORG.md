@@ -2,9 +2,13 @@
 
 [← 139 MECHANIGAL](139_MECHANIGAL.md) · [Pokédex](../pokedex.md) · [141 ZILOSNAK →](141_ZILOSNAK.md)
 
-<img src="img/140_ZIRLORG_front.png"> <img src="img/140_ZIRLORG_shiny.png"> <img src="../../pokemon/animated/140_ZIRLORG.gif">
+<img src="img/140_ZIRLORG_front.png"> <img src="img/140_ZIRLORG_shiny.png">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny</sub>
+
+<img src="../../pokemon/animated/140_ZIRLORG.gif"> <img src="../../pokemon/animated/shiny/140_ZIRLORG.gif">
+
+<sub>battle animation · shiny</sub>
 
 <img src="img/140_ZIRLORG_frames.png">
 
