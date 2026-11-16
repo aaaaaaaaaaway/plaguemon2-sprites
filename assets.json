@@ -1,588 +1,1162 @@
-{
- "assets": [
-  {
-   "section": "Characters",
-   "name": "Characters (Battle)",
-   "file": "characters/characters-battle.png",
-   "w": 908,
-   "h": 492,
-   "kb": 62.0107421875,
-   "note": ""
-  },
-  {
-   "section": "Characters",
-   "name": "Characters (Overworld)",
-   "file": "characters/characters-overworld.png",
-   "w": 1048,
-   "h": 322,
-   "kb": 23.1494140625,
-   "note": ""
-  },
-  {
-   "section": "Pokémon",
-   "name": "Generation 1 Pokémon",
-   "file": "pokemon/generation-1-pokemon.png",
-   "w": 1448,
-   "h": 3774,
-   "kb": 751.9921875,
-   "note": "151 monsters"
-  },
-  {
-   "section": "Pokémon",
-   "name": "Generation 2 Pokémon",
-   "file": "pokemon/generation-2-pokemon.png",
-   "w": 1896,
-   "h": 3348,
-   "kb": 473.138671875,
-   "note": "90 monsters, 10 Crystal-original omitted"
-  },
-  {
-   "section": "Pokémon",
-   "name": "Unown Formes",
-   "file": "pokemon/unown-formes.png",
-   "w": 1088,
-   "h": 328,
-   "kb": 14.87109375,
-   "note": "21 letters, 5 Crystal-original omitted"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 17",
-   "file": "backgrounds/routes/route-17.png",
-   "w": 1024,
-   "h": 1536,
-   "kb": 74.5673828125,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 26",
-   "file": "backgrounds/routes/route-26.png",
-   "w": 1024,
-   "h": 1824,
-   "kb": 106.5791015625,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 27",
-   "file": "backgrounds/routes/route-27.png",
-   "w": 1296,
-   "h": 384,
-   "kb": 36.46484375,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 36",
-   "file": "backgrounds/routes/route-36.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 34.716796875,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 40",
-   "file": "backgrounds/routes/route-40.png",
-   "w": 1024,
-   "h": 672,
-   "kb": 22.763671875,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Routes)",
-   "name": "Route 43",
-   "file": "backgrounds/routes/route-43.png",
-   "w": 1024,
-   "h": 960,
-   "kb": 70.1484375,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Azalea Town",
-   "file": "backgrounds/locations/azalea-town.png",
-   "w": 1024,
-   "h": 662,
-   "kb": 70.529296875,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Battle Tower",
-   "file": "backgrounds/locations/battle-tower.png",
-   "w": 1024,
-   "h": 694,
-   "kb": 58.1669921875,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Blackthorn City",
-   "file": "backgrounds/locations/blackthorn-city.png",
-   "w": 1024,
-   "h": 822,
-   "kb": 70.9404296875,
-   "note": "8 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Burned Tower",
-   "file": "backgrounds/locations/burned-tower.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 47.0830078125,
-   "note": "2 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Celadon City",
-   "file": "backgrounds/locations/celadon-city.png",
-   "w": 1024,
-   "h": 1560,
-   "kb": 104.9599609375,
-   "note": "18 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Cerulean City",
-   "file": "backgrounds/locations/cerulean-city.png",
-   "w": 1024,
-   "h": 950,
-   "kb": 83.341796875,
-   "note": "7 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Cherrygrove City",
-   "file": "backgrounds/locations/cherrygrove-city.png",
-   "w": 1024,
-   "h": 534,
-   "kb": 44.1689453125,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Cianwood City",
-   "file": "backgrounds/locations/cianwood-city.png",
-   "w": 1024,
-   "h": 1110,
-   "kb": 79.201171875,
-   "note": "8 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Cinnabar Island",
-   "file": "backgrounds/locations/cinnabar-island.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 39.2587890625,
-   "note": "3 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Daycare",
-   "file": "backgrounds/locations/daycare.png",
-   "w": 1024,
-   "h": 224,
-   "kb": 9.341796875,
-   "note": "1 map"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Dragon's Den",
-   "file": "backgrounds/locations/dragon-s-den.png",
-   "w": 1024,
-   "h": 672,
-   "kb": 71.1640625,
-   "note": "3 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Ecruteak City",
-   "file": "backgrounds/locations/ecruteak-city.png",
-   "w": 1024,
-   "h": 1228,
-   "kb": 103.7724609375,
-   "note": "9 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Fuchsia City",
-   "file": "backgrounds/locations/fuchsia-city.png",
-   "w": 1024,
-   "h": 822,
-   "kb": 82.392578125,
-   "note": "7 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Glitter Lighthouse",
-   "file": "backgrounds/locations/glitter-lighthouse.png",
-   "w": 1024,
-   "h": 694,
-   "kb": 50.3291015625,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Goldenrod City",
-   "file": "backgrounds/locations/goldenrod-city.png",
-   "w": 1024,
-   "h": 2436,
-   "kb": 206.0400390625,
-   "note": "23 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Goldenrod Radio Tower",
-   "file": "backgrounds/locations/goldenrod-radio-tower.png",
-   "w": 1024,
-   "h": 374,
-   "kb": 23.572265625,
-   "note": "5 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Ice Path",
-   "file": "backgrounds/locations/ice-path.png",
-   "w": 1024,
-   "h": 982,
-   "kb": 156.125,
-   "note": "5 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Ilex Forest",
-   "file": "backgrounds/locations/ilex-forest.png",
-   "w": 1024,
-   "h": 960,
-   "kb": 98.525390625,
-   "note": "2 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Indigo Plateau",
-   "file": "backgrounds/locations/indigo-plateau.png",
-   "w": 1024,
-   "h": 790,
-   "kb": 41.76171875,
-   "note": "7 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Lavender Town",
-   "file": "backgrounds/locations/lavender-town.png",
-   "w": 1024,
-   "h": 534,
-   "kb": 51.4482421875,
-   "note": "8 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Mahogany Town",
-   "file": "backgrounds/locations/mahogany-town.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 44.34375,
-   "note": "5 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Mt. Mortar",
-   "file": "backgrounds/locations/mt-mortar.png",
-   "w": 1024,
-   "h": 2754,
-   "kb": 198.6015625,
-   "note": "4 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Mt. Silver",
-   "file": "backgrounds/locations/mt-silver.png",
-   "w": 1024,
-   "h": 1580,
-   "kb": 193.4599609375,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "National Park",
-   "file": "backgrounds/locations/national-park.png",
-   "w": 1024,
-   "h": 1846,
-   "kb": 152.2919921875,
-   "note": "2 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "New Bark Town",
-   "file": "backgrounds/locations/new-bark-town.png",
-   "w": 1024,
-   "h": 534,
-   "kb": 47.5107421875,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Olivine City",
-   "file": "backgrounds/locations/olivine-city.png",
-   "w": 1024,
-   "h": 822,
-   "kb": 87.8681640625,
-   "note": "8 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Pallet Town",
-   "file": "backgrounds/locations/pallet-town.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 34.7861328125,
-   "note": "5 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Pewter City",
-   "file": "backgrounds/locations/pewter-city.png",
-   "w": 1024,
-   "h": 822,
-   "kb": 79.26953125,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Pokémon Center / Mart",
-   "file": "backgrounds/locations/pokemon-center-mart.png",
-   "w": 1024,
-   "h": 374,
-   "kb": 23.4716796875,
-   "note": "6 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Rocket Hideout",
-   "file": "backgrounds/locations/rocket-hideout.png",
-   "w": 1024,
-   "h": 694,
-   "kb": 45.7734375,
-   "note": "3 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Ruins of Alph",
-   "file": "backgrounds/locations/ruins-of-alph.png",
-   "w": 1024,
-   "h": 1794,
-   "kb": 116.314453125,
-   "note": "15 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "S.S. Aqua",
-   "file": "backgrounds/locations/s-s-aqua.png",
-   "w": 1024,
-   "h": 1836,
-   "kb": 92.4375,
-   "note": "9 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Saffron City",
-   "file": "backgrounds/locations/saffron-city.png",
-   "w": 1024,
-   "h": 1132,
-   "kb": 78.1142578125,
-   "note": "10 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Slowpoke Well",
-   "file": "backgrounds/locations/slowpoke-well.png",
-   "w": 1024,
-   "h": 384,
-   "kb": 37.849609375,
-   "note": "2 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Sprout Tower",
-   "file": "backgrounds/locations/sprout-tower.png",
-   "w": 1024,
-   "h": 352,
-   "kb": 21.5166015625,
-   "note": "3 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Unused Maps",
-   "file": "backgrounds/locations/unused-maps.png",
-   "w": 1024,
-   "h": 1656,
-   "kb": 95.7998046875,
-   "note": "16 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Vermilion City",
-   "file": "backgrounds/locations/vermilion-city.png",
-   "w": 1024,
-   "h": 982,
-   "kb": 77.609375,
-   "note": "8 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Violet City",
-   "file": "backgrounds/locations/violet-city.png",
-   "w": 1024,
-   "h": 950,
-   "kb": 83.5068359375,
-   "note": "7 maps"
-  },
-  {
-   "section": "Backgrounds (Locations)",
-   "name": "Viridian City",
-   "file": "backgrounds/locations/viridian-city.png",
-   "w": 1024,
-   "h": 950,
-   "kb": 85.90234375,
-   "note": "7 maps"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Tileset (Day)",
-   "file": "miscellaneous/tileset-day.png",
-   "w": 1002,
-   "h": 808,
-   "kb": 164.7119140625,
-   "note": "36 tilesets"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Tileset (Morning)",
-   "file": "miscellaneous/tileset-morning.png",
-   "w": 1002,
-   "h": 808,
-   "kb": 157.3564453125,
-   "note": "36 tilesets"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Tileset (Night)",
-   "file": "miscellaneous/tileset-night.png",
-   "w": 1002,
-   "h": 808,
-   "kb": 166.2685546875,
-   "note": "36 tilesets"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Font",
-   "file": "miscellaneous/font.png",
-   "w": 520,
-   "h": 171,
-   "kb": 4.734375,
-   "note": ""
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Pokémon Egg",
-   "file": "miscellaneous/pokemon-egg.png",
-   "w": 520,
-   "h": 150,
-   "kb": 4.078125,
-   "note": "3 frames"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Game Freak Intro",
-   "file": "miscellaneous/game-freak-intro.png",
-   "w": 1052,
-   "h": 1102,
-   "kb": 19.4365234375,
-   "note": "33 screens"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Intro Backgrounds",
-   "file": "miscellaneous/intro-backgrounds.png",
-   "w": 1052,
-   "h": 1612,
-   "kb": 33.076171875,
-   "note": "52 screens"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Intro Sprites",
-   "file": "miscellaneous/intro-sprites.png",
-   "w": 1052,
-   "h": 592,
-   "kb": 36.8271484375,
-   "note": "13 screens"
-  },
-  {
-   "section": "Miscellaneous",
-   "name": "Professor Oak's Opening Lecture",
-   "file": "miscellaneous/professor-oaks-opening-lecture.png",
-   "w": 1052,
-   "h": 762,
-   "kb": 35.265625,
-   "note": "24 screens"
-  }
- ],
- "skipped": {
-  "Characters (Battle)": 22,
-  "Characters (Overworld)": 73,
-  "Generation 1 Pokémon": 0,
-  "Generation 2 Pokémon": 10,
-  "Unown Formes": 5,
-  "Route 17": 0,
-  "Route 26": 0,
-  "Route 27": 0,
-  "Route 36": 0,
-  "Route 40": 0,
-  "Route 43": 0,
-  "Azalea Town": 0,
-  "Battle Tower": 0,
-  "Blackthorn City": 0,
-  "Burned Tower": 0,
-  "Celadon City": 0,
-  "Cerulean City": 0,
-  "Cherrygrove City": 0,
-  "Cianwood City": 0,
-  "Cinnabar Island": 0,
-  "Daycare": 0,
-  "Dragon's Den": 0,
-  "Ecruteak City": 0,
-  "Fuchsia City": 0,
-  "Glitter Lighthouse": 0,
-  "Goldenrod City": 0,
-  "Goldenrod Radio Tower": 0,
-  "Ice Path": 0,
-  "Ilex Forest": 0,
-  "Indigo Plateau": 0,
-  "Lavender Town": 0,
-  "Magnet Train Tracks": 0,
-  "Mahogany Town": 0,
-  "Mt. Mortar": 0,
-  "Mt. Silver": 0,
-  "National Park": 0,
-  "New Bark Town": 0,
-  "Olivine City": 0,
-  "Pallet Town": 0,
-  "Pewter City": 0,
-  "Pokémon Center / Mart": 0,
-  "Rocket Hideout": 0,
-  "Ruins of Alph": 0,
-  "S.S. Aqua": 0,
-  "Saffron City": 0,
-  "Slowpoke Well": 0,
-  "Sprout Tower": 0,
-  "Unused Maps": 0,
-  "Vermilion City": 0,
-  "Violet City": 0,
-  "Viridian City": 0
+[
+ {
+  "section": "Characters",
+  "name": "Characters (Battle)",
+  "sub": "",
+  "file": "characters/characters-battle.png",
+  "thumb": "thumbs/characters-battle.png",
+  "w": 648,
+  "h": 406,
+  "kb": 58
+ },
+ {
+  "section": "Characters",
+  "name": "Characters (Overworld)",
+  "sub": "",
+  "file": "characters/characters-overworld.png",
+  "thumb": "thumbs/characters-overworld.png",
+  "w": 876,
+  "h": 138,
+  "kb": 16
+ },
+ {
+  "section": "Pokémon",
+  "name": "Generation 1 Pokémon",
+  "sub": "",
+  "file": "pokemon/generation-1-pokemon.png",
+  "thumb": "thumbs/generation-1-pokemon.png",
+  "w": 1244,
+  "h": 3562,
+  "kb": 720
+ },
+ {
+  "section": "Pokémon",
+  "name": "Generation 2 Pokémon",
+  "sub": "",
+  "file": "pokemon/generation-2-pokemon.png",
+  "thumb": "thumbs/generation-2-pokemon.png",
+  "w": 2828,
+  "h": 2066,
+  "kb": 486
+ },
+ {
+  "section": "Pokémon",
+  "name": "Unown Formes",
+  "sub": "Paratypes",
+  "file": "pokemon/unown-formes.png",
+  "thumb": "thumbs/unown-formes.png",
+  "w": 836,
+  "h": 206,
+  "kb": 10
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 17",
+  "sub": "AREA 17",
+  "file": "backgrounds/routes/route-17.png",
+  "thumb": "thumbs/route-17.png",
+  "w": 336,
+  "h": 1474,
+  "kb": 31
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 26",
+  "sub": "AREA 26",
+  "file": "backgrounds/routes/route-26.png",
+  "thumb": "thumbs/route-26.png",
+  "w": 336,
+  "h": 1762,
+  "kb": 61
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 27",
+  "sub": "AREA 27",
+  "file": "backgrounds/routes/route-27.png",
+  "thumb": "thumbs/route-27.png",
+  "w": 1296,
+  "h": 322,
+  "kb": 34
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 36",
+  "sub": "AREA 36",
+  "file": "backgrounds/routes/route-36.png",
+  "thumb": "thumbs/route-36.png",
+  "w": 976,
+  "h": 322,
+  "kb": 30
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 40",
+  "sub": "AREA 40",
+  "file": "backgrounds/routes/route-40.png",
+  "thumb": "thumbs/route-40.png",
+  "w": 336,
+  "h": 610,
+  "kb": 12
+ },
+ {
+  "section": "Backgrounds (Routes)",
+  "name": "Route 43",
+  "sub": "AREA 43",
+  "file": "backgrounds/routes/route-43.png",
+  "thumb": "thumbs/route-43.png",
+  "w": 336,
+  "h": 898,
+  "kb": 39
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Azalea Town",
+  "sub": "LOS AURA",
+  "file": "backgrounds/locations/azalea-town.png",
+  "thumb": "thumbs/azalea-town.png",
+  "w": 1024,
+  "h": 586,
+  "kb": 67
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Battle Tower",
+  "sub": "BATTLE TOWER",
+  "file": "backgrounds/locations/battle-tower.png",
+  "thumb": "thumbs/battle-tower.png",
+  "w": 808,
+  "h": 618,
+  "kb": 48
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Blackthorn City",
+  "sub": "PEAK OF DREAD",
+  "file": "backgrounds/locations/blackthorn-city.png",
+  "thumb": "thumbs/blackthorn-city.png",
+  "w": 992,
+  "h": 770,
+  "kb": 60
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Burned Tower",
+  "sub": "BURNED TOWER",
+  "file": "backgrounds/locations/burned-tower.png",
+  "thumb": "thumbs/burned-tower.png",
+  "w": 664,
+  "h": 334,
+  "kb": 40
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Celadon City",
+  "sub": "CELADON CITY",
+  "file": "backgrounds/locations/celadon-city.png",
+  "thumb": "thumbs/celadon-city.png",
+  "w": 1016,
+  "h": 1502,
+  "kb": 100
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Cerulean City",
+  "sub": "CERULEAN CITY",
+  "file": "backgrounds/locations/cerulean-city.png",
+  "thumb": "thumbs/cerulean-city.png",
+  "w": 928,
+  "h": 874,
+  "kb": 73
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Cherrygrove City",
+  "sub": "NEARBYTOWN",
+  "file": "backgrounds/locations/cherrygrove-city.png",
+  "thumb": "thumbs/cherrygrove-city.png",
+  "w": 1024,
+  "h": 458,
+  "kb": 41
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Cianwood City",
+  "sub": "OVERSEA ASYLUM",
+  "file": "backgrounds/locations/cianwood-city.png",
+  "thumb": "thumbs/cianwood-city.png",
+  "w": 968,
+  "h": 1034,
+  "kb": 62
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Cinnabar Island",
+  "sub": "CINNABAR ISLAND",
+  "file": "backgrounds/locations/cinnabar-island.png",
+  "thumb": "thumbs/cinnabar-island.png",
+  "w": 672,
+  "h": 322,
+  "kb": 28
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Daycare",
+  "sub": "AREA 34",
+  "file": "backgrounds/locations/daycare.png",
+  "thumb": "thumbs/daycare.png",
+  "w": 176,
+  "h": 162,
+  "kb": 4
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Dragon's Den",
+  "sub": "DRAGON'S DEN",
+  "file": "backgrounds/locations/dragons-den.png",
+  "thumb": "thumbs/dragons-den.png",
+  "w": 992,
+  "h": 622,
+  "kb": 58
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Ecruteak City",
+  "sub": "SUBURBIA",
+  "file": "backgrounds/locations/ecruteak-city.png",
+  "thumb": "thumbs/ecruteak-city.png",
+  "w": 984,
+  "h": 1138,
+  "kb": 91
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Fuchsia City",
+  "sub": "FUCHSIA CITY",
+  "file": "backgrounds/locations/fuchsia-city.png",
+  "thumb": "thumbs/fuchsia-city.png",
+  "w": 1024,
+  "h": 746,
+  "kb": 79
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Glitter Lighthouse",
+  "sub": "PENTAFLOOR",
+  "file": "backgrounds/locations/glitter-lighthouse.png",
+  "thumb": "thumbs/glitter-lighthouse.png",
+  "w": 992,
+  "h": 642,
+  "kb": 47
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Goldenrod City",
+  "sub": "METRO COMPLEX",
+  "file": "backgrounds/locations/goldenrod-city.png",
+  "thumb": "thumbs/goldenrod-city.png",
+  "w": 1016,
+  "h": 2374,
+  "kb": 198
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Goldenrod Radio Tower",
+  "sub": "RADIO TOWER",
+  "file": "backgrounds/locations/goldenrod-radio-tower.png",
+  "thumb": "thumbs/goldenrod-radio-tower.png",
+  "w": 896,
+  "h": 322,
+  "kb": 20
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Ice Path",
+  "sub": "PARKING LOT",
+  "file": "backgrounds/locations/ice-path.png",
+  "thumb": "thumbs/ice-path.png",
+  "w": 984,
+  "h": 930,
+  "kb": 147
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Ilex Forest",
+  "sub": "SUICIDE FOREST",
+  "file": "backgrounds/locations/ilex-forest.png",
+  "thumb": "thumbs/ilex-forest.png",
+  "w": 664,
+  "h": 898,
+  "kb": 87
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Indigo Plateau",
+  "sub": "INDIGO PLATEAU",
+  "file": "backgrounds/locations/indigo-plateau.png",
+  "thumb": "thumbs/indigo-plateau.png",
+  "w": 976,
+  "h": 714,
+  "kb": 36
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Lavender Town",
+  "sub": "LAVENDER TOWN",
+  "file": "backgrounds/locations/lavender-town.png",
+  "thumb": "thumbs/lavender-town.png",
+  "w": 976,
+  "h": 458,
+  "kb": 43
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Mahogany Town",
+  "sub": "LONELY WOODS",
+  "file": "backgrounds/locations/mahogany-town.png",
+  "thumb": "thumbs/mahogany-town.png",
+  "w": 944,
+  "h": 322,
+  "kb": 38
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Mt. Mortar",
+  "sub": "MT.MORTAR",
+  "file": "backgrounds/locations/mt-mortar.png",
+  "thumb": "thumbs/mt-mortar.png",
+  "w": 656,
+  "h": 2650,
+  "kb": 159
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Mt. Silver",
+  "sub": "SILVER CAVE",
+  "file": "backgrounds/locations/mt-silver.png",
+  "thumb": "thumbs/mt-silver.png",
+  "w": 984,
+  "h": 1490,
+  "kb": 164
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "National Park",
+  "sub": "NATIONAL PARK",
+  "file": "backgrounds/locations/national-park.png",
+  "thumb": "thumbs/national-park.png",
+  "w": 656,
+  "h": 1770,
+  "kb": 132
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "New Bark Town",
+  "sub": "HOMETOWN",
+  "file": "backgrounds/locations/new-bark-town.png",
+  "thumb": "thumbs/new-bark-town.png",
+  "w": 944,
+  "h": 482,
+  "kb": 41
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Olivine City",
+  "sub": "GOVERNMENT",
+  "file": "backgrounds/locations/olivine-city.png",
+  "thumb": "thumbs/olivine-city.png",
+  "w": 992,
+  "h": 746,
+  "kb": 78
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Pallet Town",
+  "sub": "PALLET TOWN",
+  "file": "backgrounds/locations/pallet-town.png",
+  "thumb": "thumbs/pallet-town.png",
+  "w": 912,
+  "h": 334,
+  "kb": 30
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Pewter City",
+  "sub": "PEWTER CITY",
+  "file": "backgrounds/locations/pewter-city.png",
+  "thumb": "thumbs/pewter-city.png",
+  "w": 960,
+  "h": 746,
+  "kb": 68
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Pokémon Center / Mart",
+  "sub": "NEARBYTOWN",
+  "file": "backgrounds/locations/pokemon-center-mart.png",
+  "thumb": "thumbs/pokemon-center-mart.png",
+  "w": 976,
+  "h": 298,
+  "kb": 19
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Rocket Hideout",
+  "sub": "LONELY WOODS",
+  "file": "backgrounds/locations/rocket-hideout.png",
+  "thumb": "thumbs/rocket-hideout.png",
+  "w": 984,
+  "h": 642,
+  "kb": 41
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Ruins of Alph",
+  "sub": "BIO IMPACT",
+  "file": "backgrounds/locations/ruins-of-alph.png",
+  "thumb": "thumbs/ruins-of-alph.png",
+  "w": 1016,
+  "h": 1690,
+  "kb": 109
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "S.S. Aqua",
+  "sub": "FAST SHIP",
+  "file": "backgrounds/locations/s-s-aqua.png",
+  "thumb": "thumbs/s-s-aqua.png",
+  "w": 992,
+  "h": 1782,
+  "kb": 87
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Saffron City",
+  "sub": "SAFFRON CITY",
+  "file": "backgrounds/locations/saffron-city.png",
+  "thumb": "thumbs/saffron-city.png",
+  "w": 1008,
+  "h": 1078,
+  "kb": 72
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Slowpoke Well",
+  "sub": "SLOWPOKE WELL",
+  "file": "backgrounds/locations/slowpoke-well.png",
+  "thumb": "thumbs/slowpoke-well.png",
+  "w": 664,
+  "h": 334,
+  "kb": 31
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Sprout Tower",
+  "sub": "SPROUT TOWER",
+  "file": "backgrounds/locations/sprout-tower.png",
+  "thumb": "thumbs/sprout-tower.png",
+  "w": 992,
+  "h": 302,
+  "kb": 18
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Unused Maps",
+  "sub": "GOVERNMENT",
+  "file": "backgrounds/locations/unused-maps.png",
+  "thumb": "thumbs/unused-maps.png",
+  "w": 904,
+  "h": 1538,
+  "kb": 85
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Vermilion City",
+  "sub": "VERMILION CITY",
+  "file": "backgrounds/locations/vermilion-city.png",
+  "thumb": "thumbs/vermilion-city.png",
+  "w": 960,
+  "h": 906,
+  "kb": 68
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Violet City",
+  "sub": "NOSTALGOTHIA",
+  "file": "backgrounds/locations/violet-city.png",
+  "thumb": "thumbs/violet-city.png",
+  "w": 1024,
+  "h": 874,
+  "kb": 80
+ },
+ {
+  "section": "Backgrounds (Locations)",
+  "name": "Viridian City",
+  "sub": "VIRIDIAN CITY",
+  "file": "backgrounds/locations/viridian-city.png",
+  "thumb": "thumbs/viridian-city.png",
+  "w": 960,
+  "h": 898,
+  "kb": 75
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Tileset (Day)",
+  "sub": "",
+  "file": "miscellaneous/tileset-day.png",
+  "thumb": "thumbs/tileset-day.png",
+  "w": 960,
+  "h": 722,
+  "kb": 159
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Tileset (Morning)",
+  "sub": "",
+  "file": "miscellaneous/tileset-morning.png",
+  "thumb": "thumbs/tileset-morning.png",
+  "w": 960,
+  "h": 722,
+  "kb": 151
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Tileset (Night)",
+  "sub": "",
+  "file": "miscellaneous/tileset-night.png",
+  "thumb": "thumbs/tileset-night.png",
+  "w": 960,
+  "h": 722,
+  "kb": 160
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Font",
+  "sub": "",
+  "file": "miscellaneous/font.png",
+  "thumb": "thumbs/font.png",
+  "w": 144,
+  "h": 98,
+  "kb": 2
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Pokémon Egg",
+  "sub": "",
+  "file": "miscellaneous/pokemon-egg.png",
+  "thumb": "thumbs/pokemon-egg.png",
+  "w": 140,
+  "h": 74,
+  "kb": 2
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Game Freak Intro",
+  "sub": "",
+  "file": "miscellaneous/game-freak-intro.png",
+  "thumb": "thumbs/game-freak-intro.png",
+  "w": 1016,
+  "h": 938,
+  "kb": 14
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Intro Backgrounds",
+  "sub": "",
+  "file": "miscellaneous/intro-backgrounds.png",
+  "thumb": "thumbs/intro-backgrounds.png",
+  "w": 1016,
+  "h": 1394,
+  "kb": 25
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Professor Oak's Opening Lecture",
+  "sub": "",
+  "file": "miscellaneous/professor-oaks-opening-lecture.png",
+  "thumb": "thumbs/professor-oaks-opening-lecture.png",
+  "w": 1016,
+  "h": 634,
+  "kb": 31
+ },
+ {
+  "section": "More",
+  "name": "Title Screen",
+  "sub": "",
+  "file": "more/title-screen.png",
+  "thumb": "thumbs/title-screen.png",
+  "w": 1016,
+  "h": 482,
+  "kb": 33
+ },
+ {
+  "section": "More",
+  "name": "Area 1",
+  "sub": "map",
+  "file": "more/maps/area-1.png",
+  "thumb": "thumbs/area-1.png",
+  "w": 336,
+  "h": 610,
+  "kb": 16
+ },
+ {
+  "section": "More",
+  "name": "Area 10",
+  "sub": "map",
+  "file": "more/maps/area-10.png",
+  "thumb": "thumbs/area-10.png",
+  "w": 832,
+  "h": 322,
+  "kb": 25
+ },
+ {
+  "section": "More",
+  "name": "Area 11",
+  "sub": "map",
+  "file": "more/maps/area-11.png",
+  "thumb": "thumbs/area-11.png",
+  "w": 656,
+  "h": 322,
+  "kb": 18
+ },
+ {
+  "section": "More",
+  "name": "Area 12",
+  "sub": "map",
+  "file": "more/maps/area-12.png",
+  "thumb": "thumbs/area-12.png",
+  "w": 472,
+  "h": 898,
+  "kb": 32
+ },
+ {
+  "section": "More",
+  "name": "Area 13",
+  "sub": "map",
+  "file": "more/maps/area-13.png",
+  "thumb": "thumbs/area-13.png",
+  "w": 976,
+  "h": 322,
+  "kb": 22
+ },
+ {
+  "section": "More",
+  "name": "Area 14",
+  "sub": "map",
+  "file": "more/maps/area-14.png",
+  "thumb": "thumbs/area-14.png",
+  "w": 336,
+  "h": 610,
+  "kb": 14
+ },
+ {
+  "section": "More",
+  "name": "Area 15",
+  "sub": "map",
+  "file": "more/maps/area-15.png",
+  "thumb": "thumbs/area-15.png",
+  "w": 824,
+  "h": 322,
+  "kb": 18
+ },
+ {
+  "section": "More",
+  "name": "Area 16",
+  "sub": "map",
+  "file": "more/maps/area-16.png",
+  "thumb": "thumbs/area-16.png",
+  "w": 640,
+  "h": 322,
+  "kb": 22
+ },
+ {
+  "section": "More",
+  "name": "Area 17",
+  "sub": "map",
+  "file": "more/maps/area-17.png",
+  "thumb": "thumbs/area-17.png",
+  "w": 176,
+  "h": 162,
+  "kb": 3
+ },
+ {
+  "section": "More",
+  "name": "Area 18",
+  "sub": "map",
+  "file": "more/maps/area-18.png",
+  "thumb": "thumbs/area-18.png",
+  "w": 336,
+  "h": 322,
+  "kb": 8
+ },
+ {
+  "section": "More",
+  "name": "Area 19",
+  "sub": "map",
+  "file": "more/maps/area-19.png",
+  "thumb": "thumbs/area-19.png",
+  "w": 504,
+  "h": 610,
+  "kb": 16
+ },
+ {
+  "section": "More",
+  "name": "Area 2",
+  "sub": "map",
+  "file": "more/maps/area-2.png",
+  "thumb": "thumbs/area-2.png",
+  "w": 640,
+  "h": 898,
+  "kb": 51
+ },
+ {
+  "section": "More",
+  "name": "Area 20",
+  "sub": "map",
+  "file": "more/maps/area-20.png",
+  "thumb": "thumbs/area-20.png",
+  "w": 976,
+  "h": 322,
+  "kb": 14
+ },
+ {
+  "section": "More",
+  "name": "Area 21",
+  "sub": "map",
+  "file": "more/maps/area-21.png",
+  "thumb": "thumbs/area-21.png",
+  "w": 336,
+  "h": 610,
+  "kb": 10
+ },
+ {
+  "section": "More",
+  "name": "Area 22",
+  "sub": "map",
+  "file": "more/maps/area-22.png",
+  "thumb": "thumbs/area-22.png",
+  "w": 656,
+  "h": 322,
+  "kb": 17
+ },
+ {
+  "section": "More",
+  "name": "Area 23",
+  "sub": "map",
+  "file": "more/maps/area-23.png",
+  "thumb": "thumbs/area-23.png",
+  "w": 336,
+  "h": 322,
+  "kb": 8
+ },
+ {
+  "section": "More",
+  "name": "Area 24",
+  "sub": "map",
+  "file": "more/maps/area-24.png",
+  "thumb": "thumbs/area-24.png",
+  "w": 336,
+  "h": 322,
+  "kb": 8
+ },
+ {
+  "section": "More",
+  "name": "Area 25",
+  "sub": "map",
+  "file": "more/maps/area-25.png",
+  "thumb": "thumbs/area-25.png",
+  "w": 976,
+  "h": 458,
+  "kb": 31
+ },
+ {
+  "section": "More",
+  "name": "Area 26",
+  "sub": "map",
+  "file": "more/maps/area-26.png",
+  "thumb": "thumbs/area-26.png",
+  "w": 608,
+  "h": 322,
+  "kb": 11
+ },
+ {
+  "section": "More",
+  "name": "Area 27",
+  "sub": "map",
+  "file": "more/maps/area-27.png",
+  "thumb": "thumbs/area-27.png",
+  "w": 144,
+  "h": 162,
+  "kb": 4
+ },
+ {
+  "section": "More",
+  "name": "Area 28",
+  "sub": "map",
+  "file": "more/maps/area-28.png",
+  "thumb": "thumbs/area-28.png",
+  "w": 792,
+  "h": 322,
+  "kb": 26
+ },
+ {
+  "section": "More",
+  "name": "Area 29",
+  "sub": "map",
+  "file": "more/maps/area-29.png",
+  "thumb": "thumbs/area-29.png",
+  "w": 976,
+  "h": 458,
+  "kb": 31
+ },
+ {
+  "section": "More",
+  "name": "Area 3",
+  "sub": "map",
+  "file": "more/maps/area-3.png",
+  "thumb": "thumbs/area-3.png",
+  "w": 976,
+  "h": 322,
+  "kb": 23
+ },
+ {
+  "section": "More",
+  "name": "Area 30",
+  "sub": "map",
+  "file": "more/maps/area-30.png",
+  "thumb": "thumbs/area-30.png",
+  "w": 608,
+  "h": 898,
+  "kb": 58
+ },
+ {
+  "section": "More",
+  "name": "Area 31",
+  "sub": "map",
+  "file": "more/maps/area-31.png",
+  "thumb": "thumbs/area-31.png",
+  "w": 824,
+  "h": 322,
+  "kb": 25
+ },
+ {
+  "section": "More",
+  "name": "Area 32",
+  "sub": "map",
+  "file": "more/maps/area-32.png",
+  "thumb": "thumbs/area-32.png",
+  "w": 672,
+  "h": 1474,
+  "kb": 86
+ },
+ {
+  "section": "More",
+  "name": "Area 33",
+  "sub": "map",
+  "file": "more/maps/area-33.png",
+  "thumb": "thumbs/area-33.png",
+  "w": 336,
+  "h": 322,
+  "kb": 14
+ },
+ {
+  "section": "More",
+  "name": "Area 34",
+  "sub": "map",
+  "file": "more/maps/area-34.png",
+  "thumb": "thumbs/area-34.png",
+  "w": 504,
+  "h": 898,
+  "kb": 48
+ },
+ {
+  "section": "More",
+  "name": "Area 35",
+  "sub": "map",
+  "file": "more/maps/area-35.png",
+  "thumb": "thumbs/area-35.png",
+  "w": 640,
+  "h": 610,
+  "kb": 35
+ },
+ {
+  "section": "More",
+  "name": "Area 36",
+  "sub": "map",
+  "file": "more/maps/area-36.png",
+  "thumb": "thumbs/area-36.png",
+  "w": 344,
+  "h": 162,
+  "kb": 5
+ },
+ {
+  "section": "More",
+  "name": "Area 37",
+  "sub": "map",
+  "file": "more/maps/area-37.png",
+  "thumb": "thumbs/area-37.png",
+  "w": 336,
+  "h": 322,
+  "kb": 12
+ },
+ {
+  "section": "More",
+  "name": "Area 38",
+  "sub": "map",
+  "file": "more/maps/area-38.png",
+  "thumb": "thumbs/area-38.png",
+  "w": 824,
+  "h": 322,
+  "kb": 24
+ },
+ {
+  "section": "More",
+  "name": "Area 39",
+  "sub": "map",
+  "file": "more/maps/area-39.png",
+  "thumb": "thumbs/area-39.png",
+  "w": 608,
+  "h": 610,
+  "kb": 36
+ },
+ {
+  "section": "More",
+  "name": "Area 4",
+  "sub": "map",
+  "file": "more/maps/area-4.png",
+  "thumb": "thumbs/area-4.png",
+  "w": 656,
+  "h": 322,
+  "kb": 20
+ },
+ {
+  "section": "More",
+  "name": "Area 41",
+  "sub": "map",
+  "file": "more/maps/area-41.png",
+  "thumb": "thumbs/area-41.png",
+  "w": 816,
+  "h": 898,
+  "kb": 38
+ },
+ {
+  "section": "More",
+  "name": "Area 42",
+  "sub": "map",
+  "file": "more/maps/area-42.png",
+  "thumb": "thumbs/area-42.png",
+  "w": 976,
+  "h": 458,
+  "kb": 32
+ },
+ {
+  "section": "More",
+  "name": "Area 43",
+  "sub": "map",
+  "file": "more/maps/area-43.png",
+  "thumb": "thumbs/area-43.png",
+  "w": 344,
+  "h": 162,
+  "kb": 4
+ },
+ {
+  "section": "More",
+  "name": "Area 44",
+  "sub": "map",
+  "file": "more/maps/area-44.png",
+  "thumb": "thumbs/area-44.png",
+  "w": 976,
+  "h": 322,
+  "kb": 23
+ },
+ {
+  "section": "More",
+  "name": "Area 45",
+  "sub": "map",
+  "file": "more/maps/area-45.png",
+  "thumb": "thumbs/area-45.png",
+  "w": 336,
+  "h": 1474,
+  "kb": 37
+ },
+ {
+  "section": "More",
+  "name": "Area 46",
+  "sub": "map",
+  "file": "more/maps/area-46.png",
+  "thumb": "thumbs/area-46.png",
+  "w": 336,
+  "h": 610,
+  "kb": 20
+ },
+ {
+  "section": "More",
+  "name": "Area 5",
+  "sub": "map",
+  "file": "more/maps/area-5.png",
+  "thumb": "thumbs/area-5.png",
+  "w": 776,
+  "h": 322,
+  "kb": 27
+ },
+ {
+  "section": "More",
+  "name": "Area 6",
+  "sub": "map",
+  "file": "more/maps/area-6.png",
+  "thumb": "thumbs/area-6.png",
+  "w": 640,
+  "h": 322,
+  "kb": 12
+ },
+ {
+  "section": "More",
+  "name": "Area 7",
+  "sub": "map",
+  "file": "more/maps/area-7.png",
+  "thumb": "thumbs/area-7.png",
+  "w": 504,
+  "h": 322,
+  "kb": 12
+ },
+ {
+  "section": "More",
+  "name": "Area 8",
+  "sub": "map",
+  "file": "more/maps/area-8.png",
+  "thumb": "thumbs/area-8.png",
+  "w": 824,
+  "h": 322,
+  "kb": 29
+ },
+ {
+  "section": "More",
+  "name": "Area 9",
+  "sub": "map",
+  "file": "more/maps/area-9.png",
+  "thumb": "thumbs/area-9.png",
+  "w": 976,
+  "h": 322,
+  "kb": 29
+ },
+ {
+  "section": "More",
+  "name": "Diglett'S Cave",
+  "sub": "map",
+  "file": "more/maps/digletts-cave.png",
+  "thumb": "thumbs/digletts-cave.png",
+  "w": 336,
+  "h": 610,
+  "kb": 26
+ },
+ {
+  "section": "More",
+  "name": "Mt.Moon",
+  "sub": "map",
+  "file": "more/maps/mt-moon.png",
+  "thumb": "thumbs/mt-moon.png",
+  "w": 984,
+  "h": 458,
+  "kb": 53
+ },
+ {
+  "section": "More",
+  "name": "Power Plant",
+  "sub": "map",
+  "file": "more/maps/power-plant.png",
+  "thumb": "thumbs/power-plant.png",
+  "w": 336,
+  "h": 322,
+  "kb": 15
+ },
+ {
+  "section": "More",
+  "name": "Rock Tunnel",
+  "sub": "map",
+  "file": "more/maps/rock-tunnel.png",
+  "thumb": "thumbs/rock-tunnel.png",
+  "w": 984,
+  "h": 622,
+  "kb": 4
+ },
+ {
+  "section": "More",
+  "name": "Sewers",
+  "sub": "map",
+  "file": "more/maps/sewers.png",
+  "thumb": "thumbs/sewers.png",
+  "w": 656,
+  "h": 1194,
+  "kb": 6
+ },
+ {
+  "section": "More",
+  "name": "Source Of Plasma",
+  "sub": "map",
+  "file": "more/maps/source-of-plasma.png",
+  "thumb": "thumbs/source-of-plasma.png",
+  "w": 928,
+  "h": 610,
+  "kb": 57
+ },
+ {
+  "section": "More",
+  "name": "Tin Tower",
+  "sub": "map",
+  "file": "more/maps/tin-tower.png",
+  "thumb": "thumbs/tin-tower.png",
+  "w": 992,
+  "h": 1258,
+  "kb": 63
+ },
+ {
+  "section": "More",
+  "name": "Tohjo Falls",
+  "sub": "map",
+  "file": "more/maps/tohjo-falls.png",
+  "thumb": "thumbs/tohjo-falls.png",
+  "w": 496,
+  "h": 322,
+  "kb": 15
+ },
+ {
+  "section": "More",
+  "name": "Underground",
+  "sub": "map",
+  "file": "more/maps/underground.png",
+  "thumb": "thumbs/underground.png",
+  "w": 112,
+  "h": 482,
+  "kb": 2
+ },
+ {
+  "section": "More",
+  "name": "Union Cave",
+  "sub": "map",
+  "file": "more/maps/union-cave.png",
+  "thumb": "thumbs/union-cave.png",
+  "w": 992,
+  "h": 622,
+  "kb": 82
+ },
+ {
+  "section": "More",
+  "name": "Victory Road",
+  "sub": "map",
+  "file": "more/maps/victory-road.png",
+  "thumb": "thumbs/victory-road.png",
+  "w": 336,
+  "h": 1186,
+  "kb": 49
+ },
+ {
+  "section": "More",
+  "name": "Whirl Islands",
+  "sub": "map",
+  "file": "more/maps/whirl-islands.png",
+  "thumb": "thumbs/whirl-islands.png",
+  "w": 1000,
+  "h": 1526,
+  "kb": 10
  }
-}
+]
