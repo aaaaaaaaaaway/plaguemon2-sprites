@@ -9,8 +9,8 @@
   "view_zoom": 4,
   "view_parts": 2,
   "w": 648,
-  "h": 634,
-  "kb": 82
+  "h": 730,
+  "kb": 84
  },
  {
   "section": "Characters",
@@ -1474,7 +1474,7 @@
  },
  {
   "section": "More maps",
-  "name": "Diglett'S Cave",
+  "name": "Diglett's Cave",
   "sub": "map",
   "file": "more/maps/digletts-cave.png",
   "thumb": "thumbs/more/maps/digletts-cave.png",
@@ -1539,7 +1539,7 @@
  },
  {
   "section": "More maps",
-  "name": "Source Of Plasma",
+  "name": "Source of Plasma",
   "sub": "map",
   "file": "more/maps/source-of-plasma.png",
   "thumb": "thumbs/more/maps/source-of-plasma.png",

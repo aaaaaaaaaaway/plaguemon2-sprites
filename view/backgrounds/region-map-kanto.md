@@ -21,7 +21,7 @@ The Pokégear map with every landmark numbered · [1× original](../../backgroun
 | 13 | Underground |
 | 14 | Area 6 |
 | 15 | Vermilion City |
-| 16 | Diglett'S Cave |
+| 16 | Diglett's Cave |
 | 17 | Area 7 |
 | 18 | Area 8 |
 | 19 | Area 9 |

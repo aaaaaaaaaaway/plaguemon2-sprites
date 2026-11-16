@@ -1179,8 +1179,6 @@
     "animated": "sprites/animated/8.gif",
     "animated_shiny": "sprites/animated/shiny/8.gif",
     "frames": "sprites/frames/8.png",
-    "back": "sprites/back/8.png",
-    "back_shiny": "sprites/back/shiny/8.png",
     "icon": "sprites/icons/squirtle.png"
    },
    "category": "ANUS",
@@ -1643,8 +1641,6 @@
     "animated": "sprites/animated/11.gif",
     "animated_shiny": "sprites/animated/shiny/11.gif",
     "frames": "sprites/frames/11.png",
-    "back": "sprites/back/11.png",
-    "back_shiny": "sprites/back/shiny/11.png",
     "icon": "sprites/icons/caterpillar.png"
    },
    "category": "COCOON",
@@ -3043,13 +3039,7 @@
      "levels": "14"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "14"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "30%",
      "levels": "14"
@@ -3117,8 +3107,6 @@
     "animated": "sprites/animated/20.gif",
     "animated_shiny": "sprites/animated/shiny/20.gif",
     "frames": "sprites/frames/20.png",
-    "back": "sprites/back/20.png",
-    "back_shiny": "sprites/back/shiny/20.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "RAT",
@@ -3272,13 +3260,13 @@
      "levels": "15-16"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "20% night, 10% morning/day",
      "levels": "14-15"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "20% night, 10% morning/day",
      "levels": "30"
@@ -3320,13 +3308,7 @@
      "levels": "15"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
-     "how": "walking",
-     "chance": "5%",
-     "levels": "16"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "5%",
      "levels": "18"
@@ -3377,8 +3359,6 @@
     "animated": "sprites/animated/21.gif",
     "animated_shiny": "sprites/animated/shiny/21.gif",
     "frames": "sprites/frames/21.png",
-    "back": "sprites/back/21.png",
-    "back_shiny": "sprites/back/shiny/21.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "TINY BIRD",
@@ -3897,8 +3877,6 @@
     "animated": "sprites/animated/24.gif",
     "animated_shiny": "sprites/animated/shiny/24.gif",
     "frames": "sprites/frames/24.png",
-    "back": "sprites/back/24.png",
-    "back_shiny": "sprites/back/shiny/24.png",
     "icon": "sprites/icons/serpent.png"
    },
    "category": "COBRA",
@@ -4002,7 +3980,7 @@
      "levels": "28"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "20% morning/day",
      "levels": "42"
@@ -4342,8 +4320,6 @@
     "animated": "sprites/animated/27.gif",
     "animated_shiny": "sprites/animated/shiny/27.gif",
     "frames": "sprites/frames/27.png",
-    "back": "sprites/back/27.png",
-    "back_shiny": "sprites/back/shiny/27.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "MOUSE",
@@ -5033,8 +5009,6 @@
     "animated": "sprites/animated/32.gif",
     "animated_shiny": "sprites/animated/shiny/32.gif",
     "frames": "sprites/frames/32.png",
-    "back": "sprites/back/32.png",
-    "back_shiny": "sprites/back/shiny/32.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "POISON PIN",
@@ -5422,8 +5396,6 @@
     "animated": "sprites/animated/35.gif",
     "animated_shiny": "sprites/animated/shiny/35.gif",
     "frames": "sprites/frames/35.png",
-    "back": "sprites/back/35.png",
-    "back_shiny": "sprites/back/shiny/35.png",
     "icon": "sprites/icons/clefairy.png"
    },
    "category": "FAIRY",
@@ -5691,8 +5663,6 @@
     "animated": "sprites/animated/37.gif",
     "animated_shiny": "sprites/animated/shiny/37.gif",
     "frames": "sprites/frames/37.png",
-    "back": "sprites/back/37.png",
-    "back_shiny": "sprites/back/shiny/37.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "FOX",
@@ -5918,8 +5888,6 @@
     "animated": "sprites/animated/39.gif",
     "animated_shiny": "sprites/animated/shiny/39.gif",
     "frames": "sprites/frames/39.png",
-    "back": "sprites/back/39.png",
-    "back_shiny": "sprites/back/shiny/39.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
    "category": "BALLOON",
@@ -6095,8 +6063,6 @@
     "animated": "sprites/animated/40.gif",
     "animated_shiny": "sprites/animated/shiny/40.gif",
     "frames": "sprites/frames/40.png",
-    "back": "sprites/back/40.png",
-    "back_shiny": "sprites/back/shiny/40.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
    "category": "BALLOON",
@@ -6190,8 +6156,6 @@
     "animated": "sprites/animated/41.gif",
     "animated_shiny": "sprites/animated/shiny/41.gif",
     "frames": "sprites/frames/41.png",
-    "back": "sprites/back/41.png",
-    "back_shiny": "sprites/back/shiny/41.png",
     "icon": "sprites/icons/bat.png"
    },
    "category": "BAT",
@@ -6277,7 +6241,7 @@
      "levels": "19-23"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "60%",
      "levels": "15-17"
@@ -6313,7 +6277,7 @@
      "levels": "12-15"
     },
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "39% day/night, 34% morning",
      "levels": "2-4"
@@ -6331,46 +6295,34 @@
      "levels": "6"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "30%",
      "levels": "13"
     },
     {
-     "place": "Parking Lot (Ice Path 1F)",
+     "place": "Parking Lot 1F",
      "how": "walking",
      "chance": "30%",
      "levels": "22"
     },
     {
-     "place": "Parking Lot (Ice Path B1F)",
+     "place": "Parking Lot B1F",
      "how": "walking",
      "chance": "30%",
      "levels": "23"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Blackthorn Side)",
+     "place": "Parking Lot B2F",
      "how": "walking",
      "chance": "30%",
      "levels": "24"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Mahogany Side)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "24"
-    },
-    {
-     "place": "Parking Lot (Ice Path B3F)",
+     "place": "Parking Lot B3F",
      "how": "walking",
      "chance": "30%",
      "levels": "25"
-    },
-    {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
     },
     {
      "place": "Tohjo Falls",
@@ -6379,52 +6331,22 @@
      "levels": "22"
     },
     {
-     "place": "Whirl Island Se",
+     "place": "Whirl Islands",
      "how": "walking",
      "chance": "30%",
      "levels": "23"
     },
     {
-     "place": "Whirl Island Sw",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island B1F)",
+     "place": "Whirl Islands B1F",
      "how": "walking",
      "chance": "30%",
      "levels": "24"
     },
     {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "walking",
      "chance": "30%",
      "levels": "25"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Cave)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "26"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Ne)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Nw)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
     },
     {
      "place": "Union Cave 1F",
@@ -6433,7 +6355,7 @@
      "levels": "5-7"
     },
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking (swarm)",
      "chance": "20%",
      "levels": "2"
@@ -6467,12 +6389,6 @@
      "how": "walking",
      "chance": "10%",
      "levels": "15"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "14-15"
     },
     {
      "place": "Area 10",
@@ -6639,28 +6555,10 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Item Rooms",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "80% morning/day, 50% night",
      "levels": "46-50"
-    },
-    {
-     "place": "Silver Cave Room 2",
-     "how": "walking",
-     "chance": "50% night, 30% morning/day",
-     "levels": "46-48"
-    },
-    {
-     "place": "Silver Cave Room 1",
-     "how": "walking",
-     "chance": "45% night, 5% morning/day",
-     "levels": "42-46"
-    },
-    {
-     "place": "Silver Cave Room 3",
-     "how": "walking",
-     "chance": "45% night, 30% morning/day",
-     "levels": "49-53"
     },
     {
      "place": "Area 28",
@@ -6669,16 +6567,10 @@
      "levels": "40-42"
     },
     {
-     "place": "Parking Lot (Ice Path 1F)",
+     "place": "Parking Lot 1F",
      "how": "walking",
      "chance": "30%",
      "levels": "22-24"
-    },
-    {
-     "place": "Silver Cave Outside",
-     "how": "walking",
-     "chance": "30% night",
-     "levels": "40-44"
     },
     {
      "place": "Union Cave B2F",
@@ -6693,31 +6585,25 @@
      "levels": "34"
     },
     {
-     "place": "Parking Lot (Ice Path B1F)",
+     "place": "Parking Lot B1F",
      "how": "walking",
      "chance": "29%",
      "levels": "23-25"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Blackthorn Side)",
+     "place": "Parking Lot B2F",
      "how": "walking",
      "chance": "25%",
      "levels": "24-26"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Mahogany Side)",
-     "how": "walking",
-     "chance": "25%",
-     "levels": "24-26"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "20%",
      "levels": "17"
     },
     {
-     "place": "Parking Lot (Ice Path B3F)",
+     "place": "Parking Lot B3F",
      "how": "walking",
      "chance": "20%",
      "levels": "25"
@@ -6735,70 +6621,34 @@
      "levels": "16"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "15% night, 5% morning/day",
      "levels": "30-32"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "10%",
      "levels": "13"
     },
     {
-     "place": "Whirl Island Se",
+     "place": "Whirl Islands",
      "how": "walking",
      "chance": "10% night, 5% morning/day",
      "levels": "24-25"
     },
     {
-     "place": "Whirl Island Sw",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "24-25"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island B1F)",
+     "place": "Whirl Islands B1F",
      "how": "walking",
      "chance": "10% night, 5% morning/day",
      "levels": "25-26"
     },
     {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "walking",
      "chance": "10% night, 5% morning/day",
      "levels": "26-27"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Cave)",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "24-25"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "27-28"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Ne)",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "24-25"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Nw)",
-     "how": "walking",
-     "chance": "10% night, 5% morning/day",
-     "levels": "24-25"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
-     "how": "walking",
-     "chance": "5%",
-     "levels": "15"
     },
     {
      "place": "Rock Tunnel B1F",
@@ -6807,7 +6657,7 @@
      "levels": "15"
     },
     {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "5%",
      "levels": "23"
@@ -6817,12 +6667,6 @@
      "how": "walking",
      "chance": "5%",
      "levels": "23"
-    },
-    {
-     "place": "Sewers (Dark Cave Violet Entrance)",
-     "how": "walking",
-     "chance": "1% day/night",
-     "levels": "4"
     }
    ],
    "pokedex_text": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood."
@@ -7266,8 +7110,6 @@
     "animated": "sprites/animated/46.gif",
     "animated_shiny": "sprites/animated/shiny/46.gif",
     "frames": "sprites/frames/46.png",
-    "back": "sprites/back/46.png",
-    "back_shiny": "sprites/back/shiny/46.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "MUSHROOM",
@@ -7503,16 +7345,10 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Item Rooms",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "20%",
      "levels": "46-52"
-    },
-    {
-     "place": "Silver Cave Room 2",
-     "how": "walking",
-     "chance": "15%",
-     "levels": "46-48"
     }
    ],
    "pokedex_text": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg."
@@ -7560,8 +7396,6 @@
     "animated": "sprites/animated/48.gif",
     "animated_shiny": "sprites/animated/shiny/48.gif",
     "frames": "sprites/frames/48.png",
-    "back": "sprites/back/48.png",
-    "back_shiny": "sprites/back/shiny/48.png",
     "icon": "sprites/icons/caterpillar.png"
    },
    "category": "INSECT",
@@ -8054,7 +7888,7 @@
    ],
    "wild": [
     {
-     "place": "Diglett'S Cave",
+     "place": "Diglett's Cave",
      "how": "walking",
      "chance": "90%",
      "levels": "2-32"
@@ -8209,7 +8043,7 @@
    ],
    "wild": [
     {
-     "place": "Diglett'S Cave",
+     "place": "Diglett's Cave",
      "how": "walking",
      "chance": "10%",
      "levels": "16-32"
@@ -8714,8 +8548,6 @@
     "animated": "sprites/animated/55.gif",
     "animated_shiny": "sprites/animated/shiny/55.gif",
     "frames": "sprites/frames/55.png",
-    "back": "sprites/back/55.png",
-    "back_shiny": "sprites/back/shiny/55.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "DUCK",
@@ -8821,13 +8653,13 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 2",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30% night",
      "levels": "48"
     },
     {
-     "place": "Silver Cave Room 2",
+     "place": "Silver Cave",
      "how": "surfing",
      "chance": "30%",
      "levels": "35"
@@ -8849,18 +8681,6 @@
      "how": "surfing",
      "chance": "10%",
      "levels": "15"
-    },
-    {
-     "place": "Silver Cave Room 1",
-     "how": "walking",
-     "chance": "5% night",
-     "levels": "45"
-    },
-    {
-     "place": "Silver Cave Room 3",
-     "how": "walking",
-     "chance": "5% night",
-     "levels": "45"
     }
    ],
    "pokedex_text": "It swims grace- fully along on the quiet, slow-moving rivers and lakes of which it is so fond."
@@ -9047,8 +8867,6 @@
     "animated": "sprites/animated/57.gif",
     "animated_shiny": "sprites/animated/shiny/57.gif",
     "frames": "sprites/frames/57.png",
-    "back": "sprites/back/57.png",
-    "back_shiny": "sprites/back/shiny/57.png",
     "icon": "sprites/icons/fighter.png"
    },
    "category": "PIG MONKEY",
@@ -9356,8 +9174,6 @@
     "animated": "sprites/animated/59.gif",
     "animated_shiny": "sprites/animated/shiny/59.gif",
     "frames": "sprites/frames/59.png",
-    "back": "sprites/back/59.png",
-    "back_shiny": "sprites/back/shiny/59.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "LEGENDARY",
@@ -9605,7 +9421,7 @@
      "levels": "4"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "surfing",
      "chance": "10%",
      "levels": "35"
@@ -9758,7 +9574,7 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "surfing",
      "chance": "90%",
      "levels": "35-40"
@@ -9770,7 +9586,7 @@
      "levels": "40"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "40% night",
      "levels": "42-44"
@@ -9875,8 +9691,6 @@
     "animated": "sprites/animated/62.gif",
     "animated_shiny": "sprites/animated/shiny/62.gif",
     "frames": "sprites/frames/62.png",
-    "back": "sprites/back/62.png",
-    "back_shiny": "sprites/back/shiny/62.png",
     "icon": "sprites/icons/poliwag.png"
    },
    "category": "TADPOLE",
@@ -10090,8 +9904,6 @@
     "animated": "sprites/animated/64.gif",
     "animated_shiny": "sprites/animated/shiny/64.gif",
     "frames": "sprites/frames/64.png",
-    "back": "sprites/back/64.png",
-    "back_shiny": "sprites/back/shiny/64.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "PSI",
@@ -10482,13 +10294,7 @@
    ],
    "wild": [
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
-     "how": "walking",
-     "chance": "20% morning/day",
-     "levels": "15"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "20% morning/day",
      "levels": "14"
@@ -10500,13 +10306,13 @@
      "levels": "12"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "10% morning/day",
      "levels": "16"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "5% morning/day",
      "levels": "28"
@@ -10667,13 +10473,13 @@
    ],
    "wild": [
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "30% morning/day",
      "levels": "32"
     },
     {
-     "place": "Silver Cave Room 2",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30% morning/day",
      "levels": "48"
@@ -10878,8 +10684,6 @@
     "animated": "sprites/animated/69.gif",
     "animated_shiny": "sprites/animated/shiny/69.gif",
     "frames": "sprites/frames/69.png",
-    "back": "sprites/back/69.png",
-    "back_shiny": "sprites/back/shiny/69.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "FLOWER",
@@ -11058,8 +10862,6 @@
     "animated": "sprites/animated/70.gif",
     "animated_shiny": "sprites/animated/shiny/70.gif",
     "frames": "sprites/frames/70.png",
-    "back": "sprites/back/70.png",
-    "back_shiny": "sprites/back/shiny/70.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "FLYCATCHER",
@@ -11460,13 +11262,7 @@
      "levels": "30-35"
     },
     {
-     "place": "Government (Olivine City)",
-     "how": "surfing",
-     "chance": "90%",
-     "levels": "15-20"
-    },
-    {
-     "place": "Government (Olivine Port)",
+     "place": "Government",
      "how": "surfing",
      "chance": "90%",
      "levels": "15-20"
@@ -11502,12 +11298,6 @@
      "levels": "30-35"
     },
     {
-     "place": "Vermilion City (Vermilion Port)",
-     "how": "surfing",
-     "chance": "90%",
-     "levels": "30-35"
-    },
-    {
      "place": "Area 12",
      "how": "surfing",
      "chance": "60%",
@@ -11532,7 +11322,7 @@
      "levels": "15"
     },
     {
-     "place": "Whirl Island Sw",
+     "place": "Whirl Islands",
      "how": "surfing",
      "chance": "60%",
      "levels": "20"
@@ -11583,8 +11373,6 @@
     "animated": "sprites/animated/73.gif",
     "animated_shiny": "sprites/animated/shiny/73.gif",
     "frames": "sprites/frames/73.png",
-    "back": "sprites/back/73.png",
-    "back_shiny": "sprites/back/shiny/73.png",
     "icon": "sprites/icons/jellyfish.png"
    },
    "category": "JELLYFISH",
@@ -11690,7 +11478,7 @@
    ],
    "wild": [
     {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
+     "place": "Whirl Islands",
      "how": "surfing",
      "chance": "30%",
      "levels": "20"
@@ -11762,13 +11550,7 @@
      "levels": "35"
     },
     {
-     "place": "Government (Olivine City)",
-     "how": "surfing",
-     "chance": "10%",
-     "levels": "20"
-    },
-    {
-     "place": "Government (Olivine Port)",
+     "place": "Government",
      "how": "surfing",
      "chance": "10%",
      "levels": "20"
@@ -11810,19 +11592,7 @@
      "levels": "35"
     },
     {
-     "place": "Vermilion City (Vermilion Port)",
-     "how": "surfing",
-     "chance": "10%",
-     "levels": "35"
-    },
-    {
-     "place": "Whirl Island Sw",
-     "how": "surfing",
-     "chance": "10%",
-     "levels": "20"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "surfing",
      "chance": "10%",
      "levels": "20"
@@ -11962,7 +11732,7 @@
    ],
    "wild": [
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "60%",
      "levels": "2-4"
@@ -11980,7 +11750,7 @@
      "levels": "11-12"
     },
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking (swarm)",
      "chance": "40%",
      "levels": "2-3"
@@ -11998,13 +11768,13 @@
      "levels": "23"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "30%",
      "levels": "13"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "30% night, 20% morning/day",
      "levels": "31"
@@ -12014,12 +11784,6 @@
      "how": "walking",
      "chance": "30%",
      "levels": "14"
-    },
-    {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
-     "how": "walking",
-     "chance": "30%",
-     "levels": "23"
     },
     {
      "place": "Union Cave 1F",
@@ -12040,13 +11804,7 @@
      "levels": "6"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
-     "how": "walking",
-     "chance": "5%",
-     "levels": "14"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "5%",
      "levels": "16"
@@ -12103,8 +11861,6 @@
     "animated": "sprites/animated/75.gif",
     "animated_shiny": "sprites/animated/shiny/75.gif",
     "frames": "sprites/frames/75.png",
-    "back": "sprites/back/75.png",
-    "back_shiny": "sprites/back/shiny/75.png",
     "icon": "sprites/icons/geodude.png"
    },
    "category": "ROCK",
@@ -12228,28 +11984,22 @@
      "levels": "34-40"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "30%",
      "levels": "31"
     },
     {
-     "place": "Silver Cave Room 1",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30%",
      "levels": "43"
     },
     {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "20%",
      "levels": "25"
-    },
-    {
-     "place": "Silver Cave Room 3",
-     "how": "walking",
-     "chance": "20%",
-     "levels": "48"
     }
    ],
    "pokedex_text": "It travels by rol- ling on mountain paths. If it gains too much speed, it stops by running into huge rocks."
@@ -12297,8 +12047,6 @@
     "animated": "sprites/animated/76.gif",
     "animated_shiny": "sprites/animated/shiny/76.gif",
     "frames": "sprites/frames/76.png",
-    "back": "sprites/back/76.png",
-    "back_shiny": "sprites/back/shiny/76.png",
     "icon": "sprites/icons/geodude.png"
    },
    "category": "MEGATON",
@@ -12550,7 +12298,7 @@
      "levels": "40"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30% morning/day",
      "levels": "42"
@@ -12745,7 +12493,7 @@
      "levels": "40"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "10% morning/day",
      "levels": "44"
@@ -12796,8 +12544,6 @@
     "animated": "sprites/animated/79.gif",
     "animated_shiny": "sprites/animated/shiny/79.gif",
     "frames": "sprites/frames/79.png",
-    "back": "sprites/back/79.png",
-    "back_shiny": "sprites/back/shiny/79.png",
     "icon": "sprites/icons/slowpoke.png"
    },
    "category": "DOPEY",
@@ -13295,8 +13041,6 @@
     "animated": "sprites/animated/82.gif",
     "animated_shiny": "sprites/animated/shiny/82.gif",
     "frames": "sprites/frames/82.png",
-    "back": "sprites/back/82.png",
-    "back_shiny": "sprites/back/shiny/82.png",
     "icon": "sprites/icons/voltorb.png"
    },
    "category": "MAGNET",
@@ -13454,8 +13198,6 @@
     "animated": "sprites/animated/83.gif",
     "animated_shiny": "sprites/animated/shiny/83.gif",
     "frames": "sprites/frames/83.png",
-    "back": "sprites/back/83.png",
-    "back_shiny": "sprites/back/shiny/83.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "WILD DUCK",
@@ -13582,8 +13324,6 @@
     "animated": "sprites/animated/84.gif",
     "animated_shiny": "sprites/animated/shiny/84.gif",
     "frames": "sprites/frames/84.png",
-    "back": "sprites/back/84.png",
-    "back_shiny": "sprites/back/shiny/84.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "TWIN BIRD",
@@ -13689,7 +13429,7 @@
      "levels": "41"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "5% morning/day",
      "levels": "41"
@@ -13849,7 +13589,7 @@
      "levels": "43"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "5% morning/day",
      "levels": "43"
@@ -13899,8 +13639,6 @@
     "animated": "sprites/animated/86.gif",
     "animated_shiny": "sprites/animated/shiny/86.gif",
     "frames": "sprites/frames/86.png",
-    "back": "sprites/back/86.png",
-    "back_shiny": "sprites/back/shiny/86.png",
     "icon": "sprites/icons/lapras.png"
    },
    "category": "SEA LION",
@@ -13974,52 +13712,22 @@
    ],
    "wild": [
     {
-     "place": "Whirl Island Se",
+     "place": "Whirl Islands",
      "how": "walking",
      "chance": "25% morning/day",
      "levels": "22-24"
     },
     {
-     "place": "Whirl Island Sw",
-     "how": "walking",
-     "chance": "25% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island B1F)",
+     "place": "Whirl Islands B1F",
      "how": "walking",
      "chance": "25% morning/day",
      "levels": "23-25"
     },
     {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "walking",
      "chance": "25% morning/day",
      "levels": "24-26"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Cave)",
-     "how": "walking",
-     "chance": "25% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
-     "how": "walking",
-     "chance": "25% morning/day",
-     "levels": "25-27"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Ne)",
-     "how": "walking",
-     "chance": "25% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Nw)",
-     "how": "walking",
-     "chance": "25% morning/day",
-     "levels": "22-24"
     }
    ],
    "pokedex_text": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg- filled oceans."
@@ -14199,8 +13907,6 @@
     "animated": "sprites/animated/88.gif",
     "animated_shiny": "sprites/animated/shiny/88.gif",
     "frames": "sprites/frames/88.png",
-    "back": "sprites/back/88.png",
-    "back_shiny": "sprites/back/shiny/88.png",
     "icon": "sprites/icons/blob.png"
    },
    "category": "SLUDGE",
@@ -14523,8 +14229,6 @@
     "animated": "sprites/animated/90.gif",
     "animated_shiny": "sprites/animated/shiny/90.gif",
     "frames": "sprites/frames/90.png",
-    "back": "sprites/back/90.png",
-    "back_shiny": "sprites/back/shiny/90.png",
     "icon": "sprites/icons/shell.png"
    },
    "category": "BIVALVE",
@@ -14759,8 +14463,6 @@
     "animated": "sprites/animated/92.gif",
     "animated_shiny": "sprites/animated/shiny/92.gif",
     "frames": "sprites/frames/92.png",
-    "back": "sprites/back/92.png",
-    "back_shiny": "sprites/back/shiny/92.png",
     "icon": "sprites/icons/ghost.png"
    },
    "category": "GAS",
@@ -15280,8 +14982,6 @@
     "animated": "sprites/animated/95.gif",
     "animated_shiny": "sprites/animated/shiny/95.gif",
     "frames": "sprites/frames/95.png",
-    "back": "sprites/back/95.png",
-    "back_shiny": "sprites/back/shiny/95.png",
     "icon": "sprites/icons/serpent.png"
    },
    "category": "ROCK SNAKE",
@@ -15357,7 +15057,7 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 3",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30%",
      "levels": "48"
@@ -15367,12 +15067,6 @@
      "how": "walking",
      "chance": "20%",
      "levels": "16"
-    },
-    {
-     "place": "Silver Cave Room 1",
-     "how": "walking",
-     "chance": "20%",
-     "levels": "42"
     },
     {
      "place": "Victory Road",
@@ -15444,8 +15138,6 @@
     "animated": "sprites/animated/96.gif",
     "animated_shiny": "sprites/animated/shiny/96.gif",
     "frames": "sprites/frames/96.png",
-    "back": "sprites/back/96.png",
-    "back_shiny": "sprites/back/shiny/96.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "HYPNOSIS",
@@ -15775,8 +15467,6 @@
     "animated": "sprites/animated/98.gif",
     "animated_shiny": "sprites/animated/shiny/98.gif",
     "frames": "sprites/frames/98.png",
-    "back": "sprites/back/98.png",
-    "back_shiny": "sprites/back/shiny/98.png",
     "icon": "sprites/icons/shell.png"
    },
    "category": "RIVER CRAB",
@@ -15858,52 +15548,22 @@
    ],
    "wild": [
     {
-     "place": "Whirl Island Se",
+     "place": "Whirl Islands",
      "how": "walking",
      "chance": "60% night, 40% morning/day",
      "levels": "22-24"
     },
     {
-     "place": "Whirl Island Sw",
-     "how": "walking",
-     "chance": "60% night, 40% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island B1F)",
+     "place": "Whirl Islands B1F",
      "how": "walking",
      "chance": "60% night, 40% morning/day",
      "levels": "23-25"
     },
     {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "walking",
      "chance": "60% night, 40% morning/day",
      "levels": "24-26"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Cave)",
-     "how": "walking",
-     "chance": "60% night, 40% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
-     "how": "walking",
-     "chance": "60% night, 40% morning/day",
-     "levels": "25-27"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Ne)",
-     "how": "walking",
-     "chance": "60% night, 40% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Whirl Islands (Whirl Island Nw)",
-     "how": "walking",
-     "chance": "60% night, 40% morning/day",
-     "levels": "22-24"
     },
     {
      "place": "Area 41",
@@ -15956,8 +15616,6 @@
     "animated": "sprites/animated/99.gif",
     "animated_shiny": "sprites/animated/shiny/99.gif",
     "frames": "sprites/frames/99.png",
-    "back": "sprites/back/99.png",
-    "back_shiny": "sprites/back/shiny/99.png",
     "icon": "sprites/icons/shell.png"
    },
    "category": "PINCER",
@@ -16098,8 +15756,6 @@
     "animated": "sprites/animated/100.gif",
     "animated_shiny": "sprites/animated/shiny/100.gif",
     "frames": "sprites/frames/100.png",
-    "back": "sprites/back/100.png",
-    "back_shiny": "sprites/back/shiny/100.png",
     "icon": "sprites/icons/voltorb.png"
    },
    "category": "BALL",
@@ -16629,8 +16285,6 @@
     "animated": "sprites/animated/104.gif",
     "animated_shiny": "sprites/animated/shiny/104.gif",
     "frames": "sprites/frames/104.png",
-    "back": "sprites/back/104.png",
-    "back_shiny": "sprites/back/shiny/104.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "LONELY",
@@ -16748,7 +16402,7 @@
      "levels": "12"
     },
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "10% morning/day",
      "levels": "20-22"
@@ -17283,8 +16937,6 @@
     "animated": "sprites/animated/108.gif",
     "animated_shiny": "sprites/animated/shiny/108.gif",
     "frames": "sprites/frames/108.png",
-    "back": "sprites/back/108.png",
-    "back_shiny": "sprites/back/shiny/108.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "LICKING",
@@ -18157,8 +17809,6 @@
     "animated": "sprites/animated/114.gif",
     "animated_shiny": "sprites/animated/shiny/114.gif",
     "frames": "sprites/frames/114.png",
-    "back": "sprites/back/114.png",
-    "back_shiny": "sprites/back/shiny/114.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "VINE",
@@ -18268,7 +17918,7 @@
      "levels": "23"
     },
     {
-     "place": "Silver Cave Outside",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30%",
      "levels": "41"
@@ -18524,22 +18174,16 @@
    ],
    "wild": [
     {
-     "place": "Whirl Islands (Whirl Island B2F)",
+     "place": "Whirl Islands B2F",
      "how": "surfing",
      "chance": "90%",
      "levels": "15-20"
     },
     {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
+     "place": "Whirl Islands",
      "how": "surfing",
      "chance": "60%",
      "levels": "20"
-    },
-    {
-     "place": "Whirl Island Sw",
-     "how": "surfing",
-     "chance": "30%",
-     "levels": "15"
     }
    ],
    "pokedex_text": "When they're in a safe location, they can be seen playfully tangling their tails together."
@@ -18586,8 +18230,6 @@
     "animated": "sprites/animated/117.gif",
     "animated_shiny": "sprites/animated/shiny/117.gif",
     "frames": "sprites/frames/117.png",
-    "back": "sprites/back/117.png",
-    "back_shiny": "sprites/back/shiny/117.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "DRAGON",
@@ -18691,7 +18333,7 @@
    ],
    "wild": [
     {
-     "place": "Whirl Islands (Whirl Island Lugia Chamber)",
+     "place": "Whirl Islands",
      "how": "surfing",
      "chance": "10%",
      "levels": "20"
@@ -18741,8 +18383,6 @@
     "animated": "sprites/animated/118.gif",
     "animated_shiny": "sprites/animated/shiny/118.gif",
     "frames": "sprites/frames/118.png",
-    "back": "sprites/back/118.png",
-    "back_shiny": "sprites/back/shiny/118.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "GOLDFISH",
@@ -18874,19 +18514,19 @@
      "levels": "5-10"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "surfing",
      "chance": "60%",
      "levels": "15"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "surfing",
      "chance": "60%",
      "levels": "20"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "surfing",
      "chance": "60%",
      "levels": "15"
@@ -18898,7 +18538,7 @@
      "levels": "20"
     },
     {
-     "place": "Silver Cave Room 2",
+     "place": "Silver Cave",
      "how": "surfing",
      "chance": "10%",
      "levels": "35"
@@ -18948,8 +18588,6 @@
     "animated": "sprites/animated/119.gif",
     "animated_shiny": "sprites/animated/shiny/119.gif",
     "frames": "sprites/frames/119.png",
-    "back": "sprites/back/119.png",
-    "back_shiny": "sprites/back/shiny/119.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "GOLDFISH",
@@ -19047,7 +18685,7 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 2",
+     "place": "Silver Cave",
      "how": "surfing",
      "chance": "60%",
      "levels": "35"
@@ -19095,19 +18733,19 @@
      "levels": "10"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "surfing",
      "chance": "10%",
      "levels": "20"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "surfing",
      "chance": "10%",
      "levels": "25"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "surfing",
      "chance": "10%",
      "levels": "20"
@@ -19163,8 +18801,6 @@
     "animated": "sprites/animated/120.gif",
     "animated_shiny": "sprites/animated/shiny/120.gif",
     "frames": "sprites/frames/120.png",
-    "back": "sprites/back/120.png",
-    "back_shiny": "sprites/back/shiny/120.png",
     "icon": "sprites/icons/staryu.png"
    },
    "category": "STARSHAPE",
@@ -19406,8 +19042,6 @@
     "animated": "sprites/animated/122.gif",
     "animated_shiny": "sprites/animated/shiny/122.gif",
     "frames": "sprites/frames/122.png",
-    "back": "sprites/back/122.png",
-    "back_shiny": "sprites/back/shiny/122.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "BARRIER",
@@ -19564,8 +19198,6 @@
     "animated": "sprites/animated/123.gif",
     "animated_shiny": "sprites/animated/shiny/123.gif",
     "frames": "sprites/frames/123.png",
-    "back": "sprites/back/123.png",
-    "back_shiny": "sprites/back/shiny/123.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "MANTIS",
@@ -19820,25 +19452,19 @@
    ],
    "wild": [
     {
-     "place": "Parking Lot (Ice Path B3F)",
+     "place": "Parking Lot B3F",
      "how": "walking",
      "chance": "10% morning/day",
      "levels": "22-26"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Blackthorn Side)",
+     "place": "Parking Lot B2F",
      "how": "walking",
      "chance": "5% morning/day",
      "levels": "22-24"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Mahogany Side)",
-     "how": "walking",
-     "chance": "5% morning/day",
-     "levels": "22-24"
-    },
-    {
-     "place": "Parking Lot (Ice Path B1F)",
+     "place": "Parking Lot B1F",
      "how": "walking",
      "chance": "1% morning/day",
      "levels": "22"
@@ -20140,7 +19766,7 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 1",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "10% morning/day",
      "levels": "45"
@@ -20190,8 +19816,6 @@
     "animated": "sprites/animated/127.gif",
     "animated_shiny": "sprites/animated/shiny/127.gif",
     "frames": "sprites/frames/127.png",
-    "back": "sprites/back/127.png",
-    "back_shiny": "sprites/back/shiny/127.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "STAGBEETLE",
@@ -20310,8 +19934,6 @@
     "animated": "sprites/animated/128.gif",
     "animated_shiny": "sprites/animated/shiny/128.gif",
     "frames": "sprites/frames/128.png",
-    "back": "sprites/back/128.png",
-    "back_shiny": "sprites/back/shiny/128.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "WILD BULL",
@@ -20510,31 +20132,25 @@
      "levels": "10-20"
     },
     {
-     "place": "Peak Of Dread",
+     "place": "Peak of Dread",
      "how": "surfing",
      "chance": "100%",
      "levels": "5-15"
     },
     {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
+     "place": "Sewers",
      "how": "surfing",
      "chance": "100%",
      "levels": "5-15"
     },
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
-     "how": "surfing",
-     "chance": "100%",
-     "levels": "5-15"
-    },
-    {
-     "place": "Dragon'S Den",
+     "place": "Dragon's Den B1F",
      "how": "surfing",
      "chance": "90%",
      "levels": "10-15"
     },
     {
-     "place": "Source Of Plasma",
+     "place": "Source of Plasma",
      "how": "surfing",
      "chance": "90%",
      "levels": "10-15"
@@ -20666,7 +20282,7 @@
    ],
    "wild": [
     {
-     "place": "Source Of Plasma",
+     "place": "Source of Plasma",
      "how": "surfing",
      "chance": "10%",
      "levels": "15"
@@ -21230,8 +20846,6 @@
     "animated": "sprites/animated/135.gif",
     "animated_shiny": "sprites/animated/shiny/135.gif",
     "frames": "sprites/frames/135.png",
-    "back": "sprites/back/135.png",
-    "back_shiny": "sprites/back/shiny/135.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "LIGHTNING",
@@ -21372,8 +20986,6 @@
     "animated": "sprites/animated/136.gif",
     "animated_shiny": "sprites/animated/shiny/136.gif",
     "frames": "sprites/frames/136.png",
-    "back": "sprites/back/136.png",
-    "back_shiny": "sprites/back/shiny/136.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "FLAME",
@@ -21514,8 +21126,6 @@
     "animated": "sprites/animated/137.gif",
     "animated_shiny": "sprites/animated/shiny/137.gif",
     "frames": "sprites/frames/137.png",
-    "back": "sprites/back/137.png",
-    "back_shiny": "sprites/back/shiny/137.png",
     "icon": "sprites/icons/voltorb.png"
    },
    "category": "VIRTUAL",
@@ -22183,8 +21793,6 @@
     "animated": "sprites/animated/142.gif",
     "animated_shiny": "sprites/animated/shiny/142.gif",
     "frames": "sprites/frames/142.png",
-    "back": "sprites/back/142.png",
-    "back_shiny": "sprites/back/shiny/142.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "FOSSIL",
@@ -22676,8 +22284,6 @@
     "animated": "sprites/animated/146.gif",
     "animated_shiny": "sprites/animated/shiny/146.gif",
     "frames": "sprites/frames/146.png",
-    "back": "sprites/back/146.png",
-    "back_shiny": "sprites/back/shiny/146.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "FLAME",
@@ -22797,8 +22403,6 @@
     "animated": "sprites/animated/147.gif",
     "animated_shiny": "sprites/animated/shiny/147.gif",
     "frames": "sprites/frames/147.png",
-    "back": "sprites/back/147.png",
-    "back_shiny": "sprites/back/shiny/147.png",
     "icon": "sprites/icons/serpent.png"
    },
    "category": "DRAGON",
@@ -22902,7 +22506,7 @@
      "levels": "20"
     },
     {
-     "place": "Dragon'S Den",
+     "place": "Dragon's Den B1F",
      "how": "surfing",
      "chance": "10%",
      "levels": "10"
@@ -22953,8 +22557,6 @@
     "animated": "sprites/animated/148.gif",
     "animated_shiny": "sprites/animated/shiny/148.gif",
     "frames": "sprites/frames/148.png",
-    "back": "sprites/back/148.png",
-    "back_shiny": "sprites/back/shiny/148.png",
     "icon": "sprites/icons/serpent.png"
    },
    "category": "DRAGON",
@@ -23118,8 +22720,6 @@
     "animated": "sprites/animated/149.gif",
     "animated_shiny": "sprites/animated/shiny/149.gif",
     "frames": "sprites/frames/149.png",
-    "back": "sprites/back/149.png",
-    "back_shiny": "sprites/back/shiny/149.png",
     "icon": "sprites/icons/bigmon.png"
    },
    "category": "DRAGON",
@@ -23426,8 +23026,6 @@
     "animated": "sprites/animated/151.gif",
     "animated_shiny": "sprites/animated/shiny/151.gif",
     "frames": "sprites/frames/151.png",
-    "back": "sprites/back/151.png",
-    "back_shiny": "sprites/back/shiny/151.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "NEW SPECIE",
@@ -23670,8 +23268,6 @@
     "animated": "sprites/animated/153.gif",
     "animated_shiny": "sprites/animated/shiny/153.gif",
     "frames": "sprites/frames/153.png",
-    "back": "sprites/back/153.png",
-    "back_shiny": "sprites/back/shiny/153.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "SALVIA",
@@ -23990,8 +23586,6 @@
     "animated": "sprites/animated/155.gif",
     "animated_shiny": "sprites/animated/shiny/155.gif",
     "frames": "sprites/frames/155.png",
-    "back": "sprites/back/155.png",
-    "back_shiny": "sprites/back/shiny/155.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "MARTYR",
@@ -24116,8 +23710,6 @@
     "animated": "sprites/animated/156.gif",
     "animated_shiny": "sprites/animated/shiny/156.gif",
     "frames": "sprites/frames/156.png",
-    "back": "sprites/back/156.png",
-    "back_shiny": "sprites/back/shiny/156.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "SAINT",
@@ -24528,8 +24120,6 @@
     "animated": "sprites/animated/159.gif",
     "animated_shiny": "sprites/animated/shiny/159.gif",
     "frames": "sprites/frames/159.png",
-    "back": "sprites/back/159.png",
-    "back_shiny": "sprites/back/shiny/159.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "GAG",
@@ -24676,8 +24266,6 @@
     "animated": "sprites/animated/160.gif",
     "animated_shiny": "sprites/animated/shiny/160.gif",
     "frames": "sprites/frames/160.png",
-    "back": "sprites/back/160.png",
-    "back_shiny": "sprites/back/shiny/160.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "BIG JAW",
@@ -25107,8 +24695,6 @@
     "animated": "sprites/animated/163.gif",
     "animated_shiny": "sprites/animated/shiny/163.gif",
     "frames": "sprites/frames/163.png",
-    "back": "sprites/back/163.png",
-    "back_shiny": "sprites/back/shiny/163.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "OWL",
@@ -25561,8 +25147,6 @@
     "animated": "sprites/animated/165.gif",
     "animated_shiny": "sprites/animated/shiny/165.gif",
     "frames": "sprites/frames/165.png",
-    "back": "sprites/back/165.png",
-    "back_shiny": "sprites/back/shiny/165.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "FIVE STAR",
@@ -25921,8 +25505,6 @@
     "animated": "sprites/animated/167.gif",
     "animated_shiny": "sprites/animated/shiny/167.gif",
     "frames": "sprites/frames/167.png",
-    "back": "sprites/back/167.png",
-    "back_shiny": "sprites/back/shiny/167.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "STRINGSPIT",
@@ -26101,8 +25683,6 @@
     "animated": "sprites/animated/168.gif",
     "animated_shiny": "sprites/animated/shiny/168.gif",
     "frames": "sprites/frames/168.png",
-    "back": "sprites/back/168.png",
-    "back_shiny": "sprites/back/shiny/168.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "LONG LEG",
@@ -26273,8 +25853,6 @@
     "animated": "sprites/animated/169.gif",
     "animated_shiny": "sprites/animated/shiny/169.gif",
     "frames": "sprites/frames/169.png",
-    "back": "sprites/back/169.png",
-    "back_shiny": "sprites/back/shiny/169.png",
     "icon": "sprites/icons/bat.png"
    },
    "category": "BAT",
@@ -26408,8 +25986,6 @@
     "animated": "sprites/animated/170.gif",
     "animated_shiny": "sprites/animated/shiny/170.gif",
     "frames": "sprites/frames/170.png",
-    "back": "sprites/back/170.png",
-    "back_shiny": "sprites/back/shiny/170.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "ANGLER",
@@ -26543,8 +26119,6 @@
     "animated": "sprites/animated/171.gif",
     "animated_shiny": "sprites/animated/shiny/171.gif",
     "frames": "sprites/frames/171.png",
-    "back": "sprites/back/171.png",
-    "back_shiny": "sprites/back/shiny/171.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "URSS",
@@ -26685,8 +26259,6 @@
     "animated": "sprites/animated/172.gif",
     "animated_shiny": "sprites/animated/shiny/172.gif",
     "frames": "sprites/frames/172.png",
-    "back": "sprites/back/172.png",
-    "back_shiny": "sprites/back/shiny/172.png",
     "icon": "sprites/icons/pikachu.png"
    },
    "category": "TINY MOUSE",
@@ -26887,8 +26459,6 @@
     "animated": "sprites/animated/174.gif",
     "animated_shiny": "sprites/animated/shiny/174.gif",
     "frames": "sprites/frames/174.png",
-    "back": "sprites/back/174.png",
-    "back_shiny": "sprites/back/shiny/174.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
    "category": "BALLOON",
@@ -26989,8 +26559,6 @@
     "animated": "sprites/animated/175.gif",
     "animated_shiny": "sprites/animated/shiny/175.gif",
     "frames": "sprites/frames/175.png",
-    "back": "sprites/back/175.png",
-    "back_shiny": "sprites/back/shiny/175.png",
     "icon": "sprites/icons/clefairy.png"
    },
    "category": "SPIKE BALL",
@@ -27108,8 +26676,6 @@
     "animated": "sprites/animated/176.gif",
     "animated_shiny": "sprites/animated/shiny/176.gif",
     "frames": "sprites/frames/176.png",
-    "back": "sprites/back/176.png",
-    "back_shiny": "sprites/back/shiny/176.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "HAPPINESS",
@@ -27227,8 +26793,6 @@
     "animated": "sprites/animated/177.gif",
     "animated_shiny": "sprites/animated/shiny/177.gif",
     "frames": "sprites/frames/177.png",
-    "back": "sprites/back/177.png",
-    "back_shiny": "sprites/back/shiny/177.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "LITTLE BIRD",
@@ -27302,7 +26866,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "90%",
      "levels": "18-24"
@@ -27353,8 +26917,6 @@
     "animated": "sprites/animated/178.gif",
     "animated_shiny": "sprites/animated/shiny/178.gif",
     "frames": "sprites/frames/178.png",
-    "back": "sprites/back/178.png",
-    "back_shiny": "sprites/back/shiny/178.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "MYSTIC",
@@ -27595,8 +27157,6 @@
     "animated": "sprites/animated/180.gif",
     "animated_shiny": "sprites/animated/shiny/180.gif",
     "frames": "sprites/frames/180.png",
-    "back": "sprites/back/180.png",
-    "back_shiny": "sprites/back/shiny/180.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "WOOL",
@@ -27727,8 +27287,6 @@
     "animated": "sprites/animated/181.gif",
     "animated_shiny": "sprites/animated/shiny/181.gif",
     "frames": "sprites/frames/181.png",
-    "back": "sprites/back/181.png",
-    "back_shiny": "sprites/back/shiny/181.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "LIGHT",
@@ -27869,8 +27427,6 @@
     "animated": "sprites/animated/182.gif",
     "animated_shiny": "sprites/animated/shiny/182.gif",
     "frames": "sprites/frames/182.png",
-    "back": "sprites/back/182.png",
-    "back_shiny": "sprites/back/shiny/182.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "FLOWER",
@@ -27971,8 +27527,6 @@
     "animated": "sprites/animated/183.gif",
     "animated_shiny": "sprites/animated/shiny/183.gif",
     "frames": "sprites/frames/183.png",
-    "back": "sprites/back/183.png",
-    "back_shiny": "sprites/back/shiny/183.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
    "category": "AQUAMOUSE",
@@ -28054,31 +27608,31 @@
    ],
    "wild": [
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "surfing",
      "chance": "30%",
      "levels": "20"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "surfing",
      "chance": "30%",
      "levels": "25"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "surfing",
      "chance": "30%",
      "levels": "20"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Outside)",
+     "place": "Mt.Mortar 1F",
      "how": "walking",
      "chance": "20% night",
      "levels": "14"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar B1F)",
+     "place": "Mt.Mortar B1F",
      "how": "walking",
      "chance": "10% night",
      "levels": "16"
@@ -28090,13 +27644,7 @@
      "levels": "15"
     },
     {
-     "place": "Mt.Mortar (Mount Mortar 1F Inside)",
-     "how": "walking",
-     "chance": "5% night",
-     "levels": "15"
-    },
-    {
-     "place": "Mt.Mortar (Mount Mortar 2F Inside)",
+     "place": "Mt.Mortar 2F",
      "how": "walking",
      "chance": "5% night",
      "levels": "28"
@@ -28146,8 +27694,6 @@
     "animated": "sprites/animated/184.gif",
     "animated_shiny": "sprites/animated/shiny/184.gif",
     "frames": "sprites/frames/184.png",
-    "back": "sprites/back/184.png",
-    "back_shiny": "sprites/back/shiny/184.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
    "category": "AQUARABBIT",
@@ -28296,8 +27842,6 @@
     "animated": "sprites/animated/185.gif",
     "animated_shiny": "sprites/animated/shiny/185.gif",
     "frames": "sprites/frames/185.png",
-    "back": "sprites/back/185.png",
-    "back_shiny": "sprites/back/shiny/185.png",
     "icon": "sprites/icons/sudowoodo.png"
    },
    "category": "IMITATION",
@@ -28408,8 +27952,6 @@
     "animated": "sprites/animated/186.gif",
     "animated_shiny": "sprites/animated/shiny/186.gif",
     "frames": "sprites/frames/186.png",
-    "back": "sprites/back/186.png",
-    "back_shiny": "sprites/back/shiny/186.png",
     "icon": "sprites/icons/poliwag.png"
    },
    "category": "FROG",
@@ -28513,8 +28055,6 @@
     "animated": "sprites/animated/187.gif",
     "animated_shiny": "sprites/animated/shiny/187.gif",
     "frames": "sprites/frames/187.png",
-    "back": "sprites/back/187.png",
-    "back_shiny": "sprites/back/shiny/187.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "COTTONWEED",
@@ -28681,8 +28221,6 @@
     "animated": "sprites/animated/188.gif",
     "animated_shiny": "sprites/animated/shiny/188.gif",
     "frames": "sprites/frames/188.png",
-    "back": "sprites/back/188.png",
-    "back_shiny": "sprites/back/shiny/188.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "COTTONWEED",
@@ -28861,8 +28399,6 @@
     "animated": "sprites/animated/189.gif",
     "animated_shiny": "sprites/animated/shiny/189.gif",
     "frames": "sprites/frames/189.png",
-    "back": "sprites/back/189.png",
-    "back_shiny": "sprites/back/shiny/189.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "COTTONWEED",
@@ -29027,8 +28563,6 @@
     "animated": "sprites/animated/190.gif",
     "animated_shiny": "sprites/animated/shiny/190.gif",
     "frames": "sprites/frames/190.png",
-    "back": "sprites/back/190.png",
-    "back_shiny": "sprites/back/shiny/190.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "LONG TAIL",
@@ -29147,8 +28681,6 @@
     "animated": "sprites/animated/191.gif",
     "animated_shiny": "sprites/animated/shiny/191.gif",
     "frames": "sprites/frames/191.png",
-    "back": "sprites/back/191.png",
-    "back_shiny": "sprites/back/shiny/191.png",
     "icon": "sprites/icons/oddish.png"
    },
    "category": "SEED",
@@ -29533,8 +29065,6 @@
     "animated": "sprites/animated/194.gif",
     "animated_shiny": "sprites/animated/shiny/194.gif",
     "frames": "sprites/frames/194.png",
-    "back": "sprites/back/194.png",
-    "back_shiny": "sprites/back/shiny/194.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "WATER FISH",
@@ -29616,7 +29146,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "surfing",
      "chance": "60%",
      "levels": "15"
@@ -29652,7 +29182,7 @@
      "levels": "8"
     },
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "5% night",
      "levels": "22"
@@ -29703,8 +29233,6 @@
     "animated": "sprites/animated/195.gif",
     "animated_shiny": "sprites/animated/shiny/195.gif",
     "frames": "sprites/frames/195.png",
-    "back": "sprites/back/195.png",
-    "back_shiny": "sprites/back/shiny/195.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "WATER FISH",
@@ -29792,7 +29320,7 @@
      "levels": "28-30"
     },
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "surfing",
      "chance": "40%",
      "levels": "15-20"
@@ -29864,7 +29392,7 @@
      "levels": "30"
     },
     {
-     "place": "Bio Impact (Ruins Of Alph Outside)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "5% night",
      "levels": "22"
@@ -30437,8 +29965,6 @@
     "animated": "sprites/animated/200.gif",
     "animated_shiny": "sprites/animated/shiny/200.gif",
     "frames": "sprites/frames/200.png",
-    "back": "sprites/back/200.png",
-    "back_shiny": "sprites/back/shiny/200.png",
     "icon": "sprites/icons/ghost.png"
    },
    "category": "SCREECH",
@@ -30514,15 +30040,9 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Item Rooms",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30% night",
-     "levels": "45"
-    },
-    {
-     "place": "Silver Cave Room 2",
-     "how": "walking",
-     "chance": "5% night",
      "levels": "45"
     }
    ],
@@ -30613,7 +30133,7 @@
    ],
    "wild": [
     {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "15% night",
      "levels": "20-25"
@@ -30664,8 +30184,6 @@
     "animated": "sprites/animated/203.gif",
     "animated_shiny": "sprites/animated/shiny/203.gif",
     "frames": "sprites/frames/203.png",
-    "back": "sprites/back/203.png",
-    "back_shiny": "sprites/back/shiny/203.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "LONG NECK",
@@ -30800,8 +30318,6 @@
     "animated": "sprites/animated/204.gif",
     "animated_shiny": "sprites/animated/shiny/204.gif",
     "frames": "sprites/frames/204.png",
-    "back": "sprites/back/204.png",
-    "back_shiny": "sprites/back/shiny/204.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "BAGWORM",
@@ -30935,8 +30451,6 @@
     "animated": "sprites/animated/205.gif",
     "animated_shiny": "sprites/animated/shiny/205.gif",
     "frames": "sprites/frames/205.png",
-    "back": "sprites/back/205.png",
-    "back_shiny": "sprites/back/shiny/205.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "BAGWORM",
@@ -31077,8 +30591,6 @@
     "animated": "sprites/animated/206.gif",
     "animated_shiny": "sprites/animated/shiny/206.gif",
     "frames": "sprites/frames/206.png",
-    "back": "sprites/back/206.png",
-    "back_shiny": "sprites/back/shiny/206.png",
     "icon": "sprites/icons/serpent.png"
    },
    "category": "LAND SNAKE",
@@ -31146,7 +30658,7 @@
    ],
    "wild": [
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking (swarm)",
      "chance": "40%",
      "levels": "2-4"
@@ -31442,8 +30954,6 @@
     "animated": "sprites/animated/209.gif",
     "animated_shiny": "sprites/animated/shiny/209.gif",
     "frames": "sprites/frames/209.png",
-    "back": "sprites/back/209.png",
-    "back_shiny": "sprites/back/shiny/209.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "FAIRY",
@@ -31741,8 +31251,6 @@
     "animated": "sprites/animated/211.gif",
     "animated_shiny": "sprites/animated/shiny/211.gif",
     "frames": "sprites/frames/211.png",
-    "back": "sprites/back/211.png",
-    "back_shiny": "sprites/back/shiny/211.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "BALLOON",
@@ -32010,8 +31518,6 @@
     "shiny_transparent": "sprites/shiny/transparent/213.png",
     "animated": "sprites/animated/213.gif",
     "animated_shiny": "sprites/animated/shiny/213.gif",
-    "back": "sprites/back/213.png",
-    "back_shiny": "sprites/back/shiny/213.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "MOLD",
@@ -32129,8 +31635,6 @@
     "animated": "sprites/animated/214.gif",
     "animated_shiny": "sprites/animated/shiny/214.gif",
     "frames": "sprites/frames/214.png",
-    "back": "sprites/back/214.png",
-    "back_shiny": "sprites/back/shiny/214.png",
     "icon": "sprites/icons/bug.png"
    },
    "category": "SINGLEHORN",
@@ -32258,8 +31762,6 @@
     "animated": "sprites/animated/215.gif",
     "animated_shiny": "sprites/animated/shiny/215.gif",
     "frames": "sprites/frames/215.png",
-    "back": "sprites/back/215.png",
-    "back_shiny": "sprites/back/shiny/215.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "SHARP CLAW",
@@ -32351,25 +31853,19 @@
    ],
    "wild": [
     {
-     "place": "Parking Lot (Ice Path B3F)",
+     "place": "Parking Lot B3F",
      "how": "walking",
      "chance": "10% night",
      "levels": "22-26"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Blackthorn Side)",
+     "place": "Parking Lot B2F",
      "how": "walking",
      "chance": "5% night",
      "levels": "22-24"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Mahogany Side)",
-     "how": "walking",
-     "chance": "5% night",
-     "levels": "22-24"
-    },
-    {
-     "place": "Parking Lot (Ice Path B1F)",
+     "place": "Parking Lot B1F",
      "how": "walking",
      "chance": "1% night",
      "levels": "22"
@@ -32418,8 +31914,6 @@
     "shiny_transparent": "sprites/shiny/transparent/216.png",
     "animated": "sprites/animated/216.gif",
     "animated_shiny": "sprites/animated/shiny/216.gif",
-    "back": "sprites/back/216.png",
-    "back_shiny": "sprites/back/shiny/216.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "LITTLE BEAR",
@@ -32509,16 +32003,10 @@
    ],
    "wild": [
     {
-     "place": "Sewers (Dark Cave Violet Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "6% morning",
      "levels": "2-4"
-    },
-    {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
-     "how": "walking",
-     "chance": "5% morning",
-     "levels": "20"
     }
    ],
    "pokedex_text": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed."
@@ -32670,28 +32158,16 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 1",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "30% morning/day",
      "levels": "44"
     },
     {
-     "place": "Silver Cave Room 2",
-     "how": "walking",
-     "chance": "20% morning/day",
-     "levels": "47"
-    },
-    {
-     "place": "Sewers (Dark Cave Blackthorn Entrance)",
+     "place": "Sewers",
      "how": "walking",
      "chance": "15% day, 10% morning",
      "levels": "25-30"
-    },
-    {
-     "place": "Silver Cave Room 3",
-     "how": "walking",
-     "chance": "10% morning/day",
-     "levels": "50"
     }
    ],
    "pokedex_text": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops."
@@ -32738,8 +32214,6 @@
     "animated": "sprites/animated/218.gif",
     "animated_shiny": "sprites/animated/shiny/218.gif",
     "frames": "sprites/frames/218.png",
-    "back": "sprites/back/218.png",
-    "back_shiny": "sprites/back/shiny/218.png",
     "icon": "sprites/icons/blob.png"
    },
    "category": "LAVA",
@@ -32884,8 +32358,6 @@
     "animated": "sprites/animated/219.gif",
     "animated_shiny": "sprites/animated/shiny/219.gif",
     "frames": "sprites/frames/219.png",
-    "back": "sprites/back/219.png",
-    "back_shiny": "sprites/back/shiny/219.png",
     "icon": "sprites/icons/blob.png"
    },
    "category": "LAVA",
@@ -33027,8 +32499,6 @@
     "animated": "sprites/animated/220.gif",
     "animated_shiny": "sprites/animated/shiny/220.gif",
     "frames": "sprites/frames/220.png",
-    "back": "sprites/back/220.png",
-    "back_shiny": "sprites/back/shiny/220.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "PIG",
@@ -33146,8 +32616,6 @@
     "animated": "sprites/animated/221.gif",
     "animated_shiny": "sprites/animated/shiny/221.gif",
     "frames": "sprites/frames/221.png",
-    "back": "sprites/back/221.png",
-    "back_shiny": "sprites/back/shiny/221.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "SWINE",
@@ -33289,8 +32757,6 @@
     "animated": "sprites/animated/222.gif",
     "animated_shiny": "sprites/animated/shiny/222.gif",
     "frames": "sprites/frames/222.png",
-    "back": "sprites/back/222.png",
-    "back_shiny": "sprites/back/shiny/222.png",
     "icon": "sprites/icons/shell.png"
    },
    "category": "CORAL",
@@ -33409,8 +32875,6 @@
     "animated": "sprites/animated/223.gif",
     "animated_shiny": "sprites/animated/shiny/223.gif",
     "frames": "sprites/frames/223.png",
-    "back": "sprites/back/223.png",
-    "back_shiny": "sprites/back/shiny/223.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "JET",
@@ -33535,8 +32999,6 @@
     "animated": "sprites/animated/224.gif",
     "animated_shiny": "sprites/animated/shiny/224.gif",
     "frames": "sprites/frames/224.png",
-    "back": "sprites/back/224.png",
-    "back_shiny": "sprites/back/shiny/224.png",
     "icon": "sprites/icons/fish.png"
    },
    "category": "JET",
@@ -33670,8 +33132,6 @@
     "animated": "sprites/animated/225.gif",
     "animated_shiny": "sprites/animated/shiny/225.gif",
     "frames": "sprites/frames/225.png",
-    "back": "sprites/back/225.png",
-    "back_shiny": "sprites/back/shiny/225.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "DELIVERY",
@@ -33691,31 +33151,25 @@
    ],
    "wild": [
     {
-     "place": "Parking Lot (Ice Path 1F)",
+     "place": "Parking Lot 1F",
      "how": "walking",
      "chance": "40%",
      "levels": "21-23"
     },
     {
-     "place": "Parking Lot (Ice Path B1F)",
+     "place": "Parking Lot B1F",
      "how": "walking",
      "chance": "40%",
      "levels": "22-24"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Blackthorn Side)",
+     "place": "Parking Lot B2F",
      "how": "walking",
      "chance": "40%",
      "levels": "23-25"
     },
     {
-     "place": "Parking Lot (Ice Path B2F Mahogany Side)",
-     "how": "walking",
-     "chance": "40%",
-     "levels": "23-25"
-    },
-    {
-     "place": "Parking Lot (Ice Path B3F)",
+     "place": "Parking Lot B3F",
      "how": "walking",
      "chance": "40%",
      "levels": "24-26"
@@ -33885,8 +33339,6 @@
     "animated": "sprites/animated/227.gif",
     "animated_shiny": "sprites/animated/shiny/227.gif",
     "frames": "sprites/frames/227.png",
-    "back": "sprites/back/227.png",
-    "back_shiny": "sprites/back/shiny/227.png",
     "icon": "sprites/icons/bird.png"
    },
    "category": "ARMOR BIRD",
@@ -34011,8 +33463,6 @@
     "animated": "sprites/animated/228.gif",
     "animated_shiny": "sprites/animated/shiny/228.gif",
     "frames": "sprites/frames/228.png",
-    "back": "sprites/back/228.png",
-    "back_shiny": "sprites/back/shiny/228.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "DARK",
@@ -34145,8 +33595,6 @@
     "animated": "sprites/animated/229.gif",
     "animated_shiny": "sprites/animated/shiny/229.gif",
     "frames": "sprites/frames/229.png",
-    "back": "sprites/back/229.png",
-    "back_shiny": "sprites/back/shiny/229.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "DARK",
@@ -34272,8 +33720,6 @@
     "animated": "sprites/animated/230.gif",
     "animated_shiny": "sprites/animated/shiny/230.gif",
     "frames": "sprites/frames/230.png",
-    "back": "sprites/back/230.png",
-    "back_shiny": "sprites/back/shiny/230.png",
     "icon": "sprites/icons/bigmon.png"
    },
    "category": "DRAGON",
@@ -34414,8 +33860,6 @@
     "animated": "sprites/animated/231.gif",
     "animated_shiny": "sprites/animated/shiny/231.gif",
     "frames": "sprites/frames/231.png",
-    "back": "sprites/back/231.png",
-    "back_shiny": "sprites/back/shiny/231.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "LONG NOSE",
@@ -34540,8 +33984,6 @@
     "animated": "sprites/animated/232.gif",
     "animated_shiny": "sprites/animated/shiny/232.gif",
     "frames": "sprites/frames/232.png",
-    "back": "sprites/back/232.png",
-    "back_shiny": "sprites/back/shiny/232.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "ARMOR",
@@ -34666,8 +34108,6 @@
     "animated": "sprites/animated/233.gif",
     "animated_shiny": "sprites/animated/shiny/233.gif",
     "frames": "sprites/frames/233.png",
-    "back": "sprites/back/233.png",
-    "back_shiny": "sprites/back/shiny/233.png",
     "icon": "sprites/icons/voltorb.png"
    },
    "category": "VIRTUAL",
@@ -34801,8 +34241,6 @@
     "shiny_transparent": "sprites/shiny/transparent/234.png",
     "animated": "sprites/animated/234.gif",
     "animated_shiny": "sprites/animated/shiny/234.gif",
-    "back": "sprites/back/234.png",
-    "back_shiny": "sprites/back/shiny/234.png",
     "icon": "sprites/icons/equine.png"
    },
    "category": "BIG HORN",
@@ -34913,8 +34351,6 @@
     "animated": "sprites/animated/235.gif",
     "animated_shiny": "sprites/animated/shiny/235.gif",
     "frames": "sprites/frames/235.png",
-    "back": "sprites/back/235.png",
-    "back_shiny": "sprites/back/shiny/235.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "PAINTER",
@@ -35049,8 +34485,6 @@
     "animated": "sprites/animated/236.gif",
     "animated_shiny": "sprites/animated/shiny/236.gif",
     "frames": "sprites/frames/236.png",
-    "back": "sprites/back/236.png",
-    "back_shiny": "sprites/back/shiny/236.png",
     "icon": "sprites/icons/fighter.png"
    },
    "category": "SCUFFLE",
@@ -35262,8 +34696,6 @@
     "animated": "sprites/animated/238.gif",
     "animated_shiny": "sprites/animated/shiny/238.gif",
     "frames": "sprites/frames/238.png",
-    "back": "sprites/back/238.png",
-    "back_shiny": "sprites/back/shiny/238.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "KISS",
@@ -35799,8 +35231,6 @@
     "animated": "sprites/animated/242.gif",
     "animated_shiny": "sprites/animated/shiny/242.gif",
     "frames": "sprites/frames/242.png",
-    "back": "sprites/back/242.png",
-    "back_shiny": "sprites/back/shiny/242.png",
     "icon": "sprites/icons/clefairy.png"
    },
    "category": "DEPRESSION",
@@ -35948,8 +35378,6 @@
     "shiny_transparent": "sprites/shiny/transparent/243.png",
     "animated": "sprites/animated/243.gif",
     "animated_shiny": "sprites/animated/shiny/243.gif",
-    "back": "sprites/back/243.png",
-    "back_shiny": "sprites/back/shiny/243.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "THUNDER",
@@ -36076,8 +35504,6 @@
     "animated": "sprites/animated/244.gif",
     "animated_shiny": "sprites/animated/shiny/244.gif",
     "frames": "sprites/frames/244.png",
-    "back": "sprites/back/244.png",
-    "back_shiny": "sprites/back/shiny/244.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "VOLCANO",
@@ -36204,8 +35630,6 @@
     "animated": "sprites/animated/245.gif",
     "animated_shiny": "sprites/animated/shiny/245.gif",
     "frames": "sprites/frames/245.png",
-    "back": "sprites/back/245.png",
-    "back_shiny": "sprites/back/shiny/245.png",
     "icon": "sprites/icons/fox.png"
    },
    "category": "AURORA",
@@ -36333,8 +35757,6 @@
     "animated": "sprites/animated/246.gif",
     "animated_shiny": "sprites/animated/shiny/246.gif",
     "frames": "sprites/frames/246.png",
-    "back": "sprites/back/246.png",
-    "back_shiny": "sprites/back/shiny/246.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "ROCK SKIN",
@@ -36432,21 +35854,9 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 3",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "9% morning/day",
-     "levels": "15-20"
-    },
-    {
-     "place": "Silver Cave Room 1",
-     "how": "walking",
-     "chance": "5% morning/day",
-     "levels": "15-20"
-    },
-    {
-     "place": "Silver Cave Room 2",
-     "how": "walking",
-     "chance": "5% morning/day",
      "levels": "15-20"
     }
    ],
@@ -36495,8 +35905,6 @@
     "animated": "sprites/animated/247.gif",
     "animated_shiny": "sprites/animated/shiny/247.gif",
     "frames": "sprites/frames/247.png",
-    "back": "sprites/back/247.png",
-    "back_shiny": "sprites/back/shiny/247.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "HARD SHELL",
@@ -36616,7 +36024,7 @@
    ],
    "wild": [
     {
-     "place": "Silver Cave Room 3",
+     "place": "Silver Cave",
      "how": "walking",
      "chance": "1% morning/day",
      "levels": "20"
@@ -36667,8 +36075,6 @@
     "animated": "sprites/animated/248.gif",
     "animated_shiny": "sprites/animated/shiny/248.gif",
     "frames": "sprites/frames/248.png",
-    "back": "sprites/back/248.png",
-    "back_shiny": "sprites/back/shiny/248.png",
     "icon": "sprites/icons/monster.png"
    },
    "category": "ARMOR",
@@ -36826,8 +36232,6 @@
     "animated": "sprites/animated/249.gif",
     "animated_shiny": "sprites/animated/shiny/249.gif",
     "frames": "sprites/frames/249.png",
-    "back": "sprites/back/249.png",
-    "back_shiny": "sprites/back/shiny/249.png",
     "icon": "sprites/icons/lugia.png"
    },
    "category": "DIVING",
@@ -36963,8 +36367,6 @@
     "animated": "sprites/animated/250.gif",
     "animated_shiny": "sprites/animated/shiny/250.gif",
     "frames": "sprites/frames/250.png",
-    "back": "sprites/back/250.png",
-    "back_shiny": "sprites/back/shiny/250.png",
     "icon": "sprites/icons/ho_oh.png"
    },
    "category": "RAINBOW",
@@ -37100,8 +36502,6 @@
     "animated": "sprites/animated/251.gif",
     "animated_shiny": "sprites/animated/shiny/251.gif",
     "frames": "sprites/frames/251.png",
-    "back": "sprites/back/251.png",
-    "back_shiny": "sprites/back/shiny/251.png",
     "icon": "sprites/icons/humanshape.png"
    },
    "category": "PINEALGLAND",
@@ -37245,7 +36645,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37312,7 +36712,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37379,7 +36779,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37446,7 +36846,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37513,7 +36913,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37580,7 +36980,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37647,7 +37047,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37714,7 +37114,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37781,7 +37181,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37848,7 +37248,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37915,7 +37315,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -37982,7 +37382,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38049,7 +37449,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38116,7 +37516,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38183,7 +37583,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38250,7 +37650,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38317,7 +37717,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38384,7 +37784,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38451,7 +37851,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38518,7 +37918,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38585,7 +37985,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38634,9 +38034,7 @@
     "shiny_transparent": "sprites/shiny/transparent/201-v.png",
     "animated": "sprites/animated/201-v.gif",
     "animated_shiny": "sprites/animated/shiny/201-v.gif",
-    "frames": "sprites/frames/201-v.png",
-    "back": "sprites/back/201-v.png",
-    "back_shiny": "sprites/back/shiny/201-v.png"
+    "frames": "sprites/frames/201-v.png"
    },
    "category": "SYMBOL",
    "height": "1'08\"",
@@ -38655,7 +38053,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38723,7 +38121,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38791,7 +38189,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38859,7 +38257,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"
@@ -38908,9 +38306,7 @@
     "shiny_transparent": "sprites/shiny/transparent/201-z.png",
     "animated": "sprites/animated/201-z.gif",
     "animated_shiny": "sprites/animated/shiny/201-z.gif",
-    "frames": "sprites/frames/201-z.png",
-    "back": "sprites/back/201-z.png",
-    "back_shiny": "sprites/back/shiny/201-z.png"
+    "frames": "sprites/frames/201-z.png"
    },
    "category": "SYMBOL",
    "height": "1'08\"",
@@ -38929,7 +38325,7 @@
    ],
    "wild": [
     {
-     "place": "Bio Impact (Ruins Of Alph Inner Chamber)",
+     "place": "Bio Impact",
      "how": "walking",
      "chance": "100%",
      "levels": "5"

@@ -1,4 +1,4 @@
-# Source Of Plasma
+# Source of Plasma
 
 [1× original](../../../more/maps/source-of-plasma.png) · [all sheets](../../../README.md)
 

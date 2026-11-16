@@ -36,10 +36,10 @@ The Pokégear map with every landmark numbered · [1× original](../../backgroun
 | 28 | Mt.Mortar |
 | 29 | Lonely Woods |
 | 30 | Area 43 |
-| 31 | Source Of Plasma |
+| 31 | Source of Plasma |
 | 32 | Area 44 |
-| 33 | Parking Lot / Dragon'S Den |
-| 34 | Peak Of Dread |
+| 33 | Parking Lot / Dragon's Den |
+| 34 | Peak of Dread |
 | 35 | Area 45 |
 | 36 | Sewers |
 | 37 | Area 46 |

@@ -1,4 +1,4 @@
-# Diglett'S Cave
+# Diglett's Cave
 
 [1× original](../../../more/maps/digletts-cave.png) · [all sheets](../../../README.md)
 
