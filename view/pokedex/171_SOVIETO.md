@@ -2,7 +2,9 @@
 
 **SEX / NUCLEAR** · [← 170 RELICTOU](170_RELICTOU.md) · [Pokédex](../pokedex.md) · [172 BALBAC →](172_BALBAC.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/171_SOVIETO_front3.png" alt="171 SOVIETO front"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_shiny3.png" alt="171 SOVIETO shiny"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim.gif" alt="171 SOVIETO animation"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim_shiny.gif" alt="171 SOVIETO shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/171_SOVIETO_front3.png" alt="171 SOVIETO front"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_shiny3.png" alt="171 SOVIETO shiny"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim.gif" alt="171 SOVIETO animation"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim_shiny.gif" alt="171 SOVIETO shiny animation"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_back3.png" alt="171 SOVIETO back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,32 @@
 **Animation frames** (base + 3)
 
 <img src="img/171_SOVIETO_frames.png" alt="171 SOVIETO animation frames">
+
+## Pokédex
+
+**URSS** · 3'11" · 50.0 lb
+
+> Ideas are more powerful than guns We would not let our enemies have guns, why should we let have ideas.
+
+## Evolution
+
+Evolves from [RELICTOU](170_RELICTOU.md) (level 27)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | SALIVA | SEX | 20 | 100% | 30 |
+| 1 | THUNDER WAVE | NUCLEAR | — | 100% | 20 |
+| 1 | SUPERSONIC | MUTANT | — | 55% | 20 |
+| 5 | SUPERSONIC | MUTANT | — | 55% | 20 |
+| 13 | FLAIL | MUTANT | — | 100% | 15 |
+| 17 | PISS BOMB | SEX | 40 | 100% | 25 |
+| 25 | SPARK | NUCLEAR | 65 | 100% | 20 |
+| 33 | CONFUSE RAY | DEATH | — | 100% | 10 |
+| 45 | TAKE DOWN | MUTANT | 90 | 85% | 20 |
+| 53 | MEGA SQUIRT | SEX | 120 | 80% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

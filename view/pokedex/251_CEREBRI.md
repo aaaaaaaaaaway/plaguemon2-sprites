@@ -2,7 +2,9 @@
 
 **NEURAL / DRUGS** · [← 250 PAGOLDIA](250_PAGOLDIA.md) · [Pokédex](../pokedex.md) · [PARATYPE ABC →](201_PARATYPE_A.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/251_CEREBRI_front3.png" alt="251 CEREBRI front"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_shiny3.png" alt="251 CEREBRI shiny"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_anim.gif" alt="251 CEREBRI animation"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_anim_shiny.gif" alt="251 CEREBRI shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/251_CEREBRI_front3.png" alt="251 CEREBRI front"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_shiny3.png" alt="251 CEREBRI shiny"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_anim.gif" alt="251 CEREBRI animation"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_anim_shiny.gif" alt="251 CEREBRI shiny animation"></td><td align="center" valign="bottom"><img src="img/251_CEREBRI_back3.png" alt="251 CEREBRI back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,31 @@
 **Animation frames** (base + 3)
 
 <img src="img/251_CEREBRI_frames.png" alt="251 CEREBRI animation frames">
+
+## Pokédex
+
+**PINEALGLAND** · 2'00" · 11.0 lb
+
+> Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist.
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | LEECH SEED | DRUGS | — | 90% | 10 |
+| 1 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 1 | RECOVER | MUTANT | — | 100% | 20 |
+| 1 | HEAL BELL | MUTANT | — | 100% | 5 |
+| 10 | SAFEGUARD | MUTANT | — | 100% | 25 |
+| 20 | ANCIENTPOWER | MINERAL | 60 | 100% | 5 |
+| 30 | FUTURE SIGHT | NEURAL | 80 | 90% | 15 |
+| 40 | BATON PASS | MUTANT | — | 100% | 40 |
+| 50 | PERISH SONG | MUTANT | — | 100% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

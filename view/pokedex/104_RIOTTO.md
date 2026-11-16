@@ -2,7 +2,9 @@
 
 **ORGANIC** · [← 103 MASKABUKI](103_MASKABUKI.md) · [Pokédex](../pokedex.md) · [105 TERORISTO →](105_TERORISTO.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/104_RIOTTO_front3.png" alt="104 RIOTTO front"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_shiny3.png" alt="104 RIOTTO shiny"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_anim.gif" alt="104 RIOTTO animation"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_anim_shiny.gif" alt="104 RIOTTO shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/104_RIOTTO_front3.png" alt="104 RIOTTO front"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_shiny3.png" alt="104 RIOTTO shiny"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_anim.gif" alt="104 RIOTTO animation"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_anim_shiny.gif" alt="104 RIOTTO shiny animation"></td><td align="center" valign="bottom"><img src="img/104_RIOTTO_back3.png" alt="104 RIOTTO back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,37 @@
 **Animation frames** (base + 2)
 
 <img src="img/104_RIOTTO_frames.png" alt="104 RIOTTO animation frames">
+
+## Pokédex
+
+**LONELY** · 1'04" · 14.0 lb
+
+> Passion for destruction is also a creative passion. Right?
+
+## Evolution
+
+Evolves into [TERORISTO](105_TERORISTO.md) (level 28)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | GROWL | MUTANT | — | 100% | 40 |
+| 5 | TAIL WHIP | MUTANT | — | 100% | 30 |
+| 9 | BONE CLUB | ORGANIC | 65 | 85% | 20 |
+| 13 | SCAVENGE | MUTANT | 70 | 100% | 15 |
+| 17 | LEER | MUTANT | — | 100% | 30 |
+| 21 | FOCUS ENERGY | MUTANT | — | 100% | 30 |
+| 25 | BONEMERANG | ORGANIC | 50 | 90% | 10 |
+| 29 | RAGE | MUTANT | 20 | 100% | 20 |
+| 33 | FALSE SWIPE | MUTANT | 40 | 100% | 40 |
+| 37 | THRASH | MUTANT | 90 | 100% | 20 |
+| 41 | BONE RUSH | ORGANIC | 25 | 80% | 10 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Rock Tunnel 1F | walking | 30% morning/day | 10 |
+| Rock Tunnel B1F | walking | 30% morning/day | 12 |
+| Bio Impact (Ruins Of Alph Outside) | walking | 10% morning/day | 20-22 |

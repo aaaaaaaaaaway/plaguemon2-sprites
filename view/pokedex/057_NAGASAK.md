@@ -2,7 +2,9 @@
 
 **VIOLENCE** · [← 056 HIROOSH](056_HIROOSH.md) · [Pokédex](../pokedex.md) · [058 SCRATCHY →](058_SCRATCHY.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/057_NAGASAK_front3.png" alt="057 NAGASAK front"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_shiny3.png" alt="057 NAGASAK shiny"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_anim.gif" alt="057 NAGASAK animation"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_anim_shiny.gif" alt="057 NAGASAK shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/057_NAGASAK_front3.png" alt="057 NAGASAK front"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_shiny3.png" alt="057 NAGASAK shiny"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_anim.gif" alt="057 NAGASAK animation"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_anim_shiny.gif" alt="057 NAGASAK shiny animation"></td><td align="center" valign="bottom"><img src="img/057_NAGASAK_back3.png" alt="057 NAGASAK back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,37 @@
 **Animation frames** (base + 3)
 
 <img src="img/057_NAGASAK_frames.png" alt="057 NAGASAK animation frames">
+
+## Pokédex
+
+**PIG MONKEY** · 3'03" · 71.0 lb
+
+> It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [HIROOSH](056_HIROOSH.md) (level 28)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | SCRATCH | MUTANT | 40 | 100% | 35 |
+| 1 | LEER | MUTANT | — | 100% | 30 |
+| 1 | LOW KICK | VIOLENCE | 50 | 90% | 20 |
+| 1 | RAGE | MUTANT | 20 | 100% | 20 |
+| 9 | LOW KICK | VIOLENCE | 50 | 90% | 20 |
+| 15 | KARATE CHOP | VIOLENCE | 50 | 100% | 25 |
+| 21 | FURY SWIPES | MUTANT | 18 | 80% | 15 |
+| 27 | FOCUS ENERGY | MUTANT | — | 100% | 30 |
+| 28 | RAGE | MUTANT | 20 | 100% | 20 |
+| 36 | ATOMIC BOMB | NUCLEAR | — | 100% | 20 |
+| 45 | CROSS CHOP | VIOLENCE | 100 | 80% | 5 |
+| 54 | SCREECH | MUTANT | — | 85% | 40 |
+| 63 | THRASH | MUTANT | 90 | 100% | 20 |
+
+## Wild
+
+Not in any wild encounter table.

@@ -4,8 +4,45 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/025_PIKACHEWED_front3.png" alt="025 PIKACHEWED front"></td><td align="center" valign="bottom"><img src="img/025_PIKACHEWED_shiny3.png" alt="025 PIKACHEWED shiny"></td><td align="center" valign="bottom"><img src="img/025_PIKACHEWED_anim.gif" alt="025 PIKACHEWED animation"></td><td align="center" valign="bottom"><img src="img/025_PIKACHEWED_anim_shiny.gif" alt="025 PIKACHEWED shiny animation"></td></tr></table>
 
+<sub>No back sprite of its own in v0.1.0.</sub>
+
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>300</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>82</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/04_PIKACHU_icon.png" alt="025 PIKACHEWED party icon"><br><sub>party icon</sub><br><img src="img/025_PIKACHEWED_palette.png" alt="025 PIKACHEWED palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
 
 <img src="img/025_PIKACHEWED_frames.png" alt="025 PIKACHEWED animation frames">
+
+## Pokédex
+
+**MOUSE** · 1'04" · 13.0 lb
+
+> When it is anger- ed, it immediately discharges the energy stored in the pouches in its cheeks.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [BALBAC](172_BALBAC.md) (happiness, any time)<br>Evolves into [RAICHEWEDZ](026_RAICHEWEDZ.md) (use X-RAY)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
+| 1 | GROWL | MUTANT | — | 100% | 40 |
+| 6 | TAIL WHIP | MUTANT | — | 100% | 30 |
+| 8 | THUNDER WAVE | NUCLEAR | — | 100% | 20 |
+| 11 | QUICK ATTACK | MUTANT | 40 | 100% | 30 |
+| 15 | DOUBLE TEAM | MUTANT | — | 100% | 15 |
+| 20 | SLAM | MUTANT | 80 | 75% | 20 |
+| 26 | THUNDERBOLT | NUCLEAR | 95 | 100% | 15 |
+| 33 | AGILITY | NEURAL | — | 100% | 30 |
+| 41 | THUNDER | NUCLEAR | 120 | 70% | 10 |
+| 50 | LIGHT SCREEN | NEURAL | — | 100% | 30 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Area 39 | walking | 20% night | 16-18 |
+| Area 2 | walking | 5% morning/day | 4 |

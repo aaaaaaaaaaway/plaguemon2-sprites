@@ -2,10 +2,41 @@
 
 **NUCLEAR** · [← 179 BINARIA](179_BINARIA.md) · [Pokédex](../pokedex.md) · [181 DICTAITOR →](181_DICTAITOR.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_front3.png" alt="180 ALGOCRAT front"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_shiny3.png" alt="180 ALGOCRAT shiny"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim.gif" alt="180 ALGOCRAT animation"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim_shiny.gif" alt="180 ALGOCRAT shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_front3.png" alt="180 ALGOCRAT front"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_shiny3.png" alt="180 ALGOCRAT shiny"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim.gif" alt="180 ALGOCRAT animation"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim_shiny.gif" alt="180 ALGOCRAT shiny animation"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_back3.png" alt="180 ALGOCRAT back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>365</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>117</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="180 ALGOCRAT party icon"><br><sub>party icon</sub><br><img src="img/180_ALGOCRAT_palette.png" alt="180 ALGOCRAT palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
 
 <img src="img/180_ALGOCRAT_frames.png" alt="180 ALGOCRAT animation frames">
+
+## Pokédex
+
+**WOOL** · 2'07" · 29.0 lb
+
+> Because of its rubbery, electric- ity-resistant skin, it can store lots of electric- ity in its fur.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [BINARIA](179_BINARIA.md) (level 15)<br>Evolves into [DICTAITOR](181_DICTAITOR.md) (level 30)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
+| 1 | GROWL | MUTANT | — | 100% | 40 |
+| 1 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
+| 9 | THUNDERSHOCK | NUCLEAR | 40 | 100% | 30 |
+| 18 | THUNDER WAVE | NUCLEAR | — | 100% | 20 |
+| 27 | COTTON SPORE | DRUGS | — | 85% | 40 |
+| 36 | LIGHT SCREEN | NEURAL | — | 100% | 30 |
+| 45 | THUNDER | NUCLEAR | 120 | 70% | 10 |
+
+## Wild
+
+Not in any wild encounter table.

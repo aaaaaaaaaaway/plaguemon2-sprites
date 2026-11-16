@@ -2,7 +2,9 @@
 
 **SATANIC** · [← 058 SCRATCHY](058_SCRATCHY.md) · [Pokédex](../pokedex.md) · [060 SPERMOTZ →](060_SPERMOTZ.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/059_BJORN_front3.png" alt="059 BJORN front"></td><td align="center" valign="bottom"><img src="img/059_BJORN_shiny3.png" alt="059 BJORN shiny"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim.gif" alt="059 BJORN animation"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim_shiny.gif" alt="059 BJORN shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/059_BJORN_front3.png" alt="059 BJORN front"></td><td align="center" valign="bottom"><img src="img/059_BJORN_shiny3.png" alt="059 BJORN shiny"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim.gif" alt="059 BJORN animation"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim_shiny.gif" alt="059 BJORN shiny animation"></td><td align="center" valign="bottom"><img src="img/059_BJORN_back3.png" alt="059 BJORN back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,27 @@
 **Animation frames** (base + 3)
 
 <img src="img/059_BJORN_frames.png" alt="059 BJORN animation frames">
+
+## Pokédex
+
+**LEGENDARY** · 6'03" · 342.0 lb
+
+> This is the dog owned by the creator of this game. It pisses and shits everywhere
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | ROAR | MUTANT | — | 100% | 20 |
+| 1 | LEER | MUTANT | — | 100% | 30 |
+| 1 | TAKE DOWN | MUTANT | 90 | 85% | 20 |
+| 1 | FLAME WHEEL | SATANIC | 60 | 100% | 25 |
+| 50 | EXTREMESPEED | MUTANT | 80 | 100% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

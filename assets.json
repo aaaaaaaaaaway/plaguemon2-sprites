@@ -810,6 +810,45 @@
   "kb": 24
  },
  {
+  "section": "World Map",
+  "name": "World Map (Kanto)",
+  "sub": "map",
+  "file": "backgrounds/world-map-kanto.png",
+  "thumb": "thumbs/backgrounds/world-map-kanto.png",
+  "page": "view/backgrounds/world-map-kanto.md",
+  "view_zoom": 1,
+  "view_parts": 1,
+  "w": 4480,
+  "h": 4320,
+  "kb": 946
+ },
+ {
+  "section": "World Map",
+  "name": "World Map (Johto)",
+  "sub": "map",
+  "file": "backgrounds/world-map-johto.png",
+  "thumb": "thumbs/backgrounds/world-map-johto.png",
+  "page": "view/backgrounds/world-map-johto.md",
+  "view_zoom": 1,
+  "view_parts": 1,
+  "w": 7520,
+  "h": 4320,
+  "kb": 1214
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Type Chart",
+  "sub": "",
+  "file": "miscellaneous/type-chart.png",
+  "thumb": "thumbs/miscellaneous/type-chart.png",
+  "page": "view/miscellaneous/type-chart.md",
+  "view_zoom": 1,
+  "view_parts": 1,
+  "w": 414,
+  "h": 432,
+  "kb": 21
+ },
+ {
   "section": "More maps",
   "name": "Area 1",
   "sub": "map",

@@ -2,7 +2,9 @@
 
 **SEX / MINERAL** · [← 221 PILOSWINE](221_PILOSWINE.md) · [Pokédex](../pokedex.md) · [223 ANIFISH →](223_ANIFISH.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_front3.png" alt="222 NEURAPSYS front"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_shiny3.png" alt="222 NEURAPSYS shiny"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim.gif" alt="222 NEURAPSYS animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim_shiny.gif" alt="222 NEURAPSYS shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_front3.png" alt="222 NEURAPSYS front"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_shiny3.png" alt="222 NEURAPSYS shiny"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim.gif" alt="222 NEURAPSYS animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim_shiny.gif" alt="222 NEURAPSYS shiny animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_back3.png" alt="222 NEURAPSYS back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,32 @@
 **Animation frames** (base + 2)
 
 <img src="img/222_NEURAPSYS_frames.png" alt="222 NEURAPSYS animation frames">
+
+## Pokédex
+
+**CORAL** · 2'00" · 11.0 lb
+
+> The points on its head absorb nutrients from clean water. They cannot survive in polluted water.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
+| 7 | HARDEN | MUTANT | — | 100% | 30 |
+| 13 | SALIVA | SEX | 20 | 100% | 30 |
+| 19 | RECOVER | MUTANT | — | 100% | 20 |
+| 25 | BUBBLEBEAM | SEX | 65 | 100% | 20 |
+| 31 | SPIKE CANNON | MUTANT | 20 | 100% | 15 |
+| 37 | MIRROR COAT | NEURAL | — | 100% | 20 |
+| 43 | ANCIENTPOWER | MINERAL | 60 | 100% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

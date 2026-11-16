@@ -1,0 +1,685 @@
+{
+ "types": [
+  "ANGELIC",
+  "CHEMICAL",
+  "CYBER",
+  "DEATH",
+  "DIVINITY",
+  "DOOM",
+  "DRUGS",
+  "MECHANIC",
+  "MEDICAL",
+  "MILITARY",
+  "MINERAL",
+  "MUTANT",
+  "NEURAL",
+  "NUCLEAR",
+  "ORGANIC",
+  "PUPPET",
+  "SATANIC",
+  "SEX",
+  "VIOLENCE"
+ ],
+ "matchups": [
+  {
+   "attacker": "MUTANT",
+   "defender": "MINERAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MUTANT",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "SATANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "SEX",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "DRUGS",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "CHEMICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "MILITARY",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "MINERAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "DIVINITY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SATANIC",
+   "defender": "CYBER",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "SATANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "SEX",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "DRUGS",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "ORGANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "MINERAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "SEX",
+   "defender": "DIVINITY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "SEX",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "NUCLEAR",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "DRUGS",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "ORGANIC",
+   "multiplier": 0.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "MECHANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NUCLEAR",
+   "defender": "DIVINITY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "SATANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "SEX",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "DRUGS",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "MEDICAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "ORGANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "MECHANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "MILITARY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "MINERAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "DIVINITY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DRUGS",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "SEX",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "DRUGS",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "CHEMICAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "ORGANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "MECHANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "DIVINITY",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CHEMICAL",
+   "defender": "SATANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "MUTANT",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "CHEMICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "MEDICAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "MECHANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "NEURAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "MILITARY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "MINERAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "DOOM",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "CYBER",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "DRUGS",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "MEDICAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "ORGANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "MINERAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "DEATH",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MEDICAL",
+   "defender": "CYBER",
+   "multiplier": 0.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "SATANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "NUCLEAR",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "DRUGS",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "MEDICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "MECHANIC",
+   "multiplier": 0.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "MILITARY",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "MINERAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "ORGANIC",
+   "defender": "CYBER",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "NUCLEAR",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "DRUGS",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "VIOLENCE",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "MILITARY",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "MINERAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MECHANIC",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NEURAL",
+   "defender": "VIOLENCE",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NEURAL",
+   "defender": "MEDICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NEURAL",
+   "defender": "NEURAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NEURAL",
+   "defender": "DOOM",
+   "multiplier": 0.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "NEURAL",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "SATANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "DRUGS",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "VIOLENCE",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "MEDICAL",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "MECHANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "NEURAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "DEATH",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "DOOM",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MILITARY",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "SATANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "CHEMICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "VIOLENCE",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "ORGANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "MECHANIC",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "MILITARY",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MINERAL",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DEATH",
+   "defender": "MUTANT",
+   "multiplier": 0.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DEATH",
+   "defender": "NEURAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DEATH",
+   "defender": "DOOM",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DEATH",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DEATH",
+   "defender": "DEATH",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DIVINITY",
+   "defender": "DIVINITY",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DIVINITY",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DOOM",
+   "defender": "VIOLENCE",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DOOM",
+   "defender": "NEURAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DOOM",
+   "defender": "DEATH",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DOOM",
+   "defender": "DOOM",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "DOOM",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "SATANIC",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "SEX",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "NUCLEAR",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "CHEMICAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "MINERAL",
+   "multiplier": 2.0,
+   "foresight_only": false
+  },
+  {
+   "attacker": "CYBER",
+   "defender": "CYBER",
+   "multiplier": 0.5,
+   "foresight_only": false
+  },
+  {
+   "attacker": "MUTANT",
+   "defender": "DEATH",
+   "multiplier": 0.0,
+   "foresight_only": true
+  },
+  {
+   "attacker": "VIOLENCE",
+   "defender": "DEATH",
+   "multiplier": 0.0,
+   "foresight_only": true
+  }
+ ]
+}

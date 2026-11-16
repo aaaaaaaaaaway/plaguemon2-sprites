@@ -4,6 +4,8 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/085_PSICOTO_front3.png" alt="085 PSICOTO front"></td><td align="center" valign="bottom"><img src="img/085_PSICOTO_shiny3.png" alt="085 PSICOTO shiny"></td><td align="center" valign="bottom"><img src="img/085_PSICOTO_anim.gif" alt="085 PSICOTO animation"></td><td align="center" valign="bottom"><img src="img/085_PSICOTO_anim_shiny.gif" alt="085 PSICOTO shiny animation"></td></tr></table>
 
+<sub>No back sprite of its own in v0.1.0.</sub>
+
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">110</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>460</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>158</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="085 PSICOTO party icon"><br><sub>party icon</sub><br><img src="img/085_PSICOTO_palette.png" alt="085 PSICOTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
@@ -11,3 +13,38 @@
 **Animation frames** (base + 3)
 
 <img src="img/085_PSICOTO_frames.png" alt="085 PSICOTO animation frames">
+
+## Pokédex
+
+**TRIPLEBIRD** · 5'11" · 188.0 lb
+
+> An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [BIPOLARIO](084_BIPOLARIO.md) (level 31)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | PECK | MECHANIC | 35 | 100% | 35 |
+| 1 | GROWL | MUTANT | — | 100% | 40 |
+| 1 | PURSUIT | DOOM | 40 | 100% | 20 |
+| 1 | FURY ATTACK | MUTANT | 15 | 85% | 20 |
+| 9 | PURSUIT | DOOM | 40 | 100% | 20 |
+| 13 | FURY ATTACK | MUTANT | 15 | 85% | 20 |
+| 21 | TRI ATTACK | MUTANT | 80 | 100% | 10 |
+| 25 | RAGE | MUTANT | 20 | 100% | 20 |
+| 38 | DRILL PECK | MECHANIC | 80 | 100% | 20 |
+| 47 | AGILITY | NEURAL | — | 100% | 30 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Area 27 | walking | 5% morning/day | 30 |
+| Area 28 | walking | 5% morning/day | 43 |
+| Silver Cave Outside | walking | 5% morning/day | 43 |

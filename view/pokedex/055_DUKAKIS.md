@@ -2,7 +2,9 @@
 
 **SEX** · [← 054 WORMACK](054_WORMACK.md) · [Pokédex](../pokedex.md) · [056 HIROOSH →](056_HIROOSH.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/055_DUKAKIS_front3.png" alt="055 DUKAKIS front"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_shiny3.png" alt="055 DUKAKIS shiny"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim.gif" alt="055 DUKAKIS animation"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim_shiny.gif" alt="055 DUKAKIS shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/055_DUKAKIS_front3.png" alt="055 DUKAKIS front"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_shiny3.png" alt="055 DUKAKIS shiny"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim.gif" alt="055 DUKAKIS animation"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim_shiny.gif" alt="055 DUKAKIS shiny animation"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_back3.png" alt="055 DUKAKIS back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,43 @@
 **Animation frames** (base + 3)
 
 <img src="img/055_DUKAKIS_frames.png" alt="055 DUKAKIS animation frames">
+
+## Pokédex
+
+**DUCK** · 5'07" · 169.0 lb
+
+> It swims grace- fully along on the quiet, slow-moving rivers and lakes of which it is so fond.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [WORMACK](054_WORMACK.md) (level 33)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | SCRATCH | MUTANT | 40 | 100% | 35 |
+| 1 | TAIL WHIP | MUTANT | — | 100% | 30 |
+| 1 | DISABLE | MUTANT | — | 55% | 20 |
+| 1 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 5 | TAIL WHIP | MUTANT | — | 100% | 30 |
+| 10 | DISABLE | MUTANT | — | 55% | 20 |
+| 16 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 23 | SCREECH | MUTANT | — | 85% | 40 |
+| 31 | PSYCH UP | MUTANT | — | 100% | 10 |
+| 44 | FURY SWIPES | MUTANT | 18 | 80% | 15 |
+| 58 | MEGA SQUIRT | SEX | 120 | 80% | 5 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Silver Cave Room 2 | walking | 30% night | 48 |
+| Silver Cave Room 2 | surfing | 30% | 35 |
+| Area 35 | surfing | 10% | 20 |
+| Area 6 | surfing | 10% | 10 |
+| Suicide Forest | surfing | 10% | 15 |
+| Silver Cave Room 1 | walking | 5% night | 45 |
+| Silver Cave Room 3 | walking | 5% night | 45 |

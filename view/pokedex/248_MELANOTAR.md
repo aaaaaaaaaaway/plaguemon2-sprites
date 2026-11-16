@@ -2,7 +2,9 @@
 
 **MINERAL / DOOM** · [← 247 MYCOTAR](247_MYCOTAR.md) · [Pokédex](../pokedex.md) · [249 DEMEMENTIA →](249_DEMEMENTIA.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/248_MELANOTAR_front3.png" alt="248 MELANOTAR front"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_shiny3.png" alt="248 MELANOTAR shiny"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_anim.gif" alt="248 MELANOTAR animation"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_anim_shiny.gif" alt="248 MELANOTAR shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/248_MELANOTAR_front3.png" alt="248 MELANOTAR front"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_shiny3.png" alt="248 MELANOTAR shiny"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_anim.gif" alt="248 MELANOTAR animation"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_anim_shiny.gif" alt="248 MELANOTAR shiny animation"></td><td align="center" valign="bottom"><img src="img/248_MELANOTAR_back3.png" alt="248 MELANOTAR back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,36 @@
 **Animation frames** (base + 3)
 
 <img src="img/248_MELANOTAR_frames.png" alt="248 MELANOTAR animation frames">
+
+## Pokédex
+
+**ARMOR** · 6'07" · 445.0 lb
+
+> In just one of its mighty hands, it has the power to make the ground shake and moun- tains crumble.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [MYCOTAR](247_MYCOTAR.md) (level 55)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | BITE | DOOM | 60 | 100% | 25 |
+| 1 | LEER | MUTANT | — | 100% | 30 |
+| 1 | SANDSTORM | MINERAL | — | 100% | 10 |
+| 1 | SCREECH | MUTANT | — | 85% | 40 |
+| 8 | SANDSTORM | MINERAL | — | 100% | 10 |
+| 15 | SCREECH | MUTANT | — | 85% | 40 |
+| 22 | ROCK SLIDE | MINERAL | 75 | 90% | 10 |
+| 29 | THRASH | MUTANT | 90 | 100% | 20 |
+| 38 | SCARY FACE | MUTANT | — | 90% | 10 |
+| 47 | CRUNCH | DOOM | 80 | 100% | 15 |
+| 61 | EARTHQUAKE | ORGANIC | 100 | 100% | 10 |
+| 75 | ETERNAL TAO | DIVINITY | 150 | 100% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

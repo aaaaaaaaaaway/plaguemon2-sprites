@@ -4,8 +4,35 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/091_VAGINDAM_front3.png" alt="091 VAGINDAM front"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_shiny3.png" alt="091 VAGINDAM shiny"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim.gif" alt="091 VAGINDAM animation"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim_shiny.gif" alt="091 VAGINDAM shiny animation"></td></tr></table>
 
+<sub>No back sprite of its own in v0.1.0.</sub>
+
 <table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">180</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>525</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>203</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="091 VAGINDAM party icon"><br><sub>party icon</sub><br><img src="img/091_VAGINDAM_palette.png" alt="091 VAGINDAM palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
 **Animation frames** (base + 3)
 
 <img src="img/091_VAGINDAM_frames.png" alt="091 VAGINDAM animation frames">
+
+## Pokédex
+
+**MECH ORGAN** · 4'11" · 292.0 lb
+
+> Designed by the most horny gunpla makers... I hope they don't fuck it...
+
+## Evolution
+
+Evolves from [SHELLDER](090_SHELLDER.md) (use BROKEN CONDOM)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | WITHDRAW | SEX | — | 100% | 40 |
+| 1 | SUPERSONIC | MUTANT | — | 55% | 20 |
+| 1 | AURORA BEAM | CHEMICAL | 65 | 100% | 20 |
+| 1 | PROTECT | MUTANT | — | 100% | 10 |
+| 33 | SPIKES | ORGANIC | — | 100% | 20 |
+| 41 | SPIKE CANNON | MUTANT | 20 | 100% | 15 |
+
+## Wild
+
+Not in any wild encounter table.

@@ -2,7 +2,9 @@
 
 **NEURAL** · [← 063 GENESUS](063_GENESUS.md) · [Pokédex](../pokedex.md) · [065 MARTIRUS →](065_MARTIRUS.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/064_PROFETUS_front3.png" alt="064 PROFETUS front"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_shiny3.png" alt="064 PROFETUS shiny"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_anim.gif" alt="064 PROFETUS animation"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_anim_shiny.gif" alt="064 PROFETUS shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/064_PROFETUS_front3.png" alt="064 PROFETUS front"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_shiny3.png" alt="064 PROFETUS shiny"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_anim.gif" alt="064 PROFETUS animation"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_anim_shiny.gif" alt="064 PROFETUS shiny animation"></td><td align="center" valign="bottom"><img src="img/064_PROFETUS_back3.png" alt="064 PROFETUS back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,34 @@
 **Animation frames** (base + 2)
 
 <img src="img/064_PROFETUS_frames.png" alt="064 PROFETUS animation frames">
+
+## Pokédex
+
+**PSI** · 4'03" · 125.0 lb
+
+> The prophet grows up sharing his thought. Multiplying fishes
+
+## Evolution
+
+Evolves from [GENESUS](063_GENESUS.md) (level 16)<br>Evolves into [MARTIRUS](065_MARTIRUS.md) (level 33)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | TELEPORT | NEURAL | — | 100% | 20 |
+| 1 | KINESIS | NEURAL | — | 80% | 15 |
+| 1 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 16 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 18 | DISABLE | MUTANT | — | 55% | 20 |
+| 21 | BRAINWASHING | NEURAL | 65 | 100% | 20 |
+| 26 | RECOVER | MUTANT | — | 100% | 20 |
+| 31 | FUTURE SIGHT | NEURAL | 80 | 90% | 15 |
+| 38 | MK ULTRA | NEURAL | 90 | 100% | 10 |
+| 45 | REFLECT | NEURAL | — | 100% | 20 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Area 8 | walking | 5% | 18 |

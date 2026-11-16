@@ -2,7 +2,9 @@
 
 **MILITARY** · [← 126 BURNAR](126_BURNAR.md) · [Pokédex](../pokedex.md) · [128 DIGESTOR →](128_DIGESTOR.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/127_SHAMABOO_front3.png" alt="127 SHAMABOO front"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_shiny3.png" alt="127 SHAMABOO shiny"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim.gif" alt="127 SHAMABOO animation"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim_shiny.gif" alt="127 SHAMABOO shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/127_SHAMABOO_front3.png" alt="127 SHAMABOO front"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_shiny3.png" alt="127 SHAMABOO shiny"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim.gif" alt="127 SHAMABOO animation"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim_shiny.gif" alt="127 SHAMABOO shiny animation"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_back3.png" alt="127 SHAMABOO back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,30 @@
 **Animation frames** (base + 3)
 
 <img src="img/127_SHAMABOO_frames.png" alt="127 SHAMABOO animation frames">
+
+## Pokédex
+
+**STAGBEETLE** · 4'11" · 121.0 lb
+
+> An old powerful shaman. His existence is lost in time, Nobody saw him without his mask
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | VICEGRIP | MUTANT | 55 | 100% | 30 |
+| 7 | FOCUS ENERGY | MUTANT | — | 100% | 30 |
+| 13 | BIND | MUTANT | 15 | 75% | 20 |
+| 19 | ATOMIC BOMB | NUCLEAR | — | 100% | 20 |
+| 25 | HARDEN | MUTANT | — | 100% | 30 |
+| 31 | GUILLOTINE | MUTANT | — | 30% | 5 |
+| 37 | SUBMISSION | VIOLENCE | 80 | 80% | 25 |
+| 43 | SWORDS DANCE | MUTANT | — | 100% | 30 |
+
+## Wild
+
+Not in any wild encounter table.

@@ -2,7 +2,9 @@
 
 **MUTANT / NEURAL** · [← 202 CONDOMAX](202_CONDOMAX.md) · [Pokédex](../pokedex.md) · [204 HIDENLAYER →](204_HIDENLAYER.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_front3.png" alt="203 ENIGMAGUS front"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_shiny3.png" alt="203 ENIGMAGUS shiny"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_anim.gif" alt="203 ENIGMAGUS animation"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_anim_shiny.gif" alt="203 ENIGMAGUS shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_front3.png" alt="203 ENIGMAGUS front"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_shiny3.png" alt="203 ENIGMAGUS shiny"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_anim.gif" alt="203 ENIGMAGUS animation"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_anim_shiny.gif" alt="203 ENIGMAGUS shiny animation"></td><td align="center" valign="bottom"><img src="img/203_ENIGMAGUS_back3.png" alt="203 ENIGMAGUS back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,34 @@
 **Animation frames** (base + 3)
 
 <img src="img/203_ENIGMAGUS_frames.png" alt="203 ENIGMAGUS animation frames">
+
+## Pokédex
+
+**LONG NECK** · 4'11" · 91.0 lb
+
+> When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | TACKLE | MUTANT | 35 | 95% | 35 |
+| 1 | GROWL | MUTANT | — | 100% | 40 |
+| 1 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 1 | STOMP | MUTANT | 65 | 100% | 20 |
+| 7 | CONFUSION | NEURAL | 50 | 100% | 25 |
+| 13 | STOMP | MUTANT | 65 | 100% | 20 |
+| 20 | AGILITY | NEURAL | — | 100% | 30 |
+| 30 | BATON PASS | MUTANT | — | 100% | 40 |
+| 41 | BRAINWASHING | NEURAL | 65 | 100% | 20 |
+| 54 | CRUNCH | DOOM | 80 | 100% | 15 |
+
+## Wild
+
+Not in any wild encounter table.

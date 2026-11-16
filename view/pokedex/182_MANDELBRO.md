@@ -2,7 +2,9 @@
 
 **DRUGS** · [← 181 DICTAITOR](181_DICTAITOR.md) · [Pokédex](../pokedex.md) · [183 HALUAL →](183_HALUAL.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/182_MANDELBRO_front3.png" alt="182 MANDELBRO front"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_shiny3.png" alt="182 MANDELBRO shiny"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_anim.gif" alt="182 MANDELBRO animation"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_anim_shiny.gif" alt="182 MANDELBRO shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/182_MANDELBRO_front3.png" alt="182 MANDELBRO front"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_shiny3.png" alt="182 MANDELBRO shiny"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_anim.gif" alt="182 MANDELBRO animation"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_anim_shiny.gif" alt="182 MANDELBRO shiny animation"></td><td align="center" valign="bottom"><img src="img/182_MANDELBRO_back3.png" alt="182 MANDELBRO back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,29 @@
 **Animation frames** (base + 3)
 
 <img src="img/182_MANDELBRO_frames.png" alt="182 MANDELBRO animation frames">
+
+## Pokédex
+
+**FLOWER** · 1'04" · 13.0 lb
+
+> When these dance together, their petals rub against each other, making pretty, relaxing sounds.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [INFECTO](044_INFECTO.md) (use SUN STONE)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | ABSORB | DRUGS | 20 | 100% | 20 |
+| 1 | MDMA | MUTANT | — | 100% | 20 |
+| 1 | STUN SPORE | DRUGS | — | 75% | 30 |
+| 1 | PETAL DANCE | DRUGS | 70 | 100% | 20 |
+| 55 | SOLARBEAM | DRUGS | 120 | 100% | 10 |
+
+## Wild
+
+Not in any wild encounter table.

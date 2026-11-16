@@ -2,7 +2,9 @@
 
 **SATANIC / MECHANIC** · [← 145 ZAPGOLD](145_ZAPGOLD.md) · [Pokédex](../pokedex.md) · [147 CHERUBIUM →](147_CHERUBIUM.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/146_MOLCOPY_front3.png" alt="146 MOLCOPY front"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_shiny3.png" alt="146 MOLCOPY shiny"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_anim.gif" alt="146 MOLCOPY animation"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_anim_shiny.gif" alt="146 MOLCOPY shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/146_MOLCOPY_front3.png" alt="146 MOLCOPY front"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_shiny3.png" alt="146 MOLCOPY shiny"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_anim.gif" alt="146 MOLCOPY animation"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_anim_shiny.gif" alt="146 MOLCOPY shiny animation"></td><td align="center" valign="bottom"><img src="img/146_MOLCOPY_back3.png" alt="146 MOLCOPY back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,32 @@
 **Animation frames** (base + 3)
 
 <img src="img/146_MOLCOPY_frames.png" alt="146 MOLCOPY animation frames">
+
+## Pokédex
+
+**FLAME** · 6'07" · 132.0 lb
+
+> Legendary bird POKéMON. It is said to migrate from the south along with the spring.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | WING ATTACK | MECHANIC | 60 | 100% | 35 |
+| 1 | EMBER | SATANIC | 40 | 100% | 25 |
+| 13 | FIRE SPIN | SATANIC | 15 | 70% | 15 |
+| 25 | AGILITY | NEURAL | — | 100% | 30 |
+| 37 | ENDURE | MUTANT | — | 100% | 10 |
+| 49 | FLAMETHROWER | SATANIC | 95 | 100% | 15 |
+| 61 | SAFEGUARD | MUTANT | — | 100% | 25 |
+| 73 | THE UNIVERSE | DIVINITY | 140 | 90% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

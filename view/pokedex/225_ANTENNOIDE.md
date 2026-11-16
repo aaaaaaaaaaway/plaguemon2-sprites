@@ -2,7 +2,9 @@
 
 **CHEMICAL / MECHANIC** · [← 224 OCTILLERY](224_OCTILLERY.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_front3.png" alt="225 ANTENNOIDE front"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_shiny3.png" alt="225 ANTENNOIDE shiny"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim.gif" alt="225 ANTENNOIDE animation"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim_shiny.gif" alt="225 ANTENNOIDE shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_front3.png" alt="225 ANTENNOIDE front"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_shiny3.png" alt="225 ANTENNOIDE shiny"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim.gif" alt="225 ANTENNOIDE animation"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim_shiny.gif" alt="225 ANTENNOIDE shiny animation"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_back3.png" alt="225 ANTENNOIDE back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,31 @@
 **Animation frames** (base + 3)
 
 <img src="img/225_ANTENNOIDE_frames.png" alt="225 ANTENNOIDE animation frames">
+
+## Pokédex
+
+**DELIVERY** · 2'11" · 35.0 lb
+
+> It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Does not evolve.
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | PRESENT | MUTANT | — | 90% | 15 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Parking Lot (Ice Path 1F) | walking | 40% | 21-23 |
+| Parking Lot (Ice Path B1F) | walking | 40% | 22-24 |
+| Parking Lot (Ice Path B2F Blackthorn Side) | walking | 40% | 23-25 |
+| Parking Lot (Ice Path B2F Mahogany Side) | walking | 40% | 23-25 |
+| Parking Lot (Ice Path B3F) | walking | 40% | 24-26 |

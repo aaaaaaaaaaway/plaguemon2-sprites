@@ -2,7 +2,9 @@
 
 **SEX / VIOLENCE** · [← 061 PROLIFIK](061_PROLIFIK.md) · [Pokédex](../pokedex.md) · [063 GENESUS →](063_GENESUS.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_front3.png" alt="062 SMEGMATIC front"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_shiny3.png" alt="062 SMEGMATIC shiny"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim.gif" alt="062 SMEGMATIC animation"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim_shiny.gif" alt="062 SMEGMATIC shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_front3.png" alt="062 SMEGMATIC front"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_shiny3.png" alt="062 SMEGMATIC shiny"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim.gif" alt="062 SMEGMATIC animation"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim_shiny.gif" alt="062 SMEGMATIC shiny animation"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_back3.png" alt="062 SMEGMATIC back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,30 @@
 **Animation frames** (base + 1)
 
 <img src="img/062_SMEGMATIC_frames.png" alt="062 SMEGMATIC animation frames">
+
+## Pokédex
+
+**TADPOLE** · 4'03" · 119.0 lb
+
+> It can use its well-developed arms and legs to run on the surface of the water for a split second.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [PROLIFIK](061_PROLIFIK.md) (use BROKEN CONDOM)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | PISS BOMB | SEX | 40 | 100% | 25 |
+| 1 | HYPNOSIS | NEURAL | — | 60% | 20 |
+| 1 | DOUBLESLAP | MUTANT | 15 | 85% | 10 |
+| 1 | SUBMISSION | VIOLENCE | 80 | 80% | 25 |
+| 35 | SUBMISSION | VIOLENCE | 80 | 80% | 25 |
+| 51 | MIND READER | MUTANT | — | 100% | 5 |
+
+## Wild
+
+Not in any wild encounter table.

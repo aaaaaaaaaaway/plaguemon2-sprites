@@ -2,7 +2,9 @@
 
 **NEURAL / MECHANIC** · [← 176 VENESCO](176_VENESCO.md) · [Pokédex](../pokedex.md) · [178 QUELZALCOT →](178_QUELZALCOT.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/177_SACRILUT_front3.png" alt="177 SACRILUT front"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_shiny3.png" alt="177 SACRILUT shiny"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_anim.gif" alt="177 SACRILUT animation"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_anim_shiny.gif" alt="177 SACRILUT shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/177_SACRILUT_front3.png" alt="177 SACRILUT front"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_shiny3.png" alt="177 SACRILUT shiny"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_anim.gif" alt="177 SACRILUT animation"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_anim_shiny.gif" alt="177 SACRILUT shiny animation"></td><td align="center" valign="bottom"><img src="img/177_SACRILUT_back3.png" alt="177 SACRILUT back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,33 @@
 **Animation frames** (base + 2)
 
 <img src="img/177_SACRILUT_frames.png" alt="177 SACRILUT animation frames">
+
+## Pokédex
+
+**LITTLE BIRD** · 0'08" · 4.0 lb
+
+> It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves into [QUELZALCOT](178_QUELZALCOT.md) (level 25)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | PECK | MECHANIC | 35 | 100% | 35 |
+| 1 | LEER | MUTANT | — | 100% | 30 |
+| 10 | NIGHT SHADE | DEATH | — | 100% | 15 |
+| 20 | TELEPORT | NEURAL | — | 100% | 20 |
+| 30 | FUTURE SIGHT | NEURAL | 80 | 90% | 15 |
+| 40 | CONFUSE RAY | DEATH | — | 100% | 10 |
+| 50 | MK ULTRA | NEURAL | 90 | 100% | 10 |
+
+## Wild
+
+| Where | How | Chance | Levels |
+|---|---|---|--:|
+| Bio Impact (Ruins Of Alph Outside) | walking | 90% | 18-24 |

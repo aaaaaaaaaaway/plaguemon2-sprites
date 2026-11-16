@@ -2,7 +2,9 @@
 
 **NEURAL / MECHANIC** · [← 177 SACRILUT](177_SACRILUT.md) · [Pokédex](../pokedex.md) · [179 BINARIA →](179_BINARIA.md)
 
-<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_front3.png" alt="178 QUELZALCOT front"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_shiny3.png" alt="178 QUELZALCOT shiny"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_anim.gif" alt="178 QUELZALCOT animation"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_anim_shiny.gif" alt="178 QUELZALCOT shiny animation"></td></tr></table>
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th><th>Back</th></tr><tr><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_front3.png" alt="178 QUELZALCOT front"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_shiny3.png" alt="178 QUELZALCOT shiny"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_anim.gif" alt="178 QUELZALCOT animation"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_anim_shiny.gif" alt="178 QUELZALCOT shiny animation"></td><td align="center" valign="bottom"><img src="img/178_QUELZALCOT_back3.png" alt="178 QUELZALCOT back"></td></tr></table>
+
+<sub>Back sprite unchanged from Pokémon Crystal.</sub>
 
 <sub>Plays every frame evenly; the game's own script for it is incomplete in v0.1.0.</sub>
 
@@ -11,3 +13,32 @@
 **Animation frames** (base + 2)
 
 <img src="img/178_QUELZALCOT_frames.png" alt="178 QUELZALCOT animation frames">
+
+## Pokédex
+
+**MYSTIC** · 4'11" · 33.0 lb
+
+> Once it begins to meditate at sun- rise, the entire day will pass before it will move again.
+
+<sub>Pokédex text unchanged from Pokémon Crystal.</sub>
+
+## Evolution
+
+Evolves from [SACRILUT](177_SACRILUT.md) (level 25)
+
+## Moves
+
+| Level | Move | Type | Power | Accuracy | PP |
+|--:|---|---|--:|--:|--:|
+| 1 | PECK | MECHANIC | 35 | 100% | 35 |
+| 1 | LEER | MUTANT | — | 100% | 30 |
+| 1 | NIGHT SHADE | DEATH | — | 100% | 15 |
+| 10 | NIGHT SHADE | DEATH | — | 100% | 15 |
+| 20 | TELEPORT | NEURAL | — | 100% | 20 |
+| 35 | FUTURE SIGHT | NEURAL | 80 | 90% | 15 |
+| 50 | CONFUSE RAY | DEATH | — | 100% | 10 |
+| 65 | MK ULTRA | NEURAL | 90 | 100% | 10 |
+
+## Wild
+
+Not in any wild encounter table.
