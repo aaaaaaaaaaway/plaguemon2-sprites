@@ -8,7 +8,7 @@
 
 <img src="img/204_HIDENLAYER_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/204_HIDENLAYER_palette.png"> <sub>palette: normal · shiny</sub>
 

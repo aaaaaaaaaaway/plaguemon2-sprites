@@ -8,7 +8,7 @@
 
 <img src="img/185_AOKIGAKA_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/185_AOKIGAKA_palette.png"> <sub>palette: normal · shiny</sub>
 

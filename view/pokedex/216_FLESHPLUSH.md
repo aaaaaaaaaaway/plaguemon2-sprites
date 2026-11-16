@@ -4,7 +4,7 @@
 
 <img src="img/216_FLESHPLUSH_front.png"> <img src="img/216_FLESHPLUSH_shiny.png"> <img src="../../pokemon/animated/216_FLESHPLUSH.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
 

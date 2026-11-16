@@ -8,7 +8,7 @@
 
 <img src="img/139_MECHANIGAL_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
 

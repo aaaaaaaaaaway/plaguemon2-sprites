@@ -8,7 +8,7 @@
 
 <img src="img/245_SKYLITE_frames.png">
 
-<sub>animation frames (base + 8)</sub>
+<sub>animation frames (base + 9)</sub>
 
 <img src="img/15_FOX_icon.png"> <sub>party icon</sub>
 

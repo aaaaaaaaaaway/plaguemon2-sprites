@@ -8,7 +8,7 @@
 
 <img src="img/100_KOWARENING_frames.png">
 
-<sub>animation frames (base + 1)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/100_KOWARENING_palette.png"> <sub>palette: normal · shiny</sub>
 

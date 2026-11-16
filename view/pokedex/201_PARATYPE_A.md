@@ -4,7 +4,7 @@
 
 <img src="img/201_PARATYPE_A_front.png"> <img src="img/201_PARATYPE_A_shiny.png"> <img src="../../pokemon/animated/201_PARATYPE_A.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/201_PARATYPE_A_palette.png"> <sub>palette: normal · shiny</sub>
 

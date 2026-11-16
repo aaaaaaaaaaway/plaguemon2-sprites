@@ -4,7 +4,7 @@
 
 <img src="img/051_GANGBANGO_front.png"> <img src="img/051_GANGBANGO_shiny.png"> <img src="../../pokemon/animated/051_GANGBANGO.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/051_GANGBANGO_frames.png">
 

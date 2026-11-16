@@ -4,7 +4,7 @@
 
 <img src="img/234_SPIRITUS_front.png"> <img src="img/234_SPIRITUS_shiny.png"> <img src="../../pokemon/animated/234_SPIRITUS.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/16_EQUINE_icon.png"> <sub>party icon</sub>
 

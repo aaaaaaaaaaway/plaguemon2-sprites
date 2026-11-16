@@ -8,7 +8,7 @@
 
 <img src="img/210_GALAXIAN_frames.png">
 
-<sub>animation frames (base + 1)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
 

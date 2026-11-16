@@ -8,7 +8,7 @@
 
 <img src="img/111_ELICORPS_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/16_EQUINE_icon.png"> <sub>party icon</sub>
 

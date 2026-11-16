@@ -8,7 +8,7 @@
 
 <img src="img/090_SHELLDER_frames.png">
 
-<sub>animation frames (base + 1)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
 

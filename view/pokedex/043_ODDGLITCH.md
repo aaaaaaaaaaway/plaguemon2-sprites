@@ -4,7 +4,7 @@
 
 <img src="img/043_ODDGLITCH_front.png"> <img src="img/043_ODDGLITCH_shiny.png"> <img src="../../pokemon/animated/043_ODDGLITCH.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/043_ODDGLITCH_frames.png">
 

@@ -8,7 +8,7 @@
 
 <img src="img/049_CHORDYCEPS_frames.png">
 
-<sub>animation frames (base + 1)</sub>
+<sub>animation frames (base + 2)</sub>
 
 <img src="img/049_CHORDYCEPS_palette.png"> <sub>palette: normal · shiny</sub>
 

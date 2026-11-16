@@ -4,7 +4,7 @@
 
 <img src="img/243_ROTARAX_front.png"> <img src="img/243_ROTARAX_shiny.png"> <img src="../../pokemon/animated/243_ROTARAX.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (no animation: this build's frame data doesn't match the sprite)</sub>
 
 <img src="img/15_FOX_icon.png"> <sub>party icon</sub>
 

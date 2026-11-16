@@ -8,7 +8,7 @@
 
 <img src="img/089_KUMORAH_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/089_KUMORAH_palette.png"> <sub>palette: normal · shiny</sub>
 

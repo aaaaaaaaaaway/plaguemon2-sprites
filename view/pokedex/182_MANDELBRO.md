@@ -4,7 +4,7 @@
 
 <img src="img/182_MANDELBRO_front.png"> <img src="img/182_MANDELBRO_shiny.png"> <img src="../../pokemon/animated/182_MANDELBRO.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/182_MANDELBRO_frames.png">
 

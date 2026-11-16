@@ -4,7 +4,7 @@
 
 <img src="img/053_TENKA_front.png"> <img src="img/053_TENKA_shiny.png"> <img src="../../pokemon/animated/053_TENKA.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/053_TENKA_frames.png">
 

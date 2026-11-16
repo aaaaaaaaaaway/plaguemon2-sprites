@@ -4,7 +4,11 @@
 
 <img src="img/005_BELIALEON_front.png"> <img src="img/005_BELIALEON_shiny.png"> <img src="../../pokemon/animated/005_BELIALEON.gif">
 
-<sub>front · shiny · battle animation</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
+
+<img src="img/005_BELIALEON_frames.png">
+
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/23_CHARMANDER_icon.png"> <sub>party icon</sub>
 

@@ -8,7 +8,7 @@
 
 <img src="img/134_VENEREON_frames.png">
 
-<sub>animation frames (base + 3)</sub>
+<sub>animation frames (base + 4)</sub>
 
 <img src="img/15_FOX_icon.png"> <sub>party icon</sub>
 

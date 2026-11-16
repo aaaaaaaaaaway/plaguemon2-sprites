@@ -4,7 +4,7 @@
 
 <img src="img/033_GRABOIDO_front.png"> <img src="img/033_GRABOIDO_shiny.png"> <img src="../../pokemon/animated/033_GRABOIDO.gif">
 
-<sub>front · shiny · battle animation (approximate timing: this build's animation script is incomplete)</sub>
+<sub>front · shiny · battle animation (all frames, evenly timed: this build's script for it is incomplete)</sub>
 
 <img src="img/033_GRABOIDO_frames.png">
 

@@ -8,7 +8,7 @@
 
 <img src="img/058_SCRATCHY_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/15_FOX_icon.png"> <sub>party icon</sub>
 

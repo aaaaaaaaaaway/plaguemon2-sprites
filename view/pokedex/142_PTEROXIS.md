@@ -8,7 +8,7 @@
 
 <img src="img/142_PTEROXIS_frames.png">
 
-<sub>animation frames (base + 2)</sub>
+<sub>animation frames (base + 3)</sub>
 
 <img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
 
