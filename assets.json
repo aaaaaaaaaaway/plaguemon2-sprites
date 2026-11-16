@@ -494,6 +494,42 @@
    "h": 150,
    "kb": 4.078125,
    "note": "3 frames"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Game Freak Intro",
+   "file": "miscellaneous/game-freak-intro.png",
+   "w": 1052,
+   "h": 1102,
+   "kb": 19.4365234375,
+   "note": "33 screens"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Intro Backgrounds",
+   "file": "miscellaneous/intro-backgrounds.png",
+   "w": 1052,
+   "h": 1612,
+   "kb": 33.076171875,
+   "note": "52 screens"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Intro Sprites",
+   "file": "miscellaneous/intro-sprites.png",
+   "w": 1052,
+   "h": 592,
+   "kb": 36.8271484375,
+   "note": "13 screens"
+  },
+  {
+   "section": "Miscellaneous",
+   "name": "Professor Oak's Opening Lecture",
+   "file": "miscellaneous/professor-oaks-opening-lecture.png",
+   "w": 1052,
+   "h": 762,
+   "kb": 35.265625,
+   "note": "24 screens"
   }
  ],
  "skipped": {
