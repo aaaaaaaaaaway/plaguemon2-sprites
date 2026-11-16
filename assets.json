@@ -1,0 +1,56 @@
+{
+ "assets": [
+  {
+   "section": "Characters",
+   "name": "Characters (Battle)",
+   "file": "characters/characters-battle.png",
+   "w": 908,
+   "h": 492,
+   "kb": 62.0107421875,
+   "note": ""
+  },
+  {
+   "section": "Characters",
+   "name": "Characters (Overworld)",
+   "file": "characters/characters-overworld.png",
+   "w": 1048,
+   "h": 322,
+   "kb": 23.1494140625,
+   "note": ""
+  },
+  {
+   "section": "Pokémon",
+   "name": "Generation 1 Pokémon",
+   "file": "pokemon/generation-1-pokemon.png",
+   "w": 1448,
+   "h": 3774,
+   "kb": 751.9921875,
+   "note": "151 monsters"
+  },
+  {
+   "section": "Pokémon",
+   "name": "Generation 2 Pokémon",
+   "file": "pokemon/generation-2-pokemon.png",
+   "w": 1896,
+   "h": 3348,
+   "kb": 473.138671875,
+   "note": "90 monsters, 10 Crystal-original omitted"
+  },
+  {
+   "section": "Pokémon",
+   "name": "Unown Formes",
+   "file": "pokemon/unown-formes.png",
+   "w": 1088,
+   "h": 328,
+   "kb": 14.87109375,
+   "note": "21 letters, 5 Crystal-original omitted"
+  }
+ ],
+ "skipped": {
+  "Characters (Battle)": 22,
+  "Characters (Overworld)": 73,
+  "Generation 1 Pokémon": 0,
+  "Generation 2 Pokémon": 10,
+  "Unown Formes": 5
+ }
+}
