@@ -2,11 +2,11 @@
 
 <p align="center"><img src="view/pokedex/img/039_EYEBALLY_anim.gif" alt="EYEBALLY"></p>
 
-*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a horror Pokémon Crystal ROM hack set in a cyberpunk dystopia, the follow-up to *Plaguemon: Lost Diaries* (2018). It replaces nearly everything: 240+ redrawn, animated monsters, new types, and every map and tileset. v0.1.0 is its first public release.
+*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a horror ROM hack of Pokémon Crystal set in a cyberpunk dystopia, and the follow-up to *Plaguemon: Lost Diaries* (2018). It redraws 240 monsters, most of them animated, adds 19 new types and redesigns every map.
 
-This repo has its sprites, animations, maps and screens.
+This repo collects its sprites, animations, maps and screens from v0.1.0, the first public release.
 
-<table><tr><td><b>Game</b></td><td>Plaguemon II: The AfterWorld v0.1.0</td></tr><tr><td><b>By</b></td><td>Hikikomori (<a href="https://plaguelabs.com">Plague Labs</a>)</td></tr><tr><td><b>Download</b></td><td><a href="https://plaguemon.com">plaguemon.com</a></td></tr><tr><td><b>Requires</b></td><td>Pokémon Crystal (USA/Europe) base ROM</td></tr></table>
+<table><tr><td><b>By</b></td><td>Hikikomori (<a href="https://plaguelabs.com">Plague Labs</a>)</td></tr><tr><td><b>Download</b></td><td><a href="https://plaguemon.com">plaguemon.com</a></td></tr><tr><td><b>Requires</b></td><td>Pokémon Crystal (USA/Europe) base ROM</td></tr></table>
 
 <br>
 
