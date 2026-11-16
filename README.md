@@ -6,18 +6,20 @@ Sprites, animations, maps and screens ripped from the game.
 
 <table><tr><td><b>Game</b></td><td>Plaguemon II: The AfterWorld v0.1.0</td></tr><tr><td><b>By</b></td><td>Hikikomori @ <a href="https://plaguelabs.com">Plague Labs</a></td></tr><tr><td><b>Download</b></td><td><a href="https://plaguemon.com">plaguemon.com</a></td></tr><tr><td><b>Requires</b></td><td>Pokémon Crystal (USA/Europe) base ROM; the download is a patch</td></tr></table>
 
-## What's in here
+<br>
 
-| Directory | Example | Format | Contents |
-|---|---|---|---|
-| `sprites/front/` | <img src="sprites/front/6.png" alt="front"> | PNG 40–56 px | battle sprites, named by number (`6.png`, forms `201-a.png`, `243-alt.png`); `transparent/` without the white box |
-| `sprites/shiny/` | <img src="sprites/shiny/6.png" alt="shiny"> | PNG | shiny palette; `transparent/` too |
-| `sprites/animated/` | <img src="sprites/animated/6.gif" alt="animated"> | GIF | battle animations; `shiny/` too |
-| `sprites/frames/` | | PNG strip | every animation frame, base first |
-| `sprites/icons/` | | PNG 36×16 | party icons, both frames |
-| `data/pokedex.json` | | JSON | names, types, stats, palettes, animation mode, file paths |
-| `characters/`, `backgrounds/`, `miscellaneous/`, `more/` | | PNG 1× | sprite sheets |
-| `view/` | | Markdown | pages for browsing on GitHub (generated) |
+## Structure
+
+| Directory | Format | Contents |
+|---|---|---|
+| `sprites/front/` | PNG 40–56 px | battle sprites, named by number (`6.png`, forms `201-a.png`, `243-alt.png`); `transparent/` without the white box |
+| `sprites/shiny/` | PNG | shiny palette; `transparent/` too |
+| `sprites/animated/` | GIF | battle animations; `shiny/` too |
+| `sprites/frames/` | PNG strip | every animation frame, base first |
+| `sprites/icons/` | PNG 36×16 | party icons, both frames |
+| `data/pokedex.json` | JSON | names, types, stats, palettes, animation mode, file paths |
+| `characters/`, `backgrounds/`, `miscellaneous/`, `more/` | PNG 1× | sprite sheets |
+| `view/` | Markdown | pages for browsing on GitHub (generated) |
 
 ## Pokémon
 
