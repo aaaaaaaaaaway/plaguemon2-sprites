@@ -1,34 +1,13 @@
 # 005 BELIALEON
 
-[← 004 CHARMHELL](004_CHARMHELL.md) · [Pokédex](../pokedex.md) · [006 LUCIFERION →](006_LUCIFERION.md)
+**SATANIC** · [← 004 CHARMHELL](004_CHARMHELL.md) · [Pokédex](../pokedex.md) · [006 LUCIFERION →](006_LUCIFERION.md)
 
-<img src="img/005_BELIALEON_front.png"> <img src="img/005_BELIALEON_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/005_BELIALEON_front3.png" alt="005 BELIALEON front"></td><td align="center" valign="bottom"><img src="img/005_BELIALEON_shiny3.png" alt="005 BELIALEON shiny"></td><td align="center" valign="bottom"><img src="img/005_BELIALEON_anim.gif" alt="005 BELIALEON animation"></td><td align="center" valign="bottom"><img src="img/005_BELIALEON_anim_shiny.gif" alt="005 BELIALEON shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/005_BELIALEON.gif"> <img src="../../pokemon/animated/shiny/005_BELIALEON.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">64</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>405</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>142</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/23_CHARMANDER_icon.png" alt="005 BELIALEON party icon"><br><sub>party icon</sub><br><img src="img/005_BELIALEON_palette.png" alt="005 BELIALEON palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/005_BELIALEON_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/23_CHARMANDER_icon.png"> <sub>party icon</sub>
-
-<img src="img/005_BELIALEON_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SATANIC |
-| HP | 58 `███████` |
-| Attack | 64 `████████` |
-| Defense | 58 `███████` |
-| Sp. Atk | 80 `██████████` |
-| Sp. Def | 65 `████████` |
-| Speed | 80 `██████████` |
-| Total | 405 |
-| Catch rate | 45 |
-| Base exp | 142 |
-| Gender | 12.5% female |
-| Growth | Medium Slow |
+<img src="img/005_BELIALEON_frames.png" alt="005 BELIALEON animation frames">

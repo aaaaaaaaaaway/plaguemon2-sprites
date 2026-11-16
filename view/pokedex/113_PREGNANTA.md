@@ -1,34 +1,13 @@
 # 113 PREGNANTA
 
-[← 112 MEDUCUNT](112_MEDUCUNT.md) · [Pokédex](../pokedex.md) · [114 WORMICELLI →](114_WORMICELLI.md)
+**MUTANT** · [← 112 MEDUCUNT](112_MEDUCUNT.md) · [Pokédex](../pokedex.md) · [114 WORMICELLI →](114_WORMICELLI.md)
 
-<img src="img/113_PREGNANTA_front.png"> <img src="img/113_PREGNANTA_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/113_PREGNANTA_front3.png" alt="113 PREGNANTA front"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_shiny3.png" alt="113 PREGNANTA shiny"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_anim.gif" alt="113 PREGNANTA animation"></td><td align="center" valign="bottom"><img src="img/113_PREGNANTA_anim_shiny.gif" alt="113 PREGNANTA shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/113_PREGNANTA.gif"> <img src="../../pokemon/animated/shiny/113_PREGNANTA.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">250</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">5</td><td>▇</td></tr><tr><td>Defense</td><td align="right">5</td><td>▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>450</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>30</td></tr><tr><td>Base exp</td><td>255</td></tr><tr><td>Gender</td><td>100% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/09_CLEFAIRY_icon.png" alt="113 PREGNANTA party icon"><br><sub>party icon</sub><br><img src="img/113_PREGNANTA_palette.png" alt="113 PREGNANTA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/113_PREGNANTA_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/09_CLEFAIRY_icon.png"> <sub>party icon</sub>
-
-<img src="img/113_PREGNANTA_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 250 `███████████████████████████████` |
-| Attack | 5 `█` |
-| Defense | 5 `█` |
-| Sp. Atk | 35 `████` |
-| Sp. Def | 105 `█████████████` |
-| Speed | 50 `██████` |
-| Total | 450 |
-| Catch rate | 30 |
-| Base exp | 255 |
-| Gender | 100% female |
-| Growth | Fast |
+<img src="img/113_PREGNANTA_frames.png" alt="113 PREGNANTA animation frames">

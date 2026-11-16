@@ -1,34 +1,11 @@
 # 140 ZIRLORG
 
-[← 139 MECHANIGAL](139_MECHANIGAL.md) · [Pokédex](../pokedex.md) · [141 ZILOSNAK →](141_ZILOSNAK.md)
+**MINERAL / SEX** · [← 139 MECHANIGAL](139_MECHANIGAL.md) · [Pokédex](../pokedex.md) · [141 ZILOSNAK →](141_ZILOSNAK.md)
 
-<img src="img/140_ZIRLORG_front.png"> <img src="img/140_ZIRLORG_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/140_ZIRLORG_front3.png" alt="140 ZIRLORG front"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_shiny3.png" alt="140 ZIRLORG shiny"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_anim.gif" alt="140 ZIRLORG animation"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_anim_shiny.gif" alt="140 ZIRLORG shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>355</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>119</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="140 ZIRLORG party icon"><br><sub>party icon</sub><br><img src="img/140_ZIRLORG_palette.png" alt="140 ZIRLORG palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/140_ZIRLORG.gif"> <img src="../../pokemon/animated/shiny/140_ZIRLORG.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/140_ZIRLORG_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
-
-<img src="img/140_ZIRLORG_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MINERAL / SEX |
-| HP | 30 `████` |
-| Attack | 80 `██████████` |
-| Defense | 90 `███████████` |
-| Sp. Atk | 55 `███████` |
-| Sp. Def | 45 `██████` |
-| Speed | 55 `███████` |
-| Total | 355 |
-| Catch rate | 45 |
-| Base exp | 119 |
-| Gender | 12.5% female |
-| Growth | Medium Fast |
+<img src="img/140_ZIRLORG_frames.png" alt="140 ZIRLORG animation frames">

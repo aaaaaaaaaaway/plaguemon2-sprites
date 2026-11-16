@@ -1,34 +1,11 @@
 # 070 GUILTYOTIN
 
-[← 069 PILLORYD](069_PILLORYD.md) · [Pokédex](../pokedex.md) · [071 NORIMBERGU →](071_NORIMBERGU.md)
+**DRUGS / MEDICAL** · [← 069 PILLORYD](069_PILLORYD.md) · [Pokédex](../pokedex.md) · [071 NORIMBERGU →](071_NORIMBERGU.md)
 
-<img src="img/070_GUILTYOTIN_front.png"> <img src="img/070_GUILTYOTIN_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/070_GUILTYOTIN_front3.png" alt="070 GUILTYOTIN front"></td><td align="center" valign="bottom"><img src="img/070_GUILTYOTIN_shiny3.png" alt="070 GUILTYOTIN shiny"></td><td align="center" valign="bottom"><img src="img/070_GUILTYOTIN_anim.gif" alt="070 GUILTYOTIN animation"></td><td align="center" valign="bottom"><img src="img/070_GUILTYOTIN_anim_shiny.gif" alt="070 GUILTYOTIN shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>390</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>151</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="070 GUILTYOTIN party icon"><br><sub>party icon</sub><br><img src="img/070_GUILTYOTIN_palette.png" alt="070 GUILTYOTIN palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/070_GUILTYOTIN.gif"> <img src="../../pokemon/animated/shiny/070_GUILTYOTIN.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/070_GUILTYOTIN_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/10_ODDISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/070_GUILTYOTIN_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DRUGS / MEDICAL |
-| HP | 65 `████████` |
-| Attack | 90 `███████████` |
-| Defense | 50 `██████` |
-| Sp. Atk | 85 `███████████` |
-| Sp. Def | 45 `██████` |
-| Speed | 55 `███████` |
-| Total | 390 |
-| Catch rate | 120 |
-| Base exp | 151 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/070_GUILTYOTIN_frames.png" alt="070 GUILTYOTIN animation frames">

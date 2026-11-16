@@ -1,30 +1,9 @@
 # 213 PROGLOTTO
 
-[← 212 CYNOBI](212_CYNOBI.md) · [Pokédex](../pokedex.md) · [214 KINBUGUBI →](214_KINBUGUBI.md)
+**MILITARY / MINERAL** · [← 212 CYNOBI](212_CYNOBI.md) · [Pokédex](../pokedex.md) · [214 KINBUGUBI →](214_KINBUGUBI.md)
 
-<img src="img/213_PROGLOTTO_front.png"> <img src="img/213_PROGLOTTO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_front3.png" alt="213 PROGLOTTO front"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_shiny3.png" alt="213 PROGLOTTO shiny"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_anim.gif" alt="213 PROGLOTTO animation"></td><td align="center" valign="bottom"><img src="img/213_PROGLOTTO_anim_shiny.gif" alt="213 PROGLOTTO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: no animation: this build's frame data doesn't match the sprite.</sub>
 
-<img src="../../pokemon/animated/213_PROGLOTTO.gif"> <img src="../../pokemon/animated/shiny/213_PROGLOTTO.gif">
-
-<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/213_PROGLOTTO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY / MINERAL |
-| HP | 20 `██` |
-| Attack | 10 `█` |
-| Defense | 230 `█████████████████████████████` |
-| Sp. Atk | 10 `█` |
-| Sp. Def | 230 `█████████████████████████████` |
-| Speed | 5 `█` |
-| Total | 505 |
-| Catch rate | 190 |
-| Base exp | 80 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">10</td><td>▇</td></tr><tr><td>Defense</td><td align="right">230</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">10</td><td>▇</td></tr><tr><td>Sp. Def</td><td align="right">230</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">5</td><td>▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>505</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>80</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/11_BUG_icon.png" alt="213 PROGLOTTO party icon"><br><sub>party icon</sub><br><img src="img/213_PROGLOTTO_palette.png" alt="213 PROGLOTTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>

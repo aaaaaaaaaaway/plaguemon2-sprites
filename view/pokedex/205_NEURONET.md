@@ -1,34 +1,13 @@
 # 205 /NEURONET
 
-[← 204 HIDENLAYER](204_HIDENLAYER.md) · [Pokédex](../pokedex.md) · [206 DUOFUNTO →](206_DUOFUNTO.md)
+**MILITARY / CYBER** · [← 204 HIDENLAYER](204_HIDENLAYER.md) · [Pokédex](../pokedex.md) · [206 DUOFUNTO →](206_DUOFUNTO.md)
 
-<img src="img/205_NEURONET_front.png"> <img src="img/205_NEURONET_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/205_NEURONET_front3.png" alt="205 /NEURONET front"></td><td align="center" valign="bottom"><img src="img/205_NEURONET_shiny3.png" alt="205 /NEURONET shiny"></td><td align="center" valign="bottom"><img src="img/205_NEURONET_anim.gif" alt="205 /NEURONET animation"></td><td align="center" valign="bottom"><img src="img/205_NEURONET_anim_shiny.gif" alt="205 /NEURONET shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/205_NEURONET.gif"> <img src="../../pokemon/animated/shiny/205_NEURONET.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">140</td><td>▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>465</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>118</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/11_BUG_icon.png" alt="205 /NEURONET party icon"><br><sub>party icon</sub><br><img src="img/205_NEURONET_palette.png" alt="205 /NEURONET palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/205_NEURONET_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/205_NEURONET_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY / CYBER |
-| HP | 75 `█████████` |
-| Attack | 90 `███████████` |
-| Defense | 140 `██████████████████` |
-| Sp. Atk | 60 `████████` |
-| Sp. Def | 60 `████████` |
-| Speed | 40 `█████` |
-| Total | 465 |
-| Catch rate | 75 |
-| Base exp | 118 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/205_NEURONET_frames.png" alt="205 /NEURONET animation frames">

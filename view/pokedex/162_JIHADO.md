@@ -1,34 +1,11 @@
 # 162 JIHADO
 
-[← 161 BURQO](161_BURQO.md) · [Pokédex](../pokedex.md) · [163 BALAKLOWL →](163_BALAKLOWL.md)
+**MUTANT** · [← 161 BURQO](161_BURQO.md) · [Pokédex](../pokedex.md) · [163 BALAKLOWL →](163_BALAKLOWL.md)
 
-<img src="img/162_JIHADO_front.png"> <img src="img/162_JIHADO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/162_JIHADO_front3.png" alt="162 JIHADO front"></td><td align="center" valign="bottom"><img src="img/162_JIHADO_shiny3.png" alt="162 JIHADO shiny"></td><td align="center" valign="bottom"><img src="img/162_JIHADO_anim.gif" alt="162 JIHADO animation"></td><td align="center" valign="bottom"><img src="img/162_JIHADO_anim_shiny.gif" alt="162 JIHADO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">76</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">64</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>415</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>90</td></tr><tr><td>Base exp</td><td>116</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/15_FOX_icon.png" alt="162 JIHADO party icon"><br><sub>party icon</sub><br><img src="img/162_JIHADO_palette.png" alt="162 JIHADO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/162_JIHADO.gif"> <img src="../../pokemon/animated/shiny/162_JIHADO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/162_JIHADO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/162_JIHADO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 85 `███████████` |
-| Attack | 76 `██████████` |
-| Defense | 64 `████████` |
-| Sp. Atk | 45 `██████` |
-| Sp. Def | 55 `███████` |
-| Speed | 90 `███████████` |
-| Total | 415 |
-| Catch rate | 90 |
-| Base exp | 116 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/162_JIHADO_frames.png" alt="162 JIHADO animation frames">

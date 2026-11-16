@@ -1,34 +1,11 @@
 # 029 FINGAH
 
-[← 028 SPHINXO](028_SPHINXO.md) · [Pokédex](../pokedex.md) · [030 HANDA →](030_HANDA.md)
+**MEDICAL** · [← 028 SPHINXO](028_SPHINXO.md) · [Pokédex](../pokedex.md) · [030 HANDA →](030_HANDA.md)
 
-<img src="img/029_FINGAH_front.png"> <img src="img/029_FINGAH_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/029_FINGAH_front3.png" alt="029 FINGAH front"></td><td align="center" valign="bottom"><img src="img/029_FINGAH_shiny3.png" alt="029 FINGAH shiny"></td><td align="center" valign="bottom"><img src="img/029_FINGAH_anim.gif" alt="029 FINGAH animation"></td><td align="center" valign="bottom"><img src="img/029_FINGAH_anim_shiny.gif" alt="029 FINGAH shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">47</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">52</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">41</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>275</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>235</td></tr><tr><td>Base exp</td><td>59</td></tr><tr><td>Gender</td><td>100% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="029 FINGAH party icon"><br><sub>party icon</sub><br><img src="img/029_FINGAH_palette.png" alt="029 FINGAH palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/029_FINGAH.gif"> <img src="../../pokemon/animated/shiny/029_FINGAH.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/029_FINGAH_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/029_FINGAH_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MEDICAL |
-| HP | 55 `███████` |
-| Attack | 47 `██████` |
-| Defense | 52 `██████` |
-| Sp. Atk | 40 `█████` |
-| Sp. Def | 40 `█████` |
-| Speed | 41 `█████` |
-| Total | 275 |
-| Catch rate | 235 |
-| Base exp | 59 |
-| Gender | 100% female |
-| Growth | Medium Slow |
+<img src="img/029_FINGAH_frames.png" alt="029 FINGAH animation frames">

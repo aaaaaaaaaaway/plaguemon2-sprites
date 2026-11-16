@@ -1,34 +1,11 @@
 # 061 PROLIFIK
 
-[← 060 SPERMOTZ](060_SPERMOTZ.md) · [Pokédex](../pokedex.md) · [062 SMEGMATIC →](062_SMEGMATIC.md)
+**SEX** · [← 060 SPERMOTZ](060_SPERMOTZ.md) · [Pokédex](../pokedex.md) · [062 SMEGMATIC →](062_SMEGMATIC.md)
 
-<img src="img/061_PROLIFIK_front.png"> <img src="img/061_PROLIFIK_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/061_PROLIFIK_front3.png" alt="061 PROLIFIK front"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_shiny3.png" alt="061 PROLIFIK shiny"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_anim.gif" alt="061 PROLIFIK animation"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_anim_shiny.gif" alt="061 PROLIFIK shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>385</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>131</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/01_POLIWAG_icon.png" alt="061 PROLIFIK party icon"><br><sub>party icon</sub><br><img src="img/061_PROLIFIK_palette.png" alt="061 PROLIFIK palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/061_PROLIFIK.gif"> <img src="../../pokemon/animated/shiny/061_PROLIFIK.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/061_PROLIFIK_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
-
-<img src="img/061_PROLIFIK_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 65 `████████` |
-| Attack | 65 `████████` |
-| Defense | 65 `████████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 50 `██████` |
-| Speed | 90 `███████████` |
-| Total | 385 |
-| Catch rate | 120 |
-| Base exp | 131 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/061_PROLIFIK_frames.png" alt="061 PROLIFIK animation frames">

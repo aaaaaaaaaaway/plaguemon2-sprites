@@ -1,34 +1,11 @@
 # 163 BALAKLOWL
 
-[← 162 JIHADO](162_JIHADO.md) · [Pokédex](../pokedex.md) · [164 ROBBINOWL →](164_ROBBINOWL.md)
+**MUTANT / MECHANIC** · [← 162 JIHADO](162_JIHADO.md) · [Pokédex](../pokedex.md) · [164 ROBBINOWL →](164_ROBBINOWL.md)
 
-<img src="img/163_BALAKLOWL_front.png"> <img src="img/163_BALAKLOWL_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/163_BALAKLOWL_front3.png" alt="163 BALAKLOWL front"></td><td align="center" valign="bottom"><img src="img/163_BALAKLOWL_shiny3.png" alt="163 BALAKLOWL shiny"></td><td align="center" valign="bottom"><img src="img/163_BALAKLOWL_anim.gif" alt="163 BALAKLOWL animation"></td><td align="center" valign="bottom"><img src="img/163_BALAKLOWL_anim_shiny.gif" alt="163 BALAKLOWL shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">36</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">56</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>262</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>58</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="163 BALAKLOWL party icon"><br><sub>party icon</sub><br><img src="img/163_BALAKLOWL_palette.png" alt="163 BALAKLOWL palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/163_BALAKLOWL.gif"> <img src="../../pokemon/animated/shiny/163_BALAKLOWL.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/163_BALAKLOWL_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
-
-<img src="img/163_BALAKLOWL_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT / MECHANIC |
-| HP | 60 `████████` |
-| Attack | 30 `████` |
-| Defense | 30 `████` |
-| Sp. Atk | 36 `████` |
-| Sp. Def | 56 `███████` |
-| Speed | 50 `██████` |
-| Total | 262 |
-| Catch rate | 255 |
-| Base exp | 58 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/163_BALAKLOWL_frames.png" alt="163 BALAKLOWL animation frames">

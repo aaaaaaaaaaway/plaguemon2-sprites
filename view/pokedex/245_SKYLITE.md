@@ -1,34 +1,11 @@
 # 245 SKYLITE
 
-[← 244 VITATEC](244_VITATEC.md) · [Pokédex](../pokedex.md) · [246 SEBUTAR →](246_SEBUTAR.md)
+**SEX** · [← 244 VITATEC](244_VITATEC.md) · [Pokédex](../pokedex.md) · [246 SEBUTAR →](246_SEBUTAR.md)
 
-<img src="img/245_SKYLITE_front.png"> <img src="img/245_SKYLITE_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/245_SKYLITE_front3.png" alt="245 SKYLITE front"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_shiny3.png" alt="245 SKYLITE shiny"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_anim.gif" alt="245 SKYLITE animation"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_anim_shiny.gif" alt="245 SKYLITE shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>580</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>3</td></tr><tr><td>Base exp</td><td>215</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="245 SKYLITE party icon"><br><sub>party icon</sub><br><img src="img/245_SKYLITE_palette.png" alt="245 SKYLITE palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/245_SKYLITE.gif"> <img src="../../pokemon/animated/shiny/245_SKYLITE.gif">
+**Animation frames** (base + 9)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/245_SKYLITE_frames.png">
-
-<sub>animation frames (base + 9)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/245_SKYLITE_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 100 `████████████` |
-| Attack | 75 `█████████` |
-| Defense | 115 `██████████████` |
-| Sp. Atk | 90 `███████████` |
-| Sp. Def | 115 `██████████████` |
-| Speed | 85 `███████████` |
-| Total | 580 |
-| Catch rate | 3 |
-| Base exp | 215 |
-| Gender | genderless |
-| Growth | Slow |
+<img src="img/245_SKYLITE_frames.png" alt="245 SKYLITE animation frames">

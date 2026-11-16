@@ -1,34 +1,13 @@
 # 226 DADAORCA
 
-[← 225 ANTENNOIDE](225_ANTENNOIDE.md) · [Pokédex](../pokedex.md) · [227 AXIOM:APEX →](227_AXIOM_APEX.md)
+**SEX / MECHANIC** · [← 225 ANTENNOIDE](225_ANTENNOIDE.md) · [Pokédex](../pokedex.md) · [227 AXIOM:APEX →](227_AXIOM_APEX.md)
 
-<img src="img/226_DADAORCA_front.png"> <img src="img/226_DADAORCA_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/226_DADAORCA_front3.png" alt="226 DADAORCA front"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_shiny3.png" alt="226 DADAORCA shiny"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_anim.gif" alt="226 DADAORCA animation"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_anim_shiny.gif" alt="226 DADAORCA shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/226_DADAORCA.gif"> <img src="../../pokemon/animated/shiny/226_DADAORCA.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">140</td><td>▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>465</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>25</td></tr><tr><td>Base exp</td><td>168</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/06_FISH_icon.png" alt="226 DADAORCA party icon"><br><sub>party icon</sub><br><img src="img/226_DADAORCA_palette.png" alt="226 DADAORCA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 2)
 
-<img src="img/226_DADAORCA_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/226_DADAORCA_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / MECHANIC |
-| HP | 65 `████████` |
-| Attack | 40 `█████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 80 `██████████` |
-| Sp. Def | 140 `██████████████████` |
-| Speed | 70 `█████████` |
-| Total | 465 |
-| Catch rate | 25 |
-| Base exp | 168 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/226_DADAORCA_frames.png" alt="226 DADAORCA animation frames">

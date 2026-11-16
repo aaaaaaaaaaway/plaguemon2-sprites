@@ -1,34 +1,11 @@
 # 137 TERMINALIX
 
-[← 136 CERBERION](136_CERBERION.md) · [Pokédex](../pokedex.md) · [138 SHARPIDER →](138_SHARPIDER.md)
+**CYBER** · [← 136 CERBERION](136_CERBERION.md) · [Pokédex](../pokedex.md) · [138 SHARPIDER →](138_SHARPIDER.md)
 
-<img src="img/137_TERMINALIX_front.png"> <img src="img/137_TERMINALIX_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/137_TERMINALIX_front3.png" alt="137 TERMINALIX front"></td><td align="center" valign="bottom"><img src="img/137_TERMINALIX_shiny3.png" alt="137 TERMINALIX shiny"></td><td align="center" valign="bottom"><img src="img/137_TERMINALIX_anim.gif" alt="137 TERMINALIX animation"></td><td align="center" valign="bottom"><img src="img/137_TERMINALIX_anim_shiny.gif" alt="137 TERMINALIX shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>395</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>130</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/20_VOLTORB_icon.png" alt="137 TERMINALIX party icon"><br><sub>party icon</sub><br><img src="img/137_TERMINALIX_palette.png" alt="137 TERMINALIX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/137_TERMINALIX.gif"> <img src="../../pokemon/animated/shiny/137_TERMINALIX.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/137_TERMINALIX_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/20_VOLTORB_icon.png"> <sub>party icon</sub>
-
-<img src="img/137_TERMINALIX_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | CYBER |
-| HP | 65 `████████` |
-| Attack | 60 `████████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 85 `███████████` |
-| Sp. Def | 75 `█████████` |
-| Speed | 40 `█████` |
-| Total | 395 |
-| Catch rate | 45 |
-| Base exp | 130 |
-| Gender | genderless |
-| Growth | Medium Fast |
+<img src="img/137_TERMINALIX_frames.png" alt="137 TERMINALIX animation frames">

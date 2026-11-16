@@ -1,34 +1,11 @@
 # 058 SCRATCHY
 
-[← 057 NAGASAK](057_NAGASAK.md) · [Pokédex](../pokedex.md) · [059 BJORN →](059_BJORN.md)
+**SATANIC** · [← 057 NAGASAK](057_NAGASAK.md) · [Pokédex](../pokedex.md) · [059 BJORN →](059_BJORN.md)
 
-<img src="img/058_SCRATCHY_front.png"> <img src="img/058_SCRATCHY_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/058_SCRATCHY_front3.png" alt="058 SCRATCHY front"></td><td align="center" valign="bottom"><img src="img/058_SCRATCHY_shiny3.png" alt="058 SCRATCHY shiny"></td><td align="center" valign="bottom"><img src="img/058_SCRATCHY_anim.gif" alt="058 SCRATCHY animation"></td><td align="center" valign="bottom"><img src="img/058_SCRATCHY_anim_shiny.gif" alt="058 SCRATCHY shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>350</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>91</td></tr><tr><td>Gender</td><td>25% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="058 SCRATCHY party icon"><br><sub>party icon</sub><br><img src="img/058_SCRATCHY_palette.png" alt="058 SCRATCHY palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/058_SCRATCHY.gif"> <img src="../../pokemon/animated/shiny/058_SCRATCHY.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/058_SCRATCHY_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/058_SCRATCHY_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SATANIC |
-| HP | 55 `███████` |
-| Attack | 70 `█████████` |
-| Defense | 45 `██████` |
-| Sp. Atk | 70 `█████████` |
-| Sp. Def | 50 `██████` |
-| Speed | 60 `████████` |
-| Total | 350 |
-| Catch rate | 190 |
-| Base exp | 91 |
-| Gender | 25% female |
-| Growth | Slow |
+<img src="img/058_SCRATCHY_frames.png" alt="058 SCRATCHY animation frames">

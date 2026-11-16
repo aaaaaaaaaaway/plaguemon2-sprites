@@ -1,34 +1,13 @@
 # 031 KALEDENDS
 
-[← 030 HANDA](030_HANDA.md) · [Pokédex](../pokedex.md) · [032 SCRAMBLO →](032_SCRAMBLO.md)
+**MEDICAL / ORGANIC** · [← 030 HANDA](030_HANDA.md) · [Pokédex](../pokedex.md) · [032 SCRAMBLO →](032_SCRAMBLO.md)
 
-<img src="img/031_KALEDENDS_front.png"> <img src="img/031_KALEDENDS_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/031_KALEDENDS_front3.png" alt="031 KALEDENDS front"></td><td align="center" valign="bottom"><img src="img/031_KALEDENDS_shiny3.png" alt="031 KALEDENDS shiny"></td><td align="center" valign="bottom"><img src="img/031_KALEDENDS_anim.gif" alt="031 KALEDENDS animation"></td><td align="center" valign="bottom"><img src="img/031_KALEDENDS_anim_shiny.gif" alt="031 KALEDENDS shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/031_KALEDENDS.gif"> <img src="../../pokemon/animated/shiny/031_KALEDENDS.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">82</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">87</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">76</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>495</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>194</td></tr><tr><td>Gender</td><td>100% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="031 KALEDENDS party icon"><br><sub>party icon</sub><br><img src="img/031_KALEDENDS_palette.png" alt="031 KALEDENDS palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/031_KALEDENDS_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/031_KALEDENDS_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MEDICAL / ORGANIC |
-| HP | 90 `███████████` |
-| Attack | 82 `██████████` |
-| Defense | 87 `███████████` |
-| Sp. Atk | 75 `█████████` |
-| Sp. Def | 85 `███████████` |
-| Speed | 76 `██████████` |
-| Total | 495 |
-| Catch rate | 45 |
-| Base exp | 194 |
-| Gender | 100% female |
-| Growth | Medium Slow |
+<img src="img/031_KALEDENDS_frames.png" alt="031 KALEDENDS animation frames">

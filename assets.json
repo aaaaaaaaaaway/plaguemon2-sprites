@@ -664,7 +664,7 @@
   "view_parts": 4,
   "w": 960,
   "h": 722,
-  "kb": 151
+  "kb": 152
  },
  {
   "section": "Miscellaneous",
@@ -677,7 +677,7 @@
   "view_parts": 4,
   "w": 960,
   "h": 722,
-  "kb": 160
+  "kb": 161
  },
  {
   "section": "Miscellaneous",
@@ -771,7 +771,7 @@
   "kb": 13
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Title Screen",
   "sub": "",
   "file": "more/title-screen.png",
@@ -784,7 +784,7 @@
   "kb": 33
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 1",
   "sub": "map",
   "file": "more/maps/area-1.png",
@@ -797,7 +797,7 @@
   "kb": 16
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 10",
   "sub": "map",
   "file": "more/maps/area-10.png",
@@ -810,7 +810,7 @@
   "kb": 25
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 11",
   "sub": "map",
   "file": "more/maps/area-11.png",
@@ -823,7 +823,7 @@
   "kb": 18
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 12",
   "sub": "map",
   "file": "more/maps/area-12.png",
@@ -836,7 +836,7 @@
   "kb": 32
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 13",
   "sub": "map",
   "file": "more/maps/area-13.png",
@@ -849,7 +849,7 @@
   "kb": 22
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 14",
   "sub": "map",
   "file": "more/maps/area-14.png",
@@ -862,7 +862,7 @@
   "kb": 14
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 15",
   "sub": "map",
   "file": "more/maps/area-15.png",
@@ -875,7 +875,7 @@
   "kb": 18
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 16",
   "sub": "map",
   "file": "more/maps/area-16.png",
@@ -888,7 +888,7 @@
   "kb": 22
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 17",
   "sub": "map",
   "file": "more/maps/area-17.png",
@@ -901,7 +901,7 @@
   "kb": 3
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 18",
   "sub": "map",
   "file": "more/maps/area-18.png",
@@ -914,7 +914,7 @@
   "kb": 8
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 19",
   "sub": "map",
   "file": "more/maps/area-19.png",
@@ -927,7 +927,7 @@
   "kb": 16
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 2",
   "sub": "map",
   "file": "more/maps/area-2.png",
@@ -940,7 +940,7 @@
   "kb": 51
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 20",
   "sub": "map",
   "file": "more/maps/area-20.png",
@@ -953,7 +953,7 @@
   "kb": 14
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 21",
   "sub": "map",
   "file": "more/maps/area-21.png",
@@ -966,7 +966,7 @@
   "kb": 10
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 22",
   "sub": "map",
   "file": "more/maps/area-22.png",
@@ -979,7 +979,7 @@
   "kb": 17
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 23",
   "sub": "map",
   "file": "more/maps/area-23.png",
@@ -992,7 +992,7 @@
   "kb": 8
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 24",
   "sub": "map",
   "file": "more/maps/area-24.png",
@@ -1005,7 +1005,7 @@
   "kb": 8
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 25",
   "sub": "map",
   "file": "more/maps/area-25.png",
@@ -1018,7 +1018,7 @@
   "kb": 31
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 26",
   "sub": "map",
   "file": "more/maps/area-26.png",
@@ -1031,7 +1031,7 @@
   "kb": 11
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 27",
   "sub": "map",
   "file": "more/maps/area-27.png",
@@ -1044,7 +1044,7 @@
   "kb": 4
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 28",
   "sub": "map",
   "file": "more/maps/area-28.png",
@@ -1057,7 +1057,7 @@
   "kb": 26
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 29",
   "sub": "map",
   "file": "more/maps/area-29.png",
@@ -1070,7 +1070,7 @@
   "kb": 31
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 3",
   "sub": "map",
   "file": "more/maps/area-3.png",
@@ -1083,7 +1083,7 @@
   "kb": 23
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 30",
   "sub": "map",
   "file": "more/maps/area-30.png",
@@ -1096,7 +1096,7 @@
   "kb": 58
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 31",
   "sub": "map",
   "file": "more/maps/area-31.png",
@@ -1109,7 +1109,7 @@
   "kb": 25
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 32",
   "sub": "map",
   "file": "more/maps/area-32.png",
@@ -1122,7 +1122,7 @@
   "kb": 86
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 33",
   "sub": "map",
   "file": "more/maps/area-33.png",
@@ -1135,7 +1135,7 @@
   "kb": 14
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 34",
   "sub": "map",
   "file": "more/maps/area-34.png",
@@ -1148,7 +1148,7 @@
   "kb": 48
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 35",
   "sub": "map",
   "file": "more/maps/area-35.png",
@@ -1161,7 +1161,7 @@
   "kb": 35
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 36",
   "sub": "map",
   "file": "more/maps/area-36.png",
@@ -1174,7 +1174,7 @@
   "kb": 5
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 37",
   "sub": "map",
   "file": "more/maps/area-37.png",
@@ -1187,7 +1187,7 @@
   "kb": 12
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 38",
   "sub": "map",
   "file": "more/maps/area-38.png",
@@ -1200,7 +1200,7 @@
   "kb": 24
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 39",
   "sub": "map",
   "file": "more/maps/area-39.png",
@@ -1213,7 +1213,7 @@
   "kb": 36
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 4",
   "sub": "map",
   "file": "more/maps/area-4.png",
@@ -1226,7 +1226,7 @@
   "kb": 20
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 41",
   "sub": "map",
   "file": "more/maps/area-41.png",
@@ -1239,7 +1239,7 @@
   "kb": 38
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 42",
   "sub": "map",
   "file": "more/maps/area-42.png",
@@ -1252,7 +1252,7 @@
   "kb": 32
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 43",
   "sub": "map",
   "file": "more/maps/area-43.png",
@@ -1265,7 +1265,7 @@
   "kb": 4
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 44",
   "sub": "map",
   "file": "more/maps/area-44.png",
@@ -1278,7 +1278,7 @@
   "kb": 23
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 45",
   "sub": "map",
   "file": "more/maps/area-45.png",
@@ -1291,7 +1291,7 @@
   "kb": 37
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 46",
   "sub": "map",
   "file": "more/maps/area-46.png",
@@ -1304,7 +1304,7 @@
   "kb": 20
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 5",
   "sub": "map",
   "file": "more/maps/area-5.png",
@@ -1317,7 +1317,7 @@
   "kb": 27
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 6",
   "sub": "map",
   "file": "more/maps/area-6.png",
@@ -1330,7 +1330,7 @@
   "kb": 12
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 7",
   "sub": "map",
   "file": "more/maps/area-7.png",
@@ -1343,7 +1343,7 @@
   "kb": 12
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 8",
   "sub": "map",
   "file": "more/maps/area-8.png",
@@ -1356,7 +1356,7 @@
   "kb": 29
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Area 9",
   "sub": "map",
   "file": "more/maps/area-9.png",
@@ -1369,7 +1369,7 @@
   "kb": 29
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Diglett'S Cave",
   "sub": "map",
   "file": "more/maps/digletts-cave.png",
@@ -1382,7 +1382,7 @@
   "kb": 26
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Mt.Moon",
   "sub": "map",
   "file": "more/maps/mt-moon.png",
@@ -1395,7 +1395,7 @@
   "kb": 53
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Power Plant",
   "sub": "map",
   "file": "more/maps/power-plant.png",
@@ -1408,7 +1408,7 @@
   "kb": 15
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Rock Tunnel",
   "sub": "map",
   "file": "more/maps/rock-tunnel.png",
@@ -1421,7 +1421,7 @@
   "kb": 4
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Sewers",
   "sub": "map",
   "file": "more/maps/sewers.png",
@@ -1434,7 +1434,7 @@
   "kb": 6
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Source Of Plasma",
   "sub": "map",
   "file": "more/maps/source-of-plasma.png",
@@ -1447,7 +1447,7 @@
   "kb": 57
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Tin Tower",
   "sub": "map",
   "file": "more/maps/tin-tower.png",
@@ -1460,7 +1460,7 @@
   "kb": 63
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Tohjo Falls",
   "sub": "map",
   "file": "more/maps/tohjo-falls.png",
@@ -1473,7 +1473,7 @@
   "kb": 15
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Underground",
   "sub": "map",
   "file": "more/maps/underground.png",
@@ -1486,7 +1486,7 @@
   "kb": 2
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Union Cave",
   "sub": "map",
   "file": "more/maps/union-cave.png",
@@ -1499,7 +1499,7 @@
   "kb": 82
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Victory Road",
   "sub": "map",
   "file": "more/maps/victory-road.png",
@@ -1512,7 +1512,7 @@
   "kb": 49
  },
  {
-  "section": "More",
+  "section": "Other maps & screens",
   "name": "Whirl Islands",
   "sub": "map",
   "file": "more/maps/whirl-islands.png",

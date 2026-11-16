@@ -1,34 +1,11 @@
 # 091 VAGINDAM
 
-[← 090 SHELLDER](090_SHELLDER.md) · [Pokédex](../pokedex.md) · [092 GOSBAMP →](092_GOSBAMP.md)
+**SEX / CHEMICAL** · [← 090 SHELLDER](090_SHELLDER.md) · [Pokédex](../pokedex.md) · [092 GOSBAMP →](092_GOSBAMP.md)
 
-<img src="img/091_VAGINDAM_front.png"> <img src="img/091_VAGINDAM_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/091_VAGINDAM_front3.png" alt="091 VAGINDAM front"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_shiny3.png" alt="091 VAGINDAM shiny"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim.gif" alt="091 VAGINDAM animation"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim_shiny.gif" alt="091 VAGINDAM shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">180</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>525</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>203</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="091 VAGINDAM party icon"><br><sub>party icon</sub><br><img src="img/091_VAGINDAM_palette.png" alt="091 VAGINDAM palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/091_VAGINDAM.gif"> <img src="../../pokemon/animated/shiny/091_VAGINDAM.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/091_VAGINDAM_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
-
-<img src="img/091_VAGINDAM_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / CHEMICAL |
-| HP | 50 `██████` |
-| Attack | 95 `████████████` |
-| Defense | 180 `██████████████████████` |
-| Sp. Atk | 85 `███████████` |
-| Sp. Def | 45 `██████` |
-| Speed | 70 `█████████` |
-| Total | 525 |
-| Catch rate | 60 |
-| Base exp | 203 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/091_VAGINDAM_frames.png" alt="091 VAGINDAM animation frames">

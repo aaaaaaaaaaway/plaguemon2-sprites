@@ -1,34 +1,11 @@
 # 200 HOSTED.GOO
 
-[← 199 DEPRECLOWN](199_DEPRECLOWN.md) · [Pokédex](../pokedex.md) · [202 CONDOMAX →](202_CONDOMAX.md)
+**DEATH** · [← 199 DEPRECLOWN](199_DEPRECLOWN.md) · [Pokédex](../pokedex.md) · [202 CONDOMAX →](202_CONDOMAX.md)
 
-<img src="img/200_HOSTED_GOO_front.png"> <img src="img/200_HOSTED_GOO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_front3.png" alt="200 HOSTED.GOO front"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_shiny3.png" alt="200 HOSTED.GOO shiny"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_anim.gif" alt="200 HOSTED.GOO animation"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_anim_shiny.gif" alt="200 HOSTED.GOO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>435</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>147</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/12_GHOST_icon.png" alt="200 HOSTED.GOO party icon"><br><sub>party icon</sub><br><img src="img/200_HOSTED_GOO_palette.png" alt="200 HOSTED.GOO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/200_HOSTED_GOO.gif"> <img src="../../pokemon/animated/shiny/200_HOSTED_GOO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/200_HOSTED_GOO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/12_GHOST_icon.png"> <sub>party icon</sub>
-
-<img src="img/200_HOSTED_GOO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DEATH |
-| HP | 60 `████████` |
-| Attack | 60 `████████` |
-| Defense | 60 `████████` |
-| Sp. Atk | 85 `███████████` |
-| Sp. Def | 85 `███████████` |
-| Speed | 85 `███████████` |
-| Total | 435 |
-| Catch rate | 45 |
-| Base exp | 147 |
-| Gender | 50% female |
-| Growth | Fast |
+<img src="img/200_HOSTED_GOO_frames.png" alt="200 HOSTED.GOO animation frames">

@@ -1,34 +1,11 @@
 # 197 DAMNATEON
 
-[← 196 EMBRYEON](196_EMBRYEON.md) · [Pokédex](../pokedex.md) · [198 SKARKROW →](198_SKARKROW.md)
+**DOOM** · [← 196 EMBRYEON](196_EMBRYEON.md) · [Pokédex](../pokedex.md) · [198 SKARKROW →](198_SKARKROW.md)
 
-<img src="img/197_DAMNATEON_front.png"> <img src="img/197_DAMNATEON_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/197_DAMNATEON_front3.png" alt="197 DAMNATEON front"></td><td align="center" valign="bottom"><img src="img/197_DAMNATEON_shiny3.png" alt="197 DAMNATEON shiny"></td><td align="center" valign="bottom"><img src="img/197_DAMNATEON_anim.gif" alt="197 DAMNATEON animation"></td><td align="center" valign="bottom"><img src="img/197_DAMNATEON_anim_shiny.gif" alt="197 DAMNATEON shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">110</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">130</td><td>▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>525</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>197</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/15_FOX_icon.png" alt="197 DAMNATEON party icon"><br><sub>party icon</sub><br><img src="img/197_DAMNATEON_palette.png" alt="197 DAMNATEON palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/197_DAMNATEON.gif"> <img src="../../pokemon/animated/shiny/197_DAMNATEON.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/197_DAMNATEON_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/197_DAMNATEON_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DOOM |
-| HP | 95 `████████████` |
-| Attack | 65 `████████` |
-| Defense | 110 `██████████████` |
-| Sp. Atk | 60 `████████` |
-| Sp. Def | 130 `████████████████` |
-| Speed | 65 `████████` |
-| Total | 525 |
-| Catch rate | 45 |
-| Base exp | 197 |
-| Gender | 12.5% female |
-| Growth | Medium Fast |
+<img src="img/197_DAMNATEON_frames.png" alt="197 DAMNATEON animation frames">

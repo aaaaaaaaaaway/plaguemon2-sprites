@@ -1,34 +1,11 @@
 # 046 PARASITO
 
-[← 045 LARSENEF](045_LARSENEF.md) · [Pokédex](../pokedex.md) · [047 PSILOCYBO →](047_PSILOCYBO.md)
+**MILITARY / DRUGS** · [← 045 LARSENEF](045_LARSENEF.md) · [Pokédex](../pokedex.md) · [047 PSILOCYBO →](047_PSILOCYBO.md)
 
-<img src="img/046_PARASITO_front.png"> <img src="img/046_PARASITO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/046_PARASITO_front3.png" alt="046 PARASITO front"></td><td align="center" valign="bottom"><img src="img/046_PARASITO_shiny3.png" alt="046 PARASITO shiny"></td><td align="center" valign="bottom"><img src="img/046_PARASITO_anim.gif" alt="046 PARASITO animation"></td><td align="center" valign="bottom"><img src="img/046_PARASITO_anim_shiny.gif" alt="046 PARASITO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">25</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>285</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>70</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/11_BUG_icon.png" alt="046 PARASITO party icon"><br><sub>party icon</sub><br><img src="img/046_PARASITO_palette.png" alt="046 PARASITO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/046_PARASITO.gif"> <img src="../../pokemon/animated/shiny/046_PARASITO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/046_PARASITO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/046_PARASITO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY / DRUGS |
-| HP | 35 `████` |
-| Attack | 70 `█████████` |
-| Defense | 55 `███████` |
-| Sp. Atk | 45 `██████` |
-| Sp. Def | 55 `███████` |
-| Speed | 25 `███` |
-| Total | 285 |
-| Catch rate | 190 |
-| Base exp | 70 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/046_PARASITO_frames.png" alt="046 PARASITO animation frames">

@@ -1,34 +1,11 @@
 # 204 HIDENLAYER
 
-[← 203 ENIGMAGUS](203_ENIGMAGUS.md) · [Pokédex](../pokedex.md) · [205 /NEURONET →](205_NEURONET.md)
+**MILITARY** · [← 203 ENIGMAGUS](203_ENIGMAGUS.md) · [Pokédex](../pokedex.md) · [205 /NEURONET →](205_NEURONET.md)
 
-<img src="img/204_HIDENLAYER_front.png"> <img src="img/204_HIDENLAYER_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/204_HIDENLAYER_front3.png" alt="204 HIDENLAYER front"></td><td align="center" valign="bottom"><img src="img/204_HIDENLAYER_shiny3.png" alt="204 HIDENLAYER shiny"></td><td align="center" valign="bottom"><img src="img/204_HIDENLAYER_anim.gif" alt="204 HIDENLAYER animation"></td><td align="center" valign="bottom"><img src="img/204_HIDENLAYER_anim_shiny.gif" alt="204 HIDENLAYER shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">15</td><td>▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>290</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>60</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/11_BUG_icon.png" alt="204 HIDENLAYER party icon"><br><sub>party icon</sub><br><img src="img/204_HIDENLAYER_palette.png" alt="204 HIDENLAYER palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/204_HIDENLAYER.gif"> <img src="../../pokemon/animated/shiny/204_HIDENLAYER.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/204_HIDENLAYER_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/204_HIDENLAYER_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY |
-| HP | 50 `██████` |
-| Attack | 65 `████████` |
-| Defense | 90 `███████████` |
-| Sp. Atk | 35 `████` |
-| Sp. Def | 35 `████` |
-| Speed | 15 `██` |
-| Total | 290 |
-| Catch rate | 190 |
-| Base exp | 60 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/204_HIDENLAYER_frames.png" alt="204 HIDENLAYER animation frames">

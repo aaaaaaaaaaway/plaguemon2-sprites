@@ -1,34 +1,11 @@
 # 179 BINARIA
 
-[← 178 QUELZALCOT](178_QUELZALCOT.md) · [Pokédex](../pokedex.md) · [180 ALGOCRAT →](180_ALGOCRAT.md)
+**NUCLEAR** · [← 178 QUELZALCOT](178_QUELZALCOT.md) · [Pokédex](../pokedex.md) · [180 ALGOCRAT →](180_ALGOCRAT.md)
 
-<img src="img/179_BINARIA_front.png"> <img src="img/179_BINARIA_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/179_BINARIA_front3.png" alt="179 BINARIA front"></td><td align="center" valign="bottom"><img src="img/179_BINARIA_shiny3.png" alt="179 BINARIA shiny"></td><td align="center" valign="bottom"><img src="img/179_BINARIA_anim.gif" alt="179 BINARIA animation"></td><td align="center" valign="bottom"><img src="img/179_BINARIA_anim_shiny.gif" alt="179 BINARIA shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>280</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>235</td></tr><tr><td>Base exp</td><td>59</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="179 BINARIA party icon"><br><sub>party icon</sub><br><img src="img/179_BINARIA_palette.png" alt="179 BINARIA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/179_BINARIA.gif"> <img src="../../pokemon/animated/shiny/179_BINARIA.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/179_BINARIA_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/179_BINARIA_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR |
-| HP | 55 `███████` |
-| Attack | 40 `█████` |
-| Defense | 40 `█████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 45 `██████` |
-| Speed | 35 `████` |
-| Total | 280 |
-| Catch rate | 235 |
-| Base exp | 59 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/179_BINARIA_frames.png" alt="179 BINARIA animation frames">

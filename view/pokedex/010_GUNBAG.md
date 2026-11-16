@@ -1,34 +1,11 @@
 # 010 GUNBAG
 
-[← 009 SCOLENE](009_SCOLENE.md) · [Pokédex](../pokedex.md) · [011 MUTAPUD →](011_MUTAPUD.md)
+**MILITARY** · [← 009 SCOLENE](009_SCOLENE.md) · [Pokédex](../pokedex.md) · [011 MUTAPUD →](011_MUTAPUD.md)
 
-<img src="img/010_GUNBAG_front.png"> <img src="img/010_GUNBAG_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/010_GUNBAG_front3.png" alt="010 GUNBAG front"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_shiny3.png" alt="010 GUNBAG shiny"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_anim.gif" alt="010 GUNBAG animation"></td><td align="center" valign="bottom"><img src="img/010_GUNBAG_anim_shiny.gif" alt="010 GUNBAG shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>195</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>53</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/24_CATERPILLAR_icon.png" alt="010 GUNBAG party icon"><br><sub>party icon</sub><br><img src="img/010_GUNBAG_palette.png" alt="010 GUNBAG palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/010_GUNBAG.gif"> <img src="../../pokemon/animated/shiny/010_GUNBAG.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/010_GUNBAG_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/24_CATERPILLAR_icon.png"> <sub>party icon</sub>
-
-<img src="img/010_GUNBAG_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY |
-| HP | 45 `██████` |
-| Attack | 30 `████` |
-| Defense | 35 `████` |
-| Sp. Atk | 20 `██` |
-| Sp. Def | 20 `██` |
-| Speed | 45 `██████` |
-| Total | 195 |
-| Catch rate | 255 |
-| Base exp | 53 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/010_GUNBAG_frames.png" alt="010 GUNBAG animation frames">

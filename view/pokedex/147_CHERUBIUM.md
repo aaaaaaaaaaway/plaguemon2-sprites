@@ -1,34 +1,11 @@
 # 147 CHERUBIUM
 
-[← 146 MOLCOPY](146_MOLCOPY.md) · [Pokédex](../pokedex.md) · [148 SERAPHIUM →](148_SERAPHIUM.md)
+**ANGELIC / DIVINITY** · [← 146 MOLCOPY](146_MOLCOPY.md) · [Pokédex](../pokedex.md) · [148 SERAPHIUM →](148_SERAPHIUM.md)
 
-<img src="img/147_CHERUBIUM_front.png"> <img src="img/147_CHERUBIUM_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/147_CHERUBIUM_front3.png" alt="147 CHERUBIUM front"></td><td align="center" valign="bottom"><img src="img/147_CHERUBIUM_shiny3.png" alt="147 CHERUBIUM shiny"></td><td align="center" valign="bottom"><img src="img/147_CHERUBIUM_anim.gif" alt="147 CHERUBIUM animation"></td><td align="center" valign="bottom"><img src="img/147_CHERUBIUM_anim_shiny.gif" alt="147 CHERUBIUM shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">41</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">64</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>300</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>67</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/19_SERPENT_icon.png" alt="147 CHERUBIUM party icon"><br><sub>party icon</sub><br><img src="img/147_CHERUBIUM_palette.png" alt="147 CHERUBIUM palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/147_CHERUBIUM.gif"> <img src="../../pokemon/animated/shiny/147_CHERUBIUM.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/147_CHERUBIUM_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/19_SERPENT_icon.png"> <sub>party icon</sub>
-
-<img src="img/147_CHERUBIUM_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | ANGELIC / DIVINITY |
-| HP | 41 `█████` |
-| Attack | 64 `████████` |
-| Defense | 45 `██████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 50 `██████` |
-| Speed | 50 `██████` |
-| Total | 300 |
-| Catch rate | 45 |
-| Base exp | 67 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/147_CHERUBIUM_frames.png" alt="147 CHERUBIUM animation frames">

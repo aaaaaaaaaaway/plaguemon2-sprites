@@ -1,34 +1,11 @@
 # 099 NUKEBARL
 
-[← 098 TOXIWASTE](098_TOXIWASTE.md) · [Pokédex](../pokedex.md) · [100 KOWARENING →](100_KOWARENING.md)
+**SEX** · [← 098 TOXIWASTE](098_TOXIWASTE.md) · [Pokédex](../pokedex.md) · [100 KOWARENING →](100_KOWARENING.md)
 
-<img src="img/099_NUKEBARL_front.png"> <img src="img/099_NUKEBARL_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/099_NUKEBARL_front3.png" alt="099 NUKEBARL front"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_shiny3.png" alt="099 NUKEBARL shiny"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_anim.gif" alt="099 NUKEBARL animation"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_anim_shiny.gif" alt="099 NUKEBARL shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">130</td><td>▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>475</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>206</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="099 NUKEBARL party icon"><br><sub>party icon</sub><br><img src="img/099_NUKEBARL_palette.png" alt="099 NUKEBARL palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/099_NUKEBARL.gif"> <img src="../../pokemon/animated/shiny/099_NUKEBARL.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/099_NUKEBARL_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
-
-<img src="img/099_NUKEBARL_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 55 `███████` |
-| Attack | 130 `████████████████` |
-| Defense | 115 `██████████████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 50 `██████` |
-| Speed | 75 `█████████` |
-| Total | 475 |
-| Catch rate | 60 |
-| Base exp | 206 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/099_NUKEBARL_frames.png" alt="099 NUKEBARL animation frames">

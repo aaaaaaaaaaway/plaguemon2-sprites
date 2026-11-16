@@ -1,34 +1,11 @@
 # 145 ZAPGOLD
 
-[← 144 ARTICLONE](144_ARTICLONE.md) · [Pokédex](../pokedex.md) · [146 MOLCOPY →](146_MOLCOPY.md)
+**NUCLEAR / MECHANIC** · [← 144 ARTICLONE](144_ARTICLONE.md) · [Pokédex](../pokedex.md) · [146 MOLCOPY →](146_MOLCOPY.md)
 
-<img src="img/145_ZAPGOLD_front.png"> <img src="img/145_ZAPGOLD_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/145_ZAPGOLD_front3.png" alt="145 ZAPGOLD front"></td><td align="center" valign="bottom"><img src="img/145_ZAPGOLD_shiny3.png" alt="145 ZAPGOLD shiny"></td><td align="center" valign="bottom"><img src="img/145_ZAPGOLD_anim.gif" alt="145 ZAPGOLD animation"></td><td align="center" valign="bottom"><img src="img/145_ZAPGOLD_anim_shiny.gif" alt="145 ZAPGOLD shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">125</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>580</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>3</td></tr><tr><td>Base exp</td><td>216</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="145 ZAPGOLD party icon"><br><sub>party icon</sub><br><img src="img/145_ZAPGOLD_palette.png" alt="145 ZAPGOLD palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/145_ZAPGOLD.gif"> <img src="../../pokemon/animated/shiny/145_ZAPGOLD.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/145_ZAPGOLD_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
-
-<img src="img/145_ZAPGOLD_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR / MECHANIC |
-| HP | 90 `███████████` |
-| Attack | 90 `███████████` |
-| Defense | 85 `███████████` |
-| Sp. Atk | 125 `████████████████` |
-| Sp. Def | 90 `███████████` |
-| Speed | 100 `████████████` |
-| Total | 580 |
-| Catch rate | 3 |
-| Base exp | 216 |
-| Gender | genderless |
-| Growth | Slow |
+<img src="img/145_ZAPGOLD_frames.png" alt="145 ZAPGOLD animation frames">

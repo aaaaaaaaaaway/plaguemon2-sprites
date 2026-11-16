@@ -1,34 +1,11 @@
 # 042 VAMPESSA
 
-[← 041 GOTCHICK](041_GOTCHICK.md) · [Pokédex](../pokedex.md) · [043 ODDGLITCH →](043_ODDGLITCH.md)
+**MEDICAL / MECHANIC** · [← 041 GOTCHICK](041_GOTCHICK.md) · [Pokédex](../pokedex.md) · [043 ODDGLITCH →](043_ODDGLITCH.md)
 
-<img src="img/042_VAMPESSA_front.png"> <img src="img/042_VAMPESSA_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/042_VAMPESSA_front3.png" alt="042 VAMPESSA front"></td><td align="center" valign="bottom"><img src="img/042_VAMPESSA_shiny3.png" alt="042 VAMPESSA shiny"></td><td align="center" valign="bottom"><img src="img/042_VAMPESSA_anim.gif" alt="042 VAMPESSA animation"></td><td align="center" valign="bottom"><img src="img/042_VAMPESSA_anim_shiny.gif" alt="042 VAMPESSA shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>455</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>90</td></tr><tr><td>Base exp</td><td>171</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/31_BAT_icon.png" alt="042 VAMPESSA party icon"><br><sub>party icon</sub><br><img src="img/042_VAMPESSA_palette.png" alt="042 VAMPESSA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/042_VAMPESSA.gif"> <img src="../../pokemon/animated/shiny/042_VAMPESSA.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/042_VAMPESSA_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/31_BAT_icon.png"> <sub>party icon</sub>
-
-<img src="img/042_VAMPESSA_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MEDICAL / MECHANIC |
-| HP | 75 `█████████` |
-| Attack | 80 `██████████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 75 `█████████` |
-| Speed | 90 `███████████` |
-| Total | 455 |
-| Catch rate | 90 |
-| Base exp | 171 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/042_VAMPESSA_frames.png" alt="042 VAMPESSA animation frames">

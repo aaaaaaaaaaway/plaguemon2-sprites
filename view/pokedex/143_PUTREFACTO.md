@@ -1,34 +1,11 @@
 # 143 PUTREFACTO
 
-[← 142 PTEROXIS](142_PTEROXIS.md) · [Pokédex](../pokedex.md) · [144 ARTICLONE →](144_ARTICLONE.md)
+**MUTANT** · [← 142 PTEROXIS](142_PTEROXIS.md) · [Pokédex](../pokedex.md) · [144 ARTICLONE →](144_ARTICLONE.md)
 
-<img src="img/143_PUTREFACTO_front.png"> <img src="img/143_PUTREFACTO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/143_PUTREFACTO_front3.png" alt="143 PUTREFACTO front"></td><td align="center" valign="bottom"><img src="img/143_PUTREFACTO_shiny3.png" alt="143 PUTREFACTO shiny"></td><td align="center" valign="bottom"><img src="img/143_PUTREFACTO_anim.gif" alt="143 PUTREFACTO animation"></td><td align="center" valign="bottom"><img src="img/143_PUTREFACTO_anim_shiny.gif" alt="143 PUTREFACTO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">160</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">110</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">110</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">30</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>540</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>25</td></tr><tr><td>Base exp</td><td>154</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/32_SNORLAX_icon.png" alt="143 PUTREFACTO party icon"><br><sub>party icon</sub><br><img src="img/143_PUTREFACTO_palette.png" alt="143 PUTREFACTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/143_PUTREFACTO.gif"> <img src="../../pokemon/animated/shiny/143_PUTREFACTO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/143_PUTREFACTO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/32_SNORLAX_icon.png"> <sub>party icon</sub>
-
-<img src="img/143_PUTREFACTO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 160 `████████████████████` |
-| Attack | 110 `██████████████` |
-| Defense | 65 `████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 110 `██████████████` |
-| Speed | 30 `████` |
-| Total | 540 |
-| Catch rate | 25 |
-| Base exp | 154 |
-| Gender | 12.5% female |
-| Growth | Slow |
+<img src="img/143_PUTREFACTO_frames.png" alt="143 PUTREFACTO animation frames">

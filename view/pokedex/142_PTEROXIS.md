@@ -1,34 +1,11 @@
 # 142 PTEROXIS
 
-[← 141 ZILOSNAK](141_ZILOSNAK.md) · [Pokédex](../pokedex.md) · [143 PUTREFACTO →](143_PUTREFACTO.md)
+**MINERAL / MECHANIC** · [← 141 ZILOSNAK](141_ZILOSNAK.md) · [Pokédex](../pokedex.md) · [143 PUTREFACTO →](143_PUTREFACTO.md)
 
-<img src="img/142_PTEROXIS_front.png"> <img src="img/142_PTEROXIS_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/142_PTEROXIS_front3.png" alt="142 PTEROXIS front"></td><td align="center" valign="bottom"><img src="img/142_PTEROXIS_shiny3.png" alt="142 PTEROXIS shiny"></td><td align="center" valign="bottom"><img src="img/142_PTEROXIS_anim.gif" alt="142 PTEROXIS animation"></td><td align="center" valign="bottom"><img src="img/142_PTEROXIS_anim_shiny.gif" alt="142 PTEROXIS shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">130</td><td>▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>515</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>202</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="142 PTEROXIS party icon"><br><sub>party icon</sub><br><img src="img/142_PTEROXIS_palette.png" alt="142 PTEROXIS palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/142_PTEROXIS.gif"> <img src="../../pokemon/animated/shiny/142_PTEROXIS.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/142_PTEROXIS_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
-
-<img src="img/142_PTEROXIS_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MINERAL / MECHANIC |
-| HP | 80 `██████████` |
-| Attack | 105 `█████████████` |
-| Defense | 65 `████████` |
-| Sp. Atk | 60 `████████` |
-| Sp. Def | 75 `█████████` |
-| Speed | 130 `████████████████` |
-| Total | 515 |
-| Catch rate | 45 |
-| Base exp | 202 |
-| Gender | 12.5% female |
-| Growth | Slow |
+<img src="img/142_PTEROXIS_frames.png" alt="142 PTEROXIS animation frames">

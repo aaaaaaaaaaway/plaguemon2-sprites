@@ -1,34 +1,11 @@
 # 191 GRUMO
 
-[← 190 MOLESTO](190_MOLESTO.md) · [Pokédex](../pokedex.md) · [192 OVARIAN →](192_OVARIAN.md)
+**DRUGS** · [← 190 MOLESTO](190_MOLESTO.md) · [Pokédex](../pokedex.md) · [192 OVARIAN →](192_OVARIAN.md)
 
-<img src="img/191_GRUMO_front.png"> <img src="img/191_GRUMO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/191_GRUMO_front3.png" alt="191 GRUMO front"></td><td align="center" valign="bottom"><img src="img/191_GRUMO_shiny3.png" alt="191 GRUMO shiny"></td><td align="center" valign="bottom"><img src="img/191_GRUMO_anim.gif" alt="191 GRUMO animation"></td><td align="center" valign="bottom"><img src="img/191_GRUMO_anim_shiny.gif" alt="191 GRUMO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">30</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>180</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>235</td></tr><tr><td>Base exp</td><td>52</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="191 GRUMO party icon"><br><sub>party icon</sub><br><img src="img/191_GRUMO_palette.png" alt="191 GRUMO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/191_GRUMO.gif"> <img src="../../pokemon/animated/shiny/191_GRUMO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/191_GRUMO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/10_ODDISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/191_GRUMO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DRUGS |
-| HP | 30 `████` |
-| Attack | 30 `████` |
-| Defense | 30 `████` |
-| Sp. Atk | 30 `████` |
-| Sp. Def | 30 `████` |
-| Speed | 30 `████` |
-| Total | 180 |
-| Catch rate | 235 |
-| Base exp | 52 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/191_GRUMO_frames.png" alt="191 GRUMO animation frames">

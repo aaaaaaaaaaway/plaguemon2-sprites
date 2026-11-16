@@ -1,34 +1,11 @@
 # 180 ALGOCRAT
 
-[← 179 BINARIA](179_BINARIA.md) · [Pokédex](../pokedex.md) · [181 DICTAITOR →](181_DICTAITOR.md)
+**NUCLEAR** · [← 179 BINARIA](179_BINARIA.md) · [Pokédex](../pokedex.md) · [181 DICTAITOR →](181_DICTAITOR.md)
 
-<img src="img/180_ALGOCRAT_front.png"> <img src="img/180_ALGOCRAT_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_front3.png" alt="180 ALGOCRAT front"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_shiny3.png" alt="180 ALGOCRAT shiny"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim.gif" alt="180 ALGOCRAT animation"></td><td align="center" valign="bottom"><img src="img/180_ALGOCRAT_anim_shiny.gif" alt="180 ALGOCRAT shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>365</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>117</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="180 ALGOCRAT party icon"><br><sub>party icon</sub><br><img src="img/180_ALGOCRAT_palette.png" alt="180 ALGOCRAT palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/180_ALGOCRAT.gif"> <img src="../../pokemon/animated/shiny/180_ALGOCRAT.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/180_ALGOCRAT_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/180_ALGOCRAT_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR |
-| HP | 70 `█████████` |
-| Attack | 55 `███████` |
-| Defense | 55 `███████` |
-| Sp. Atk | 80 `██████████` |
-| Sp. Def | 60 `████████` |
-| Speed | 45 `██████` |
-| Total | 365 |
-| Catch rate | 120 |
-| Base exp | 117 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/180_ALGOCRAT_frames.png" alt="180 ALGOCRAT animation frames">

@@ -1,34 +1,13 @@
 # 171 SOVIETO
 
-[← 170 RELICTOU](170_RELICTOU.md) · [Pokédex](../pokedex.md) · [172 BALBAC →](172_BALBAC.md)
+**SEX / NUCLEAR** · [← 170 RELICTOU](170_RELICTOU.md) · [Pokédex](../pokedex.md) · [172 BALBAC →](172_BALBAC.md)
 
-<img src="img/171_SOVIETO_front.png"> <img src="img/171_SOVIETO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/171_SOVIETO_front3.png" alt="171 SOVIETO front"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_shiny3.png" alt="171 SOVIETO shiny"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim.gif" alt="171 SOVIETO animation"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim_shiny.gif" alt="171 SOVIETO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/171_SOVIETO.gif"> <img src="../../pokemon/animated/shiny/171_SOVIETO.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">125</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">76</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">76</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">67</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>460</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>156</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/06_FISH_icon.png" alt="171 SOVIETO party icon"><br><sub>party icon</sub><br><img src="img/171_SOVIETO_palette.png" alt="171 SOVIETO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/171_SOVIETO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/171_SOVIETO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / NUCLEAR |
-| HP | 125 `████████████████` |
-| Attack | 58 `███████` |
-| Defense | 58 `███████` |
-| Sp. Atk | 76 `██████████` |
-| Sp. Def | 76 `██████████` |
-| Speed | 67 `████████` |
-| Total | 460 |
-| Catch rate | 75 |
-| Base exp | 156 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/171_SOVIETO_frames.png" alt="171 SOVIETO animation frames">

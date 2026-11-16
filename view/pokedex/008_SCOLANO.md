@@ -1,34 +1,11 @@
 # 008 SCOLANO
 
-[← 007 SCOLINA](007_SCOLINA.md) · [Pokédex](../pokedex.md) · [009 SCOLENE →](009_SCOLENE.md)
+**SEX** · [← 007 SCOLINA](007_SCOLINA.md) · [Pokédex](../pokedex.md) · [009 SCOLENE →](009_SCOLENE.md)
 
-<img src="img/008_SCOLANO_front.png"> <img src="img/008_SCOLANO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/008_SCOLANO_front3.png" alt="008 SCOLANO front"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_shiny3.png" alt="008 SCOLANO shiny"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_anim.gif" alt="008 SCOLANO animation"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_anim_shiny.gif" alt="008 SCOLANO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">59</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">63</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">58</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>405</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>143</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/21_SQUIRTLE_icon.png" alt="008 SCOLANO party icon"><br><sub>party icon</sub><br><img src="img/008_SCOLANO_palette.png" alt="008 SCOLANO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/008_SCOLANO.gif"> <img src="../../pokemon/animated/shiny/008_SCOLANO.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/008_SCOLANO_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/21_SQUIRTLE_icon.png"> <sub>party icon</sub>
-
-<img src="img/008_SCOLANO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 59 `███████` |
-| Attack | 63 `████████` |
-| Defense | 80 `██████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 80 `██████████` |
-| Speed | 58 `███████` |
-| Total | 405 |
-| Catch rate | 45 |
-| Base exp | 143 |
-| Gender | 12.5% female |
-| Growth | Medium Slow |
+<img src="img/008_SCOLANO_frames.png" alt="008 SCOLANO animation frames">

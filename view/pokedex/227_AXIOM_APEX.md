@@ -1,34 +1,11 @@
 # 227 AXIOM:APEX
 
-[← 226 DADAORCA](226_DADAORCA.md) · [Pokédex](../pokedex.md) · [228 HOUNDOUR →](228_HOUNDOUR.md)
+**CYBER / MECHANIC** · [← 226 DADAORCA](226_DADAORCA.md) · [Pokédex](../pokedex.md) · [228 HOUNDOUR →](228_HOUNDOUR.md)
 
-<img src="img/227_AXIOM_APEX_front.png"> <img src="img/227_AXIOM_APEX_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/227_AXIOM_APEX_front3.png" alt="227 AXIOM:APEX front"></td><td align="center" valign="bottom"><img src="img/227_AXIOM_APEX_shiny3.png" alt="227 AXIOM:APEX shiny"></td><td align="center" valign="bottom"><img src="img/227_AXIOM_APEX_anim.gif" alt="227 AXIOM:APEX animation"></td><td align="center" valign="bottom"><img src="img/227_AXIOM_APEX_anim_shiny.gif" alt="227 AXIOM:APEX shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">140</td><td>▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>465</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>25</td></tr><tr><td>Base exp</td><td>168</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="227 AXIOM:APEX party icon"><br><sub>party icon</sub><br><img src="img/227_AXIOM_APEX_palette.png" alt="227 AXIOM:APEX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/227_AXIOM_APEX.gif"> <img src="../../pokemon/animated/shiny/227_AXIOM_APEX.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/227_AXIOM_APEX_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
-
-<img src="img/227_AXIOM_APEX_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | CYBER / MECHANIC |
-| HP | 65 `████████` |
-| Attack | 80 `██████████` |
-| Defense | 140 `██████████████████` |
-| Sp. Atk | 40 `█████` |
-| Sp. Def | 70 `█████████` |
-| Speed | 70 `█████████` |
-| Total | 465 |
-| Catch rate | 25 |
-| Base exp | 168 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/227_AXIOM_APEX_frames.png" alt="227 AXIOM:APEX animation frames">

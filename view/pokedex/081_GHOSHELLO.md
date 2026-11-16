@@ -1,34 +1,11 @@
 # 081 GHOSHELLO
 
-[← 080 KORNUPIAK](080_KORNUPIAK.md) · [Pokédex](../pokedex.md) · [082 SORAYAMBOT →](082_SORAYAMBOT.md)
+**NUCLEAR / CYBER** · [← 080 KORNUPIAK](080_KORNUPIAK.md) · [Pokédex](../pokedex.md) · [082 SORAYAMBOT →](082_SORAYAMBOT.md)
 
-<img src="img/081_GHOSHELLO_front.png"> <img src="img/081_GHOSHELLO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/081_GHOSHELLO_front3.png" alt="081 GHOSHELLO front"></td><td align="center" valign="bottom"><img src="img/081_GHOSHELLO_shiny3.png" alt="081 GHOSHELLO shiny"></td><td align="center" valign="bottom"><img src="img/081_GHOSHELLO_anim.gif" alt="081 GHOSHELLO animation"></td><td align="center" valign="bottom"><img src="img/081_GHOSHELLO_anim_shiny.gif" alt="081 GHOSHELLO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">25</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>325</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>89</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/20_VOLTORB_icon.png" alt="081 GHOSHELLO party icon"><br><sub>party icon</sub><br><img src="img/081_GHOSHELLO_palette.png" alt="081 GHOSHELLO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/081_GHOSHELLO.gif"> <img src="../../pokemon/animated/shiny/081_GHOSHELLO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/081_GHOSHELLO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/20_VOLTORB_icon.png"> <sub>party icon</sub>
-
-<img src="img/081_GHOSHELLO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR / CYBER |
-| HP | 25 `███` |
-| Attack | 35 `████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 95 `████████████` |
-| Sp. Def | 55 `███████` |
-| Speed | 45 `██████` |
-| Total | 325 |
-| Catch rate | 190 |
-| Base exp | 89 |
-| Gender | genderless |
-| Growth | Medium Fast |
+<img src="img/081_GHOSHELLO_frames.png" alt="081 GHOSHELLO animation frames">

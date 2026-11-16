@@ -1,34 +1,13 @@
 # 043 ODDGLITCH
 
-[← 042 VAMPESSA](042_VAMPESSA.md) · [Pokédex](../pokedex.md) · [044 INFECTO →](044_INFECTO.md)
+**DRUGS / MEDICAL** · [← 042 VAMPESSA](042_VAMPESSA.md) · [Pokédex](../pokedex.md) · [044 INFECTO →](044_INFECTO.md)
 
-<img src="img/043_ODDGLITCH_front.png"> <img src="img/043_ODDGLITCH_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/043_ODDGLITCH_front3.png" alt="043 ODDGLITCH front"></td><td align="center" valign="bottom"><img src="img/043_ODDGLITCH_shiny3.png" alt="043 ODDGLITCH shiny"></td><td align="center" valign="bottom"><img src="img/043_ODDGLITCH_anim.gif" alt="043 ODDGLITCH animation"></td><td align="center" valign="bottom"><img src="img/043_ODDGLITCH_anim_shiny.gif" alt="043 ODDGLITCH shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/043_ODDGLITCH.gif"> <img src="../../pokemon/animated/shiny/043_ODDGLITCH.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">30</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>320</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>78</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="043 ODDGLITCH party icon"><br><sub>party icon</sub><br><img src="img/043_ODDGLITCH_palette.png" alt="043 ODDGLITCH palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/043_ODDGLITCH_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/10_ODDISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/043_ODDGLITCH_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DRUGS / MEDICAL |
-| HP | 45 `██████` |
-| Attack | 50 `██████` |
-| Defense | 55 `███████` |
-| Sp. Atk | 75 `█████████` |
-| Sp. Def | 65 `████████` |
-| Speed | 30 `████` |
-| Total | 320 |
-| Catch rate | 255 |
-| Base exp | 78 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/043_ODDGLITCH_frames.png" alt="043 ODDGLITCH animation frames">

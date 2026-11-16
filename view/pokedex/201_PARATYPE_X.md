@@ -1,34 +1,13 @@
 # PARATYPE X
 
-[← PARATYPE W](201_PARATYPE_W.md) · [Pokédex](../pokedex.md) · [PARATYPE Y →](201_PARATYPE_Y.md)
+**NEURAL** · [← PARATYPE W](201_PARATYPE_W.md) · [Pokédex](../pokedex.md) · [PARATYPE Y →](201_PARATYPE_Y.md)
 
-<img src="img/201_PARATYPE_X_front.png"> <img src="img/201_PARATYPE_X_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/201_PARATYPE_X_front3.png" alt="PARATYPE X front"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_X_shiny3.png" alt="PARATYPE X shiny"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_X_anim.gif" alt="PARATYPE X animation"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_X_anim_shiny.gif" alt="PARATYPE X shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">72</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">72</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>336</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>225</td></tr><tr><td>Base exp</td><td>61</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/201_PARATYPE_X_palette.png" alt="PARATYPE X palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/201_PARATYPE_X.gif"> <img src="../../pokemon/animated/shiny/201_PARATYPE_X.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
+<img src="img/201_PARATYPE_X_frames.png" alt="PARATYPE X animation frames">
 
-<img src="img/201_PARATYPE_X_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/201_PARATYPE_X_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NEURAL |
-| HP | 48 `██████` |
-| Attack | 72 `█████████` |
-| Defense | 48 `██████` |
-| Sp. Atk | 72 `█████████` |
-| Sp. Def | 48 `██████` |
-| Speed | 48 `██████` |
-| Total | 336 |
-| Catch rate | 225 |
-| Base exp | 61 |
-| Gender | genderless |
-| Growth | Medium Fast |
-
-Letters X share this sprite; stats are the Paratype species (#201).
+<sub>Letters X share this sprite; stats are the Paratype species (#201).</sub>

@@ -1,34 +1,11 @@
 # 195 ASPHYXIAR
 
-[← 194 KOTZWAR](194_KOTZWAR.md) · [Pokédex](../pokedex.md) · [196 EMBRYEON →](196_EMBRYEON.md)
+**SEX / ORGANIC** · [← 194 KOTZWAR](194_KOTZWAR.md) · [Pokédex](../pokedex.md) · [196 EMBRYEON →](196_EMBRYEON.md)
 
-<img src="img/195_ASPHYXIAR_front.png"> <img src="img/195_ASPHYXIAR_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_front3.png" alt="195 ASPHYXIAR front"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_shiny3.png" alt="195 ASPHYXIAR shiny"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_anim.gif" alt="195 ASPHYXIAR animation"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_anim_shiny.gif" alt="195 ASPHYXIAR shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>430</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>90</td></tr><tr><td>Base exp</td><td>137</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="195 ASPHYXIAR party icon"><br><sub>party icon</sub><br><img src="img/195_ASPHYXIAR_palette.png" alt="195 ASPHYXIAR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/195_ASPHYXIAR.gif"> <img src="../../pokemon/animated/shiny/195_ASPHYXIAR.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/195_ASPHYXIAR_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/195_ASPHYXIAR_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / ORGANIC |
-| HP | 95 `████████████` |
-| Attack | 85 `███████████` |
-| Defense | 85 `███████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 65 `████████` |
-| Speed | 35 `████` |
-| Total | 430 |
-| Catch rate | 90 |
-| Base exp | 137 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/195_ASPHYXIAR_frames.png" alt="195 ASPHYXIAR animation frames">

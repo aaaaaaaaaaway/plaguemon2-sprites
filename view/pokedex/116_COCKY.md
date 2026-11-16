@@ -1,34 +1,13 @@
 # 116 COCKY
 
-[← 115 HELLTECH](115_HELLTECH.md) · [Pokédex](../pokedex.md) · [117 SCROTRA →](117_SCROTRA.md)
+**SEX** · [← 115 HELLTECH](115_HELLTECH.md) · [Pokédex](../pokedex.md) · [117 SCROTRA →](117_SCROTRA.md)
 
-<img src="img/116_COCKY_front.png"> <img src="img/116_COCKY_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/116_COCKY_front3.png" alt="116 COCKY front"></td><td align="center" valign="bottom"><img src="img/116_COCKY_shiny3.png" alt="116 COCKY shiny"></td><td align="center" valign="bottom"><img src="img/116_COCKY_anim.gif" alt="116 COCKY animation"></td><td align="center" valign="bottom"><img src="img/116_COCKY_anim_shiny.gif" alt="116 COCKY shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/116_COCKY.gif"> <img src="../../pokemon/animated/shiny/116_COCKY.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">25</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>295</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>225</td></tr><tr><td>Base exp</td><td>83</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/06_FISH_icon.png" alt="116 COCKY party icon"><br><sub>party icon</sub><br><img src="img/116_COCKY_palette.png" alt="116 COCKY palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 2)
 
-<img src="img/116_COCKY_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/116_COCKY_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 30 `████` |
-| Attack | 40 `█████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 70 `█████████` |
-| Sp. Def | 25 `███` |
-| Speed | 60 `████████` |
-| Total | 295 |
-| Catch rate | 225 |
-| Base exp | 83 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/116_COCKY_frames.png" alt="116 COCKY animation frames">

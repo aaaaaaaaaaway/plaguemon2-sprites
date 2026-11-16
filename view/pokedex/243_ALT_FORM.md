@@ -1,34 +1,15 @@
 # ALT FORM (#243/#244)
 
-[← PARATYPE Z](201_PARATYPE_Z.md) · [Pokédex](../pokedex.md) · [001 WEEDAZOR →](001_WEEDAZOR.md)
+**NUCLEAR** · [← PARATYPE Z](201_PARATYPE_Z.md) · [Pokédex](../pokedex.md) · [001 WEEDAZOR →](001_WEEDAZOR.md)
 
-<img src="img/243_ALT_FORM_front.png"> <img src="img/243_ALT_FORM_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/243_ALT_FORM_front3.png" alt="ALT FORM (#243/#244) front"></td><td align="center" valign="bottom"><img src="img/243_ALT_FORM_shiny3.png" alt="ALT FORM (#243/#244) shiny"></td><td align="center" valign="bottom"><img src="img/243_ALT_FORM_anim.gif" alt="ALT FORM (#243/#244) animation"></td><td align="center" valign="bottom"><img src="img/243_ALT_FORM_anim_shiny.gif" alt="ALT FORM (#243/#244) shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/243_ALT_FORM.gif"> <img src="../../pokemon/animated/shiny/243_ALT_FORM.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>580</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>3</td></tr><tr><td>Base exp</td><td>216</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/243_ALT_FORM_palette.png" alt="ALT FORM (#243/#244) palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 2)
 
-<img src="img/243_ALT_FORM_frames.png">
+<img src="img/243_ALT_FORM_frames.png" alt="ALT FORM (#243/#244) animation frames">
 
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/243_ALT_FORM_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR |
-| HP | 90 `███████████` |
-| Attack | 85 `███████████` |
-| Defense | 75 `█████████` |
-| Sp. Atk | 115 `██████████████` |
-| Sp. Def | 100 `████████████` |
-| Speed | 115 `██████████████` |
-| Total | 580 |
-| Catch rate | 3 |
-| Base exp | 216 |
-| Gender | genderless |
-| Growth | Slow |
-
-Alternate form used by #243 / #244; stats shown are #243.
+<sub>Alternate form used by #243 / #244; stats shown are #243.</sub>

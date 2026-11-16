@@ -1,34 +1,13 @@
 # 127 SHAMABOO
 
-[← 126 BURNAR](126_BURNAR.md) · [Pokédex](../pokedex.md) · [128 DIGESTOR →](128_DIGESTOR.md)
+**MILITARY** · [← 126 BURNAR](126_BURNAR.md) · [Pokédex](../pokedex.md) · [128 DIGESTOR →](128_DIGESTOR.md)
 
-<img src="img/127_SHAMABOO_front.png"> <img src="img/127_SHAMABOO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/127_SHAMABOO_front3.png" alt="127 SHAMABOO front"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_shiny3.png" alt="127 SHAMABOO shiny"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim.gif" alt="127 SHAMABOO animation"></td><td align="center" valign="bottom"><img src="img/127_SHAMABOO_anim_shiny.gif" alt="127 SHAMABOO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/127_SHAMABOO.gif"> <img src="../../pokemon/animated/shiny/127_SHAMABOO.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">125</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>500</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>200</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/11_BUG_icon.png" alt="127 SHAMABOO party icon"><br><sub>party icon</sub><br><img src="img/127_SHAMABOO_palette.png" alt="127 SHAMABOO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/127_SHAMABOO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/127_SHAMABOO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY |
-| HP | 65 `████████` |
-| Attack | 125 `████████████████` |
-| Defense | 100 `████████████` |
-| Sp. Atk | 55 `███████` |
-| Sp. Def | 70 `█████████` |
-| Speed | 85 `███████████` |
-| Total | 500 |
-| Catch rate | 45 |
-| Base exp | 200 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/127_SHAMABOO_frames.png" alt="127 SHAMABOO animation frames">

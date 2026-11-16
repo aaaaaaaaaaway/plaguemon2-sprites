@@ -1,34 +1,13 @@
 # 059 BJORN
 
-[← 058 SCRATCHY](058_SCRATCHY.md) · [Pokédex](../pokedex.md) · [060 SPERMOTZ →](060_SPERMOTZ.md)
+**SATANIC** · [← 058 SCRATCHY](058_SCRATCHY.md) · [Pokédex](../pokedex.md) · [060 SPERMOTZ →](060_SPERMOTZ.md)
 
-<img src="img/059_BJORN_front.png"> <img src="img/059_BJORN_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/059_BJORN_front3.png" alt="059 BJORN front"></td><td align="center" valign="bottom"><img src="img/059_BJORN_shiny3.png" alt="059 BJORN shiny"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim.gif" alt="059 BJORN animation"></td><td align="center" valign="bottom"><img src="img/059_BJORN_anim_shiny.gif" alt="059 BJORN shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/059_BJORN.gif"> <img src="../../pokemon/animated/shiny/059_BJORN.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">110</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>555</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>213</td></tr><tr><td>Gender</td><td>25% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="059 BJORN party icon"><br><sub>party icon</sub><br><img src="img/059_BJORN_palette.png" alt="059 BJORN palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/059_BJORN_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/059_BJORN_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SATANIC |
-| HP | 90 `███████████` |
-| Attack | 110 `██████████████` |
-| Defense | 80 `██████████` |
-| Sp. Atk | 100 `████████████` |
-| Sp. Def | 80 `██████████` |
-| Speed | 95 `████████████` |
-| Total | 555 |
-| Catch rate | 75 |
-| Base exp | 213 |
-| Gender | 25% female |
-| Growth | Slow |
+<img src="img/059_BJORN_frames.png" alt="059 BJORN animation frames">

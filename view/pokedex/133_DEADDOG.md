@@ -1,34 +1,11 @@
 # 133 DEADDOG
 
-[← 132 SHITTO](132_SHITTO.md) · [Pokédex](../pokedex.md) · [134 VENEREON →](134_VENEREON.md)
+**MUTANT** · [← 132 SHITTO](132_SHITTO.md) · [Pokédex](../pokedex.md) · [134 VENEREON →](134_VENEREON.md)
 
-<img src="img/133_DEADDOG_front.png"> <img src="img/133_DEADDOG_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/133_DEADDOG_front3.png" alt="133 DEADDOG front"></td><td align="center" valign="bottom"><img src="img/133_DEADDOG_shiny3.png" alt="133 DEADDOG shiny"></td><td align="center" valign="bottom"><img src="img/133_DEADDOG_anim.gif" alt="133 DEADDOG animation"></td><td align="center" valign="bottom"><img src="img/133_DEADDOG_anim_shiny.gif" alt="133 DEADDOG shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>325</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>92</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/15_FOX_icon.png" alt="133 DEADDOG party icon"><br><sub>party icon</sub><br><img src="img/133_DEADDOG_palette.png" alt="133 DEADDOG palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/133_DEADDOG.gif"> <img src="../../pokemon/animated/shiny/133_DEADDOG.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/133_DEADDOG_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/133_DEADDOG_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 55 `███████` |
-| Attack | 55 `███████` |
-| Defense | 50 `██████` |
-| Sp. Atk | 45 `██████` |
-| Sp. Def | 65 `████████` |
-| Speed | 55 `███████` |
-| Total | 325 |
-| Catch rate | 45 |
-| Base exp | 92 |
-| Gender | 12.5% female |
-| Growth | Medium Fast |
+<img src="img/133_DEADDOG_frames.png" alt="133 DEADDOG animation frames">

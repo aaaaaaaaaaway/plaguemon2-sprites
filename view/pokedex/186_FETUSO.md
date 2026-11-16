@@ -1,34 +1,11 @@
 # 186 FETUSO
 
-[← 185 AOKIGAKA](185_AOKIGAKA.md) · [Pokédex](../pokedex.md) · [187 ABORTITO →](187_ABORTITO.md)
+**SEX** · [← 185 AOKIGAKA](185_AOKIGAKA.md) · [Pokédex](../pokedex.md) · [187 ABORTITO →](187_ABORTITO.md)
 
-<img src="img/186_FETUSO_front.png"> <img src="img/186_FETUSO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/186_FETUSO_front3.png" alt="186 FETUSO front"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_shiny3.png" alt="186 FETUSO shiny"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_anim.gif" alt="186 FETUSO animation"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_anim_shiny.gif" alt="186 FETUSO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>500</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>185</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/01_POLIWAG_icon.png" alt="186 FETUSO party icon"><br><sub>party icon</sub><br><img src="img/186_FETUSO_palette.png" alt="186 FETUSO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/186_FETUSO.gif"> <img src="../../pokemon/animated/shiny/186_FETUSO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/186_FETUSO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
-
-<img src="img/186_FETUSO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 90 `███████████` |
-| Attack | 75 `█████████` |
-| Defense | 75 `█████████` |
-| Sp. Atk | 90 `███████████` |
-| Sp. Def | 100 `████████████` |
-| Speed | 70 `█████████` |
-| Total | 500 |
-| Catch rate | 45 |
-| Base exp | 185 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/186_FETUSO_frames.png" alt="186 FETUSO animation frames">

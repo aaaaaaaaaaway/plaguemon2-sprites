@@ -1,34 +1,11 @@
 # 207 TWOMEWTWO
 
-[← 206 DUOFUNTO](206_DUOFUNTO.md) · [Pokédex](../pokedex.md) · [208 HYDRAGYRUM →](208_HYDRAGYRUM.md)
+**NEURAL / MUTANT** · [← 206 DUOFUNTO](206_DUOFUNTO.md) · [Pokédex](../pokedex.md) · [208 HYDRAGYRUM →](208_HYDRAGYRUM.md)
 
-<img src="img/207_TWOMEWTWO_front.png"> <img src="img/207_TWOMEWTWO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_front3.png" alt="207 TWOMEWTWO front"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_shiny3.png" alt="207 TWOMEWTWO shiny"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_anim.gif" alt="207 TWOMEWTWO animation"></td><td align="center" valign="bottom"><img src="img/207_TWOMEWTWO_anim_shiny.gif" alt="207 TWOMEWTWO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>430</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>60</td></tr><tr><td>Base exp</td><td>108</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/11_BUG_icon.png" alt="207 TWOMEWTWO party icon"><br><sub>party icon</sub><br><img src="img/207_TWOMEWTWO_palette.png" alt="207 TWOMEWTWO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/207_TWOMEWTWO.gif"> <img src="../../pokemon/animated/shiny/207_TWOMEWTWO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/207_TWOMEWTWO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/207_TWOMEWTWO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NEURAL / MUTANT |
-| HP | 65 `████████` |
-| Attack | 75 `█████████` |
-| Defense | 105 `█████████████` |
-| Sp. Atk | 35 `████` |
-| Sp. Def | 65 `████████` |
-| Speed | 85 `███████████` |
-| Total | 430 |
-| Catch rate | 60 |
-| Base exp | 108 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/207_TWOMEWTWO_frames.png" alt="207 TWOMEWTWO animation frames">

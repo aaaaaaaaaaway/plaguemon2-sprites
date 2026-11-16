@@ -1,34 +1,11 @@
 # 060 SPERMOTZ
 
-[← 059 BJORN](059_BJORN.md) · [Pokédex](../pokedex.md) · [061 PROLIFIK →](061_PROLIFIK.md)
+**SEX** · [← 059 BJORN](059_BJORN.md) · [Pokédex](../pokedex.md) · [061 PROLIFIK →](061_PROLIFIK.md)
 
-<img src="img/060_SPERMOTZ_front.png"> <img src="img/060_SPERMOTZ_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_front3.png" alt="060 SPERMOTZ front"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_shiny3.png" alt="060 SPERMOTZ shiny"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_anim.gif" alt="060 SPERMOTZ animation"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_anim_shiny.gif" alt="060 SPERMOTZ shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>300</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>77</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/01_POLIWAG_icon.png" alt="060 SPERMOTZ party icon"><br><sub>party icon</sub><br><img src="img/060_SPERMOTZ_palette.png" alt="060 SPERMOTZ palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/060_SPERMOTZ.gif"> <img src="../../pokemon/animated/shiny/060_SPERMOTZ.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/060_SPERMOTZ_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
-
-<img src="img/060_SPERMOTZ_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 40 `█████` |
-| Attack | 50 `██████` |
-| Defense | 40 `█████` |
-| Sp. Atk | 40 `█████` |
-| Sp. Def | 40 `█████` |
-| Speed | 90 `███████████` |
-| Total | 300 |
-| Catch rate | 255 |
-| Base exp | 77 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/060_SPERMOTZ_frames.png" alt="060 SPERMOTZ animation frames">

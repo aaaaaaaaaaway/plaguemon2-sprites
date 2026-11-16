@@ -1,34 +1,13 @@
 # 062 SMEGMATIC
 
-[← 061 PROLIFIK](061_PROLIFIK.md) · [Pokédex](../pokedex.md) · [063 GENESUS →](063_GENESUS.md)
+**SEX / VIOLENCE** · [← 061 PROLIFIK](061_PROLIFIK.md) · [Pokédex](../pokedex.md) · [063 GENESUS →](063_GENESUS.md)
 
-<img src="img/062_SMEGMATIC_front.png"> <img src="img/062_SMEGMATIC_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_front3.png" alt="062 SMEGMATIC front"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_shiny3.png" alt="062 SMEGMATIC shiny"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim.gif" alt="062 SMEGMATIC animation"></td><td align="center" valign="bottom"><img src="img/062_SMEGMATIC_anim_shiny.gif" alt="062 SMEGMATIC shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/062_SMEGMATIC.gif"> <img src="../../pokemon/animated/shiny/062_SMEGMATIC.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>500</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>185</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/01_POLIWAG_icon.png" alt="062 SMEGMATIC party icon"><br><sub>party icon</sub><br><img src="img/062_SMEGMATIC_palette.png" alt="062 SMEGMATIC palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 1)
 
-<img src="img/062_SMEGMATIC_frames.png">
-
-<sub>animation frames (base + 1)</sub>
-
-<img src="img/01_POLIWAG_icon.png"> <sub>party icon</sub>
-
-<img src="img/062_SMEGMATIC_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / VIOLENCE |
-| HP | 90 `███████████` |
-| Attack | 85 `███████████` |
-| Defense | 95 `████████████` |
-| Sp. Atk | 70 `█████████` |
-| Sp. Def | 90 `███████████` |
-| Speed | 70 `█████████` |
-| Total | 500 |
-| Catch rate | 45 |
-| Base exp | 185 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/062_SMEGMATIC_frames.png" alt="062 SMEGMATIC animation frames">

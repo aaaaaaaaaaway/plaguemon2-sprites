@@ -1,34 +1,11 @@
 # 165 SBIRETTO
 
-[← 164 ROBBINOWL](164_ROBBINOWL.md) · [Pokédex](../pokedex.md) · [166 FACISTA →](166_FACISTA.md)
+**MILITARY / MECHANIC** · [← 164 ROBBINOWL](164_ROBBINOWL.md) · [Pokédex](../pokedex.md) · [166 FACISTA →](166_FACISTA.md)
 
-<img src="img/165_SBIRETTO_front.png"> <img src="img/165_SBIRETTO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/165_SBIRETTO_front3.png" alt="165 SBIRETTO front"></td><td align="center" valign="bottom"><img src="img/165_SBIRETTO_shiny3.png" alt="165 SBIRETTO shiny"></td><td align="center" valign="bottom"><img src="img/165_SBIRETTO_anim.gif" alt="165 SBIRETTO animation"></td><td align="center" valign="bottom"><img src="img/165_SBIRETTO_anim_shiny.gif" alt="165 SBIRETTO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Defense</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>265</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>54</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/11_BUG_icon.png" alt="165 SBIRETTO party icon"><br><sub>party icon</sub><br><img src="img/165_SBIRETTO_palette.png" alt="165 SBIRETTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/165_SBIRETTO.gif"> <img src="../../pokemon/animated/shiny/165_SBIRETTO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/165_SBIRETTO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/11_BUG_icon.png"> <sub>party icon</sub>
-
-<img src="img/165_SBIRETTO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MILITARY / MECHANIC |
-| HP | 40 `█████` |
-| Attack | 20 `██` |
-| Defense | 30 `████` |
-| Sp. Atk | 40 `█████` |
-| Sp. Def | 80 `██████████` |
-| Speed | 55 `███████` |
-| Total | 265 |
-| Catch rate | 255 |
-| Base exp | 54 |
-| Gender | 50% female |
-| Growth | Fast |
+<img src="img/165_SBIRETTO_frames.png" alt="165 SBIRETTO animation frames">

@@ -1,34 +1,11 @@
 # 095 OBSIDIAN
 
-[← 094 TREROR](094_TREROR.md) · [Pokédex](../pokedex.md) · [096 DUPUPETT →](096_DUPUPETT.md)
+**MINERAL / ORGANIC** · [← 094 TREROR](094_TREROR.md) · [Pokédex](../pokedex.md) · [096 DUPUPETT →](096_DUPUPETT.md)
 
-<img src="img/095_OBSIDIAN_front.png"> <img src="img/095_OBSIDIAN_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/095_OBSIDIAN_front3.png" alt="095 OBSIDIAN front"></td><td align="center" valign="bottom"><img src="img/095_OBSIDIAN_shiny3.png" alt="095 OBSIDIAN shiny"></td><td align="center" valign="bottom"><img src="img/095_OBSIDIAN_anim.gif" alt="095 OBSIDIAN animation"></td><td align="center" valign="bottom"><img src="img/095_OBSIDIAN_anim_shiny.gif" alt="095 OBSIDIAN shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">160</td><td>▇▇▇▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>385</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>108</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/19_SERPENT_icon.png" alt="095 OBSIDIAN party icon"><br><sub>party icon</sub><br><img src="img/095_OBSIDIAN_palette.png" alt="095 OBSIDIAN palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/095_OBSIDIAN.gif"> <img src="../../pokemon/animated/shiny/095_OBSIDIAN.gif">
+**Animation frames** (base + 2)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/095_OBSIDIAN_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/19_SERPENT_icon.png"> <sub>party icon</sub>
-
-<img src="img/095_OBSIDIAN_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MINERAL / ORGANIC |
-| HP | 35 `████` |
-| Attack | 45 `██████` |
-| Defense | 160 `████████████████████` |
-| Sp. Atk | 30 `████` |
-| Sp. Def | 45 `██████` |
-| Speed | 70 `█████████` |
-| Total | 385 |
-| Catch rate | 45 |
-| Base exp | 108 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/095_OBSIDIAN_frames.png" alt="095 OBSIDIAN animation frames">

@@ -1,34 +1,11 @@
 # 041 GOTCHICK
 
-[← 040 KAWAIKAGO](040_KAWAIKAGO.md) · [Pokédex](../pokedex.md) · [042 VAMPESSA →](042_VAMPESSA.md)
+**MEDICAL / MECHANIC** · [← 040 KAWAIKAGO](040_KAWAIKAGO.md) · [Pokédex](../pokedex.md) · [042 VAMPESSA →](042_VAMPESSA.md)
 
-<img src="img/041_GOTCHICK_front.png"> <img src="img/041_GOTCHICK_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/041_GOTCHICK_front3.png" alt="041 GOTCHICK front"></td><td align="center" valign="bottom"><img src="img/041_GOTCHICK_shiny3.png" alt="041 GOTCHICK shiny"></td><td align="center" valign="bottom"><img src="img/041_GOTCHICK_anim.gif" alt="041 GOTCHICK animation"></td><td align="center" valign="bottom"><img src="img/041_GOTCHICK_anim_shiny.gif" alt="041 GOTCHICK shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Def</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>245</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>54</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/31_BAT_icon.png" alt="041 GOTCHICK party icon"><br><sub>party icon</sub><br><img src="img/041_GOTCHICK_palette.png" alt="041 GOTCHICK palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/041_GOTCHICK.gif"> <img src="../../pokemon/animated/shiny/041_GOTCHICK.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/041_GOTCHICK_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/31_BAT_icon.png"> <sub>party icon</sub>
-
-<img src="img/041_GOTCHICK_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MEDICAL / MECHANIC |
-| HP | 40 `█████` |
-| Attack | 45 `██████` |
-| Defense | 35 `████` |
-| Sp. Atk | 30 `████` |
-| Sp. Def | 40 `█████` |
-| Speed | 55 `███████` |
-| Total | 245 |
-| Catch rate | 255 |
-| Base exp | 54 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/041_GOTCHICK_frames.png" alt="041 GOTCHICK animation frames">

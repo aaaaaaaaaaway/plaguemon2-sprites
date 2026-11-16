@@ -1,34 +1,11 @@
 # 001 WEEDAZOR
 
-[← ALT FORM (#243/#244)](243_ALT_FORM.md) · [Pokédex](../pokedex.md) · [002 COCAZOR →](002_COCAZOR.md)
+**DRUGS / MEDICAL** · [← ALT FORM (#243/#244)](243_ALT_FORM.md) · [Pokédex](../pokedex.md) · [002 COCAZOR →](002_COCAZOR.md)
 
-<img src="img/001_WEEDAZOR_front.png"> <img src="img/001_WEEDAZOR_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_front3.png" alt="001 WEEDAZOR front"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_shiny3.png" alt="001 WEEDAZOR shiny"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_anim.gif" alt="001 WEEDAZOR animation"></td><td align="center" valign="bottom"><img src="img/001_WEEDAZOR_anim_shiny.gif" alt="001 WEEDAZOR shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">49</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">49</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>318</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>64</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/22_BULBASAUR_icon.png" alt="001 WEEDAZOR party icon"><br><sub>party icon</sub><br><img src="img/001_WEEDAZOR_palette.png" alt="001 WEEDAZOR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/001_WEEDAZOR.gif"> <img src="../../pokemon/animated/shiny/001_WEEDAZOR.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/001_WEEDAZOR_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/22_BULBASAUR_icon.png"> <sub>party icon</sub>
-
-<img src="img/001_WEEDAZOR_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DRUGS / MEDICAL |
-| HP | 45 `██████` |
-| Attack | 49 `██████` |
-| Defense | 49 `██████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 65 `████████` |
-| Speed | 45 `██████` |
-| Total | 318 |
-| Catch rate | 45 |
-| Base exp | 64 |
-| Gender | 12.5% female |
-| Growth | Medium Slow |
+<img src="img/001_WEEDAZOR_frames.png" alt="001 WEEDAZOR animation frames">

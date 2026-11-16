@@ -1,34 +1,11 @@
 # 188 INCUBATO
 
-[← 187 ABORTITO](187_ABORTITO.md) · [Pokédex](../pokedex.md) · [189 ITTIOSO →](189_ITTIOSO.md)
+**DRUGS / MECHANIC** · [← 187 ABORTITO](187_ABORTITO.md) · [Pokédex](../pokedex.md) · [189 ITTIOSO →](189_ITTIOSO.md)
 
-<img src="img/188_INCUBATO_front.png"> <img src="img/188_INCUBATO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/188_INCUBATO_front3.png" alt="188 INCUBATO front"></td><td align="center" valign="bottom"><img src="img/188_INCUBATO_shiny3.png" alt="188 INCUBATO shiny"></td><td align="center" valign="bottom"><img src="img/188_INCUBATO_anim.gif" alt="188 INCUBATO animation"></td><td align="center" valign="bottom"><img src="img/188_INCUBATO_anim_shiny.gif" alt="188 INCUBATO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>340</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>136</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/10_ODDISH_icon.png" alt="188 INCUBATO party icon"><br><sub>party icon</sub><br><img src="img/188_INCUBATO_palette.png" alt="188 INCUBATO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/188_INCUBATO.gif"> <img src="../../pokemon/animated/shiny/188_INCUBATO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/188_INCUBATO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/10_ODDISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/188_INCUBATO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DRUGS / MECHANIC |
-| HP | 55 `███████` |
-| Attack | 45 `██████` |
-| Defense | 50 `██████` |
-| Sp. Atk | 45 `██████` |
-| Sp. Def | 65 `████████` |
-| Speed | 80 `██████████` |
-| Total | 340 |
-| Catch rate | 120 |
-| Base exp | 136 |
-| Gender | 50% female |
-| Growth | Medium Slow |
+<img src="img/188_INCUBATO_frames.png" alt="188 INCUBATO animation frames">

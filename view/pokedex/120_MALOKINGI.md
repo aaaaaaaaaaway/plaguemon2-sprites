@@ -1,34 +1,11 @@
 # 120 MALOKINGI
 
-[← 119 HOGEROT](119_HOGEROT.md) · [Pokédex](../pokedex.md) · [121 IRUKUNJI →](121_IRUKUNJI.md)
+**SEX** · [← 119 HOGEROT](119_HOGEROT.md) · [Pokédex](../pokedex.md) · [121 IRUKUNJI →](121_IRUKUNJI.md)
 
-<img src="img/120_MALOKINGI_front.png"> <img src="img/120_MALOKINGI_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/120_MALOKINGI_front3.png" alt="120 MALOKINGI front"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_shiny3.png" alt="120 MALOKINGI shiny"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_anim.gif" alt="120 MALOKINGI animation"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_anim_shiny.gif" alt="120 MALOKINGI shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>340</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>225</td></tr><tr><td>Base exp</td><td>106</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/05_STARYU_icon.png" alt="120 MALOKINGI party icon"><br><sub>party icon</sub><br><img src="img/120_MALOKINGI_palette.png" alt="120 MALOKINGI palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/120_MALOKINGI.gif"> <img src="../../pokemon/animated/shiny/120_MALOKINGI.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/120_MALOKINGI_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/05_STARYU_icon.png"> <sub>party icon</sub>
-
-<img src="img/120_MALOKINGI_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 30 `████` |
-| Attack | 45 `██████` |
-| Defense | 55 `███████` |
-| Sp. Atk | 70 `█████████` |
-| Sp. Def | 55 `███████` |
-| Speed | 85 `███████████` |
-| Total | 340 |
-| Catch rate | 225 |
-| Base exp | 106 |
-| Gender | genderless |
-| Growth | Slow |
+<img src="img/120_MALOKINGI_frames.png" alt="120 MALOKINGI animation frames">

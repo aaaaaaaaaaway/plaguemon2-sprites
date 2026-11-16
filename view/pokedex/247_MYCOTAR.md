@@ -1,34 +1,11 @@
 # 247 MYCOTAR
 
-[← 246 SEBUTAR](246_SEBUTAR.md) · [Pokédex](../pokedex.md) · [248 MELANOTAR →](248_MELANOTAR.md)
+**MINERAL / ORGANIC** · [← 246 SEBUTAR](246_SEBUTAR.md) · [Pokédex](../pokedex.md) · [248 MELANOTAR →](248_MELANOTAR.md)
 
-<img src="img/247_MYCOTAR_front.png"> <img src="img/247_MYCOTAR_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/247_MYCOTAR_front3.png" alt="247 MYCOTAR front"></td><td align="center" valign="bottom"><img src="img/247_MYCOTAR_shiny3.png" alt="247 MYCOTAR shiny"></td><td align="center" valign="bottom"><img src="img/247_MYCOTAR_anim.gif" alt="247 MYCOTAR animation"></td><td align="center" valign="bottom"><img src="img/247_MYCOTAR_anim_shiny.gif" alt="247 MYCOTAR shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">84</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">51</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>410</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>144</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="247 MYCOTAR party icon"><br><sub>party icon</sub><br><img src="img/247_MYCOTAR_palette.png" alt="247 MYCOTAR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/247_MYCOTAR.gif"> <img src="../../pokemon/animated/shiny/247_MYCOTAR.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/247_MYCOTAR_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/247_MYCOTAR_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MINERAL / ORGANIC |
-| HP | 70 `█████████` |
-| Attack | 84 `██████████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 70 `█████████` |
-| Speed | 51 `██████` |
-| Total | 410 |
-| Catch rate | 45 |
-| Base exp | 144 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/247_MYCOTAR_frames.png" alt="247 MYCOTAR animation frames">

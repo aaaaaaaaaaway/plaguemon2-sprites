@@ -1,34 +1,11 @@
 # 160 CROCOSNUFF
 
-[← 159 GAGOGO](159_GAGOGO.md) · [Pokédex](../pokedex.md) · [161 BURQO →](161_BURQO.md)
+**SEX** · [← 159 GAGOGO](159_GAGOGO.md) · [Pokédex](../pokedex.md) · [161 BURQO →](161_BURQO.md)
 
-<img src="img/160_CROCOSNUFF_front.png"> <img src="img/160_CROCOSNUFF_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_front3.png" alt="160 CROCOSNUFF front"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_shiny3.png" alt="160 CROCOSNUFF shiny"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim.gif" alt="160 CROCOSNUFF animation"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim_shiny.gif" alt="160 CROCOSNUFF shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">79</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">83</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">78</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>530</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>210</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="160 CROCOSNUFF party icon"><br><sub>party icon</sub><br><img src="img/160_CROCOSNUFF_palette.png" alt="160 CROCOSNUFF palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/160_CROCOSNUFF.gif"> <img src="../../pokemon/animated/shiny/160_CROCOSNUFF.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/160_CROCOSNUFF_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/160_CROCOSNUFF_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 85 `███████████` |
-| Attack | 105 `█████████████` |
-| Defense | 100 `████████████` |
-| Sp. Atk | 79 `██████████` |
-| Sp. Def | 83 `██████████` |
-| Speed | 78 `██████████` |
-| Total | 530 |
-| Catch rate | 45 |
-| Base exp | 210 |
-| Gender | 12.5% female |
-| Growth | Medium Slow |
+<img src="img/160_CROCOSNUFF_frames.png" alt="160 CROCOSNUFF animation frames">

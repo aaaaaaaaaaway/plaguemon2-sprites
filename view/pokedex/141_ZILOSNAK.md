@@ -1,34 +1,11 @@
 # 141 ZILOSNAK
 
-[← 140 ZIRLORG](140_ZIRLORG.md) · [Pokédex](../pokedex.md) · [142 PTEROXIS →](142_PTEROXIS.md)
+**MINERAL / SEX** · [← 140 ZIRLORG](140_ZIRLORG.md) · [Pokédex](../pokedex.md) · [142 PTEROXIS →](142_PTEROXIS.md)
 
-<img src="img/141_ZILOSNAK_front.png"> <img src="img/141_ZILOSNAK_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_front3.png" alt="141 ZILOSNAK front"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_shiny3.png" alt="141 ZILOSNAK shiny"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_anim.gif" alt="141 ZILOSNAK animation"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_anim_shiny.gif" alt="141 ZILOSNAK shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>495</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>45</td></tr><tr><td>Base exp</td><td>201</td></tr><tr><td>Gender</td><td>12.5% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/17_SHELL_icon.png" alt="141 ZILOSNAK party icon"><br><sub>party icon</sub><br><img src="img/141_ZILOSNAK_palette.png" alt="141 ZILOSNAK palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/141_ZILOSNAK.gif"> <img src="../../pokemon/animated/shiny/141_ZILOSNAK.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/141_ZILOSNAK_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/17_SHELL_icon.png"> <sub>party icon</sub>
-
-<img src="img/141_ZILOSNAK_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MINERAL / SEX |
-| HP | 60 `████████` |
-| Attack | 115 `██████████████` |
-| Defense | 105 `█████████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 70 `█████████` |
-| Speed | 80 `██████████` |
-| Total | 495 |
-| Catch rate | 45 |
-| Base exp | 201 |
-| Gender | 12.5% female |
-| Growth | Medium Fast |
+<img src="img/141_ZILOSNAK_frames.png" alt="141 ZILOSNAK animation frames">

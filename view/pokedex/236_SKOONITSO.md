@@ -1,34 +1,11 @@
 # 236 SKOONITSO
 
-[← 235 SMEARGLE](235_SMEARGLE.md) · [Pokédex](../pokedex.md) · [237 JUTSUFAITA →](237_JUTSUFAITA.md)
+**VIOLENCE** · [← 235 SMEARGLE](235_SMEARGLE.md) · [Pokédex](../pokedex.md) · [237 JUTSUFAITA →](237_JUTSUFAITA.md)
 
-<img src="img/236_SKOONITSO_front.png"> <img src="img/236_SKOONITSO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/236_SKOONITSO_front3.png" alt="236 SKOONITSO front"></td><td align="center" valign="bottom"><img src="img/236_SKOONITSO_shiny3.png" alt="236 SKOONITSO shiny"></td><td align="center" valign="bottom"><img src="img/236_SKOONITSO_anim.gif" alt="236 SKOONITSO animation"></td><td align="center" valign="bottom"><img src="img/236_SKOONITSO_anim_shiny.gif" alt="236 SKOONITSO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>210</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>91</td></tr><tr><td>Gender</td><td>100% male</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/27_FIGHTER_icon.png" alt="236 SKOONITSO party icon"><br><sub>party icon</sub><br><img src="img/236_SKOONITSO_palette.png" alt="236 SKOONITSO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/236_SKOONITSO.gif"> <img src="../../pokemon/animated/shiny/236_SKOONITSO.gif">
+**Animation frames** (base + 4)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/236_SKOONITSO_frames.png">
-
-<sub>animation frames (base + 4)</sub>
-
-<img src="img/27_FIGHTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/236_SKOONITSO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | VIOLENCE |
-| HP | 35 `████` |
-| Attack | 35 `████` |
-| Defense | 35 `████` |
-| Sp. Atk | 35 `████` |
-| Sp. Def | 35 `████` |
-| Speed | 35 `████` |
-| Total | 210 |
-| Catch rate | 75 |
-| Base exp | 91 |
-| Gender | 100% male |
-| Growth | Medium Fast |
+<img src="img/236_SKOONITSO_frames.png" alt="236 SKOONITSO animation frames">

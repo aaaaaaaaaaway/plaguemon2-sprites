@@ -1,34 +1,11 @@
 # 144 ARTICLONE
 
-[← 143 PUTREFACTO](143_PUTREFACTO.md) · [Pokédex](../pokedex.md) · [145 ZAPGOLD →](145_ZAPGOLD.md)
+**CHEMICAL / MECHANIC** · [← 143 PUTREFACTO](143_PUTREFACTO.md) · [Pokédex](../pokedex.md) · [145 ZAPGOLD →](145_ZAPGOLD.md)
 
-<img src="img/144_ARTICLONE_front.png"> <img src="img/144_ARTICLONE_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/144_ARTICLONE_front3.png" alt="144 ARTICLONE front"></td><td align="center" valign="bottom"><img src="img/144_ARTICLONE_shiny3.png" alt="144 ARTICLONE shiny"></td><td align="center" valign="bottom"><img src="img/144_ARTICLONE_anim.gif" alt="144 ARTICLONE animation"></td><td align="center" valign="bottom"><img src="img/144_ARTICLONE_anim_shiny.gif" alt="144 ARTICLONE shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">95</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">125</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">85</td><td>▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>580</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>3</td></tr><tr><td>Base exp</td><td>215</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/07_BIRD_icon.png" alt="144 ARTICLONE party icon"><br><sub>party icon</sub><br><img src="img/144_ARTICLONE_palette.png" alt="144 ARTICLONE palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/144_ARTICLONE.gif"> <img src="../../pokemon/animated/shiny/144_ARTICLONE.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/144_ARTICLONE_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/07_BIRD_icon.png"> <sub>party icon</sub>
-
-<img src="img/144_ARTICLONE_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | CHEMICAL / MECHANIC |
-| HP | 90 `███████████` |
-| Attack | 85 `███████████` |
-| Defense | 100 `████████████` |
-| Sp. Atk | 95 `████████████` |
-| Sp. Def | 125 `████████████████` |
-| Speed | 85 `███████████` |
-| Total | 580 |
-| Catch rate | 3 |
-| Base exp | 215 |
-| Gender | genderless |
-| Growth | Slow |
+<img src="img/144_ARTICLONE_frames.png" alt="144 ARTICLONE animation frames">

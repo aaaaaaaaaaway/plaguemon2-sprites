@@ -1,34 +1,11 @@
 # 066 ANOREX
 
-[← 065 MARTIRUS](065_MARTIRUS.md) · [Pokédex](../pokedex.md) · [067 STERODO →](067_STERODO.md)
+**VIOLENCE** · [← 065 MARTIRUS](065_MARTIRUS.md) · [Pokédex](../pokedex.md) · [067 STERODO →](067_STERODO.md)
 
-<img src="img/066_ANOREX_front.png"> <img src="img/066_ANOREX_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/066_ANOREX_front3.png" alt="066 ANOREX front"></td><td align="center" valign="bottom"><img src="img/066_ANOREX_shiny3.png" alt="066 ANOREX shiny"></td><td align="center" valign="bottom"><img src="img/066_ANOREX_anim.gif" alt="066 ANOREX animation"></td><td align="center" valign="bottom"><img src="img/066_ANOREX_anim_shiny.gif" alt="066 ANOREX shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>305</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>180</td></tr><tr><td>Base exp</td><td>88</td></tr><tr><td>Gender</td><td>25% female</td></tr><tr><td>Growth</td><td>Medium Slow</td></tr></table><br><img src="img/27_FIGHTER_icon.png" alt="066 ANOREX party icon"><br><sub>party icon</sub><br><img src="img/066_ANOREX_palette.png" alt="066 ANOREX palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/066_ANOREX.gif"> <img src="../../pokemon/animated/shiny/066_ANOREX.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/066_ANOREX_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/27_FIGHTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/066_ANOREX_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | VIOLENCE |
-| HP | 70 `█████████` |
-| Attack | 80 `██████████` |
-| Defense | 50 `██████` |
-| Sp. Atk | 35 `████` |
-| Sp. Def | 35 `████` |
-| Speed | 35 `████` |
-| Total | 305 |
-| Catch rate | 180 |
-| Base exp | 88 |
-| Gender | 25% female |
-| Growth | Medium Slow |
+<img src="img/066_ANOREX_frames.png" alt="066 ANOREX animation frames">

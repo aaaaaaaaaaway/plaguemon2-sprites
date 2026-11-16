@@ -1,34 +1,11 @@
 # 206 DUOFUNTO
 
-[← 205 /NEURONET](205_NEURONET.md) · [Pokédex](../pokedex.md) · [207 TWOMEWTWO →](207_TWOMEWTWO.md)
+**MUTANT** · [← 205 /NEURONET](205_NEURONET.md) · [Pokédex](../pokedex.md) · [207 TWOMEWTWO →](207_TWOMEWTWO.md)
 
-<img src="img/206_DUOFUNTO_front.png"> <img src="img/206_DUOFUNTO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/206_DUOFUNTO_front3.png" alt="206 DUOFUNTO front"></td><td align="center" valign="bottom"><img src="img/206_DUOFUNTO_shiny3.png" alt="206 DUOFUNTO shiny"></td><td align="center" valign="bottom"><img src="img/206_DUOFUNTO_anim.gif" alt="206 DUOFUNTO animation"></td><td align="center" valign="bottom"><img src="img/206_DUOFUNTO_anim_shiny.gif" alt="206 DUOFUNTO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>415</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>75</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/19_SERPENT_icon.png" alt="206 DUOFUNTO party icon"><br><sub>party icon</sub><br><img src="img/206_DUOFUNTO_palette.png" alt="206 DUOFUNTO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/206_DUOFUNTO.gif"> <img src="../../pokemon/animated/shiny/206_DUOFUNTO.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/206_DUOFUNTO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/19_SERPENT_icon.png"> <sub>party icon</sub>
-
-<img src="img/206_DUOFUNTO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 100 `████████████` |
-| Attack | 70 `█████████` |
-| Defense | 70 `█████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 65 `████████` |
-| Speed | 45 `██████` |
-| Total | 415 |
-| Catch rate | 190 |
-| Base exp | 75 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/206_DUOFUNTO_frames.png" alt="206 DUOFUNTO animation frames">

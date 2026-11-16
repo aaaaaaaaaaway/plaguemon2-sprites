@@ -1,34 +1,11 @@
 # 052 NIGGA
 
-[← 051 GANGBANGO](051_GANGBANGO.md) · [Pokédex](../pokedex.md) · [053 TENKA →](053_TENKA.md)
+**MUTANT** · [← 051 GANGBANGO](051_GANGBANGO.md) · [Pokédex](../pokedex.md) · [053 TENKA →](053_TENKA.md)
 
-<img src="img/052_NIGGA_front.png"> <img src="img/052_NIGGA_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/052_NIGGA_front3.png" alt="052 NIGGA front"></td><td align="center" valign="bottom"><img src="img/052_NIGGA_shiny3.png" alt="052 NIGGA shiny"></td><td align="center" valign="bottom"><img src="img/052_NIGGA_anim.gif" alt="052 NIGGA animation"></td><td align="center" valign="bottom"><img src="img/052_NIGGA_anim_shiny.gif" alt="052 NIGGA shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Speed</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>290</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>255</td></tr><tr><td>Base exp</td><td>69</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/15_FOX_icon.png" alt="052 NIGGA party icon"><br><sub>party icon</sub><br><img src="img/052_NIGGA_palette.png" alt="052 NIGGA palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/052_NIGGA.gif"> <img src="../../pokemon/animated/shiny/052_NIGGA.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/052_NIGGA_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/052_NIGGA_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 40 `█████` |
-| Attack | 45 `██████` |
-| Defense | 35 `████` |
-| Sp. Atk | 40 `█████` |
-| Sp. Def | 40 `█████` |
-| Speed | 90 `███████████` |
-| Total | 290 |
-| Catch rate | 255 |
-| Base exp | 69 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/052_NIGGA_frames.png" alt="052 NIGGA animation frames">

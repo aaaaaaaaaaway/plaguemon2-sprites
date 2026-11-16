@@ -1,34 +1,13 @@
 # 170 RELICTOU
 
-[← 169 TRIZOM](169_TRIZOM.md) · [Pokédex](../pokedex.md) · [171 SOVIETO →](171_SOVIETO.md)
+**SEX / NUCLEAR** · [← 169 TRIZOM](169_TRIZOM.md) · [Pokédex](../pokedex.md) · [171 SOVIETO →](171_SOVIETO.md)
 
-<img src="img/170_RELICTOU_front.png"> <img src="img/170_RELICTOU_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/170_RELICTOU_front3.png" alt="170 RELICTOU front"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_shiny3.png" alt="170 RELICTOU shiny"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_anim.gif" alt="170 RELICTOU animation"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_anim_shiny.gif" alt="170 RELICTOU shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/170_RELICTOU.gif"> <img src="../../pokemon/animated/shiny/170_RELICTOU.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">38</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">38</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">56</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">56</td><td>▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">67</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>330</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>90</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/06_FISH_icon.png" alt="170 RELICTOU party icon"><br><sub>party icon</sub><br><img src="img/170_RELICTOU_palette.png" alt="170 RELICTOU palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 2)
 
-<img src="img/170_RELICTOU_frames.png">
-
-<sub>animation frames (base + 2)</sub>
-
-<img src="img/06_FISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/170_RELICTOU_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / NUCLEAR |
-| HP | 75 `█████████` |
-| Attack | 38 `█████` |
-| Defense | 38 `█████` |
-| Sp. Atk | 56 `███████` |
-| Sp. Def | 56 `███████` |
-| Speed | 67 `████████` |
-| Total | 330 |
-| Catch rate | 190 |
-| Base exp | 90 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/170_RELICTOU_frames.png" alt="170 RELICTOU animation frames">

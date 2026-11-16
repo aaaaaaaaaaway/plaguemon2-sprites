@@ -1,34 +1,11 @@
 # 026 RAICHEWEDZ
 
-[← 025 PIKACHEWED](025_PIKACHEWED.md) · [Pokédex](../pokedex.md) · [027 PAPYRYU →](027_PAPYRYU.md)
+**NUCLEAR** · [← 025 PIKACHEWED](025_PIKACHEWED.md) · [Pokédex](../pokedex.md) · [027 PAPYRYU →](027_PAPYRYU.md)
 
-<img src="img/026_RAICHEWEDZ_front.png"> <img src="img/026_RAICHEWEDZ_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/026_RAICHEWEDZ_front3.png" alt="026 RAICHEWEDZ front"></td><td align="center" valign="bottom"><img src="img/026_RAICHEWEDZ_shiny3.png" alt="026 RAICHEWEDZ shiny"></td><td align="center" valign="bottom"><img src="img/026_RAICHEWEDZ_anim.gif" alt="026 RAICHEWEDZ animation"></td><td align="center" valign="bottom"><img src="img/026_RAICHEWEDZ_anim_shiny.gif" alt="026 RAICHEWEDZ shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">55</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">90</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>475</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>122</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/04_PIKACHU_icon.png" alt="026 RAICHEWEDZ party icon"><br><sub>party icon</sub><br><img src="img/026_RAICHEWEDZ_palette.png" alt="026 RAICHEWEDZ palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/026_RAICHEWEDZ.gif"> <img src="../../pokemon/animated/shiny/026_RAICHEWEDZ.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/026_RAICHEWEDZ_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/04_PIKACHU_icon.png"> <sub>party icon</sub>
-
-<img src="img/026_RAICHEWEDZ_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NUCLEAR |
-| HP | 60 `████████` |
-| Attack | 90 `███████████` |
-| Defense | 55 `███████` |
-| Sp. Atk | 90 `███████████` |
-| Sp. Def | 80 `██████████` |
-| Speed | 100 `████████████` |
-| Total | 475 |
-| Catch rate | 75 |
-| Base exp | 122 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/026_RAICHEWEDZ_frames.png" alt="026 RAICHEWEDZ animation frames">

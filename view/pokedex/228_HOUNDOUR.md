@@ -1,34 +1,11 @@
 # 228 HOUNDOUR
 
-[← 227 AXIOM:APEX](227_AXIOM_APEX.md) · [Pokédex](../pokedex.md) · [229 HOUNDOOM →](229_HOUNDOOM.md)
+**DOOM / SATANIC** · [← 227 AXIOM:APEX](227_AXIOM_APEX.md) · [Pokédex](../pokedex.md) · [229 HOUNDOOM →](229_HOUNDOOM.md)
 
-<img src="img/228_HOUNDOUR_front.png"> <img src="img/228_HOUNDOUR_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/228_HOUNDOUR_front3.png" alt="228 HOUNDOUR front"></td><td align="center" valign="bottom"><img src="img/228_HOUNDOUR_shiny3.png" alt="228 HOUNDOUR shiny"></td><td align="center" valign="bottom"><img src="img/228_HOUNDOUR_anim.gif" alt="228 HOUNDOUR animation"></td><td align="center" valign="bottom"><img src="img/228_HOUNDOUR_anim_shiny.gif" alt="228 HOUNDOUR shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">30</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>330</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>114</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/15_FOX_icon.png" alt="228 HOUNDOUR party icon"><br><sub>party icon</sub><br><img src="img/228_HOUNDOUR_palette.png" alt="228 HOUNDOUR palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/228_HOUNDOUR.gif"> <img src="../../pokemon/animated/shiny/228_HOUNDOUR.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/228_HOUNDOUR_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/15_FOX_icon.png"> <sub>party icon</sub>
-
-<img src="img/228_HOUNDOUR_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | DOOM / SATANIC |
-| HP | 45 `██████` |
-| Attack | 60 `████████` |
-| Defense | 30 `████` |
-| Sp. Atk | 80 `██████████` |
-| Sp. Def | 50 `██████` |
-| Speed | 65 `████████` |
-| Total | 330 |
-| Catch rate | 120 |
-| Base exp | 114 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/228_HOUNDOUR_frames.png" alt="228 HOUNDOUR animation frames">

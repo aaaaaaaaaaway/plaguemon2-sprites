@@ -1,30 +1,11 @@
 # PARATYPE ABC
 
-[← 251 CEREBRI](251_CEREBRI.md) · [Pokédex](../pokedex.md) · [PARATYPE DEFGHI →](201_PARATYPE_D.md)
+**NEURAL** · [← 251 CEREBRI](251_CEREBRI.md) · [Pokédex](../pokedex.md) · [PARATYPE DEFGHI →](201_PARATYPE_D.md)
 
-<img src="img/201_PARATYPE_A_front.png"> <img src="img/201_PARATYPE_A_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/201_PARATYPE_A_front3.png" alt="PARATYPE ABC front"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_A_shiny3.png" alt="PARATYPE ABC shiny"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_A_anim.gif" alt="PARATYPE ABC animation"></td><td align="center" valign="bottom"><img src="img/201_PARATYPE_A_anim_shiny.gif" alt="PARATYPE ABC shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: no animation: this build's frame data doesn't match the sprite.</sub>
 
-<img src="../../pokemon/animated/201_PARATYPE_A.gif"> <img src="../../pokemon/animated/shiny/201_PARATYPE_A.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">72</td><td>▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">72</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">48</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>336</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>225</td></tr><tr><td>Base exp</td><td>61</td></tr><tr><td>Gender</td><td>genderless</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/201_PARATYPE_A_palette.png" alt="PARATYPE ABC palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
-
-<img src="img/201_PARATYPE_A_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | NEURAL |
-| HP | 48 `██████` |
-| Attack | 72 `█████████` |
-| Defense | 48 `██████` |
-| Sp. Atk | 72 `█████████` |
-| Sp. Def | 48 `██████` |
-| Speed | 48 `██████` |
-| Total | 336 |
-| Catch rate | 225 |
-| Base exp | 61 |
-| Gender | genderless |
-| Growth | Medium Fast |
-
-Letters ABC share this sprite; stats are the Paratype species (#201).
+<sub>Letters ABC share this sprite; stats are the Paratype species (#201).</sub>

@@ -1,34 +1,11 @@
 # 089 KUMORAH
 
-[← 088 GRINDED](088_GRINDED.md) · [Pokédex](../pokedex.md) · [090 SHELLDER →](090_SHELLDER.md)
+**MEDICAL** · [← 088 GRINDED](088_GRINDED.md) · [Pokédex](../pokedex.md) · [090 SHELLDER →](090_SHELLDER.md)
 
-<img src="img/089_KUMORAH_front.png"> <img src="img/089_KUMORAH_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/089_KUMORAH_front3.png" alt="089 KUMORAH front"></td><td align="center" valign="bottom"><img src="img/089_KUMORAH_shiny3.png" alt="089 KUMORAH shiny"></td><td align="center" valign="bottom"><img src="img/089_KUMORAH_anim.gif" alt="089 KUMORAH animation"></td><td align="center" valign="bottom"><img src="img/089_KUMORAH_anim_shiny.gif" alt="089 KUMORAH shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">105</td><td>▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">75</td><td>▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">65</td><td>▇▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>500</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>157</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/18_BLOB_icon.png" alt="089 KUMORAH party icon"><br><sub>party icon</sub><br><img src="img/089_KUMORAH_palette.png" alt="089 KUMORAH palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/089_KUMORAH.gif"> <img src="../../pokemon/animated/shiny/089_KUMORAH.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/089_KUMORAH_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/18_BLOB_icon.png"> <sub>party icon</sub>
-
-<img src="img/089_KUMORAH_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MEDICAL |
-| HP | 105 `█████████████` |
-| Attack | 105 `█████████████` |
-| Defense | 75 `█████████` |
-| Sp. Atk | 65 `████████` |
-| Sp. Def | 100 `████████████` |
-| Speed | 50 `██████` |
-| Total | 500 |
-| Catch rate | 75 |
-| Base exp | 157 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<img src="img/089_KUMORAH_frames.png" alt="089 KUMORAH animation frames">

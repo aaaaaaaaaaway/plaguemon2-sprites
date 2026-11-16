@@ -1,34 +1,13 @@
 # 184 KONTROLIO
 
-[← 183 HALUAL](183_HALUAL.md) · [Pokédex](../pokedex.md) · [185 AOKIGAKA →](185_AOKIGAKA.md)
+**SEX** · [← 183 HALUAL](183_HALUAL.md) · [Pokédex](../pokedex.md) · [185 AOKIGAKA →](185_AOKIGAKA.md)
 
-<img src="img/184_KONTROLIO_front.png"> <img src="img/184_KONTROLIO_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/184_KONTROLIO_front3.png" alt="184 KONTROLIO front"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_shiny3.png" alt="184 KONTROLIO shiny"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_anim.gif" alt="184 KONTROLIO animation"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_anim_shiny.gif" alt="184 KONTROLIO shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: all frames, evenly timed: this build's script for it is incomplete.</sub>
 
-<img src="../../pokemon/animated/184_KONTROLIO.gif"> <img src="../../pokemon/animated/shiny/184_KONTROLIO.gif">
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>410</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>75</td></tr><tr><td>Base exp</td><td>153</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/02_JIGGLYPUFF_icon.png" alt="184 KONTROLIO party icon"><br><sub>party icon</sub><br><img src="img/184_KONTROLIO_palette.png" alt="184 KONTROLIO palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<sub>battle animation · shiny (all frames, evenly timed: this build's script for it is incomplete)</sub>
+**Animation frames** (base + 3)
 
-<img src="img/184_KONTROLIO_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/02_JIGGLYPUFF_icon.png"> <sub>party icon</sub>
-
-<img src="img/184_KONTROLIO_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX |
-| HP | 100 `████████████` |
-| Attack | 50 `██████` |
-| Defense | 80 `██████████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 80 `██████████` |
-| Speed | 50 `██████` |
-| Total | 410 |
-| Catch rate | 75 |
-| Base exp | 153 |
-| Gender | 50% female |
-| Growth | Fast |
+<img src="img/184_KONTROLIO_frames.png" alt="184 KONTROLIO animation frames">

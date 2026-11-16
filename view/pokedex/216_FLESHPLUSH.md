@@ -1,30 +1,9 @@
 # 216 FLESHPLUSH
 
-[← 215 KUNOIGA](215_KUNOIGA.md) · [Pokédex](../pokedex.md) · [217 TAXYDERMA →](217_TAXYDERMA.md)
+**MUTANT** · [← 215 KUNOIGA](215_KUNOIGA.md) · [Pokédex](../pokedex.md) · [217 TAXYDERMA →](217_TAXYDERMA.md)
 
-<img src="img/216_FLESHPLUSH_front.png"> <img src="img/216_FLESHPLUSH_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/216_FLESHPLUSH_front3.png" alt="216 FLESHPLUSH front"></td><td align="center" valign="bottom"><img src="img/216_FLESHPLUSH_shiny3.png" alt="216 FLESHPLUSH shiny"></td><td align="center" valign="bottom"><img src="img/216_FLESHPLUSH_anim.gif" alt="216 FLESHPLUSH animation"></td><td align="center" valign="bottom"><img src="img/216_FLESHPLUSH_anim_shiny.gif" alt="216 FLESHPLUSH shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<sub>Animation: no animation: this build's frame data doesn't match the sprite.</sub>
 
-<img src="../../pokemon/animated/216_FLESHPLUSH.gif"> <img src="../../pokemon/animated/shiny/216_FLESHPLUSH.gif">
-
-<sub>battle animation · shiny (no animation: this build's frame data doesn't match the sprite)</sub>
-
-<img src="img/08_MONSTER_icon.png"> <sub>party icon</sub>
-
-<img src="img/216_FLESHPLUSH_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 60 `████████` |
-| Attack | 80 `██████████` |
-| Defense | 50 `██████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 50 `██████` |
-| Speed | 40 `█████` |
-| Total | 330 |
-| Catch rate | 120 |
-| Base exp | 124 |
-| Gender | 50% female |
-| Growth | Medium Fast |
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">60</td><td>▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">80</td><td>▇▇▇▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>330</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>120</td></tr><tr><td>Base exp</td><td>124</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Medium Fast</td></tr></table><br><img src="img/08_MONSTER_icon.png" alt="216 FLESHPLUSH party icon"><br><sub>party icon</sub><br><img src="img/216_FLESHPLUSH_palette.png" alt="216 FLESHPLUSH palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>

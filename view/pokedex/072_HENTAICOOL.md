@@ -1,34 +1,11 @@
 # 072 HENTAICOOL
 
-[← 071 NORIMBERGU](071_NORIMBERGU.md) · [Pokédex](../pokedex.md) · [073 HENTAIGORE →](073_HENTAIGORE.md)
+**SEX / MEDICAL** · [← 071 NORIMBERGU](071_NORIMBERGU.md) · [Pokédex](../pokedex.md) · [073 HENTAIGORE →](073_HENTAIGORE.md)
 
-<img src="img/072_HENTAICOOL_front.png"> <img src="img/072_HENTAICOOL_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_front3.png" alt="072 HENTAICOOL front"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_shiny3.png" alt="072 HENTAICOOL shiny"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_anim.gif" alt="072 HENTAICOOL animation"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_anim_shiny.gif" alt="072 HENTAICOOL shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Attack</td><td align="right">40</td><td>▇▇▇</td></tr><tr><td>Defense</td><td align="right">35</td><td>▇▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">50</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">100</td><td>▇▇▇▇▇▇▇▇</td></tr><tr><td>Speed</td><td align="right">70</td><td>▇▇▇▇▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>335</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>190</td></tr><tr><td>Base exp</td><td>105</td></tr><tr><td>Gender</td><td>50% female</td></tr><tr><td>Growth</td><td>Slow</td></tr></table><br><img src="img/29_JELLYFISH_icon.png" alt="072 HENTAICOOL party icon"><br><sub>party icon</sub><br><img src="img/072_HENTAICOOL_palette.png" alt="072 HENTAICOOL palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/072_HENTAICOOL.gif"> <img src="../../pokemon/animated/shiny/072_HENTAICOOL.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/072_HENTAICOOL_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/29_JELLYFISH_icon.png"> <sub>party icon</sub>
-
-<img src="img/072_HENTAICOOL_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | SEX / MEDICAL |
-| HP | 40 `█████` |
-| Attack | 40 `█████` |
-| Defense | 35 `████` |
-| Sp. Atk | 50 `██████` |
-| Sp. Def | 100 `████████████` |
-| Speed | 70 `█████████` |
-| Total | 335 |
-| Catch rate | 190 |
-| Base exp | 105 |
-| Gender | 50% female |
-| Growth | Slow |
+<img src="img/072_HENTAICOOL_frames.png" alt="072 HENTAICOOL animation frames">

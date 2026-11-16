@@ -1,34 +1,11 @@
 # 039 EYEBALLY
 
-[← 038 KITSUNAIL](038_KITSUNAIL.md) · [Pokédex](../pokedex.md) · [040 KAWAIKAGO →](040_KAWAIKAGO.md)
+**MUTANT** · [← 038 KITSUNAIL](038_KITSUNAIL.md) · [Pokédex](../pokedex.md) · [040 KAWAIKAGO →](040_KAWAIKAGO.md)
 
-<img src="img/039_EYEBALLY_front.png"> <img src="img/039_EYEBALLY_shiny.png">
+<table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/039_EYEBALLY_front3.png" alt="039 EYEBALLY front"></td><td align="center" valign="bottom"><img src="img/039_EYEBALLY_shiny3.png" alt="039 EYEBALLY shiny"></td><td align="center" valign="bottom"><img src="img/039_EYEBALLY_anim.gif" alt="039 EYEBALLY animation"></td><td align="center" valign="bottom"><img src="img/039_EYEBALLY_anim_shiny.gif" alt="039 EYEBALLY shiny animation"></td></tr></table>
 
-<sub>front · shiny</sub>
+<table><tr><td valign="top"><table><tr><th colspan="3">Base stats</th></tr><tr><td>HP</td><td align="right">115</td><td>▇▇▇▇▇▇▇▇▇▇</td></tr><tr><td>Attack</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Defense</td><td align="right">20</td><td>▇▇</td></tr><tr><td>Sp. Atk</td><td align="right">45</td><td>▇▇▇▇</td></tr><tr><td>Sp. Def</td><td align="right">25</td><td>▇▇</td></tr><tr><td>Speed</td><td align="right">20</td><td>▇▇</td></tr><tr><td><b>Total</b></td><td align="right"><b>270</b></td><td></td></tr></table></td><td valign="top"><table><tr><td>Catch rate</td><td>170</td></tr><tr><td>Base exp</td><td>76</td></tr><tr><td>Gender</td><td>75% female</td></tr><tr><td>Growth</td><td>Fast</td></tr></table><br><img src="img/02_JIGGLYPUFF_icon.png" alt="039 EYEBALLY party icon"><br><sub>party icon</sub><br><img src="img/039_EYEBALLY_palette.png" alt="039 EYEBALLY palettes"><br><sub>palette: normal · shiny</sub></td></tr></table>
 
-<img src="../../pokemon/animated/039_EYEBALLY.gif"> <img src="../../pokemon/animated/shiny/039_EYEBALLY.gif">
+**Animation frames** (base + 3)
 
-<sub>battle animation · shiny</sub>
-
-<img src="img/039_EYEBALLY_frames.png">
-
-<sub>animation frames (base + 3)</sub>
-
-<img src="img/02_JIGGLYPUFF_icon.png"> <sub>party icon</sub>
-
-<img src="img/039_EYEBALLY_palette.png"> <sub>palette: normal · shiny</sub>
-
-| | |
-|---|---|
-| Type | MUTANT |
-| HP | 115 `██████████████` |
-| Attack | 45 `██████` |
-| Defense | 20 `██` |
-| Sp. Atk | 45 `██████` |
-| Sp. Def | 25 `███` |
-| Speed | 20 `██` |
-| Total | 270 |
-| Catch rate | 170 |
-| Base exp | 76 |
-| Gender | 75% female |
-| Growth | Fast |
+<img src="img/039_EYEBALLY_frames.png" alt="039 EYEBALLY animation frames">
