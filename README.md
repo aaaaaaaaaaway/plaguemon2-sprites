@@ -12,7 +12,7 @@ This repo collects its sprites, animations, maps and screens from v0.1.0, the fi
 
 &gt;**By:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
 &gt;**Download:** [plaguemon.com](https://plaguemon.com)<br>
-&gt;**Requires:** Pokémon Crystal (USA/Europe) base ROM
+&gt;**baserom:** Pokémon Crystal (USA/Europe)
 
 <br>
 
