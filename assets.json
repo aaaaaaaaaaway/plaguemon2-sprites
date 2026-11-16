@@ -746,6 +746,19 @@
  },
  {
   "section": "Miscellaneous",
+  "name": "Pokégear",
+  "sub": "PLAGUETEK",
+  "file": "miscellaneous/pokegear.png",
+  "thumb": "thumbs/miscellaneous/pokegear.png",
+  "page": "view/miscellaneous/pokegear.md",
+  "view_zoom": 4,
+  "view_parts": 1,
+  "w": 1016,
+  "h": 178,
+  "kb": 9
+ },
+ {
+  "section": "Miscellaneous",
   "name": "Professor Oak's Opening Lecture",
   "sub": "",
   "file": "miscellaneous/professor-oaks-opening-lecture.png",
