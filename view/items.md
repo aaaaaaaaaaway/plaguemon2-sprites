@@ -1,6 +1,8 @@
 # Items
 
-169 items, 37 renamed from Pokémon Crystal. 12 TMs and HMs teach a different move. · [all sheets](../README.md)
+169 items · [all sheets](../README.md)
+
+37 have new names and 12 TMs and HMs teach a different move. *In Crystal* shows the old name or move.
 
 ## Items
 

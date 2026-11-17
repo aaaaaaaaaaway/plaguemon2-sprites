@@ -14,7 +14,7 @@
 
 **FLAME** · 3'07" · 42.0 lb
 
-> It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legionsFLAME
+> It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legions
 
 ## Evolution
 

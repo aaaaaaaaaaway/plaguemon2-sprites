@@ -14,7 +14,7 @@
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/244_VITATEC_TUNED_front3.png" alt="244 VITATEC (tuned) front"></td><td align="center" valign="bottom"><img src="img/244_VITATEC_TUNED_shiny3.png" alt="244 VITATEC (tuned) shiny"></td><td align="center" valign="bottom"><img src="img/244_VITATEC_TUNED_anim.gif" alt="244 VITATEC (tuned) animation"></td><td align="center" valign="bottom"><img src="img/244_VITATEC_TUNED_anim_shiny.gif" alt="244 VITATEC (tuned) shiny animation"></td></tr></table>
 
-<sub>Tuning adds an exhaust manifold. Only VITATEC has a tuned form in v0.1.0. Same stats.</sub>
+<sub>Same stats as the normal form.</sub>
 
 ## Pokédex
 

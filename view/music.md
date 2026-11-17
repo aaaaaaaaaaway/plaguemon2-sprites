@@ -1,8 +1,10 @@
 # Music
 
-The 18 songs that are new or changed from Crystal. Each is named after the Crystal slot it replaces. The other 85 slots are Crystal's music, unchanged, and aren't included.
+18 songs · [all sheets](../README.md)
 
-Most maps play no music. *Map music* lists the places that play each song. The rest play in battles and events.
+Only the songs that are new or changed: the other 85 slots play Crystal's music. Songs are named after the Crystal slot they replace, or after where they play if the slot is new.
+
+*Map music* lists the places that play each song. Most maps play no music at all.
 
 | # | Song | Length | | Map music | vs. Crystal |
 |--:|---|--:|---|---|---|

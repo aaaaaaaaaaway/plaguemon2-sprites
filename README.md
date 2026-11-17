@@ -6,9 +6,9 @@
 
 <br>
 
-*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a horror ROM hack of Pokémon Crystal set in a cyberpunk dystopia, and the follow-up to *Plaguemon: Lost Diaries* (2018). It redraws 240 monsters, most of them animated, replaces Crystal's types with 19 new ones and redesigns every map.
+*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a horror ROM hack of Pokémon Crystal set in a cyberpunk dystopia, the sequel to *Plaguemon: Lost Diaries* (2018). It redraws 240 monsters, most of them animated, replaces Crystal's types with 19 new ones and redesigns every map.
 
-This repo collects its sprites, animations, maps, screens, music and game data from v0.1.0, the first public release.
+Sprites, animations, maps, music and game data ripped from v0.1.0, the first public release.
 
 &gt;**by:** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
 &gt;**download:** [plaguemon.com](https://plaguemon.com)<br>
@@ -21,19 +21,19 @@ This repo collects its sprites, animations, maps, screens, music and game data f
 | Directory | Format | Contents |
 |---|---|---|
 | `sprites/front/` | PNG 40-56 px | battle sprites by number (`6.png`, `201-a.png`); `transparent/` too |
-| `sprites/shiny/` | PNG | shiny palette; `transparent/` too |
+| `sprites/shiny/` | PNG | shiny sprites; `transparent/` too |
 | `sprites/animated/` | GIF | battle animations; `shiny/` too |
 | `sprites/frames/` | PNG strip | every animation frame, base first |
 | `sprites/icons/` | PNG 36×16 | party icons, both frames |
 | `sprites/intro/` | GIF | intro animations (Plague Labs logo, sigil) and the title screen |
-| `sprites/trainers/` | PNG 56 px | trainer class battle sprites |
+| `sprites/trainers/` | PNG 56 px | trainer class sprites |
 | `music/` | MP3 | new and changed songs, by Crystal song slot |
 | `data/pokedex.json` | JSON | names, types, stats, Pokédex text, evolutions, moves, wild locations, palettes, file paths |
 | `data/type-chart.json` | JSON | type matchups |
-| `data/items.json` | JSON | items: names, pocket, price, description; what each TM/HM teaches |
-| `data/trainers.json` | JSON | trainer classes, each trainer's team (levels, held items, moves) and where they are met |
+| `data/items.json` | JSON | item names, pockets, prices and descriptions; the move each TM/HM teaches |
+| `data/trainers.json` | JSON | every trainer's team (levels, held items, moves) and where to find them |
 | `pokemon/`, `characters/`, `backgrounds/`, `miscellaneous/`, `more/` | PNG 1× | sprite sheets |
-| `view/` | Markdown | pages for browsing on GitHub (generated) |
+| `view/` | Markdown | pages for browsing on GitHub |
 
 <br>
 
@@ -51,9 +51,7 @@ This repo collects its sprites, animations, maps, screens, music and game data f
 
 ## Characters
 
-<table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png" alt="Characters (Battle)"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png" alt="Characters (Overworld)"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td></tr></table>
-
-[Trainer teams](view/trainers.md)
+<table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png" alt="Characters (Battle)"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png" alt="Characters (Overworld)"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td><td align="center" valign="top"><a href="view/trainers.md"><img src="thumbs/characters/trainer-teams.png" alt="Trainer teams"></a><br><a href="view/trainers.md">Trainer teams</a> <sub><a href="data/trainers.json">JSON</a></sub></td></tr></table>
 
 <br>
 
@@ -107,5 +105,5 @@ Every other map in the game, by its in-game place name.
 
 &gt;Plaguemon II: The AfterWorld by [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com)).<br>
 &gt;Pokémon © Nintendo / Creatures Inc. / GAME FREAK inc.<br>
-&gt;Extracted with tools built on the formats documented by [pret/pokecrystal](https://github.com/pret/pokecrystal).<br>
-&gt;Unofficial fan archive, not affiliated with either. No ROM or game code is included.
+&gt;Ripped using [pret/pokecrystal](https://github.com/pret/pokecrystal)'s documentation of Crystal's data formats.<br>
+&gt;Unofficial fan archive, not affiliated with Nintendo. No ROM or game code is included.

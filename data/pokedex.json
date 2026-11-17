@@ -822,7 +822,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legionsFLAME"
+   "pokedex_text": "It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legions"
   },
   {
    "key": "6",
@@ -987,7 +987,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "The lord of the lords. Its heads are always battling, but when not, it is very powerfulVAGINA"
+   "pokedex_text": "The lord of the lords. Its heads are always battling, but when not, it is very powerful"
   },
   {
    "key": "7",
@@ -20591,7 +20591,7 @@
     {
      "id": 197,
      "name": "DAMNATEON",
-     "how": "special: a game counter (RAM $D9C6) at 5 or more"
+     "how": "special: game counter at RAM $D9C6 is 5 or more"
     }
    ],
    "evolves_from": [],
@@ -29592,7 +29592,7 @@
     {
      "id": 133,
      "name": "DEADDOG",
-     "how": "special: a game counter (RAM $D9C6) at 5 or more"
+     "how": "special: game counter at RAM $D9C6 is 5 or more"
     }
    ],
    "moves": [

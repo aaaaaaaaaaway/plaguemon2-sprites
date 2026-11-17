@@ -18,4 +18,4 @@
 
 ## Evolution
 
-Evolves into [NUKENION](135_NUKENION.md) (use X-RAY)<br>Evolves into [VENEREON](134_VENEREON.md) (use BROKEN CONDOM)<br>Evolves into [CERBERION](136_CERBERION.md) (use FIRE STONE)<br>Evolves into [EMBRYEON](196_EMBRYEON.md) (happiness, morning/day)<br>Evolves into [DAMNATEON](197_DAMNATEON.md) (special: a game counter (RAM $D9C6) at 5 or more)
+Evolves into [NUKENION](135_NUKENION.md) (use X-RAY)<br>Evolves into [VENEREON](134_VENEREON.md) (use BROKEN CONDOM)<br>Evolves into [CERBERION](136_CERBERION.md) (use FIRE STONE)<br>Evolves into [EMBRYEON](196_EMBRYEON.md) (happiness, morning/day)<br>Evolves into [DAMNATEON](197_DAMNATEON.md) (special: game counter at RAM $D9C6 is 5 or more)

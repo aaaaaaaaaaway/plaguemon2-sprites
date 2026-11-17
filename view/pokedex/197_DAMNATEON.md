@@ -18,4 +18,4 @@
 
 ## Evolution
 
-Evolves from [DEADDOG](133_DEADDOG.md) (special: a game counter (RAM $D9C6) at 5 or more)
+Evolves from [DEADDOG](133_DEADDOG.md) (special: game counter at RAM $D9C6 is 5 or more)

@@ -14,7 +14,7 @@
 
 **FLAME** · 5'07" · 200.0 lb
 
-> The lord of the lords. Its heads are always battling, but when not, it is very powerfulVAGINA
+> The lord of the lords. Its heads are always battling, but when not, it is very powerful
 
 ## Evolution
 
