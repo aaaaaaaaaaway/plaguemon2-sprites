@@ -1,6 +1,6 @@
 # Characters (Battle)
 
-[1× original](../../characters/characters-battle.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../characters/characters-battle.png) · [all sheets](../../README.md)
 
 <img src="characters-battle/01.png">
 

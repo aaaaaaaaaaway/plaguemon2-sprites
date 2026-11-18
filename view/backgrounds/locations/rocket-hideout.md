@@ -1,5 +1,5 @@
-# Rocket Hideout (LONELY WOODS)
+# Rocket Hideout (Lonely Woods)
 
-[1× original](../../../backgrounds/locations/rocket-hideout.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/rocket-hideout.png) · [all sheets](../../../README.md)
 
 <img src="rocket-hideout/01.png">

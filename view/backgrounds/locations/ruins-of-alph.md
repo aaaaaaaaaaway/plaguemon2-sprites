@@ -1,6 +1,6 @@
-# Ruins of Alph (BIO IMPACT)
+# Ruins of Alph (Bio Impact)
 
-[1× original](../../../backgrounds/locations/ruins-of-alph.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/ruins-of-alph.png) · [all sheets](../../../README.md)
 
 <img src="ruins-of-alph/01.png">
 

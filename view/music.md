@@ -1,12 +1,10 @@
 # Music
 
-18 songs · [all sheets](../README.md)
+18 new or changed music slots. Slots 031 and 032 share a track. Most titles come from the corresponding Crystal slot.
 
-Only the songs that are new or changed: the other 85 slots play Crystal's music. Songs are named after the Crystal slot they replace, or after where they play if the slot is new.
+[All sheets](../README.md)
 
-*Map music* lists the places that play each song. Most maps play no music at all.
-
-| # | Song | Length | | Map music | vs. Crystal |
+| Slot | Track | Length | Playback | Heard in | Compared with Crystal |
 |--:|---|--:|---|---|---|
 | 001 | [Title](../music/001-title.mp3) | 0:56 | loops every 0:26, fades out |  | changed |
 | 009 | [Pokémon Center](../music/009-pokemon-center.mp3) | 0:50 | loops every 0:22, fades out | Government, Lonely Woods, Suburbia, Peak of Dread and 17 more | changed |

@@ -1,5 +1,5 @@
-# Saffron City (SAFFRON CITY)
+# Saffron City
 
-[1× original](../../../backgrounds/locations/saffron-city.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/saffron-city.png) · [all sheets](../../../README.md)
 
 <img src="saffron-city/01.png">

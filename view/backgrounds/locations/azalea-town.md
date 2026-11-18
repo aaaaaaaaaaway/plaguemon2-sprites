@@ -1,5 +1,5 @@
-# Azalea Town (LOS AURA)
+# Los Aura (Azalea Town in Crystal)
 
-[1× original](../../../backgrounds/locations/azalea-town.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/azalea-town.png) · [all sheets](../../../README.md)
 
 <img src="azalea-town/01.png">

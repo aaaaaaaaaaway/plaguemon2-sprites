@@ -1,5 +1,5 @@
-# Lavender Town (LAVENDER TOWN)
+# Lavender Town
 
-[1× original](../../../backgrounds/locations/lavender-town.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/lavender-town.png) · [all sheets](../../../README.md)
 
 <img src="lavender-town/01.png">

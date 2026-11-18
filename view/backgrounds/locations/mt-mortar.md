@@ -1,5 +1,5 @@
-# Mt. Mortar (MT.MORTAR)
+# Mt. Mortar (Mt.Mortar)
 
-[1× original](../../../backgrounds/locations/mt-mortar.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/mt-mortar.png) · [all sheets](../../../README.md)
 
 <img src="mt-mortar/01.png">

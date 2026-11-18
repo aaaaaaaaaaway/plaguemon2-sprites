@@ -4,189 +4,189 @@
 
 37 have new names and 12 TMs and HMs teach a different move. *In Crystal* shows the old name or move.
 
-## Items
+## General items
 
 | Item | Price | Description | In Crystal |
 |---|--:|---|---|
-| BRIGHTPOWDER | ¥10 | Lowers the foe's<br>accuracy. (HOLD) |  |
-| CRYSTALLIZE |  | Evolves certain<br>kinds of POKéMON. | MOON STONE |
-| CHEMOTHERAPY | ¥100 | Cures poisoned<br>POKéMON. | ANTIDOTE |
-| CRUCIFIX | ¥250 | Heals burned<br>POKéMON. | BURN HEAL |
-| NALOXONE | ¥250 | Defrosts frozen<br>POKéMON. | ICE HEAL |
-| MIRACLE | ¥250 | Awakens sleeping<br>POKéMON. | AWAKENING |
-| XANAX | ¥200 | Heals paralyzed<br>POKéMON. | PARLYZ HEAL |
-| FULL RESTORE | ¥3000 | Fully restores HP<br>&amp; status. |  |
-| FENTANYL | ¥2500 | Fully restores<br>POKéMON HP. | MAX POTION |
-| MORPHINE | ¥1200 | Restores POKéMON<br>HP by 200. | HYPER POTION |
-| CODEINE | ¥700 | Restores POKéMON<br>HP by 50. | SUPER POTION |
-| PARACETAMOL | ¥300 | Restores POKéMON<br>HP by 20. | POTION |
-| RAGEQUIT | ¥550 | Use for escaping<br>from caves, etc. | ESCAPE ROPE |
-| REPEL | ¥350 | Repels weak POKé-<br>MON for 100 steps. |  |
-| MAX ELIXER | ¥4500 | Fully restores the<br>PP of one POKéMON. |  |
-| FIRE STONE | ¥2100 | Evolves certain<br>kinds of POKéMON. |  |
-| X-RAY | ¥2100 | Evolves certain<br>kinds of POKéMON. | THUNDERSTONE |
-| BROKEN CONDOM | ¥2100 | Evolves certain<br>kinds of POKéMON. | WATER STONE |
-| HP UP | ¥9800 | Raises the HP of<br>one POKéMON. |  |
-| PROTEIN | ¥9800 | Raises ATTACK of<br>one POKéMON. |  |
-| IRON | ¥9800 | Raises DEFENSE of<br>one POKéMON. |  |
-| CARBOS | ¥9800 | Raises SPEED of<br>one POKéMON. |  |
-| LUCKY PUNCH | ¥10 | Ups critical hit<br>ratio of CHANSEY. |  |
-| CALCIUM | ¥9800 | Ups SPECIAL stats<br>of one POKéMON. |  |
-| AGENT P | ¥4800 | Raises level of a<br>POKéMON by one. | RARE CANDY |
-| X ACCURACY | ¥950 | Raises accuracy.<br>(1 BTL) |  |
-| LEAF STONE | ¥2100 | Evolves certain<br>kinds of POKéMON. |  |
-| METAL POWDER | ¥10 | Raises DEFENSE of<br>DITTO. (HOLD) |  |
-| NUGGET | ¥10000 | Made of pure gold.<br>Sell high. |  |
-| POKé DOLL | ¥1000 | Use to escape from<br>a wild POKéMON. |  |
-| FULL HEAL | ¥600 | Eliminates all<br>status problems. |  |
-| REVIVE | ¥1500 | Restores a fainted<br>POKéMON to 1/2 HP. |  |
-| GUARD SPEC. | ¥700 | Prevents stats<br>reduction. (1 BTL) |  |
-| SUPER REPEL | ¥500 | Repels weak POKé-<br>MON for 200 steps. |  |
-| MAX REPEL | ¥700 | Repels weak POKé-<br>MON for 250 steps. |  |
-| DIRE HIT | ¥650 | Ups critical hit<br>ratio. (1 BTL) |  |
-| pPSC | ¥300 | plague PLURIPOTENT<br>STEM CELL. | TERU-SAMA |
-| MICROPLASTICS | ¥200 | Restores POKéMON<br>HP by 50. | FRESH WATER |
-| SODA POP | ¥300 | Restores POKéMON<br>HP by 60. |  |
-| LEMONADE | ¥350 | Restores POKéMON<br>HP by 80. |  |
-| X DEFEND | ¥550 | Raises DEFENSE.<br>(1 BTL) |  |
-| X SPEED | ¥350 | Raises SPEED.<br>(1 BTL) |  |
-| X SPECIAL | ¥350 | Raises SPECIAL<br>ATTACK. (1 BTL) |  |
-| EXP.SHARE | ¥3000 | Shares battle EXP.<br>Points. (HOLD) |  |
-| SILVER LEAF | ¥1000 | A strange, silver-<br>colored leaf. |  |
-| PP UP | ¥9800 | Raises max PP of<br>a selected move. |  |
-| ETHER | ¥1200 | Restores PP of one<br>move by 10. |  |
-| MAX ETHER | ¥2000 | Fully restores PP<br>of one move. |  |
-| ELIXER | ¥3000 | Restores PP of all<br>moves by 10. |  |
-| MOOMOO MILK | ¥500 | Restores POKéMON<br>HP by 100. |  |
-| QUICK CLAW | ¥100 | Raises 1st strike<br>ratio. (HOLD) |  |
-| WHITE WIDOW | ¥10 | A self-cure for<br>poison. (HOLD) | PSNCUREBERRY |
-| GOLD LEAF | ¥1000 | A strange, gold-<br>colored leaf. |  |
-| SOFT SAND | ¥100 | Powers up ground-<br>type moves. (HOLD) |  |
-| SHARP BEAK | ¥100 | Powers up flying-<br>type moves. (HOLD) |  |
-| SUPER SKUNK | ¥10 | A self-cure for<br>paralysis. (HOLD) | PRZCUREBERRY |
-| HASHISH OIL | ¥10 | A self-cure for<br>freezing. (HOLD) | BURNT BERRY |
-| POISON BARB | ¥100 | Powers up poison-<br>type moves. (HOLD) |  |
-| KING'S ROCK | ¥100 | May make the foe<br>flinch. (HOLD) |  |
-| NEPAL HASH | ¥10 | A self-cure for<br>confusion. (HOLD) | BITTER BERRY |
-| MINT BERRY | ¥10 | A self-awakening<br>for sleep. (HOLD) |  |
+| BRIGHTPOWDER | ¥10 | Lowers the foe's accuracy. (HOLD) |  |
+| CRYSTALLIZE |  | Evolves certain kinds of POKéMON. | MOON STONE |
+| CHEMOTHERAPY | ¥100 | Cures poisoned POKéMON. | ANTIDOTE |
+| CRUCIFIX | ¥250 | Heals burned POKéMON. | BURN HEAL |
+| NALOXONE | ¥250 | Defrosts frozen POKéMON. | ICE HEAL |
+| MIRACLE | ¥250 | Awakens sleeping POKéMON. | AWAKENING |
+| XANAX | ¥200 | Heals paralyzed POKéMON. | PARLYZ HEAL |
+| FULL RESTORE | ¥3000 | Fully restores HP &amp; status. |  |
+| FENTANYL | ¥2500 | Fully restores POKéMON HP. | MAX POTION |
+| MORPHINE | ¥1200 | Restores POKéMON HP by 200. | HYPER POTION |
+| CODEINE | ¥700 | Restores POKéMON HP by 50. | SUPER POTION |
+| PARACETAMOL | ¥300 | Restores POKéMON HP by 20. | POTION |
+| RAGEQUIT | ¥550 | Use for escaping from caves, etc. | ESCAPE ROPE |
+| REPEL | ¥350 | Repels weak POKé- MON for 100 steps. |  |
+| MAX ELIXER | ¥4500 | Fully restores the PP of one POKéMON. |  |
+| FIRE STONE | ¥2100 | Evolves certain kinds of POKéMON. |  |
+| X-RAY | ¥2100 | Evolves certain kinds of POKéMON. | THUNDERSTONE |
+| BROKEN CONDOM | ¥2100 | Evolves certain kinds of POKéMON. | WATER STONE |
+| HP UP | ¥9800 | Raises the HP of one POKéMON. |  |
+| PROTEIN | ¥9800 | Raises ATTACK of one POKéMON. |  |
+| IRON | ¥9800 | Raises DEFENSE of one POKéMON. |  |
+| CARBOS | ¥9800 | Raises SPEED of one POKéMON. |  |
+| LUCKY PUNCH | ¥10 | Ups critical hit ratio of CHANSEY. |  |
+| CALCIUM | ¥9800 | Ups SPECIAL stats of one POKéMON. |  |
+| AGENT P | ¥4800 | Raises level of a POKéMON by one. | RARE CANDY |
+| X ACCURACY | ¥950 | Raises accuracy. (1 BTL) |  |
+| LEAF STONE | ¥2100 | Evolves certain kinds of POKéMON. |  |
+| METAL POWDER | ¥10 | Raises DEFENSE of DITTO. (HOLD) |  |
+| NUGGET | ¥10000 | Made of pure gold. Sell high. |  |
+| POKé DOLL | ¥1000 | Use to escape from a wild POKéMON. |  |
+| FULL HEAL | ¥600 | Eliminates all status problems. |  |
+| REVIVE | ¥1500 | Restores a fainted POKéMON to 1/2 HP. |  |
+| GUARD SPEC. | ¥700 | Prevents stats reduction. (1 BTL) |  |
+| SUPER REPEL | ¥500 | Repels weak POKé- MON for 200 steps. |  |
+| MAX REPEL | ¥700 | Repels weak POKé- MON for 250 steps. |  |
+| DIRE HIT | ¥650 | Ups critical hit ratio. (1 BTL) |  |
+| pPSC | ¥300 | plague PLURIPOTENT STEM CELL. | TERU-SAMA |
+| MICROPLASTICS | ¥200 | Restores POKéMON HP by 50. | FRESH WATER |
+| SODA POP | ¥300 | Restores POKéMON HP by 60. |  |
+| LEMONADE | ¥350 | Restores POKéMON HP by 80. |  |
+| X DEFEND | ¥550 | Raises DEFENSE. (1 BTL) |  |
+| X SPEED | ¥350 | Raises SPEED. (1 BTL) |  |
+| X SPECIAL | ¥350 | Raises SPECIAL ATTACK. (1 BTL) |  |
+| EXP.SHARE | ¥3000 | Shares battle EXP. Points. (HOLD) |  |
+| SILVER LEAF | ¥1000 | A strange, silver- colored leaf. |  |
+| PP UP | ¥9800 | Raises max PP of a selected move. |  |
+| ETHER | ¥1200 | Restores PP of one move by 10. |  |
+| MAX ETHER | ¥2000 | Fully restores PP of one move. |  |
+| ELIXER | ¥3000 | Restores PP of all moves by 10. |  |
+| MOOMOO MILK | ¥500 | Restores POKéMON HP by 100. |  |
+| QUICK CLAW | ¥100 | Raises 1st strike ratio. (HOLD) |  |
+| WHITE WIDOW | ¥10 | A self-cure for poison. (HOLD) | PSNCUREBERRY |
+| GOLD LEAF | ¥1000 | A strange, gold- colored leaf. |  |
+| SOFT SAND | ¥100 | Powers up ground- type moves. (HOLD) |  |
+| SHARP BEAK | ¥100 | Powers up flying- type moves. (HOLD) |  |
+| SUPER SKUNK | ¥10 | A self-cure for paralysis. (HOLD) | PRZCUREBERRY |
+| HASHISH OIL | ¥10 | A self-cure for freezing. (HOLD) | BURNT BERRY |
+| POISON BARB | ¥100 | Powers up poison- type moves. (HOLD) |  |
+| KING'S ROCK | ¥100 | May make the foe flinch. (HOLD) |  |
+| NEPAL HASH | ¥10 | A self-cure for confusion. (HOLD) | BITTER BERRY |
+| MINT BERRY | ¥10 | A self-awakening for sleep. (HOLD) |  |
 | RED APRICORN | ¥200 | A red APRICORN. |  |
-| TINYMUSHROOM | ¥500 | An ordinary mush-<br>room. Sell low. |  |
-| BIG MUSHROOM | ¥5000 | A rare mushroom.<br>Sell high. |  |
-| SILVERPOWDER | ¥100 | Powers up bug-type<br>moves. (HOLD) |  |
+| TINYMUSHROOM | ¥500 | An ordinary mush- room. Sell low. |  |
+| BIG MUSHROOM | ¥5000 | A rare mushroom. Sell high. |  |
+| SILVERPOWDER | ¥100 | Powers up bug-type moves. (HOLD) |  |
 | BLU APRICORN | ¥200 | A blue APRICORN. |  |
-| AMULET COIN | ¥100 | Doubles monetary<br>earnings. (HOLD) |  |
+| AMULET COIN | ¥100 | Doubles monetary earnings. (HOLD) |  |
 | YLW APRICORN | ¥200 | A yellow APRICORN. |  |
 | GRN APRICORN | ¥200 | A green APRICORN. |  |
-| CLEANSE TAG | ¥200 | Helps repel wild<br>POKéMON. (HOLD) |  |
-| MYSTIC WATER | ¥100 | Powers up water-<br>type moves. (HOLD) |  |
-| TWISTEDSPOON | ¥100 | Powers up psychic-<br>type moves. (HOLD) |  |
+| CLEANSE TAG | ¥200 | Helps repel wild POKéMON. (HOLD) |  |
+| MYSTIC WATER | ¥100 | Powers up water- type moves. (HOLD) |  |
+| TWISTEDSPOON | ¥100 | Powers up psychic- type moves. (HOLD) |  |
 | WHT APRICORN | ¥200 | A white APRICORN. |  |
-| BLACKBELT | ¥100 | Boosts fighting-<br>type moves. (HOLD) |  |
-| BLK APRICORN | ¥200 | A black APRICORN.<br> |  |
-| PNK APRICORN | ¥200 | A pink APRICORN.<br> |  |
-| BLACKGLASSES | ¥100 | Powers up dark-<br>type moves. (HOLD) |  |
-| SLOWPOKETAIL | ¥9800 | Very tasty. Sell<br>high. |  |
-| PINK BOW | ¥100 | Powers up normal-<br>type moves. (HOLD) |  |
-| STICK | ¥200 | An ordinary stick.<br>Sell low. |  |
-| SMOKE BALL | ¥200 | Escape from wild<br>POKéMON. (HOLD) |  |
-| NEVERMELTICE | ¥100 | Powers up ice-type<br>moves. (HOLD) |  |
-| MAGNET | ¥100 | Boosts electric-<br>type moves. (HOLD) |  |
-| MIRACLEBERRY | ¥10 | Cures all status<br>problems. (HOLD) |  |
-| PEARL | ¥1400 | A beautiful pearl.<br>Sell low. |  |
-| BIG PEARL | ¥7500 | A big, beautiful<br>pearl. Sell high. |  |
-| EVERSTONE | ¥200 | Stops evolution.<br>(HOLD) |  |
-| SPELL TAG | ¥100 | Powers up ghost-<br>type moves. (HOLD) |  |
-| RAGECANDYBAR | ¥300 | Restores POKéMON<br>HP by 20. |  |
-| MIRACLE SEED | ¥100 | Powers up grass-<br>type moves. (HOLD) |  |
-| THICK CLUB | ¥500 | A bone of some<br>sort. Sell low. |  |
-| FOCUS BAND | ¥200 | May prevent faint-<br>ing. (HOLD) |  |
-| ENERGYPOWDER | ¥500 | Restores POKéMON<br>HP by 50. Bitter. |  |
-| ENERGY ROOT | ¥800 | Restores POKéMON<br>HP by 200. Bitter. |  |
-| HEAL POWDER | ¥450 | Cures all status<br>problems. Bitter. |  |
-| REVIVAL HERB | ¥2800 | Revives fainted<br>POKéMON. Bitter. |  |
-| HARD STONE | ¥100 | Powers up rock-<br>type moves. (HOLD) |  |
-| LUCKY EGG | ¥200 | Earns extra EXP.<br>points. (HOLD) |  |
-| STARDUST | ¥2000 | Pretty, red sand.<br>Sell high. |  |
-| STAR PIECE | ¥9800 | A hunk of red gem.<br>Sell very high. |  |
-| DEMON SIGIL | ¥9800 | Powers up fire-<br>type moves. (HOLD) | CHARCOAL |
-| BERRY JUICE | ¥100 | Restores POKéMON<br>HP by 20. |  |
-| SCOPE LENS | ¥200 | Raises critical<br>hit ratio. (HOLD) |  |
-| MERCURY | ¥100 | Powers up steel-<br>type moves. (HOLD) | METAL COAT |
-| DRAGON FANG | ¥100 | Powers up dragon-<br>type moves. (HOLD) |  |
-| LEFTOVERS | ¥200 | Restores HP during<br>battle. (HOLD) |  |
-| MYSTERYBERRY | ¥10 | A self-restore<br>for PP. (HOLD) |  |
-| DRAGON SCALE | ¥2100 | A rare dragon-type<br>item. |  |
-| BERSERK GENE | ¥200 | Boosts ATTACK but<br>causes confusion. |  |
-| SACRED ASH | ¥200 | Fully revives all<br>fainted POKéMON. |  |
-| FLOWER MAIL | ¥50 | Flower-print MAIL.<br>(HOLD) |  |
-| LIGHT BALL | ¥100 | An odd, electrical<br>orb. (HOLD) |  |
-| NORMAL BOX | ¥10 | Open it and see<br>what's inside. |  |
-| GORGEOUS BOX | ¥10 | Open it and see<br>what's inside. |  |
-| SUN STONE | ¥2100 | Evolves certain<br>kinds of POKéMON. |  |
-| POLKADOT BOW | ¥100 | Powers up normal-<br>type moves. (HOLD) |  |
-| UP-GRADE | ¥2100 | A mysterious box<br>made by SILPH CO. |  |
-| WEED | ¥10 | A self-restore<br>item. (10HP, HOLD) | BERRY |
-| GOLD BERRY | ¥10 | A self-restore<br>item. (30HP, HOLD) |  |
+| BLACKBELT | ¥100 | Boosts fighting- type moves. (HOLD) |  |
+| BLK APRICORN | ¥200 | A black APRICORN. |  |
+| PNK APRICORN | ¥200 | A pink APRICORN. |  |
+| BLACKGLASSES | ¥100 | Powers up dark- type moves. (HOLD) |  |
+| SLOWPOKETAIL | ¥9800 | Very tasty. Sell high. |  |
+| PINK BOW | ¥100 | Powers up normal- type moves. (HOLD) |  |
+| STICK | ¥200 | An ordinary stick. Sell low. |  |
+| SMOKE BALL | ¥200 | Escape from wild POKéMON. (HOLD) |  |
+| NEVERMELTICE | ¥100 | Powers up ice-type moves. (HOLD) |  |
+| MAGNET | ¥100 | Boosts electric- type moves. (HOLD) |  |
+| MIRACLEBERRY | ¥10 | Cures all status problems. (HOLD) |  |
+| PEARL | ¥1400 | A beautiful pearl. Sell low. |  |
+| BIG PEARL | ¥7500 | A big, beautiful pearl. Sell high. |  |
+| EVERSTONE | ¥200 | Stops evolution. (HOLD) |  |
+| SPELL TAG | ¥100 | Powers up ghost- type moves. (HOLD) |  |
+| RAGECANDYBAR | ¥300 | Restores POKéMON HP by 20. |  |
+| MIRACLE SEED | ¥100 | Powers up grass- type moves. (HOLD) |  |
+| THICK CLUB | ¥500 | A bone of some sort. Sell low. |  |
+| FOCUS BAND | ¥200 | May prevent faint- ing. (HOLD) |  |
+| ENERGYPOWDER | ¥500 | Restores POKéMON HP by 50. Bitter. |  |
+| ENERGY ROOT | ¥800 | Restores POKéMON HP by 200. Bitter. |  |
+| HEAL POWDER | ¥450 | Cures all status problems. Bitter. |  |
+| REVIVAL HERB | ¥2800 | Revives fainted POKéMON. Bitter. |  |
+| HARD STONE | ¥100 | Powers up rock- type moves. (HOLD) |  |
+| LUCKY EGG | ¥200 | Earns extra EXP. points. (HOLD) |  |
+| STARDUST | ¥2000 | Pretty, red sand. Sell high. |  |
+| STAR PIECE | ¥9800 | A hunk of red gem. Sell very high. |  |
+| DEMON SIGIL | ¥9800 | Powers up fire- type moves. (HOLD) | CHARCOAL |
+| BERRY JUICE | ¥100 | Restores POKéMON HP by 20. |  |
+| SCOPE LENS | ¥200 | Raises critical hit ratio. (HOLD) |  |
+| MERCURY | ¥100 | Powers up steel- type moves. (HOLD) | METAL COAT |
+| DRAGON FANG | ¥100 | Powers up dragon- type moves. (HOLD) |  |
+| LEFTOVERS | ¥200 | Restores HP during battle. (HOLD) |  |
+| MYSTERYBERRY | ¥10 | A self-restore for PP. (HOLD) |  |
+| DRAGON SCALE | ¥2100 | A rare dragon-type item. |  |
+| BERSERK GENE | ¥200 | Boosts ATTACK but causes confusion. |  |
+| SACRED ASH | ¥200 | Fully revives all fainted POKéMON. |  |
+| FLOWER MAIL | ¥50 | Flower-print MAIL. (HOLD) |  |
+| LIGHT BALL | ¥100 | An odd, electrical orb. (HOLD) |  |
+| NORMAL BOX | ¥10 | Open it and see what's inside. |  |
+| GORGEOUS BOX | ¥10 | Open it and see what's inside. |  |
+| SUN STONE | ¥2100 | Evolves certain kinds of POKéMON. |  |
+| POLKADOT BOW | ¥100 | Powers up normal- type moves. (HOLD) |  |
+| UP-GRADE | ¥2100 | A mysterious box made by SILPH CO. |  |
+| WEED | ¥10 | A self-restore item. (10HP, HOLD) | BERRY |
+| GOLD BERRY | ¥10 | A self-restore item. (30HP, HOLD) |  |
 | HIKI DECO | ¥12288 | ? | TERU-SAMA |
-| BRICK PIECE | ¥50 | A rare chunk of<br>tile. |  |
-| SURF MAIL | ¥50 | LAPRAS-print MAIL.<br>(HOLD) |  |
-| LITEBLUEMAIL | ¥50 | DRATINI-print<br>MAIL. (HOLD) |  |
-| PORTRAITMAIL | ¥50 | MAIL featuring the<br>holder's likeness. |  |
-| LOVELY MAIL | ¥50 | Heart-print MAIL.<br>(HOLD) |  |
-| EON MAIL | ¥50 | EEVEE-print MAIL.<br>(HOLD) |  |
-| MORPH MAIL | ¥50 | DITTO-print MAIL.<br>(HOLD) |  |
-| BLUESKY MAIL | ¥50 | Sky-print MAIL.<br>(HOLD) |  |
-| MUSIC MAIL | ¥50 | NATU-print MAIL.<br>(HOLD) |  |
-| MIRAGE MAIL | ¥50 | MEW-print MAIL.<br>(HOLD) |  |
+| BRICK PIECE | ¥50 | A rare chunk of tile. |  |
+| SURF MAIL | ¥50 | LAPRAS-print MAIL. (HOLD) |  |
+| LITEBLUEMAIL | ¥50 | DRATINI-print MAIL. (HOLD) |  |
+| PORTRAITMAIL | ¥50 | MAIL featuring the holder's likeness. |  |
+| LOVELY MAIL | ¥50 | Heart-print MAIL. (HOLD) |  |
+| EON MAIL | ¥50 | EEVEE-print MAIL. (HOLD) |  |
+| MORPH MAIL | ¥50 | DITTO-print MAIL. (HOLD) |  |
+| BLUESKY MAIL | ¥50 | Sky-print MAIL. (HOLD) |  |
+| MUSIC MAIL | ¥50 | NATU-print MAIL. (HOLD) |  |
+| MIRAGE MAIL | ¥50 | MEW-print MAIL. (HOLD) |  |
 
 ## Balls
 
 | Item | Price | Description | In Crystal |
 |---|--:|---|---|
-| SPECIMEN JAR |  | The best BALL. It<br>never misses. | MASTER BALL |
-| PLAGUE FLASK | ¥1200 | A BALL with a high<br>rate of success. | ULTRA BALL |
-| PLAGUE TUBE | ¥600 | A BALL with a de-<br>cent success rate. | GREAT BALL |
-| PLAGUE VIAL | ¥200 | An item for catch-<br>ing POKéMON. | POKé BALL |
-| HEAVY BALL | ¥150 | A BALL for catch-<br>ing heavy POKéMON. |  |
-| LEVEL BALL | ¥150 | A BALL for lower-<br>level POKéMON. |  |
-| PETRI DISH | ¥150 | A BALL for POKéMON<br>hooked by a ROD. | LURE BALL |
-| FAST BALL | ¥150 | A BALL for catch-<br>ing fast POKéMON. |  |
-| FRIEND BALL | ¥150 | A BALL that makes<br>POKéMON friendly. |  |
-| MOON BALL | ¥150 | A BALL for MOON<br>STONE evolvers. |  |
-| LOVE BALL | ¥150 | For catching the<br>opposite gender. |  |
-| PARK BALL |  | The Bug-Catching<br>Contest BALL. |  |
+| SPECIMEN JAR |  | The best BALL. It never misses. | MASTER BALL |
+| PLAGUE FLASK | ¥1200 | A BALL with a high rate of success. | ULTRA BALL |
+| PLAGUE TUBE | ¥600 | A BALL with a de- cent success rate. | GREAT BALL |
+| PLAGUE VIAL | ¥200 | An item for catch- ing POKéMON. | POKé BALL |
+| HEAVY BALL | ¥150 | A BALL for catch- ing heavy POKéMON. |  |
+| LEVEL BALL | ¥150 | A BALL for lower- level POKéMON. |  |
+| PETRI DISH | ¥150 | A BALL for POKéMON hooked by a ROD. | LURE BALL |
+| FAST BALL | ¥150 | A BALL for catch- ing fast POKéMON. |  |
+| FRIEND BALL | ¥150 | A BALL that makes POKéMON friendly. |  |
+| MOON BALL | ¥150 | A BALL for MOON STONE evolvers. |  |
+| LOVE BALL | ¥150 | For catching the opposite gender. |  |
+| PARK BALL |  | The Bug-Catching Contest BALL. |  |
 
 ## Key Items
 
 | Item | Price | Description | In Crystal |
 |---|--:|---|---|
-| SKATEBOARD |  | SKATE DECK v0.3<br>Jump with B. | BICYCLE |
+| SKATEBOARD |  | SKATE DECK v0.3 Jump with B. | BICYCLE |
 | DRIFT CAR |  | ? | TERU-SAMA |
-| FLAMETHROWER |  | Fully restores a<br>fainted POKéMON. | MAX REVIVE |
-| X ATTACK |  | Raises ATTACK.<br>(1 BTL) |  |
+| FLAMETHROWER |  | Fully restores a fainted POKéMON. | MAX REVIVE |
+| X ATTACK |  | Raises ATTACK. (1 BTL) |  |
 | GOD HAND |  | ? | TERU-SAMA |
-| COIN CASE |  | Holds up to 9,999<br>game coins. |  |
-| ITEMFINDER |  | Checks for unseen<br>items in the area. |  |
-| OLD ROD |  | Use by water to<br>fish for POKéMON. |  |
-| GOOD ROD |  | A good ROD for<br>catching POKéMON. |  |
-| SUPER ROD |  | The best ROD for<br>catching POKéMON. |  |
-| RED SCALE |  | A scale from the<br>red GYARADOS. |  |
-| AMPCAPACITOR |  | Fully heals any<br>POKéMON. | SECRETPOTION |
-| S.S.TICKET |  | A ticket for the<br>S.S.AQUA. |  |
-| SPECIMEN CONT. |  | An EGG obtained<br>from MR.POKéMON. | MYSTERY EGG |
-| CLEAR BELL |  | Makes a gentle<br>ringing. |  |
-| SILVER WING |  | A strange, silver-<br>colored feather. |  |
-| L S D |  | A self-heal for a<br>burn. (HOLD) | ICE BERRY |
-| GS BALL |  | The mysterious<br>BALL. |  |
-| BLUE CARD |  | Card to save<br>points. |  |
-| CARD KEY |  | Opens shutters in<br>the RADIO TOWER. |  |
-| MACHINE PART |  | A machine part for<br>the POWER PLANT. |  |
-| EGG TICKET |  | May use at Golden-<br>rod trade corner. |  |
-| LOST ITEM |  | The POKé DOLL lost<br>by the COPYCAT. |  |
+| COIN CASE |  | Holds up to 9,999 game coins. |  |
+| ITEMFINDER |  | Checks for unseen items in the area. |  |
+| OLD ROD |  | Use by water to fish for POKéMON. |  |
+| GOOD ROD |  | A good ROD for catching POKéMON. |  |
+| SUPER ROD |  | The best ROD for catching POKéMON. |  |
+| RED SCALE |  | A scale from the red GYARADOS. |  |
+| AMPCAPACITOR |  | Fully heals any POKéMON. | SECRETPOTION |
+| S.S.TICKET |  | A ticket for the S.S.AQUA. |  |
+| SPECIMEN CONT. |  | An EGG obtained from MR.POKéMON. | MYSTERY EGG |
+| CLEAR BELL |  | Makes a gentle ringing. |  |
+| SILVER WING |  | A strange, silver- colored feather. |  |
+| L S D |  | A self-heal for a burn. (HOLD) | ICE BERRY |
+| GS BALL |  | The mysterious BALL. |  |
+| BLUE CARD |  | Card to save points. |  |
+| CARD KEY |  | Opens shutters in the RADIO TOWER. |  |
+| MACHINE PART |  | A machine part for the POWER PLANT. |  |
+| EGG TICKET |  | May use at Golden- rod trade corner. |  |
+| LOST ITEM |  | The POKé DOLL lost by the COPYCAT. |  |
 | BASEMENT KEY |  | Opens doors. |  |
-| PASS |  | A ticket for the<br>MAGNET TRAIN. |  |
-| KNOT CUTTER |  | A bottle used for<br>watering plants. | SQUIRTBOTTLE |
-| RAINBOW WING |  | A mystical feather<br>of rainbow colors. |  |
+| PASS |  | A ticket for the MAGNET TRAIN. |  |
+| KNOT CUTTER |  | A bottle used for watering plants. | SQUIRTBOTTLE |
+| RAINBOW WING |  | A mystical feather of rainbow colors. |  |
 
 ## TMs & HMs
 

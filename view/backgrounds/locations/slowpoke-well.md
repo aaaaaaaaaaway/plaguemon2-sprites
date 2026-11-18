@@ -1,5 +1,5 @@
-# Slowpoke Well (SLOWPOKE WELL)
+# Slowpoke Well
 
-[1× original](../../../backgrounds/locations/slowpoke-well.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/slowpoke-well.png) · [all sheets](../../../README.md)
 
 <img src="slowpoke-well/01.png">

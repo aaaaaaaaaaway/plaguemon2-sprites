@@ -1,5 +1,5 @@
-# Route 36 (AREA 36)
+# Area 36 (Route 36 in Crystal)
 
-[1× original](../../../backgrounds/routes/route-36.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/routes/route-36.png) · [all sheets](../../../README.md)
 
 <img src="route-36/01.png">

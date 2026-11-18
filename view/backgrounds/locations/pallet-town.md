@@ -1,5 +1,5 @@
-# Pallet Town (PALLET TOWN)
+# Pallet Town
 
-[1× original](../../../backgrounds/locations/pallet-town.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/pallet-town.png) · [all sheets](../../../README.md)
 
 <img src="pallet-town/01.png">

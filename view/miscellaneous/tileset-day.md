@@ -1,6 +1,6 @@
 # Tileset (Day)
 
-[1× original](../../miscellaneous/tileset-day.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/tileset-day.png) · [all sheets](../../README.md)
 
 <img src="tileset-day/01.png">
 

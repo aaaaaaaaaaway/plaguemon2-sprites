@@ -1,6 +1,6 @@
 # Intro Backgrounds
 
-[1× original](../../miscellaneous/intro-backgrounds.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/intro-backgrounds.png) · [all sheets](../../README.md)
 
 <img src="intro-backgrounds/01.png">
 

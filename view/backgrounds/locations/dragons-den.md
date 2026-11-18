@@ -1,5 +1,5 @@
-# Dragon's Den (DRAGON'S DEN)
+# Dragon's Den
 
-[1× original](../../../backgrounds/locations/dragons-den.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/dragons-den.png) · [all sheets](../../../README.md)
 
 <img src="dragons-den/01.png">

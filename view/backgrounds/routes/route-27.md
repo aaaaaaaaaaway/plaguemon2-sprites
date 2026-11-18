@@ -1,5 +1,5 @@
-# Route 27 (AREA 27)
+# Area 27 (Route 27 in Crystal)
 
-[1× original](../../../backgrounds/routes/route-27.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/routes/route-27.png) · [all sheets](../../../README.md)
 
 <img src="route-27/01.png">

@@ -1,6 +1,6 @@
 # Intro Sprites
 
-[1× original](../../miscellaneous/intro-sprites.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/intro-sprites.png) · [all sheets](../../README.md)
 
 <img src="intro-sprites/01.png">
 

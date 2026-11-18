@@ -1,5 +1,5 @@
-# Glitter Lighthouse (PENTAFLOOR)
+# Glitter Lighthouse (Pentafloor)
 
-[1× original](../../../backgrounds/locations/glitter-lighthouse.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/glitter-lighthouse.png) · [all sheets](../../../README.md)
 
 <img src="glitter-lighthouse/01.png">

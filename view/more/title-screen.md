@@ -1,6 +1,6 @@
 # Title Screen
 
-[1× original](../../more/title-screen.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../more/title-screen.png) · [all sheets](../../README.md)
 
 <img src="title-screen/01.png">
 

@@ -1,5 +1,5 @@
-# Pokémon Center / Mart (NEARBYTOWN)
+# Pokémon Center / Mart
 
-[1× original](../../../backgrounds/locations/pokemon-center-mart.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/pokemon-center-mart.png) · [all sheets](../../../README.md)
 
 <img src="pokemon-center-mart/01.png">

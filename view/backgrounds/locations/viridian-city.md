@@ -1,5 +1,5 @@
-# Viridian City (VIRIDIAN CITY)
+# Viridian City
 
-[1× original](../../../backgrounds/locations/viridian-city.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/viridian-city.png) · [all sheets](../../../README.md)
 
 <img src="viridian-city/01.png">

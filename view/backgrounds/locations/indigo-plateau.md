@@ -1,5 +1,5 @@
-# Indigo Plateau (INDIGO PLATEAU)
+# Indigo Plateau
 
-[1× original](../../../backgrounds/locations/indigo-plateau.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/indigo-plateau.png) · [all sheets](../../../README.md)
 
 <img src="indigo-plateau/01.png">

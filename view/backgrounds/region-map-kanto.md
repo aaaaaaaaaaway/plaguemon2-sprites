@@ -1,6 +1,6 @@
 # Region Map (Kanto)
 
-The Pokégear map with every landmark numbered · [1× original](../../backgrounds/region-map-kanto.png) · [all sheets](../../README.md)
+The Pokégear map with every landmark numbered · [Open full-size PNG](../../backgrounds/region-map-kanto.png) · [all sheets](../../README.md)
 
 <img src="../../backgrounds/region-map-kanto-numbered.png" alt="Region Map (Kanto), landmarks numbered">
 

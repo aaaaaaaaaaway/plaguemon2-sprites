@@ -1,6 +1,6 @@
 # Professor Oak's Opening Lecture
 
-[1× original](../../miscellaneous/professor-oaks-opening-lecture.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/professor-oaks-opening-lecture.png) · [all sheets](../../README.md)
 
 <img src="professor-oaks-opening-lecture/01.png">
 

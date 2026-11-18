@@ -1,5 +1,5 @@
-# Ecruteak City (SUBURBIA)
+# Suburbia (Ecruteak City in Crystal)
 
-[1× original](../../../backgrounds/locations/ecruteak-city.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/ecruteak-city.png) · [all sheets](../../../README.md)
 
 <img src="ecruteak-city/01.png">

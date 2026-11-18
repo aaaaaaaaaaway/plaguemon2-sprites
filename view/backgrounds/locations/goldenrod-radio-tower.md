@@ -1,5 +1,5 @@
-# Goldenrod Radio Tower (RADIO TOWER)
+# Goldenrod Radio Tower (Radio Tower)
 
-[1× original](../../../backgrounds/locations/goldenrod-radio-tower.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/goldenrod-radio-tower.png) · [all sheets](../../../README.md)
 
 <img src="goldenrod-radio-tower/01.png">

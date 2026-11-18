@@ -1,6 +1,6 @@
 # Bag Interface
 
-[1× original](../../miscellaneous/bag-interface.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/bag-interface.png) · [all sheets](../../README.md)
 
 <img src="bag-interface/01.png">
 

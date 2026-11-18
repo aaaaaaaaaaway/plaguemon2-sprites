@@ -1,5 +1,5 @@
-# Mt. Silver (SILVER CAVE)
+# Mt. Silver (Silver Cave)
 
-[1× original](../../../backgrounds/locations/mt-silver.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/mt-silver.png) · [all sheets](../../../README.md)
 
 <img src="mt-silver/01.png">

@@ -1,5 +1,5 @@
-# Daycare (AREA 34)
+# Daycare (Area 34)
 
-[1× original](../../../backgrounds/locations/daycare.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/daycare.png) · [all sheets](../../../README.md)
 
 <img src="daycare/01.png">

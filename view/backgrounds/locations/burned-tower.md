@@ -1,5 +1,5 @@
-# Burned Tower (BURNED TOWER)
+# Burned Tower
 
-[1× original](../../../backgrounds/locations/burned-tower.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/burned-tower.png) · [all sheets](../../../README.md)
 
 <img src="burned-tower/01.png">

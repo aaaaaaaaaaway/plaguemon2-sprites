@@ -1,5 +1,5 @@
-# S.S. Aqua (FAST SHIP)
+# S.S. Aqua
 
-[1× original](../../../backgrounds/locations/s-s-aqua.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/s-s-aqua.png) · [all sheets](../../../README.md)
 
 <img src="s-s-aqua/01.png">

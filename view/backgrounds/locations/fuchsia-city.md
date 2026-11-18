@@ -1,5 +1,5 @@
-# Fuchsia City (FUCHSIA CITY)
+# Fuchsia City
 
-[1× original](../../../backgrounds/locations/fuchsia-city.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/fuchsia-city.png) · [all sheets](../../../README.md)
 
 <img src="fuchsia-city/01.png">

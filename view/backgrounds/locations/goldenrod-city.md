@@ -1,5 +1,5 @@
-# Goldenrod City (METRO COMPLEX)
+# Metro Complex (Goldenrod City in Crystal)
 
-[1× original](../../../backgrounds/locations/goldenrod-city.png) · [all sheets](../../../README.md)
+[Open full-size PNG](../../../backgrounds/locations/goldenrod-city.png) · [all sheets](../../../README.md)
 
 <img src="goldenrod-city/01.png">

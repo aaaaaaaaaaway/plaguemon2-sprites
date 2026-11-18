@@ -1,6 +1,6 @@
 # Game Freak Intro
 
-[1× original](../../miscellaneous/game-freak-intro.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../miscellaneous/game-freak-intro.png) · [all sheets](../../README.md)
 
 <img src="game-freak-intro/01.png">
 
