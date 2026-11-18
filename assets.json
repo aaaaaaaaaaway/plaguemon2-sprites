@@ -196,7 +196,7 @@
   "view_parts": 1,
   "w": 1016,
   "h": 1502,
-  "kb": 100
+  "kb": 101
  },
  {
   "section": "Backgrounds (Locations)",
@@ -235,7 +235,7 @@
   "view_parts": 1,
   "w": 968,
   "h": 1034,
-  "kb": 62
+  "kb": 65
  },
  {
   "section": "Backgrounds (Locations)",
@@ -274,7 +274,7 @@
   "view_parts": 1,
   "w": 992,
   "h": 622,
-  "kb": 58
+  "kb": 56
  },
  {
   "section": "Backgrounds (Locations)",
@@ -326,7 +326,7 @@
   "view_parts": 1,
   "w": 1016,
   "h": 2374,
-  "kb": 198
+  "kb": 204
  },
  {
   "section": "Backgrounds (Locations)",
@@ -339,7 +339,7 @@
   "view_parts": 1,
   "w": 896,
   "h": 322,
-  "kb": 20
+  "kb": 21
  },
  {
   "section": "Backgrounds (Locations)",
@@ -352,7 +352,7 @@
   "view_parts": 1,
   "w": 984,
   "h": 930,
-  "kb": 147
+  "kb": 178
  },
  {
   "section": "Backgrounds (Locations)",
@@ -378,7 +378,7 @@
   "view_parts": 1,
   "w": 976,
   "h": 714,
-  "kb": 36
+  "kb": 45
  },
  {
   "section": "Backgrounds (Locations)",
@@ -456,7 +456,7 @@
   "view_parts": 1,
   "w": 944,
   "h": 482,
-  "kb": 41
+  "kb": 44
  },
  {
   "section": "Backgrounds (Locations)",
@@ -534,7 +534,7 @@
   "view_parts": 2,
   "w": 1016,
   "h": 1690,
-  "kb": 109
+  "kb": 113
  },
  {
   "section": "Backgrounds (Locations)",
@@ -547,7 +547,7 @@
   "view_parts": 1,
   "w": 992,
   "h": 1782,
-  "kb": 87
+  "kb": 88
  },
  {
   "section": "Backgrounds (Locations)",
@@ -599,7 +599,7 @@
   "view_parts": 1,
   "w": 904,
   "h": 1538,
-  "kb": 85
+  "kb": 91
  },
  {
   "section": "Backgrounds (Locations)",
@@ -625,7 +625,7 @@
   "view_parts": 1,
   "w": 1024,
   "h": 874,
-  "kb": 80
+  "kb": 82
  },
  {
   "section": "Backgrounds (Locations)",
@@ -648,10 +648,10 @@
   "thumb": "thumbs/miscellaneous/tileset-day.png",
   "page": "view/miscellaneous/tileset-day.md",
   "view_zoom": 4,
-  "view_parts": 4,
+  "view_parts": 5,
   "w": 960,
-  "h": 722,
-  "kb": 159
+  "h": 914,
+  "kb": 172
  },
  {
   "section": "Miscellaneous",
@@ -661,10 +661,10 @@
   "thumb": "thumbs/miscellaneous/tileset-morning.png",
   "page": "view/miscellaneous/tileset-morning.md",
   "view_zoom": 4,
-  "view_parts": 4,
+  "view_parts": 5,
   "w": 960,
-  "h": 722,
-  "kb": 152
+  "h": 914,
+  "kb": 163
  },
  {
   "section": "Miscellaneous",
@@ -674,10 +674,10 @@
   "thumb": "thumbs/miscellaneous/tileset-night.png",
   "page": "view/miscellaneous/tileset-night.md",
   "view_zoom": 4,
-  "view_parts": 4,
+  "view_parts": 5,
   "w": 960,
-  "h": 722,
-  "kb": 161
+  "h": 914,
+  "kb": 175
  },
  {
   "section": "Miscellaneous",
@@ -704,6 +704,19 @@
   "w": 140,
   "h": 74,
   "kb": 2
+ },
+ {
+  "section": "Miscellaneous",
+  "name": "Battle Backgrounds",
+  "sub": "",
+  "file": "more/battle-backgrounds.png",
+  "thumb": "thumbs/more/battle-backgrounds.png",
+  "page": "view/more/battle-backgrounds.md",
+  "view_zoom": 4,
+  "view_parts": 1,
+  "w": 512,
+  "h": 182,
+  "kb": 17
  },
  {
   "section": "Miscellaneous",
@@ -846,7 +859,7 @@
   "view_parts": 1,
   "w": 7520,
   "h": 4320,
-  "kb": 1214
+  "kb": 1220
  },
  {
   "section": "World Map",
@@ -1171,7 +1184,7 @@
   "view_parts": 1,
   "w": 976,
   "h": 458,
-  "kb": 31
+  "kb": 32
  },
  {
   "section": "More maps",
@@ -1197,7 +1210,7 @@
   "view_parts": 1,
   "w": 608,
   "h": 898,
-  "kb": 58
+  "kb": 57
  },
  {
   "section": "More maps",
@@ -1314,7 +1327,7 @@
   "view_parts": 1,
   "w": 608,
   "h": 610,
-  "kb": 36
+  "kb": 37
  },
  {
   "section": "More maps",

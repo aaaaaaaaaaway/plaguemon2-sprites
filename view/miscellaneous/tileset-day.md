@@ -9,3 +9,5 @@
 <img src="tileset-day/03.png">
 
 <img src="tileset-day/04.png">
+
+<img src="tileset-day/05.png">

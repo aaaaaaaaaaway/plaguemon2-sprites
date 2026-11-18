@@ -9,3 +9,5 @@
 <img src="tileset-night/03.png">
 
 <img src="tileset-night/04.png">
+
+<img src="tileset-night/05.png">

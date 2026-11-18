@@ -1,0 +1,228 @@
+{
+  "inputs": {
+    "landmark": "$C2D9",
+    "player_state": "$D95D",
+    "tileset": "$D199"
+  },
+  "graphics_selector_offset": 261391,
+  "palette_selector_offset": 36368,
+  "other_values": "null matches all values outside the listed cases for that input",
+  "variants": [
+    {
+      "file": "sprites/battle-backgrounds/4f4a-68fe.png",
+      "graphics": "7c:4f4a",
+      "palette": "02:68fe",
+      "rgb555": [
+        32767,
+        5375,
+        13736,
+        2144
+      ],
+      "compressed_bytes": 678,
+      "cases": [
+        {
+          "landmark": 38,
+          "player_state": 4,
+          "tileset": 1
+        },
+        {
+          "landmark": 38,
+          "player_state": 4,
+          "tileset": 30
+        },
+        {
+          "landmark": 38,
+          "player_state": 4,
+          "tileset": null
+        },
+        {
+          "landmark": 38,
+          "player_state": null,
+          "tileset": 1
+        },
+        {
+          "landmark": 38,
+          "player_state": null,
+          "tileset": 30
+        },
+        {
+          "landmark": 38,
+          "player_state": null,
+          "tileset": null
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/51f0-6916.png",
+      "graphics": "7c:51f0",
+      "palette": "02:6916",
+      "rgb555": [
+        24280,
+        16971,
+        11589,
+        5283
+      ],
+      "compressed_bytes": 922,
+      "cases": [
+        {
+          "landmark": 90,
+          "player_state": 4,
+          "tileset": 1
+        },
+        {
+          "landmark": 90,
+          "player_state": 4,
+          "tileset": 30
+        },
+        {
+          "landmark": 90,
+          "player_state": 4,
+          "tileset": null
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/59e6-6916.png",
+      "graphics": "7c:59e6",
+      "palette": "02:6916",
+      "rgb555": [
+        24280,
+        16971,
+        11589,
+        5283
+      ],
+      "compressed_bytes": 1153,
+      "cases": [
+        {
+          "landmark": 90,
+          "player_state": null,
+          "tileset": 1
+        },
+        {
+          "landmark": 90,
+          "player_state": null,
+          "tileset": 30
+        },
+        {
+          "landmark": 90,
+          "player_state": null,
+          "tileset": null
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/51f0-690e.png",
+      "graphics": "7c:51f0",
+      "palette": "02:690e",
+      "rgb555": [
+        32767,
+        7731,
+        13772,
+        6245
+      ],
+      "compressed_bytes": 922,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": 4,
+          "tileset": 1
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/51f0-6906.png",
+      "graphics": "7c:51f0",
+      "palette": "02:6906",
+      "rgb555": [
+        14732,
+        9543,
+        7397,
+        2052
+      ],
+      "compressed_bytes": 922,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": 4,
+          "tileset": 30
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/51f0-68fe.png",
+      "graphics": "7c:51f0",
+      "palette": "02:68fe",
+      "rgb555": [
+        32767,
+        5375,
+        13736,
+        2144
+      ],
+      "compressed_bytes": 922,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": 4,
+          "tileset": null
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/4c28-690e.png",
+      "graphics": "7c:4c28",
+      "palette": "02:690e",
+      "rgb555": [
+        32767,
+        7731,
+        13772,
+        6245
+      ],
+      "compressed_bytes": 802,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": null,
+          "tileset": 1
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/558a-6906.png",
+      "graphics": "7c:558a",
+      "palette": "02:6906",
+      "rgb555": [
+        14732,
+        9543,
+        7397,
+        2052
+      ],
+      "compressed_bytes": 1116,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": null,
+          "tileset": 30
+        }
+      ]
+    },
+    {
+      "file": "sprites/battle-backgrounds/49d8-68fe.png",
+      "graphics": "7c:49d8",
+      "palette": "02:68fe",
+      "rgb555": [
+        32767,
+        5375,
+        13736,
+        2144
+      ],
+      "compressed_bytes": 592,
+      "cases": [
+        {
+          "landmark": null,
+          "player_state": null,
+          "tileset": null
+        }
+      ]
+    }
+  ]
+}
