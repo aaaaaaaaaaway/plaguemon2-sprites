@@ -1,4 +1,4 @@
-# Oversea Asylum (Cianwood City in Crystal)
+# Oversea Asylum
 
 [Open full-size PNG](../../../backgrounds/locations/cianwood-city.png) · [all sheets](../../../README.md)
 

@@ -58,7 +58,7 @@
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 17",
-  "sub": "Route 17 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-17.png",
   "thumb": "thumbs/backgrounds/routes/route-17.png",
   "page": "view/backgrounds/routes/route-17.md",
@@ -71,7 +71,7 @@
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 26",
-  "sub": "Route 26 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-26.png",
   "thumb": "thumbs/backgrounds/routes/route-26.png",
   "page": "view/backgrounds/routes/route-26.md",
@@ -79,12 +79,12 @@
   "view_parts": 1,
   "w": 336,
   "h": 1762,
-  "kb": 61
+  "kb": 60
  },
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 27",
-  "sub": "Route 27 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-27.png",
   "thumb": "thumbs/backgrounds/routes/route-27.png",
   "page": "view/backgrounds/routes/route-27.md",
@@ -97,7 +97,7 @@
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 36",
-  "sub": "Route 36 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-36.png",
   "thumb": "thumbs/backgrounds/routes/route-36.png",
   "page": "view/backgrounds/routes/route-36.md",
@@ -110,7 +110,7 @@
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 40",
-  "sub": "Route 40 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-40.png",
   "thumb": "thumbs/backgrounds/routes/route-40.png",
   "page": "view/backgrounds/routes/route-40.md",
@@ -123,7 +123,7 @@
  {
   "section": "Backgrounds (Routes)",
   "name": "Area 43",
-  "sub": "Route 43 in Crystal",
+  "sub": "",
   "file": "backgrounds/routes/route-43.png",
   "thumb": "thumbs/backgrounds/routes/route-43.png",
   "page": "view/backgrounds/routes/route-43.md",
@@ -131,12 +131,12 @@
   "view_parts": 1,
   "w": 336,
   "h": 898,
-  "kb": 39
+  "kb": 38
  },
  {
   "section": "Backgrounds (Locations)",
   "name": "Los Aura",
-  "sub": "Azalea Town in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/azalea-town.png",
   "thumb": "thumbs/backgrounds/locations/azalea-town.png",
   "page": "view/backgrounds/locations/azalea-town.md",
@@ -144,7 +144,7 @@
   "view_parts": 1,
   "w": 1024,
   "h": 586,
-  "kb": 68
+  "kb": 67
  },
  {
   "section": "Backgrounds (Locations)",
@@ -162,7 +162,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Peak of Dread",
-  "sub": "Blackthorn City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/blackthorn-city.png",
   "thumb": "thumbs/backgrounds/locations/blackthorn-city.png",
   "page": "view/backgrounds/locations/blackthorn-city.md",
@@ -214,7 +214,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Nearbytown",
-  "sub": "Cherrygrove City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/cherrygrove-city.png",
   "thumb": "thumbs/backgrounds/locations/cherrygrove-city.png",
   "page": "view/backgrounds/locations/cherrygrove-city.md",
@@ -227,7 +227,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Oversea Asylum",
-  "sub": "Cianwood City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/cianwood-city.png",
   "thumb": "thumbs/backgrounds/locations/cianwood-city.png",
   "page": "view/backgrounds/locations/cianwood-city.md",
@@ -279,7 +279,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Suburbia",
-  "sub": "Ecruteak City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/ecruteak-city.png",
   "thumb": "thumbs/backgrounds/locations/ecruteak-city.png",
   "page": "view/backgrounds/locations/ecruteak-city.md",
@@ -318,7 +318,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Metro Complex",
-  "sub": "Goldenrod City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/goldenrod-city.png",
   "thumb": "thumbs/backgrounds/locations/goldenrod-city.png",
   "page": "view/backgrounds/locations/goldenrod-city.md",
@@ -326,7 +326,7 @@
   "view_parts": 1,
   "w": 1016,
   "h": 2374,
-  "kb": 204
+  "kb": 203
  },
  {
   "section": "Backgrounds (Locations)",
@@ -357,7 +357,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Suicide Forest",
-  "sub": "Ilex Forest in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/ilex-forest.png",
   "thumb": "thumbs/backgrounds/locations/ilex-forest.png",
   "page": "view/backgrounds/locations/ilex-forest.md",
@@ -396,7 +396,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Lonely Woods",
-  "sub": "Mahogany Town in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/mahogany-town.png",
   "thumb": "thumbs/backgrounds/locations/mahogany-town.png",
   "page": "view/backgrounds/locations/mahogany-town.md",
@@ -448,7 +448,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Hometown",
-  "sub": "New Bark Town in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/new-bark-town.png",
   "thumb": "thumbs/backgrounds/locations/new-bark-town.png",
   "page": "view/backgrounds/locations/new-bark-town.md",
@@ -461,7 +461,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Government",
-  "sub": "Olivine City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/olivine-city.png",
   "thumb": "thumbs/backgrounds/locations/olivine-city.png",
   "page": "view/backgrounds/locations/olivine-city.md",
@@ -617,7 +617,7 @@
  {
   "section": "Backgrounds (Locations)",
   "name": "Nostalgothia",
-  "sub": "Violet City in Crystal",
+  "sub": "",
   "file": "backgrounds/locations/violet-city.png",
   "thumb": "thumbs/backgrounds/locations/violet-city.png",
   "page": "view/backgrounds/locations/violet-city.md",

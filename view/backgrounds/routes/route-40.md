@@ -1,4 +1,4 @@
-# Area 40 (Route 40 in Crystal)
+# Area 40
 
 [Open full-size PNG](../../../backgrounds/routes/route-40.png) · [all sheets](../../../README.md)
 

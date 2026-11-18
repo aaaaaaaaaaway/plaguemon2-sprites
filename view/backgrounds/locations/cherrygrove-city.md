@@ -1,4 +1,4 @@
-# Nearbytown (Cherrygrove City in Crystal)
+# Nearbytown
 
 [Open full-size PNG](../../../backgrounds/locations/cherrygrove-city.png) · [all sheets](../../../README.md)
 

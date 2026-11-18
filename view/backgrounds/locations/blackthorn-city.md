@@ -1,4 +1,4 @@
-# Peak of Dread (Blackthorn City in Crystal)
+# Peak of Dread
 
 [Open full-size PNG](../../../backgrounds/locations/blackthorn-city.png) · [all sheets](../../../README.md)
 

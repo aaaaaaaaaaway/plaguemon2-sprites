@@ -1,4 +1,4 @@
-# Suicide Forest (Ilex Forest in Crystal)
+# Suicide Forest
 
 [Open full-size PNG](../../../backgrounds/locations/ilex-forest.png) · [all sheets](../../../README.md)
 

@@ -1,4 +1,4 @@
-# Hometown (New Bark Town in Crystal)
+# Hometown
 
 [Open full-size PNG](../../../backgrounds/locations/new-bark-town.png) · [all sheets](../../../README.md)
 

@@ -1,4 +1,4 @@
-# Lonely Woods (Mahogany Town in Crystal)
+# Lonely Woods
 
 [Open full-size PNG](../../../backgrounds/locations/mahogany-town.png) · [all sheets](../../../README.md)
 

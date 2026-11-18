@@ -1,4 +1,4 @@
-# Area 17 (Route 17 in Crystal)
+# Area 17
 
 [Open full-size PNG](../../../backgrounds/routes/route-17.png) · [all sheets](../../../README.md)
 

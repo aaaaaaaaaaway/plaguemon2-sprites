@@ -1,6 +1,6 @@
 # Region Map (Johto)
 
-The Pokégear map with every landmark numbered · [Open full-size PNG](../../backgrounds/region-map-johto.png) · [all sheets](../../README.md)
+[Open full-size PNG](../../backgrounds/region-map-johto.png) · [all sheets](../../README.md)
 
 <img src="../../backgrounds/region-map-johto-numbered.png" alt="Region Map (Johto), landmarks numbered">
 

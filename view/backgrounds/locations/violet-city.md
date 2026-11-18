@@ -1,4 +1,4 @@
-# Nostalgothia (Violet City in Crystal)
+# Nostalgothia
 
 [Open full-size PNG](../../../backgrounds/locations/violet-city.png) · [all sheets](../../../README.md)
 

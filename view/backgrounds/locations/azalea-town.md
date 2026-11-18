@@ -1,4 +1,4 @@
-# Los Aura (Azalea Town in Crystal)
+# Los Aura
 
 [Open full-size PNG](../../../backgrounds/locations/azalea-town.png) · [all sheets](../../../README.md)
 

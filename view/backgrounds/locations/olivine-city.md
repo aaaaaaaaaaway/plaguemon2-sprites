@@ -1,4 +1,4 @@
-# Government (Olivine City in Crystal)
+# Government
 
 [Open full-size PNG](../../../backgrounds/locations/olivine-city.png) · [all sheets](../../../README.md)
 
