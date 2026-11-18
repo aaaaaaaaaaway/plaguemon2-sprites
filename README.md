@@ -10,8 +10,9 @@
 
 &gt; **by** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
 &gt; **patch** [plaguemon.com](https://plaguemon.com)<br>
-&gt; **base ROM** Pokémon Crystal (USA/Europe)<br>
-&gt; [Browse the gallery](https://aaaaaaaaaaway.github.io/plaguemon2-sprites/)
+&gt; **base ROM** Pokémon Crystal (USA/Europe)
+
+<p align="center"><a href="https://aaaaaaaaaaway.github.io/plaguemon2-sprites/"><img src="view/browse-gallery.gif" alt="Browse the gallery"></a></p>
 
 <br>
 
