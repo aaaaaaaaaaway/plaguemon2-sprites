@@ -6,11 +6,12 @@
 
 <br>
 
-*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is Hikikomori’s cyberpunk horror hack of Pokémon Crystal and the sequel to *Plaguemon: Lost Diaries* (2018). This archive collects the sprites, battle backgrounds, maps, music, and game data from v0.1.0.
+*Plaguemon II: The AfterWorld* (プラゲモンII後の世界) is a cyberpunk horror hack of Pokémon Crystal and the sequel to *Plaguemon: Lost Diaries* (2018). This archive collects the sprites, battle backgrounds, maps, music, and game data from v0.1.0.
 
-[Browse the gallery](https://aaaaaaaaaaway.github.io/plaguemon2-sprites/) · [Download the game patch](https://plaguemon.com)
-
-The patch uses Pokémon Crystal (USA/Europe) as its base.
+&gt; **by** [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com))<br>
+&gt; **patch** [plaguemon.com](https://plaguemon.com)<br>
+&gt; **base ROM** Pokémon Crystal (USA/Europe)<br>
+&gt; [Browse the gallery](https://aaaaaaaaaaway.github.io/plaguemon2-sprites/)
 
 <br>
 
@@ -29,6 +30,579 @@ The patch uses Pokémon Crystal (USA/Europe) as its base.
 ## Characters
 
 <table><tr><td align="center" valign="top"><a href="view/characters/characters-battle.md"><img src="thumbs/characters/characters-battle.png" alt="Characters (Battle)"></a><br><a href="view/characters/characters-battle.md">Characters (Battle)</a> <sub><a href="characters/characters-battle.png">1×</a></sub></td><td align="center" valign="top"><a href="view/characters/characters-overworld.md"><img src="thumbs/characters/characters-overworld.png" alt="Characters (Overworld)"></a><br><a href="view/characters/characters-overworld.md">Characters (Overworld)</a> <sub><a href="characters/characters-overworld.png">1×</a></sub></td><td align="center" valign="top"><a href="view/trainers.md"><img src="thumbs/characters/trainer-teams.png" alt="Trainer teams"></a><br><a href="view/trainers.md">Trainer teams</a> <sub><a href="data/trainers.json">JSON</a></sub></td></tr></table>
+
+<br>
+
+## Trainers
+
+<table>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#01-eric-dylan"><img src="sprites/trainers/01-eric-dylan.png" alt=""><br><sub>ERIC&amp;DYLAN</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#02-inmate"><img src="sprites/trainers/02-inmate.png" alt=""><br><sub>INMATE (AILEEN)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#03-inmate"><img src="sprites/trainers/03-inmate.png" alt=""><br><sub>INMATE (JEFFREY)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#04-cult-leader"><img src="sprites/trainers/04-cult-leader.png" alt=""><br><sub>CULT LEADER</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#05-u-n-a"><img src="sprites/trainers/05-u-n-a.png" alt=""><br><sub>U.N.A.</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#06-jihadist"><img src="sprites/trainers/06-jihadist.png" alt=""><br><sub>JIHADIST</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#07-pogo-clown"><img src="sprites/trainers/07-pogo-clown.png" alt=""><br><sub>POGO CLOWN</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#08-pope"><img src="sprites/trainers/08-pope.png" alt=""><br><sub>POPE</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#09-noia-agent"><img src="sprites/trainers/09-noia-agent.png" alt=""><br><sub>NOIA AGENT</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#10-pokemon-prof"><img src="sprites/trainers/10-pokemon-prof.png" alt=""><br><sub>POKéMON PROF.</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#11-digital"><img src="sprites/trainers/11-digital.png" alt=""><br><sub>DIGITAL世界</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#12-pkmn-trainer"><img src="sprites/trainers/12-pkmn-trainer.png" alt=""><br><sub>PKMN TRAINER</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#13-elite-four"><img src="sprites/trainers/13-elite-four.png" alt=""><br><sub>ELITE FOUR (BRUNO)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#14-elite-four"><img src="sprites/trainers/14-elite-four.png" alt=""><br><sub>ELITE FOUR (KAREN)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#15-elite-four"><img src="sprites/trainers/15-elite-four.png" alt=""><br><sub>ELITE FOUR (KOGA)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#16-pure-math"><img src="sprites/trainers/16-pure-math.png" alt=""><br><sub>PURE MATH</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#17-leader"><img src="sprites/trainers/17-leader.png" alt=""><br><sub>LEADER (BROCK)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#18-leader"><img src="sprites/trainers/18-leader.png" alt=""><br><sub>LEADER (MISTY)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#19-leader"><img src="sprites/trainers/19-leader.png" alt=""><br><sub>LEADER (LT.SURGE)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#20-scientist"><img src="sprites/trainers/20-scientist.png" alt=""><br><sub>SCIENTIST</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#21-leader"><img src="sprites/trainers/21-leader.png" alt=""><br><sub>LEADER (ERIKA)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#22-menino-d-rua"><img src="sprites/trainers/22-menino-d-rua.png" alt=""><br><sub>MENINO D RUA</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#23-gooner"><img src="sprites/trainers/23-gooner.png" alt=""><br><sub>GOONER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#24-mass-shooter"><img src="sprites/trainers/24-mass-shooter.png" alt=""><br><sub>MASS SHOOTER</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#25-femboy"><img src="sprites/trainers/25-femboy.png" alt=""><br><sub>FEMBOY</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#26-leader"><img src="sprites/trainers/26-leader.png" alt=""><br><sub>LEADER (JANINE)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#27-cooltrainer"><img src="sprites/trainers/27-cooltrainer.png" alt=""><br><sub>COOLTRAINER (NICK, AARON, …)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#28-cooltrainer"><img src="sprites/trainers/28-cooltrainer.png" alt=""><br><sub>COOLTRAINER (GWEN, LOIS, …)</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#29-e-girl"><img src="sprites/trainers/29-e-girl.png" alt=""><br><sub>E-GIRL</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#30-fentanyl"><img src="sprites/trainers/30-fentanyl.png" alt=""><br><sub>FENTANYL</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#31-plaguecorp"><img src="sprites/trainers/31-plaguecorp.png" alt=""><br><sub>PLAGUEcorp.</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#32-reptilian"><img src="sprites/trainers/32-reptilian.png" alt=""><br><sub>REPTILIAN</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#33-skier"><img src="sprites/trainers/33-skier.png" alt=""><br><sub>SKIER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#34-teacher"><img src="sprites/trainers/34-teacher.png" alt=""><br><sub>TEACHER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#35-leader"><img src="sprites/trainers/35-leader.png" alt=""><br><sub>LEADER (SABRINA)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#36-maranza"><img src="sprites/trainers/36-maranza.png" alt=""><br><sub>MARANZA</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#37-fisher"><img src="sprites/trainers/37-fisher.png" alt=""><br><sub>FISHER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#38-human"><img src="sprites/trainers/38-human.png" alt=""><br><sub>HUMAN</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#39-swimmer"><img src="sprites/trainers/39-swimmer.png" alt=""><br><sub>SWIMMER♀</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#40-prisoner"><img src="sprites/trainers/40-prisoner.png" alt=""><br><sub>PRISONER</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#41-obscure"><img src="sprites/trainers/41-obscure.png" alt=""><br><sub>OBSCURE</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#42-rival"><img src="sprites/trainers/42-rival.png" alt=""><br><sub>RIVAL</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#43-guitarist"><img src="sprites/trainers/43-guitarist.png" alt=""><br><sub>GUITARIST</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#44-pest-control"><img src="sprites/trainers/44-pest-control.png" alt=""><br><sub>PEST CONTROL</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#45-biker"><img src="sprites/trainers/45-biker.png" alt=""><br><sub>BIKER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#46-leader"><img src="sprites/trainers/46-leader.png" alt=""><br><sub>LEADER (BLAINE)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#47-juggalo"><img src="sprites/trainers/47-juggalo.png" alt=""><br><sub>JUGGALO</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#48-punkabbestia"><img src="sprites/trainers/48-punkabbestia.png" alt=""><br><sub>PUNKABBESTIA</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#49-stupid-hippy"><img src="sprites/trainers/49-stupid-hippy.png" alt=""><br><sub>STUPID HIPPY</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#50-yakuza"><img src="sprites/trainers/50-yakuza.png" alt=""><br><sub>YAKUZA</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#51-rocket"><img src="sprites/trainers/51-rocket.png" alt=""><br><sub>ROCKET (EXECUTIVE)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#52-conspiracy"><img src="sprites/trainers/52-conspiracy.png" alt=""><br><sub>CONSPIRACY</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#53-car-struck"><img src="sprites/trainers/53-car-struck.png" alt=""><br><sub>CAR STRUCK</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#54-romani-gipsy"><img src="sprites/trainers/54-romani-gipsy.png" alt=""><br><sub>ROMANI GIPSY</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#55-rocket"><img src="sprites/trainers/55-rocket.png" alt=""><br><sub>ROCKET (EXECUTIVE, Radio Tower 5F)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#56-sage"><img src="sprites/trainers/56-sage.png" alt=""><br><sub>SAGE</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#57-cultist"><img src="sprites/trainers/57-cultist.png" alt=""><br><sub>CULTIST</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#58-boarder"><img src="sprites/trainers/58-boarder.png" alt=""><br><sub>BOARDER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#59-pedophile"><img src="sprites/trainers/59-pedophile.png" alt=""><br><sub>PEDOPHILE (WILLIAM, DEREK, …)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#60-synthetic"><img src="sprites/trainers/60-synthetic.png" alt=""><br><sub>SYNTHETIC</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#61-lesbian-nuns"><img src="sprites/trainers/61-lesbian-nuns.png" alt=""><br><sub>LESBIAN NUNS</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#62-pedophile"><img src="sprites/trainers/62-pedophile.png" alt=""><br><sub>PEDOPHILE (BEVERLY, RUTH, …)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#63-author"><img src="sprites/trainers/63-author.png" alt=""><br><sub>AUTHOR神</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#64-leader"><img src="sprites/trainers/64-leader.png" alt=""><br><sub>LEADER (BLUE)</sub></a></td></tr>
+<tr><td align="center" valign="bottom"><a href="view/trainers.md#65-officer"><img src="sprites/trainers/65-officer.png" alt=""><br><sub>OFFICER</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#66-rocket"><img src="sprites/trainers/66-rocket.png" alt=""><br><sub>ROCKET (POLICE)</sub></a></td><td align="center" valign="bottom"><a href="view/trainers.md#67-mysticalman"><img src="sprites/trainers/67-mysticalman.png" alt=""><br><sub>MYSTICALMAN</sub></a></td></tr>
+</table>
+
+<details><summary>Show all 542 trainer teams</summary>
+
+| Class | Trainer | Team | Location |
+|---|---|---|---|
+| ERIC&amp;DYLAN | 18/17y | CIKKAN Lv7, UBERBIRO Lv9 | Nostalgothia Gym |
+| INMATE (AILEEN) | AILEEN | OVARIAN Lv18, INTENSIVO Lv20 | Metro Complex Gym |
+| INMATE (JEFFREY) | JEFFREY | MUTAPUD Lv14, KAKUZI Lv14, HANZORU Lv16 | Los Aura Gym |
+| CULT LEADER | SHOKO | GOSBAMP Lv21, WRAITARL Lv21, TREROR Lv25, WRAITARL Lv23 | Suburbia Gym |
+| U.N.A. | BOMBER | MEGADIL Lv27, MEGADIL500 Lv29, PILOSWINE Lv31 | Lonely Woods Gym |
+| JIHADIST | OSAMA | GHOSHELLO Lv30, GHOSHELLO Lv30, HYDRAGYRUM Lv35 | Government Gym |
+| POGO CLOWN | GACY | NAGASAK Lv27, SMEGMATIC Lv30 | Oversea Asylum Gym |
+| POPE | PLARIO | SERAPHIUM Lv37, SERAPHIUM Lv37, SERAPHIUM Lv37, LUCIFERION Lv40 | Peak of Dread Gym 1F |
+| NOIA AGENT | ? | STRAMONIUM Lv5 | Nearbytown |
+| NOIA AGENT | ? | SCARFITO Lv5 | Nearbytown |
+| NOIA AGENT | ? | BONDILE Lv5 | Nearbytown |
+| NOIA AGENT | ? | GOSBAMP Lv12, GOTCHICK Lv14, DIVINORUM Lv16 | Los Aura |
+| NOIA AGENT | ? | GOSBAMP Lv12, GOTCHICK Lv14, CRUXADO Lv16 | Los Aura |
+| NOIA AGENT | ? | GOSBAMP Lv12, GOTCHICK Lv14, GAGOGO Lv16 | Los Aura |
+| NOIA AGENT | ? | WRAITARL Lv20, GHOSHELLO Lv18, GOTCHICK Lv20, DIVINORUM Lv22 | Burned Tower 1F |
+| NOIA AGENT | ? | WRAITARL Lv20, GHOSHELLO Lv18, GOTCHICK Lv20, CRUXADO Lv22 | Burned Tower 1F |
+| NOIA AGENT | ? | WRAITARL Lv20, GHOSHELLO Lv18, GOTCHICK Lv20, GAGOGO Lv22 | Burned Tower 1F |
+| NOIA AGENT | ? | VAMPESSA Lv30, GHOSHELLO Lv28, WRAITARL Lv30, KUNOIGA Lv32, AYAHUASCO Lv32 | Metro Complex |
+| NOIA AGENT | ? | VAMPESSA Lv30, GHOSHELLO Lv28, WRAITARL Lv30, KUNOIGA Lv32, CRUXADO Lv32 | Metro Complex |
+| NOIA AGENT | ? | VAMPESSA Lv30, GHOSHELLO Lv28, WRAITARL Lv30, KUNOIGA Lv32, CROCOSNUFF Lv32 | Metro Complex |
+| NOIA AGENT | ? | KUNOIGA Lv34, VAMPESSA Lv36, SORAYAMBOT Lv35, WRAITARL Lv35, PROFETUS Lv35, AYAHUASCO Lv38 | Victory Road |
+| NOIA AGENT | ? | KUNOIGA Lv34, VAMPESSA Lv36, SORAYAMBOT Lv35, WRAITARL Lv35, PROFETUS Lv35, INFERNATUS Lv38 | Victory Road |
+| NOIA AGENT | ? | KUNOIGA Lv34, VAMPESSA Lv36, SORAYAMBOT Lv34, WRAITARL Lv35, PROFETUS Lv35, CROCOSNUFF Lv38 | Victory Road |
+| POKéMON PROF. | GATE | QUELZALCOT Lv40, JYZZO Lv41, MASKABUKI Lv41, KORNUPIAK Lv41, QUELZALCOT Lv42 |  |
+| DIGITAL世界 | GATE | QUELZALCOT Lv40, JYZZO Lv41, MASKABUKI Lv41, KORNUPIAK Lv41, QUELZALCOT Lv42 | Indigo Plateau |
+| PKMN TRAINER | CAL | STRAMONIUM Lv10, SCARFITO Lv10, BONDILE Lv10 |  |
+| PKMN TRAINER | CAL | DIVINORUM Lv30, CRUXADO Lv30, GAGOGO Lv30 | Viridian City B1F |
+| PKMN TRAINER | CAL | AYAHUASCO Lv50, INFERNATUS Lv50, CROCOSNUFF Lv50 | Viridian City B1F |
+| ELITE FOUR (BRUNO) | BRUNO | JUTSUFAITA Lv42, THAIFAITA Lv42, MIKEFAITA Lv42, OBSIDIAN Lv43, KONGORISH Lv46 | Indigo Plateau |
+| ELITE FOUR (KAREN) | KAREN | DAMNATEON Lv42, LARSENEF Lv42, TREROR Lv45, SKARKROW Lv44, HOUNDOOM Lv47 | Indigo Plateau |
+| ELITE FOUR (KOGA) | KOGA | NAZITANK Lv40, CHORDYCEPS Lv41, /NEURONET Lv43, KUMORAH Lv42, TRIZOM Lv44 | Indigo Plateau |
+| PURE MATH | □□3cos(□ | HANNYADOS Lv44, CHILONGO Lv47, CHILONGO Lv47, PTEROXIS Lv46, LUCIFERION Lv46, CHILONGO Lv50 | Indigo Plateau |
+| LEADER (BROCK) | BROCK | PLUTONIUM Lv41, ELICORPS Lv41, MECHANIGAL Lv42, OBSIDIAN Lv44, ZILOSNAK Lv42 | Pewter City Gym |
+| LEADER (MISTY) | MISTY | DUKAKIS Lv42, ASPHYXIAR Lv42, KARONTIS Lv44, IRUKUNJI Lv47 | Cerulean City Gym |
+| LEADER (LT.SURGE) | LT.SURGE | RAICHEWEDZ Lv44, NINGOGORE Lv40, SORAYAMBOT Lv40, NINGOGORE Lv40, VOLCUTION Lv46 | Vermilion City Gym |
+| SCIENTIST | ROSS | SARSARAS Lv22, SARSARAS Lv22 | Lonely Woods B3F |
+| SCIENTIST | MITCH | SHITTO Lv24 | Lonely Woods B3F |
+| SCIENTIST | JED | GHOSHELLO Lv20, GHOSHELLO Lv20, GHOSHELLO Lv20 | Lonely Woods B1F |
+| SCIENTIST | MARC | GHOSHELLO Lv27, GHOSHELLO Lv27, GHOSHELLO Lv27 | Radio Tower 3F |
+| SCIENTIST | RICH | TERMINALIX Lv30 | Radio Tower 4F |
+| LEADER (ERIKA) | ERIKA | WORMICELLI Lv42, ITTIOSO Lv41, NORIMBERGU Lv46, MANDELBRO Lv46 | Celadon City Gym |
+| MENINO D RUA | 12y | FOGNUS Lv4 | Area 30 |
+| MENINO D RUA | 13y | CIKKAN Lv2, FOGNUS Lv4 | Area 30 |
+| MENINO D RUA | ALBERT | FOGNUS Lv6, GOTCHICK Lv8 | Area 32 |
+| MENINO D RUA | GORDON | KOTZWAR Lv10 | Area 32 |
+| MENINO D RUA | SAMUEL | FOGNUS Lv7, PAPYRYU Lv10, SBLARFO Lv8, SBLARFO Lv8 | Area 34 |
+| MENINO D RUA | IAN | HIROOSH Lv10, KAZETTO Lv12 | Area 34 |
+| MENINO D RUA | JOEY | FOGNUS Lv15 | Area 30 |
+| MENINO D RUA | JOEY | RATOZZO Lv21 | Area 30 |
+| MENINO D RUA | WARREN | SGLARFO Lv35 | Area 3 |
+| MENINO D RUA | JIMMY | RATOZZO Lv33, URBOROK Lv33 | Area 3 |
+| MENINO D RUA | OWEN | SCRATCHY Lv35 | Area 11 |
+| MENINO D RUA | JASON | SPHINXO Lv33, TRIZOM Lv33 | Area 11 |
+| MENINO D RUA | JOEY | RATOZZO Lv30 | Area 30 |
+| MENINO D RUA | JOEY | RATOZZO Lv37 | Area 30 |
+| GOONER | JACK | ODDGLITCH Lv12, KOWARENING Lv15 | National Park |
+| GOONER | KIPP | KOWARENING Lv27, GHOSHELLO Lv27, KOWARENING Lv31, SORAYAMBOT Lv31 | Area 15 |
+| GOONER | ALAN | WORMICELLI Lv16 | Area 36 |
+| GOONER | JOHNNY | PILLORYD Lv29, GUILTYOTIN Lv31, NORIMBERGU Lv33 | Area 15 |
+| GOONER | DANNY | JYZZO Lv31, VOLCUTION Lv31, BURNAR Lv31 | Area 1 |
+| GOONER | TOMMY | QUELZALCOT Lv32, MARTIRUS Lv34 | Area 15 |
+| GOONER | DUDLEY | ODDGLITCH Lv35 | Area 25 |
+| GOONER | JOE | WORMICELLI Lv33, VENEREON Lv33 | Area 25 |
+| GOONER | BILLY | PARASITO Lv27, PARASITO Lv27, PROLIFIK Lv27, SHITTO Lv35 | Area 15 |
+| GOONER | CHAD | MR.SHADOW Lv19 | Area 38 |
+| GOONER | NATE | FACISTA Lv32, MASKABUKI Lv32 | Fast Ship B1F |
+| GOONER | RICKY | MOLESTO Lv32, SHITTO Lv32 | Fast Ship B1F |
+| GOONER | JACK | ODDGLITCH Lv14, KOWARENING Lv17 | National Park |
+| GOONER | JACK | INFECTO Lv28, NINGOGORE Lv31 | National Park |
+| GOONER | ALAN | WORMICELLI Lv17, NAPALMYAN Lv17 | Area 36 |
+| GOONER | ALAN | SACRILUT Lv20, WORMICELLI Lv22, ASPHYXIAR Lv20, NAPALMYAN Lv25 | Area 36 |
+| GOONER | CHAD | MR.SHADOW Lv19, GHOSHELLO Lv19 | Area 38 |
+| GOONER | CHAD | MR.SHADOW Lv27, SORAYAMBOT Lv31 | Area 38 |
+| GOONER | JACK | INFECTO Lv30, SCRATCHY Lv33, NINGOGORE Lv33 | National Park |
+| GOONER | JACK | NINGOGORE Lv35, SCRATCHY Lv35, LARSENEF Lv37 | National Park |
+| GOONER | ALAN | SACRILUT Lv27, WORMICELLI Lv27, ASPHYXIAR Lv30, NAPALMYAN Lv30 | Area 36 |
+| GOONER | ALAN | QUELZALCOT Lv35, WORMICELLI Lv32, NAPALMYAN Lv32, ASPHYXIAR Lv35 | Area 36 |
+| GOONER | CHAD | MR.SHADOW Lv30, SORAYAMBOT Lv34 | Area 38 |
+| GOONER | CHAD | MR.SHADOW Lv34, SORAYAMBOT Lv38 | Area 38 |
+| MASS SHOOTER | INCEL | CIKKAN Lv7, CIKKAN Lv7 | Nostalgothia Gym |
+| MASS SHOOTER | INCEL | SBLARFO Lv9 | Nostalgothia Gym |
+| MASS SHOOTER | INCEL | CIKKAN Lv12, UBERBIRO Lv14 | Area 35 |
+| MASS SHOOTER | INCEL | CIKKAN Lv17, CIKKAN Lv15, CIKKAN Lv19, CIKKAN Lv15, CIKKAN Lv15 | Pentafloor 3F |
+| MASS SHOOTER | INCEL | BIPOLARIO Lv15, BIPOLARIO Lv16, BIPOLARIO Lv17 | Area 38 |
+| MASS SHOOTER | INCEL | SBLARFO Lv18, SGLARFO Lv20, SBLARFO Lv18 | Pentafloor 5F |
+| MASS SHOOTER | INCEL | UBERBIRO Lv25, UBERBIRO Lv25 | Area 44 |
+| MASS SHOOTER | PTSD | CIKKAN Lv12, HEPOCORPS Lv34 | Area 4 |
+| MASS SHOOTER | PTSD | SGLARFO Lv29, SGLARFO Lv35 | Area 14 |
+| MASS SHOOTER | PTSD | BIPOLARIO Lv30, BIPOLARIO Lv28, PSICOTO Lv32 | Area 18 |
+| MASS SHOOTER | PTSD | ROBBINOWL Lv34 | Area 18 |
+| MASS SHOOTER | PTSD | BONDAGEDOG Lv36 | Area 27 |
+| MASS SHOOTER | INCEL | CIKKAN Lv6, CIKKAN Lv6, SBLARFO Lv8 | Area 32 |
+| MASS SHOOTER | PTSD | BONDAGEDOG Lv34 | Area 27 |
+| MASS SHOOTER | PTSD | BONDAGEDOG Lv34 | Area 13 |
+| MASS SHOOTER | PTSD | UBERBIRO Lv32, SGLARFO Lv32 | Area 13 |
+| MASS SHOOTER | PTSD | BONDAGEDOG Lv40 | Area 27 |
+| MASS SHOOTER | PTSD | UBERBIRO Lv32, UBERBIRO Lv32 | Area 44 |
+| MASS SHOOTER | PTSD | HEPOCORPS Lv38, HEPOCORPS Lv38 | Area 44 |
+| FEMBOY | CARRIE | BLEKHOLIA Lv18 | Metro Complex Gym |
+| FEMBOY | BRIDGET | EYEBALLY Lv15, EYEBALLY Lv15, EYEBALLY Lv15 | Metro Complex Gym |
+| FEMBOY | ALICE | INFECTO Lv30, URBOROK Lv34, INFECTO Lv30 | Fuchsia City Gym |
+| FEMBOY | KRISE | ODDGLITCH Lv12, RIOTTO Lv15 | National Park |
+| FEMBOY | CONNIE | HALUAL Lv21 | Pentafloor 4F |
+| FEMBOY | LINDA | WEEDAZOR Lv30, COCAZOR Lv32, OPIUMZOR Lv34 | Fuchsia City Gym |
+| FEMBOY | LAURA | INFECTO Lv28, UBERBIRO Lv31, MANDELBRO Lv31 | Area 25 |
+| FEMBOY | SHANNON | PARASITO Lv29, PARASITO Lv29, PSILOCYBO Lv32 | Area 25 |
+| FEMBOY | MICHELLE | INCUBATO Lv32, ABORTITO Lv33, ITTIOSO Lv34 | Celadon City Gym |
+| FEMBOY | DANA | ALGOCRAT Lv18, WORMACK Lv18 | Area 38 |
+| FEMBOY | ELLEN | KAWAIKAGO Lv30, GALAXIAN Lv34 | Area 25 |
+| FEMBOY | CONNIE | HALUAL Lv21 |  |
+| FEMBOY | CONNIE | HALUAL Lv21 |  |
+| FEMBOY | DANA | ALGOCRAT Lv21, WORMACK Lv21 | Area 38 |
+| FEMBOY | DANA | WORMACK Lv29, DICTAITOR Lv29 | Area 38 |
+| FEMBOY | DANA | WORMACK Lv32, DICTAITOR Lv32 | Area 38 |
+| FEMBOY | DANA | DICTAITOR Lv36, DUKAKIS Lv36 | Area 38 |
+| LEADER (JANINE) | JANINE | TRIZOM Lv36, LUNGANSER Lv36, LUNGANSER Lv36, NAZITANK Lv33, CHORDYCEPS Lv39 | Fuchsia City Gym |
+| COOLTRAINER (NICK, AARON, …) | NICK | CHARMHELL Lv26, SCOLINA Lv26, WEEDAZOR Lv26 | Union Cave B2F |
+| COOLTRAINER (NICK, AARON, …) | AARON | COCAZOR Lv24, BELIALEON Lv24, SCOLANO Lv24 | Source of Plasma |
+| COOLTRAINER (NICK, AARON, …) | PAUL | CHERUBIUM Lv34, CHERUBIUM Lv34, CHERUBIUM Lv34 | Peak of Dread Gym 1F |
+| COOLTRAINER (NICK, AARON, …) | CODY | COCKY Lv34, SCROTRA Lv36 | Peak of Dread Gym 2F |
+| COOLTRAINER (NICK, AARON, …) | MIKE | SERAPHIUM Lv37 | Peak of Dread Gym 1F |
+| COOLTRAINER (NICK, AARON, …) | GAVEN | NORIMBERGU Lv35, NUKEBARL Lv35, CERBERION Lv35 | Area 26 |
+| COOLTRAINER (NICK, AARON, …) | GAVEN | NORIMBERGU Lv39, NUKEBARL Lv39, CERBERION Lv39 | Area 26 |
+| COOLTRAINER (NICK, AARON, …) | RYAN | HEPOCORPS Lv25, VOLCUTION Lv27 | Area 45 |
+| COOLTRAINER (NICK, AARON, …) | JAKE | PSILOCYBO Lv33, DUKAKIS Lv35 | Area 26 |
+| COOLTRAINER (NICK, AARON, …) | GAVEN | NORIMBERGU Lv32, NUKEBARL Lv32, CERBERION Lv32 | Area 26 |
+| COOLTRAINER (NICK, AARON, …) | BLAKE | SORAYAMBOT Lv33, ASPHYXIAR Lv31, DARUMORT Lv31 | Area 27 |
+| COOLTRAINER (NICK, AARON, …) | BRIAN | SPHINXO Lv35 | Area 27 |
+| COOLTRAINER (NICK, AARON, …) | ERICK | WEEDAZOR Lv10, CHARMHELL Lv10, SCOLINA Lv10 |  |
+| COOLTRAINER (NICK, AARON, …) | ANDY | WEEDAZOR Lv10, CHARMHELL Lv10, SCOLINA Lv10 |  |
+| COOLTRAINER (NICK, AARON, …) | TYLER | WEEDAZOR Lv10, CHARMHELL Lv10, SCOLINA Lv10 |  |
+| COOLTRAINER (NICK, AARON, …) | SEAN | CERBERION Lv35, WORMICELLI Lv35, DIGESTOR Lv35 | Fast Ship |
+| COOLTRAINER (NICK, AARON, …) | KEVIN | ELICORPS Lv38, BELIALEON Lv35, SCOLANO Lv35 | Area 25 |
+| COOLTRAINER (NICK, AARON, …) | STEVE | WEEDAZOR Lv14, CHARMHELL Lv14, SCOLINA Lv14 |  |
+| COOLTRAINER (NICK, AARON, …) | ALLEN | BELIALEON Lv27 | Area 44 |
+| COOLTRAINER (NICK, AARON, …) | DARIN | SERAPHIUM Lv37 | Dragon's Den B1F |
+| COOLTRAINER (GWEN, LOIS, …) | GWEN | DEADDOG Lv26, CERBERION Lv22, VENEREON Lv22, NUKENION Lv22 | Union Cave B2F |
+| COOLTRAINER (GWEN, LOIS, …) | LOIS | INCUBATO Lv25, KITSUNAIL Lv25 | Source of Plasma |
+| COOLTRAINER (GWEN, LOIS, …) | FRAN | SCROTRA Lv37 | Peak of Dread Gym 2F |
+| COOLTRAINER (GWEN, LOIS, …) | LOLA | CHERUBIUM Lv34, SERAPHIUM Lv36 | Peak of Dread Gym 1F |
+| COOLTRAINER (GWEN, LOIS, …) | KATE | SHELLDER Lv26, VAGINDAM Lv28 | Area 34 |
+| COOLTRAINER (GWEN, LOIS, …) | IRENE | BLINKY Lv22, HOGEROT Lv24 | Area 34 |
+| COOLTRAINER (GWEN, LOIS, …) | KELLY | HALUAL Lv27, SCOLANO Lv24, SCOLANO Lv24 | Area 45 |
+| COOLTRAINER (GWEN, LOIS, …) | JOYCE | PIKACHEWED Lv36, SCOLENE Lv32 | Area 26 |
+| COOLTRAINER (GWEN, LOIS, …) | BETH | FAXHIRO Lv36 | Area 26 |
+| COOLTRAINER (GWEN, LOIS, …) | REENA | IRUKUNJI Lv31, KALEDENDS Lv33, IRUKUNJI Lv31 | Area 27 |
+| COOLTRAINER (GWEN, LOIS, …) | MEGAN | WEEDAZOR Lv32, COCAZOR Lv32, OPIUMZOR Lv32 | Area 27 |
+| COOLTRAINER (GWEN, LOIS, …) | BETH | FAXHIRO Lv39 | Area 26 |
+| COOLTRAINER (GWEN, LOIS, …) | CAROL | NINGOGORE Lv35, IRUKUNJI Lv35, KITSUNAIL Lv35 | Fast Ship |
+| COOLTRAINER (GWEN, LOIS, …) | QUINN | COCAZOR Lv38, IRUKUNJI Lv38 | Area 1 |
+| COOLTRAINER (GWEN, LOIS, …) | EMMA | PROLIFIK Lv28 | Union Cave B2F |
+| COOLTRAINER (GWEN, LOIS, …) | CYBIL | MONASIGHT Lv25, MANDELBRO Lv25 | Area 44 |
+| COOLTRAINER (GWEN, LOIS, …) | JENN | MALOKINGI Lv24, IRUKUNJI Lv26 | Area 34 |
+| COOLTRAINER (GWEN, LOIS, …) | BETH | FAXHIRO Lv43 | Area 26 |
+| COOLTRAINER (GWEN, LOIS, …) | REENA | IRUKUNJI Lv34, KALEDENDS Lv36, IRUKUNJI Lv34 | Area 27 |
+| COOLTRAINER (GWEN, LOIS, …) | REENA | IRUKUNJI Lv38, KALEDENDS Lv40, IRUKUNJI Lv38 | Area 27 |
+| COOLTRAINER (GWEN, LOIS, …) | CARA | COCKY Lv33, COCKY Lv33, SCROTRA Lv35 | Dragon's Den B1F |
+| E-GIRL | VICTORIA | BURQO Lv9, BURQO Lv13, BURQO Lv17 | Metro Complex Gym |
+| E-GIRL | SAMANTHA | NIGGA Lv16, NIGGA Lv16 | Metro Complex Gym |
+| E-GIRL | JULIE | BURQO Lv15 |  |
+| E-GIRL | JACLYN | BURQO Lv15 |  |
+| E-GIRL | BRENDA | JIHADO Lv16 |  |
+| E-GIRL | CASSIE | LARSENEF Lv28, MONASIGHT Lv34 | Fast Ship |
+| E-GIRL | CAROLINE | HALUAL Lv30, MEGADIL Lv32, HALUAL Lv30 |  |
+| E-GIRL | CARLENE | BURQO Lv15 |  |
+| E-GIRL | JESSICA | BURQO Lv15 |  |
+| E-GIRL | RACHAEL | BURQO Lv15 |  |
+| E-GIRL | ANGELICA | BURQO Lv15 |  |
+| E-GIRL | KENDRA | BURQO Lv15 |  |
+| E-GIRL | VERONICA | BURQO Lv15 |  |
+| E-GIRL | JULIA | PARASITO Lv32, DARUMORT Lv32, PSILOCYBO Lv35 | Celadon City Gym |
+| E-GIRL | THERESA | BURQO Lv15 |  |
+| E-GIRL | VALERIE | ABORTITO Lv17, INCUBATO Lv17 | Area 38 |
+| E-GIRL | OLIVIA | NEURAPSYS Lv19 | Area 38 |
+| FENTANYL | 0.02 mg | SLOWGHOST Lv10 | Union Cave 1F |
+| FENTANYL | 0.08 mg | TERORISTO Lv24, TERORISTO Lv24 | Union Cave B1F |
+| FENTANYL | 0.1 mg | HELLTECH Lv26 | Union Cave B1F |
+| FENTANYL | 0.02 mg | HANDA Lv16, GRABOIDO Lv16 | Area 42 |
+| FENTANYL | 0.02 mg | KORNUPIAK Lv19 | Area 43 |
+| FENTANYL | 0.02 mg | PUKALOT Lv19 | Area 43 |
+| FENTANYL | 0.02 mg | KESARUS Lv19 | Area 43 |
+| FENTANYL | 0.1 mg | ELICORPS Lv31, MEDUCUNT Lv31 | Fast Ship |
+| FENTANYL | 0.1 mg | HELLTECH Lv25 | Area 43 |
+| FENTANYL | 0.3 mg | TERMINALIX Lv36 | Area 43 |
+| FENTANYL | 0.1 mg | PUKALOT Lv12 | Metro Complex |
+| FENTANYL | 0.02 mg | SLOWGHOST Lv10, SLOWGHOST Lv10 | Metro Complex |
+| FENTANYL | 0.1 mg | ELICORPS Lv27 | Area 44 |
+| FENTANYL | 1 mg | PREGNANTA Lv41 | Area 43 |
+| FENTANYL | 0.1 mg | KESARUS Lv17, KALEDENDS Lv17 | Mt.Mortar 1F |
+| PLAGUEcorp. | POLICE | SARSARAS Lv14 | Slowpoke Well B1F |
+| PLAGUEcorp. | POLICE | FOGNUS Lv7, GOTCHICK Lv9, GOTCHICK Lv9 | Slowpoke Well B1F |
+| PLAGUEcorp. | POLICE | RATOZZO Lv24, RATOZZO Lv24 | Radio Tower 1F |
+| PLAGUEcorp. | POLICE | GRINDED Lv23, GRINDED Lv23, KUMORAH Lv25 | Radio Tower 2F |
+| PLAGUEcorp. | POLICE | FOGNUS Lv21, FOGNUS Lv21, FOGNUS Lv23, FOGNUS Lv23, FOGNUS Lv23 | Radio Tower 2F |
+| PLAGUEcorp. | POLICE | GOTCHICK Lv26, GOTCHICK Lv26 | Radio Tower 2F |
+| PLAGUEcorp. | POLICE | SARSARAS Lv23, GRINDED Lv23, GOTCHICK Lv23, FOGNUS Lv23 | Radio Tower 3F |
+| PLAGUEcorp. | POLICE | LUNGANSER Lv26 | Radio Tower 3F |
+| PLAGUEcorp. | POLICE | RATOZZO Lv24, SARSARAS Lv26 | Radio Tower 3F |
+| PLAGUEcorp. | POLICE | GOTCHICK Lv22, VAMPESSA Lv24, GRINDED Lv22 | Radio Tower 4F |
+| PLAGUEcorp. | POLICE | KUMORAH Lv23, SARSARAS Lv23, FOGNUS Lv25 | Metro Complex |
+| PLAGUEcorp. | EXECUTIVE | HOUNDOUR Lv33 |  |
+| PLAGUEcorp. | POLICE | FOGNUS Lv27 | Metro Complex |
+| PLAGUEcorp. | POLICE | RATOZZO Lv24, VAMPESSA Lv24 | Metro Complex |
+| PLAGUEcorp. | POLICE | GRINDED Lv26, LUNGANSER Lv23 | Metro Complex |
+| PLAGUEcorp. | POLICE | FOGNUS Lv16, FOGNUS Lv16, FOGNUS Lv16, FOGNUS Lv16 | Lonely Woods B1F |
+| PLAGUEcorp. | POLICE | VAMPESSA Lv18 | Lonely Woods B2F |
+| PLAGUEcorp. | POLICE | FOGNUS Lv17, GOTCHICK Lv17, FOGNUS Lv17 | Lonely Woods B2F |
+| PLAGUEcorp. | POLICE | GNAKGNAK Lv18, GNAKGNAK Lv18 | Lonely Woods B2F |
+| PLAGUEcorp. | POLICE | DUPUPETT Lv17, GOTCHICK Lv19 | Lonely Woods B1F |
+| PLAGUEcorp. | POLICE | GOTCHICK Lv16, GRINDED Lv17, FOGNUS Lv18 | Lonely Woods B1F |
+| PLAGUEcorp. | EXECUTIVE | VAMPESSA Lv36 |  |
+| PLAGUEcorp. | EXECUTIVE | SARSARAS Lv30 |  |
+| PLAGUEcorp. | POLICE | SARSARAS Lv25, SARSARAS Lv25 | Metro Complex |
+| PLAGUEcorp. | POLICE | SARSARAS Lv24, KUMORAH Lv24 | Metro Complex |
+| PLAGUEcorp. | POLICE | FOGNUS Lv15, FOGNUS Lv15 |  |
+| PLAGUEcorp. | EXECUTIVE | GOTCHICK Lv22 |  |
+| PLAGUEcorp. | POLICE | RATOZZO Lv19 | Lonely Woods B3F |
+| PLAGUEcorp. | POLICE | FOGNUS Lv9, FOGNUS Lv9 | Slowpoke Well B1F |
+| PLAGUEcorp. | POLICE | VAMPESSA Lv25, VAMPESSA Lv25, URBOROK Lv30 |  |
+| PLAGUEcorp. | POLICE | VAMPESSA Lv30 | Area 24 |
+| REPTILIAN | JEW | SCRATCHY Lv18, SCRATCHY Lv18 | Pentafloor 3F |
+| REPTILIAN | JEW | TENKA Lv33 | Fast Ship |
+| REPTILIAN | JEW | PIKACHEWED Lv37, ALGOCRAT Lv33 | Vermilion City Gym |
+| REPTILIAN | JEW | HELLESTO Lv20 |  |
+| REPTILIAN | JEW | ROBBINOWL Lv20 | Pentafloor 2F |
+| SKIER | ROXANNE | JYZZO Lv28 | Lonely Woods Gym |
+| SKIER | CLARISSA | MEGADIL500 Lv28 | Lonely Woods Gym |
+| TEACHER | COLETTE | CRISTALIA Lv36 | Area 15 |
+| TEACHER | HILLARY | MOLESTO Lv32, RIOTTO Lv36 | Area 15 |
+| TEACHER | SHIRLEY | EYEBALLY Lv35 | Fast Ship B1F |
+| LEADER (SABRINA) | SABRINA | EMBRYEON Lv46, MR.SHADOW Lv46, MARTIRUS Lv48 | Saffron City Gym |
+| MARANZA | AHMED | GUNBAG Lv3, GUNBAG Lv3 | Area 30 |
+| MARANZA | MOHAMD | CAMOGATL Lv32, MONASIGHT Lv32 | Area 2 |
+| MARANZA | MOHAMD | CAMOGATL Lv30, CAMOGATL Lv30, CAMOGATL Lv30 | Area 2 |
+| MARANZA | HABIB | GUNBAG Lv2, GUNBAG Lv2, WERMIX Lv3, GUNBAG Lv2 | Area 31 |
+| MARANZA | HABIB | WERMIX Lv7, KAKUZI Lv9, CAMOGATL Lv12 | Los Aura Gym |
+| MARANZA | HABIB | GUNBAG Lv12, WERMIX Lv12 | Los Aura Gym |
+| MARANZA | KHALED | PARASITO Lv13 | Los Aura Gym |
+| MARANZA | MOHAMD | GNAKGNAK Lv15 | Area 35 |
+| MARANZA | MOHAMD | NAZITANK Lv30, SHAMABOO Lv32 | Fast Ship |
+| MARANZA | MOHAMD | MUTAPUD Lv9, MUTAPUD Lv9, KAKUZI Lv10, MUTAPUD Lv9 | Area 31 |
+| MARANZA | KHALED | MONASIGHT Lv14, MONASIGHT Lv14, CAMOGATL Lv15, MONASIGHT Lv14 | Area 31 |
+| MARANZA | AZIZ | NAZITANK Lv34 | Area 2 |
+| MARANZA | KHALED | GNAKGNAK Lv19 | Area 35 |
+| MARANZA | AZIZ | CHORDYCEPS Lv28 | Area 35 |
+| MARANZA | AZIZ | MONASIGHT Lv24, MONASIGHT Lv24, CAMOGATL Lv25, MONASIGHT Lv24 | Area 31 |
+| MARANZA | AZIZ | MONASIGHT Lv30, MONASIGHT Lv30, CAMOGATL Lv32, MONASIGHT Lv34 | Area 31 |
+| MARANZA | AZIZ | CHORDYCEPS Lv36 | Area 35 |
+| MARANZA | MARIO | CHORDYCEPS Lv40 | Area 35 |
+| MARANZA | HABIB | SBIRETTO Lv8, PARASITO Lv10 | Suicide Forest |
+| FISHER | JUSTIN | ROKUJOSHI Lv5, ROKUJOSHI Lv5, ROKUJOSHI Lv15, ROKUJOSHI Lv5 | Area 32 |
+| FISHER | RALPH | BLINKY Lv10 | Area 32 |
+| FISHER | ARNOLD | HENTAIGORE Lv34 | Area 21 |
+| FISHER | KYLE | HOGEROT Lv28, PROLIFIK Lv31, HOGEROT Lv31 | Area 12 |
+| FISHER | HENRY | SPERMOTZ Lv8, SPERMOTZ Lv8 | Area 32 |
+| FISHER | MARVIN | ROKUJOSHI Lv10, HANNYADOS Lv10, ROKUJOSHI Lv15, HANNYADOS Lv15 | Area 43 |
+| FISHER | TULLY | NAVALMINO Lv18 | Area 42 |
+| FISHER | ANDRE | HANNYADOS Lv27 | Source of Plasma |
+| FISHER | RAYMOND | ROKUJOSHI Lv22, ROKUJOSHI Lv22, ROKUJOSHI Lv22, ROKUJOSHI Lv22 | Source of Plasma |
+| FISHER | WILTON | BLINKY Lv23, BLINKY Lv23, HOGEROT Lv25 | Area 44 |
+| FISHER | EDGAR | ANIFISH Lv25, ANIFISH Lv25 | Area 44 |
+| FISHER | JONAH | SHELLDER Lv25, OCTILLERY Lv29, ANIFISH Lv25, VAGINDAM Lv29 | Fast Ship B1F |
+| FISHER | MARTIN | ANIFISH Lv32, ANIFISH Lv32 | Area 12 |
+| FISHER | STEPHEN | ROKUJOSHI Lv25, ROKUJOSHI Lv25, NAVALMINO Lv31, HENTAIGORE Lv31 | Area 12 |
+| FISHER | BARNEY | HANNYADOS Lv30, HANNYADOS Lv30, HANNYADOS Lv30 | Area 12 |
+| FISHER | RALPH | BLINKY Lv17 | Area 32 |
+| FISHER | RALPH | NAVALMINO Lv17, BLINKY Lv19 | Area 32 |
+| FISHER | TULLY | NAVALMINO Lv23 | Area 42 |
+| FISHER | TULLY | BLINKY Lv32, BLINKY Lv32, NAVALMINO Lv32 | Area 42 |
+| FISHER | WILTON | BLINKY Lv29, BLINKY Lv29, HOGEROT Lv32 | Area 44 |
+| FISHER | SCOTT | NAVALMINO Lv30, NAVALMINO Lv30, HOGEROT Lv34 | Area 26 |
+| FISHER | WILTON | HOGEROT Lv34, HOGEROT Lv34, ANIFISH Lv38 | Area 44 |
+| FISHER | RALPH | NAVALMINO Lv30, BLINKY Lv32 | Area 32 |
+| FISHER | RALPH | NAVALMINO Lv35, HOGEROT Lv39 | Area 32 |
+| FISHER | TULLY | HOGEROT Lv34, HOGEROT Lv34, NAVALMINO Lv37 | Area 42 |
+| HUMAN | CORPSE | ANIFISH Lv32, SCROTRA Lv30 | Area 19 |
+| HUMAN | REMAINS | HENTAICOOL Lv20, HENTAICOOL Lv20 | Area 40 |
+| HUMAN | REMAINS | SHELLDER Lv18, SCOLANO Lv20, SHELLDER Lv18 | Area 40 |
+| HUMAN | REMAINS | SHELLDER Lv21, HENTAICOOL Lv19, HENTAIGORE Lv19 | Area 41 |
+| HUMAN | REMAINS | HENTAICOOL Lv16, HENTAICOOL Lv17, HENTAICOOL Lv16, MALOKINGI Lv19, HENTAICOOL Lv17, ANIFISH Lv19 | Area 41 |
+| HUMAN | CORPSE | NAVALMINO Lv23 | Area 41 |
+| HUMAN | CORPSE | HANNYADOS Lv20, HANNYADOS Lv20 | Area 41 |
+| HUMAN | CORPSE | TOXIWASTE Lv23 | Area 41 |
+| HUMAN | CORPSE | MEGADIL Lv24, MEGADIL500 Lv25, MEGADIL Lv24 |  |
+| HUMAN | CORPSE | PILOSWINE Lv26, PILOSWINE Lv26 |  |
+| HUMAN | CORPSE | SHELLDER Lv24, VAGINDAM Lv25, SHELLDER Lv24 |  |
+| HUMAN | REMAINS | COCKY Lv15, COCKY Lv15, SCROTRA Lv20 |  |
+| HUMAN | REMAINS | MALOKINGI Lv13, IRUKUNJI Lv18, COCKY Lv16 |  |
+| HUMAN | CORPSE | SCROTRA Lv26, HENTAICOOL Lv28, HENTAIGORE Lv30, BLINKY Lv28 | Area 19 |
+| HUMAN | CORPSE | SHELLDER Lv30, VAGINDAM Lv34 | Area 19 |
+| HUMAN | REMAINS | MALOKINGI Lv13, IRUKUNJI Lv18, COCKY Lv16 |  |
+| HUMAN | CORPSE | HALUAL Lv34 | Area 20 |
+| HUMAN | CORPSE | ASPHYXIAR Lv29, OCTILLERY Lv29, ASPHYXIAR Lv32 | Area 21 |
+| HUMAN | REMAINS | MALOKINGI Lv13, IRUKUNJI Lv18, COCKY Lv16 |  |
+| HUMAN | REMAINS | MALOKINGI Lv13, IRUKUNJI Lv18, COCKY Lv16 |  |
+| HUMAN | CORPSE | COCKY Lv32, COCKY Lv32, SCROTRA Lv35 | Cerulean City Gym |
+| SWIMMER♀ | ELAINE | MALOKINGI Lv21 | Area 40 |
+| SWIMMER♀ | PAULA | MALOKINGI Lv19, SHELLDER Lv19 | Area 40 |
+| SWIMMER♀ | KAYLEE | BLINKY Lv18, BLINKY Lv20, HOGEROT Lv20 | Area 41 |
+| SWIMMER♀ | SUSIE | WORMACK Lv20, BLINKY Lv22 | Area 41 |
+| SWIMMER♀ | DENISE | MEGADIL Lv22 | Area 41 |
+| SWIMMER♀ | KARA | MALOKINGI Lv20, IRUKUNJI Lv20 | Area 41 |
+| SWIMMER♀ | WENDY | COCKY Lv21, COCKY Lv21 | Area 41 |
+| SWIMMER♀ | LISA | JYZZO Lv28 |  |
+| SWIMMER♀ | JILL | MEGADIL500 Lv28 |  |
+| SWIMMER♀ | MARY | HOGEROT Lv20 |  |
+| SWIMMER♀ | KATIE | MEGADIL500 Lv33 |  |
+| SWIMMER♀ | DAWN | HOGEROT Lv34 | Area 19 |
+| SWIMMER♀ | TARA | HOGEROT Lv20 |  |
+| SWIMMER♀ | NICOLE | HALUAL Lv29, HALUAL Lv29, KARONTIS Lv32 | Area 20 |
+| SWIMMER♀ | LORI | IRUKUNJI Lv32, IRUKUNJI Lv32 | Area 20 |
+| SWIMMER♀ | JODY | HOGEROT Lv20 |  |
+| SWIMMER♀ | NIKKI | MEGADIL Lv28, MEGADIL Lv28, MEGADIL Lv28, MEGADIL500 Lv28 | Area 21 |
+| SWIMMER♀ | DIANA | DUKAKIS Lv37 | Cerulean City Gym |
+| SWIMMER♀ | BRIANA | HOGEROT Lv35, HOGEROT Lv35 | Cerulean City Gym |
+| PRISONER | EUGENE | PROLIFIK Lv17, RATOZZO Lv17, TOXIWASTE Lv19 | Area 39 |
+| PRISONER | HUEY | SPERMOTZ Lv18, PROLIFIK Lv18 | Pentafloor 2F |
+| PRISONER | TERRELL | PROLIFIK Lv20 | Pentafloor 3F |
+| PRISONER | KENT | TOXIWASTE Lv18, TOXIWASTE Lv20 | Pentafloor 4F |
+| PRISONER | ERNEST | ANOREX Lv18, ANOREX Lv18, PROLIFIK Lv18 | Pentafloor 5F |
+| PRISONER | JEFF | RATOZZO Lv32, RATOZZO Lv32 | Fast Ship B1F |
+| PRISONER | GARRETT | NUKEBARL Lv34 | Fast Ship B1F |
+| PRISONER | KENNETH | ANOREX Lv28, ANOREX Lv28, SMEGMATIC Lv28, ANOREX Lv28 | Fast Ship B1F |
+| PRISONER | STANLY | ANOREX Lv31, STERODO Lv33, WORMACK Lv26 | Fast Ship |
+| PRISONER | HARRY | KOTZWAR Lv19 | Area 38 |
+| PRISONER | HUEY | PROLIFIK Lv28, PROLIFIK Lv28 | Pentafloor 2F |
+| PRISONER | HUEY | PROLIFIK Lv34, SMEGMATIC Lv34 | Pentafloor 2F |
+| PRISONER | HUEY | FETUSO Lv38, SMEGMATIC Lv38 | Pentafloor 2F |
+| OBSCURE | PROGRAMMER | GRINDED Lv20 |  |
+| OBSCURE | PROGRAMMER | GRINDED Lv11, GRINDED Lv11 | Metro Complex |
+| OBSCURE | GREGG | GHOSHELLO Lv20, GHOSHELLO Lv20, GHOSHELLO Lv20 |  |
+| OBSCURE | JAY | SARSARAS Lv22, SARSARAS Lv22 |  |
+| OBSCURE | DAVE | SHITTO Lv24 |  |
+| OBSCURE | SAM | GRINDED Lv34, KUMORAH Lv34 | Area 8 |
+| OBSCURE | TOM | GHOSHELLO Lv32, GHOSHELLO Lv32, GHOSHELLO Lv32 | Area 8 |
+| OBSCURE | PAT | TERMINALIX Lv36 | Area 25 |
+| OBSCURE | SHAWN | GHOSHELLO Lv31, KUMORAH Lv33, GHOSHELLO Lv31 | Fast Ship |
+| OBSCURE | TERU | GHOSHELLO Lv7, KOWARENING Lv11, GHOSHELLO Lv7, GHOSHELLO Lv9 | Metro Complex |
+| OBSCURE | RUSS | GHOSHELLO Lv27, GHOSHELLO Lv27, GHOSHELLO Lv27 |  |
+| OBSCURE | NORTON | TERMINALIX Lv30 |  |
+| OBSCURE | HUGH | SCROTRA Lv39 | Mt.Mortar 2F |
+| OBSCURE | MARKUS | SLOWGHOST Lv19 | Mt.Mortar 1F |
+| RIVAL | NOIAAGENT | KUNOIGA Lv41, VAMPESSA Lv42, SORAYAMBOT Lv41, TREROR Lv43, MARTIRUS Lv43, AYAHUASCO Lv45 | Mt.Moon |
+| RIVAL | NOIAAGENT | KUNOIGA Lv41, VAMPESSA Lv42, SORAYAMBOT Lv41, TREROR Lv43, MARTIRUS Lv43, INFERNATUS Lv45 | Mt.Moon |
+| RIVAL | NOIAAGENT | KUNOIGA Lv41, VAMPESSA Lv42, SORAYAMBOT Lv41, TREROR Lv43, MARTIRUS Lv43, CROCOSNUFF Lv45 | Mt.Moon |
+| RIVAL | NOIAAGENT | KUNOIGA Lv45, TRIZOM Lv48, SORAYAMBOT Lv45, TREROR Lv46, MARTIRUS Lv46, AYAHUASCO Lv50 | Indigo Plateau 1F |
+| RIVAL | NOIAAGENT | KUNOIGA Lv45, TRIZOM Lv48, SORAYAMBOT Lv45, TREROR Lv46, MARTIRUS Lv46, INFERNATUS Lv50 | Indigo Plateau 1F |
+| RIVAL | NOIAAGENT | KUNOIGA Lv45, TRIZOM Lv48, SORAYAMBOT Lv45, TREROR Lv46, MARTIRUS Lv46, CROCOSNUFF Lv50 | Indigo Plateau 1F |
+| GUITARIST | CLYDE | VOLCUTION Lv34 | Fast Ship |
+| GUITARIST | VINCENT | GHOSHELLO Lv27, KOWARENING Lv33, GHOSHELLO Lv32, GHOSHELLO Lv32 | Vermilion City Gym |
+| PEST CONTROL | ANTHONY | URANIUM Lv16, KONGORISH Lv18 | Area 33 |
+| PEST CONTROL | RUSSELL | URANIUM Lv4, URANIUM Lv6, URANIUM Lv8 | Union Cave 1F |
+| PEST CONTROL | PHILLIP | URANIUM Lv23, URANIUM Lv23, PLUTONIUM Lv23 | Union Cave B1F |
+| PEST CONTROL | LEONARD | URANIUM Lv23, ANOREX Lv25 | Union Cave B1F |
+| PEST CONTROL | ANTHONY | URANIUM Lv11, ANOREX Lv11 | Area 33 |
+| PEST CONTROL | BENJAMIN | KAZETTO Lv14, URANIUM Lv14, GANGBANGO Lv16 | Area 42 |
+| PEST CONTROL | ERIK | ANOREX Lv24, PLUTONIUM Lv27, ANOREX Lv27 | Area 45 |
+| PEST CONTROL | MICHAEL | URANIUM Lv25, PLUTONIUM Lv25, ATOMIUM Lv25 | Area 45 |
+| PEST CONTROL | PARRY | OBSIDIAN Lv35, SWINUB Lv33 | Area 45 |
+| PEST CONTROL | TIMOTHY | KAZETTO Lv27, GANGBANGO Lv27 | Area 45 |
+| PEST CONTROL | BAILEY | URANIUM Lv13, URANIUM Lv13, URANIUM Lv13, URANIUM Lv13, URANIUM Lv13 | Area 46 |
+| PEST CONTROL | ANTHONY | PLUTONIUM Lv25, PLUTONIUM Lv27, STERODO Lv29 | Area 33 |
+| PEST CONTROL | TIM | PLUTONIUM Lv31, PLUTONIUM Lv31, PLUTONIUM Lv31 | Area 9 |
+| PEST CONTROL | NOLAND | SPHINXO Lv31, ATOMIUM Lv33 | Fast Ship |
+| PEST CONTROL | SIDNEY | GANGBANGO Lv34, OBSIDIAN Lv32 | Area 9 |
+| PEST CONTROL | KENNY | SPHINXO Lv27, PLUTONIUM Lv29, ATOMIUM Lv31, PLUTONIUM Lv29 | Area 13 |
+| PEST CONTROL | JIM | KONGORISH Lv35 | Area 10 |
+| PEST CONTROL | RATS | OBSIDIAN Lv11 | Union Cave 1F |
+| PEST CONTROL | RATS | PILOSWINE Lv35, GANGBANGO Lv35, HYDRAGYRUM Lv38 | Area 45 |
+| PEST CONTROL | ROACH | OBSIDIAN Lv29 | Area 45 |
+| PEST CONTROL | ROACH | PLUTONIUM Lv30, PLUTONIUM Lv30, STERODO Lv32 | Area 33 |
+| PEST CONTROL | ANTHONY | PLUTONIUM Lv34, ATOMIUM Lv36, STERODO Lv34 | Area 33 |
+| BIKER | BENNY | SARSARAS Lv20, SARSARAS Lv20, SARSARAS Lv20 |  |
+| BIKER | KAZU | SARSARAS Lv20, SARSARAS Lv20, SARSARAS Lv20 |  |
+| BIKER | DWAYNE | SARSARAS Lv27, SARSARAS Lv28, SARSARAS Lv29, SARSARAS Lv30 | Area 8 |
+| BIKER | HARRIS | CERBERION Lv34 | Area 8 |
+| BIKER | ZEKE | SARSARAS Lv32, SARSARAS Lv32 | Area 8 |
+| BIKER | CHARLES | SARSARAS Lv30, BELIALEON Lv30, LUNGANSER Lv30 | Area 17 |
+| BIKER | RILEY | LUNGANSER Lv34 | Area 17 |
+| BIKER | JOEL | BURNAR Lv32, BURNAR Lv32 | Area 17 |
+| BIKER | GLENN | SARSARAS Lv28, BURNAR Lv30, LUNGANSER Lv32 | Area 17 |
+| LEADER (BLAINE) | BLAINE | MAGCARGO Lv45, BURNAR Lv45, FAXHIRO Lv50 | Seafoam Islands Gym |
+| JUGGALO | DUNCAN | SARSARAS Lv23, BURNAR Lv25, SARSARAS Lv23 | Metro Complex |
+| JUGGALO | EDDIE | SCRATCHY Lv26, SARSARAS Lv24 | Metro Complex, Oversea Asylum Gym |
+| JUGGALO | COREY | SARSARAS Lv25, BURNAR Lv28, SARSARAS Lv25, SARSARAS Lv30 | Fast Ship |
+| PUNKABBESTIA | OTIS | BURNAR Lv29, LUNGANSER Lv32, BURNAR Lv29 | Area 3 |
+| PUNKABBESTIA | DICK | BELIALEON Lv17 |  |
+| PUNKABBESTIA | NED | SARSARAS Lv15, SCRATCHY Lv16, SARSARAS Lv15 |  |
+| PUNKABBESTIA | BURT | SARSARAS Lv32, SLUGMA Lv32 | Area 3 |
+| PUNKABBESTIA | BILL | SARSARAS Lv6, SARSARAS Lv6 | Union Cave 1F |
+| PUNKABBESTIA | WALT | BURNAR Lv11, BURNAR Lv13 | Area 35 |
+| PUNKABBESTIA | RAY | NYMPHAX Lv9 | Union Cave 1F |
+| PUNKABBESTIA | LYLE | SARSARAS Lv28, CERBERION Lv31, SARSARAS Lv28 | Fast Ship |
+| STUPID HIPPY | IRWIN | KOWARENING Lv2, KOWARENING Lv6, KOWARENING Lv10, KOWARENING Lv14 | Area 35 |
+| STUPID HIPPY | FRITZ | MR.SHADOW Lv29, BURNAR Lv29, STERODO Lv29 | Fast Ship B1F |
+| STUPID HIPPY | HORTON | NINGOGORE Lv33, NINGOGORE Lv33, NINGOGORE Lv33, NINGOGORE Lv33 | Vermilion City Gym |
+| STUPID HIPPY | IRWIN | KOWARENING Lv6, KOWARENING Lv10, KOWARENING Lv14, KOWARENING Lv18 |  |
+| STUPID HIPPY | IRWIN | KOWARENING Lv18, KOWARENING Lv22, KOWARENING Lv26, NINGOGORE Lv30 |  |
+| STUPID HIPPY | IRWIN | KOWARENING Lv18, KOWARENING Lv22, KOWARENING Lv26, NINGOGORE Lv30 |  |
+| YAKUZA | KENJI | OBSIDIAN Lv27, THAIFAITA Lv30, OBSIDIAN Lv27, STERODO Lv32 |  |
+| YAKUZA | YOSHI | THAIFAITA Lv27 |  |
+| YAKUZA | KENJI | OBSIDIAN Lv33, KONGORISH Lv38, HYDRAGYRUM Lv33, THAIFAITA Lv36 |  |
+| YAKUZA | LAO | MIKEFAITA Lv27 |  |
+| YAKUZA | NOB | ANOREX Lv25, STERODO Lv25 |  |
+| YAKUZA | KIYO | THAIFAITA Lv34, MIKEFAITA Lv34 | Mt.Mortar B1F |
+| YAKUZA | LUNG | HIROOSH Lv23, HIROOSH Lv23, NAGASAK Lv25 |  |
+| YAKUZA | KENJI | STERODO Lv28 | Area 45 |
+| YAKUZA | WAI | STERODO Lv30, STERODO Lv32, STERODO Lv34 | Fast Ship B1F |
+| ROCKET (EXECUTIVE) | EXECUTIVE | HOUNDOUR Lv33, SARSARAS Lv33, HOUNDOOM Lv35 | Radio Tower 5F |
+| ROCKET (EXECUTIVE) | EXECUTIVE | VAMPESSA Lv36 | Radio Tower 4F |
+| ROCKET (EXECUTIVE) | EXECUTIVE | SARSARAS Lv30, SARSARAS Lv30, SARSARAS Lv30, LUNGANSER Lv32, SARSARAS Lv30, SARSARAS Lv30 | Radio Tower 5F |
+| ROCKET (EXECUTIVE) | EXECUTIVE | GOTCHICK Lv22, RATOZZO Lv24, SARSARAS Lv22 | Lonely Woods B3F |
+| CONSPIRACY | THEORIST | ENIGMAGUS Lv26 | Bio Impact |
+| CONSPIRACY | THEORIST | PROFETUS Lv37 | Saffron City Gym |
+| CONSPIRACY | THEORIST | DARUMORT Lv30, DARUMORT Lv30, MASKABUKI Lv30 | Area 11 |
+| CONSPIRACY | THEORIST | QUELZALCOT Lv34 | Area 11 |
+| CONSPIRACY | THEORIST | DUPUPETT Lv17 | Area 37 |
+| CONSPIRACY | THEORIST | SLOWGHOST Lv17, SLOWGHOST Lv20 | Area 39 |
+| CONSPIRACY | THEORIST | GENESUS Lv13, GENESUS Lv13, PROFETUS Lv15 | Area 36 |
+| CONSPIRACY | THEORIST | SACRILUT Lv24, PROFETUS Lv26 | Area 44 |
+| CONSPIRACY | THEORIST | EMBRYEON Lv36 | Area 26 |
+| CONSPIRACY | THEORIST | IRUKUNJI Lv30, DARUMORT Lv30, ENIGMAGUS Lv34 | Area 27 |
+| CONSPIRACY | THEORIST | MR.SHADOW Lv32, DARUMORT Lv32, DARUMORT Lv35 | Saffron City Gym |
+| CONSPIRACY | THEORIST | DUPUPETT Lv29, BURHAT Lv33 | Fast Ship |
+| CAR STRUCK | LIZ | FINGAH Lv9 | Area 32 |
+| CAR STRUCK | GINA | ABORTITO Lv9, ABORTITO Lv9, WEEDAZOR Lv12 | Area 34 |
+| CAR STRUCK | BROOKE | PIKACHEWED Lv16 | Area 35 |
+| CAR STRUCK | KIM | NYMPHAX Lv15 | Area 35 |
+| CAR STRUCK | CINDY | KALEDENDS Lv36 | Fuchsia City Gym |
+| CAR STRUCK | HOPE | ALGOCRAT Lv34 | Area 4 |
+| CAR STRUCK | SHARON | JIHADO Lv31, FAXHIRO Lv33 | Area 4 |
+| CAR STRUCK | DEBRA | HOGEROT Lv33 | Fast Ship B1F |
+| CAR STRUCK | GINA | ABORTITO Lv14, ABORTITO Lv14, COCAZOR Lv17 | Area 34 |
+| CAR STRUCK | ERIN | HELLESTO Lv16, HELLESTO Lv16 | Area 46 |
+| CAR STRUCK | LIZ | GUILTYOTIN Lv15, HANDA Lv15 | Area 32 |
+| CAR STRUCK | LIZ | GUILTYOTIN Lv19, GRABOIDO Lv19, KALEDENDS Lv21 | Area 32 |
+| CAR STRUCK | HEIDI | INCUBATO Lv32, INCUBATO Lv32 | Area 9 |
+| CAR STRUCK | EDNA | HANDA Lv30, RAICHEWEDZ Lv34 | Area 9 |
+| CAR STRUCK | GINA | INCUBATO Lv26, INCUBATO Lv26, COCAZOR Lv29 | Area 34 |
+| CAR STRUCK | TIFFANY | CRISTALIA Lv31 | Area 43 |
+| CAR STRUCK | TIFFANY | CRISTALIA Lv37 | Area 43 |
+| CAR STRUCK | ERIN | HELLESTO Lv32, HELLESTO Lv32 | Area 46 |
+| CAR STRUCK | TANYA | MASKABUKI Lv37 | Celadon City Gym |
+| CAR STRUCK | TIFFANY | CRISTALIA Lv20 | Area 43 |
+| CAR STRUCK | ERIN | HELLESTO Lv36, RAICHEWEDZ Lv34, HELLESTO Lv36 | Area 46 |
+| CAR STRUCK | LIZ | GUILTYOTIN Lv24, GRABOIDO Lv26, KALEDENDS Lv26 | Area 32 |
+| CAR STRUCK | LIZ | GUILTYOTIN Lv30, KESARUS Lv32, KALEDENDS Lv32 | Area 32 |
+| CAR STRUCK | GINA | INCUBATO Lv30, INCUBATO Lv30, COCAZOR Lv32 | Area 34 |
+| CAR STRUCK | GINA | ITTIOSO Lv33, ITTIOSO Lv33, OPIUMZOR Lv38 | Area 34 |
+| CAR STRUCK | TIFFANY | CRISTALIA Lv43 | Area 43 |
+| ROMANI GIPSY | ROLAND | SCRAMBLO Lv9 | Area 32 |
+| ROMANI GIPSY | TODD | WORMACK Lv14 | Area 34 |
+| ROMANI GIPSY | IVAN | KAZETTO Lv10, GOTCHICK Lv10, KAZETTO Lv14 | Area 35 |
+| ROMANI GIPSY | ELLIOT | PAPYRYU Lv13, HALUAL Lv15 | Area 35 |
+| ROMANI GIPSY | BARRY | KESARUS Lv36 | Fuchsia City Gym |
+| ROMANI GIPSY | LLOYD | KESARUS Lv34 | Area 25 |
+| ROMANI GIPSY | DEAN | DUKAKIS Lv33, SPHINXO Lv31 | Area 9 |
+| ROMANI GIPSY | SID | GANGBANGO Lv32, NAGASAK Lv29, SMEGMATIC Lv29 | Area 9 |
+| ROMANI GIPSY | HARVEY | GRABOIDO Lv15 |  |
+| ROMANI GIPSY | DALE | GRABOIDO Lv15 |  |
+| ROMANI GIPSY | TED | HIROOSH Lv17 | Area 46 |
+| ROMANI GIPSY | TODD | URANIUM Lv17, URANIUM Lv17, WORMACK Lv23 | Area 34 |
+| ROMANI GIPSY | TODD | URANIUM Lv23, URANIUM Lv23, WORMACK Lv26 | Area 34 |
+| ROMANI GIPSY | THOMAS | PLUTONIUM Lv33, PLUTONIUM Lv36, VAMPESSA Lv40, DUKAKIS Lv42 |  |
+| ROMANI GIPSY | LEROY | PLUTONIUM Lv33, PLUTONIUM Lv36, VAMPESSA Lv40, DUKAKIS Lv42 |  |
+| ROMANI GIPSY | DAVID | PLUTONIUM Lv33, PLUTONIUM Lv36, VAMPESSA Lv40, DUKAKIS Lv42 |  |
+| ROMANI GIPSY | JOHN | PLUTONIUM Lv33, PLUTONIUM Lv36, VAMPESSA Lv40, DUKAKIS Lv42 |  |
+| ROMANI GIPSY | JERRY | SPHINXO Lv37 | Pewter City Gym |
+| ROMANI GIPSY | SPENCER | PAPYRYU Lv17, SPHINXO Lv17, GOTCHICK Lv19 | Area 43 |
+| ROMANI GIPSY | TODD | PLUTONIUM Lv30, PLUTONIUM Lv30, SLUGMA Lv30, WORMACK Lv32 | Area 34 |
+| ROMANI GIPSY | TODD | PLUTONIUM Lv33, PLUTONIUM Lv33, MAGCARGO Lv36, DUKAKIS Lv34 | Area 34 |
+| ROMANI GIPSY | QUENTIN | SGLARFO Lv30, NAGASAK Lv30, DIGESTOR Lv30 | Area 45 |
+| ROCKET (EXECUTIVE, Radio Tower 5F) | EXECUTIVE | URBOROK Lv32, LARSENEF Lv32, SKARKROW Lv32 | Radio Tower 5F |
+| ROCKET (EXECUTIVE, Radio Tower 5F) | EXECUTIVE | URBOROK Lv23, INFECTO Lv23, SKARKROW Lv25 | Lonely Woods B2F |
+| SAGE | CHOW | PILLORYD Lv3, PILLORYD Lv3, PILLORYD Lv3 | Sprout Tower 1F |
+| SAGE | NICO | PILLORYD Lv3, PILLORYD Lv3, PILLORYD Lv3 | Sprout Tower 2F |
+| SAGE | JIN | PILLORYD Lv6 | Sprout Tower 3F |
+| SAGE | TROY | PILLORYD Lv7, BALAKLOWL Lv7 | Sprout Tower 3F |
+| SAGE | JEFFREY | WRAITARL Lv22 | Suburbia Gym |
+| SAGE | PING | GOSBAMP Lv16, GOSBAMP Lv16, GOSBAMP Lv16, GOSBAMP Lv16, GOSBAMP Lv16 | Suburbia Gym |
+| SAGE | EDMOND | PILLORYD Lv3, PILLORYD Lv3, PILLORYD Lv3 | Sprout Tower 2F |
+| SAGE | NEAL | PILLORYD Lv6 | Sprout Tower 3F |
+| SAGE | LI | PILLORYD Lv7, PILLORYD Lv7, BALAKLOWL Lv10 | Sprout Tower 3F |
+| SAGE | GAKU | ROBBINOWL Lv32, CERBERION Lv32 | Suburbia |
+| SAGE | MASA | ROBBINOWL Lv32, NUKENION Lv32 | Suburbia |
+| SAGE | KOJI | ROBBINOWL Lv32, VENEREON Lv32 | Suburbia |
+| CULTIST | MARTHA | GOSBAMP Lv18, WRAITARL Lv20, GOSBAMP Lv20 | Suburbia Gym |
+| CULTIST | GRACE | WRAITARL Lv20, WRAITARL Lv20 | Suburbia Gym |
+| CULTIST | BETHANY | WRAITARL Lv25 |  |
+| CULTIST | MARGRET | WRAITARL Lv25 |  |
+| CULTIST | ETHEL | WRAITARL Lv25 |  |
+| CULTIST | REBECCA | DUPUPETT Lv35, BURHAT Lv35 | Saffron City Gym |
+| CULTIST | DORIS | SLOWGHOST Lv34, KORNUPIAK Lv36 | Saffron City Gym |
+| BOARDER | RONALD | MEGADIL Lv24, MEGADIL500 Lv25, MEGADIL Lv24 | Lonely Woods Gym |
+| BOARDER | BRAD | SWINUB Lv26, SWINUB Lv26 | Lonely Woods Gym |
+| BOARDER | DOUGLAS | SHELLDER Lv24, VAGINDAM Lv25, SHELLDER Lv24 | Lonely Woods Gym |
+| PEDOPHILE (WILLIAM, DEREK, …) | WILLIAM | RAICHEWEDZ Lv14 | National Park |
+| PEDOPHILE (WILLIAM, DEREK, …) | DEREK | PIKACHEWED Lv17 | Area 39 |
+| PEDOPHILE (WILLIAM, DEREK, …) | ROBERT | ASPHYXIAR Lv33 | Area 10 |
+| PEDOPHILE (WILLIAM, DEREK, …) | JOSHUA | PIKACHEWED Lv23, PIKACHEWED Lv23, PIKACHEWED Lv23, PIKACHEWED Lv23, PIKACHEWED Lv23, PIKACHEWED Lv23 | Area 13 |
+| PEDOPHILE (WILLIAM, DEREK, …) | CARTER | WEEDAZOR Lv29, CHARMHELL Lv29, SCOLINA Lv29 | Area 14 |
+| PEDOPHILE (WILLIAM, DEREK, …) | TREVOR | WORMACK Lv33 | Area 14 |
+| PEDOPHILE (WILLIAM, DEREK, …) | BRANDON | BLEKHOLIA Lv13 | Area 34 |
+| PEDOPHILE (WILLIAM, DEREK, …) | JEREMY | NIGGA Lv28, NIGGA Lv28, NIGGA Lv28 | Fast Ship |
+| PEDOPHILE (WILLIAM, DEREK, …) | COLIN | ANTENNOIDE Lv32 | Fast Ship |
+| PEDOPHILE (WILLIAM, DEREK, …) | DEREK | PIKACHEWED Lv19 |  |
+| PEDOPHILE (WILLIAM, DEREK, …) | DEREK | PIKACHEWED Lv36 |  |
+| PEDOPHILE (WILLIAM, DEREK, …) | ALEX | KESARUS Lv29, DEPRECLOWN Lv29, HOGEROT Lv29 | Area 13 |
+| PEDOPHILE (WILLIAM, DEREK, …) | REX | PHANPY Lv35 | Area 6 |
+| PEDOPHILE (WILLIAM, DEREK, …) | ALLAN | FLESHPLUSH Lv35 | Area 6 |
+| SYNTHETIC | STRIPPER | INCUBATO Lv20, NYMPHAX Lv20, INCUBATO Lv18 |  |
+| SYNTHETIC | STRIPPER | CERBERION Lv17 | Suburbia |
+| SYNTHETIC | STRIPPER | EMBRYEON Lv17 | Suburbia |
+| SYNTHETIC | STRIPPER | DAMNATEON Lv17 | Suburbia |
+| SYNTHETIC | STRIPPER | VENEREON Lv17 | Suburbia |
+| SYNTHETIC | STRIPPER | NUKENION Lv17 | Suburbia |
+| LESBIAN NUNS | NASTY | NAZETTO Lv10, SBIRETTO Lv10 | Los Aura Gym |
+| LESBIAN NUNS | NASTY | CRISTALIA Lv16, EYEBALLY Lv16 | Area 37 |
+| LESBIAN NUNS | NASTY | EYEBALLY Lv16, CRISTALIA Lv16 | Area 37 |
+| LESBIAN NUNS | NASTY | SBIRETTO Lv10, NAZETTO Lv10 | Los Aura Gym |
+| LESBIAN NUNS | HORNY | NORIMBERGU Lv35, LARSENEF Lv35 | Celadon City Gym |
+| LESBIAN NUNS | HORNY | LARSENEF Lv35, NORIMBERGU Lv35 | Celadon City Gym |
+| LESBIAN NUNS | HORNY | FLESHPLUSH Lv31, PHANPY Lv31 | Fast Ship |
+| LESBIAN NUNS | HORNY | PHANPY Lv31, FLESHPLUSH Lv31 | Fast Ship |
+| LESBIAN NUNS | HORNY | CHERUBIUM Lv35, CHERUBIUM Lv35 | Dragon's Den B1F |
+| LESBIAN NUNS | DRUNK | CHERUBIUM Lv38, CHERUBIUM Lv38 |  |
+| PEDOPHILE (BEVERLY, RUTH, …) | BEVERLY | BLEKHOLIA Lv14 | National Park |
+| PEDOPHILE (BEVERLY, RUTH, …) | RUTH | PIKACHEWED Lv17 | Area 39 |
+| PEDOPHILE (BEVERLY, RUTH, …) | BEVERLY | BLEKHOLIA Lv18 |  |
+| PEDOPHILE (BEVERLY, RUTH, …) | BEVERLY | GALAXIAN Lv30 |  |
+| PEDOPHILE (BEVERLY, RUTH, …) | GEORGIA | BURQO Lv23, BURQO Lv23, BURQO Lv23, JIHADO Lv28, BURQO Lv23 | Fast Ship |
+| PEDOPHILE (BEVERLY, RUTH, …) | JAIME | NIGGA Lv16 | Area 39 |
+| AUTHOR神 | HIKIKOMORI | PIKACHEWED Lv81, EMBRYEON Lv73, PUTREFACTO Lv75, OPIUMZOR Lv77, LUCIFERION Lv77, SCOLENE Lv77 | Silver Cave |
+| LEADER (BLUE) | BLUE | HEPOCORPS Lv56, MARTIRUS Lv54, MEDUCUNT Lv56, HANNYADOS Lv58, MASKABUKI Lv58, BJORN Lv58 | Viridian City Gym |
+| OFFICER | KEITH | SCRATCHY Lv17 | Area 34 |
+| OFFICER | DIRK | SCRATCHY Lv14, SCRATCHY Lv14 | Area 35 |
+| ROCKET (POLICE) | POLICE | GOTCHICK Lv9, ANFESIBO Lv11 | Slowpoke Well B1F |
+| ROCKET (POLICE) | POLICE | URBOROK Lv26 | Radio Tower 2F |
+| ROCKET (POLICE) | POLICE | INFECTO Lv25, INFECTO Lv25 | Metro Complex |
+| ROCKET (POLICE) | POLICE | ANFESIBO Lv21, ODDGLITCH Lv23, ANFESIBO Lv21, INFECTO Lv24 | Radio Tower 4F |
+| ROCKET (POLICE) | POLICE | ANFESIBO Lv18, INFECTO Lv18 | Lonely Woods B3F |
+| MYSTICALMAN | EUSINE | DUPUPETT Lv23, WRAITARL Lv23, NINGOGORE Lv25 | Oversea Asylum |
+
+</details>
 
 <br>
 
@@ -101,8 +675,6 @@ Outdoor maps stitched together, plus the Pokégear region maps with numbered lan
 <br>
 
 ## Credits
-
-Plaguemon II by [Hikikomori](https://github.com/PlaguedHikikomori) ([Plague Labs](https://plaguelabs.com)).
 
 Pokémon © Nintendo / Creatures Inc. / GAME FREAK inc.
 
