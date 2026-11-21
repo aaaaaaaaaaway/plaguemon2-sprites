@@ -1,6 +1,6 @@
 # 226 DADAORCA
 
-**SEX / MECHANIC** · [← 225 ANTENNOIDE](225_ANTENNOIDE.md) · [Pokédex](../pokedex.md) · [227 AXIOM:APEX →](227_AXIOM_APEX.md)
+**DEATH / MECHANIC** · [← 225 ANTENNOIDE](225_ANTENNOIDE.md) · [Pokédex](../pokedex.md) · [227 AXIOM:APEX →](227_AXIOM_APEX.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/226_DADAORCA_front3.png" alt="226 DADAORCA front"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_shiny3.png" alt="226 DADAORCA shiny"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_anim.gif" alt="226 DADAORCA animation"></td><td align="center" valign="bottom"><img src="img/226_DADAORCA_anim_shiny.gif" alt="226 DADAORCA shiny animation"></td></tr></table>
 

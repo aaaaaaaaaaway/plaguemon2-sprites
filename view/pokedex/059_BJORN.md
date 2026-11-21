@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**LEGENDARY** · 6'03" · 342.0 lb
+**PUPPY** · 6'03" · 342.0 lb
 
-> This is the dog owned by the creator of this game. It pisses and shits everywhere
+> Looking in the eyes of your companion, your dog, you'll feel infinite love but also future grief.
 
 ## Evolution
 

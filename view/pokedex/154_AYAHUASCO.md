@@ -1,6 +1,6 @@
 # 154 AYAHUASCO
 
-**DRUGS** · [← 153 DIVINORUM](153_DIVINORUM.md) · [Pokédex](../pokedex.md) · [155 SCARFITO →](155_SCARFITO.md)
+**NEURAL / DRUGS** · [← 153 DIVINORUM](153_DIVINORUM.md) · [Pokédex](../pokedex.md) · [155 SCARFITO →](155_SCARFITO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/154_AYAHUASCO_front3.png" alt="154 AYAHUASCO front"></td><td align="center" valign="bottom"><img src="img/154_AYAHUASCO_shiny3.png" alt="154 AYAHUASCO shiny"></td><td align="center" valign="bottom"><img src="img/154_AYAHUASCO_anim.gif" alt="154 AYAHUASCO animation"></td><td align="center" valign="bottom"><img src="img/154_AYAHUASCO_anim_shiny.gif" alt="154 AYAHUASCO shiny animation"></td></tr></table>
 

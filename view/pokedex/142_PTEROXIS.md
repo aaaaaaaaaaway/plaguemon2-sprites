@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**FOSSIL** · 5'11" · 130.0 lb
+**ANCIENT** · 5'11" · 130.0 lb
 
-> In prehistoric times, this POKéMON flew freely and fearlessly through the skies.
+> When they found the underground bones, they asked, are those real or someone just put them there?
 
 ## Evolution
 

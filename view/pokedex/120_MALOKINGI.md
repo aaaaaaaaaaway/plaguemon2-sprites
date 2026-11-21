@@ -1,6 +1,6 @@
 # 120 MALOKINGI
 
-**SEX** · [← 119 HOGEROT](119_HOGEROT.md) · [Pokédex](../pokedex.md) · [121 IRUKUNJI →](121_IRUKUNJI.md)
+**DEATH** · [← 119 HOGEROT](119_HOGEROT.md) · [Pokédex](../pokedex.md) · [121 IRUKUNJI →](121_IRUKUNJI.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/120_MALOKINGI_front3.png" alt="120 MALOKINGI front"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_shiny3.png" alt="120 MALOKINGI shiny"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_anim.gif" alt="120 MALOKINGI animation"></td><td align="center" valign="bottom"><img src="img/120_MALOKINGI_anim_shiny.gif" alt="120 MALOKINGI shiny animation"></td></tr></table>
 

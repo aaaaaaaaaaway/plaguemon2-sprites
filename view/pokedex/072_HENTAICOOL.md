@@ -1,6 +1,6 @@
 # 072 HENTAICOOL
 
-**SEX / MEDICAL** · [← 071 NORIMBERGU](071_NORIMBERGU.md) · [Pokédex](../pokedex.md) · [073 HENTAIGORE →](073_HENTAIGORE.md)
+**DEATH / MEDICAL** · [← 071 NORIMBERGU](071_NORIMBERGU.md) · [Pokédex](../pokedex.md) · [073 HENTAIGORE →](073_HENTAIGORE.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_front3.png" alt="072 HENTAICOOL front"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_shiny3.png" alt="072 HENTAICOOL shiny"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_anim.gif" alt="072 HENTAICOOL animation"></td><td align="center" valign="bottom"><img src="img/072_HENTAICOOL_anim_shiny.gif" alt="072 HENTAICOOL shiny animation"></td></tr></table>
 

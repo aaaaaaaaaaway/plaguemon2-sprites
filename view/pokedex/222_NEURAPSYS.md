@@ -1,6 +1,6 @@
 # 222 NEURAPSYS
 
-**SEX / MINERAL** · [← 221 PILOSWINE](221_PILOSWINE.md) · [Pokédex](../pokedex.md) · [223 ANIFISH →](223_ANIFISH.md)
+**DEATH / MINERAL** · [← 221 PILOSWINE](221_PILOSWINE.md) · [Pokédex](../pokedex.md) · [223 ANIFISH →](223_ANIFISH.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_front3.png" alt="222 NEURAPSYS front"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_shiny3.png" alt="222 NEURAPSYS shiny"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim.gif" alt="222 NEURAPSYS animation"></td><td align="center" valign="bottom"><img src="img/222_NEURAPSYS_anim_shiny.gif" alt="222 NEURAPSYS shiny animation"></td></tr></table>
 

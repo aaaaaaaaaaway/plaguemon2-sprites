@@ -1,6 +1,6 @@
 # 225 ANTENNOIDE
 
-**CHEMICAL / MECHANIC** · [← 224 OCTILLERY](224_OCTILLERY.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
+**CHEMICAL / MECHANIC** · [← 224 TOSHIOKI](224_TOSHIOKI.md) · [Pokédex](../pokedex.md) · [226 DADAORCA →](226_DADAORCA.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_front3.png" alt="225 ANTENNOIDE front"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_shiny3.png" alt="225 ANTENNOIDE shiny"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim.gif" alt="225 ANTENNOIDE animation"></td><td align="center" valign="bottom"><img src="img/225_ANTENNOIDE_anim_shiny.gif" alt="225 ANTENNOIDE shiny animation"></td></tr></table>
 

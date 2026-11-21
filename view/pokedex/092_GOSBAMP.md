@@ -1,6 +1,6 @@
 # 092 GOSBAMP
 
-**DEATH / MEDICAL** · [← 091 VAGINDAM](091_VAGINDAM.md) · [Pokédex](../pokedex.md) · [093 WRAITARL →](093_WRAITARL.md)
+**SEX / MEDICAL** · [← 091 VAGINDAM](091_VAGINDAM.md) · [Pokédex](../pokedex.md) · [093 WRAITARL →](093_WRAITARL.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/092_GOSBAMP_front3.png" alt="092 GOSBAMP front"></td><td align="center" valign="bottom"><img src="img/092_GOSBAMP_shiny3.png" alt="092 GOSBAMP shiny"></td><td align="center" valign="bottom"><img src="img/092_GOSBAMP_anim.gif" alt="092 GOSBAMP animation"></td><td align="center" valign="bottom"><img src="img/092_GOSBAMP_anim_shiny.gif" alt="092 GOSBAMP shiny animation"></td></tr></table>
 

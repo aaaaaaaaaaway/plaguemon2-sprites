@@ -1,6 +1,6 @@
 # 086 MEGADIL
 
-**SEX** · [← 085 PSICOTO](085_PSICOTO.md) · [Pokédex](../pokedex.md) · [087 MEGADIL500 →](087_MEGADIL500.md)
+**DEATH** · [← 085 PSICOTO](085_PSICOTO.md) · [Pokédex](../pokedex.md) · [087 MEGADIL500 →](087_MEGADIL500.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/086_MEGADIL_front3.png" alt="086 MEGADIL front"></td><td align="center" valign="bottom"><img src="img/086_MEGADIL_shiny3.png" alt="086 MEGADIL shiny"></td><td align="center" valign="bottom"><img src="img/086_MEGADIL_anim.gif" alt="086 MEGADIL animation"></td><td align="center" valign="bottom"><img src="img/086_MEGADIL_anim_shiny.gif" alt="086 MEGADIL shiny animation"></td></tr></table>
 

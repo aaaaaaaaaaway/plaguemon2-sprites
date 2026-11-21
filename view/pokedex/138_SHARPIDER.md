@@ -1,6 +1,6 @@
 # 138 SHARPIDER
 
-**MINERAL / SEX** · [← 137 TERMINALIX](137_TERMINALIX.md) · [Pokédex](../pokedex.md) · [139 MECHANIGAL →](139_MECHANIGAL.md)
+**MINERAL / DEATH** · [← 137 TERMINALIX](137_TERMINALIX.md) · [Pokédex](../pokedex.md) · [139 MECHANIGAL →](139_MECHANIGAL.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/138_SHARPIDER_front3.png" alt="138 SHARPIDER front"></td><td align="center" valign="bottom"><img src="img/138_SHARPIDER_shiny3.png" alt="138 SHARPIDER shiny"></td><td align="center" valign="bottom"><img src="img/138_SHARPIDER_anim.gif" alt="138 SHARPIDER animation"></td><td align="center" valign="bottom"><img src="img/138_SHARPIDER_anim_shiny.gif" alt="138 SHARPIDER shiny animation"></td></tr></table>
 

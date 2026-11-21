@@ -1,6 +1,6 @@
 # 139 MECHANIGAL
 
-**MINERAL / SEX** · [← 138 SHARPIDER](138_SHARPIDER.md) · [Pokédex](../pokedex.md) · [140 ZIRLORG →](140_ZIRLORG.md)
+**MINERAL / DEATH** · [← 138 SHARPIDER](138_SHARPIDER.md) · [Pokédex](../pokedex.md) · [140 ZIRLORG →](140_ZIRLORG.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/139_MECHANIGAL_front3.png" alt="139 MECHANIGAL front"></td><td align="center" valign="bottom"><img src="img/139_MECHANIGAL_shiny3.png" alt="139 MECHANIGAL shiny"></td><td align="center" valign="bottom"><img src="img/139_MECHANIGAL_anim.gif" alt="139 MECHANIGAL animation"></td><td align="center" valign="bottom"><img src="img/139_MECHANIGAL_anim_shiny.gif" alt="139 MECHANIGAL shiny animation"></td></tr></table>
 

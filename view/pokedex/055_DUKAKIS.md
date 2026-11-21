@@ -1,6 +1,6 @@
 # 055 DUKAKIS
 
-**SEX** · [← 054 WORMACK](054_WORMACK.md) · [Pokédex](../pokedex.md) · [056 HIROOSH →](056_HIROOSH.md)
+**DEATH** · [← 054 WORMACK](054_WORMACK.md) · [Pokédex](../pokedex.md) · [056 HIROOSH →](056_HIROOSH.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/055_DUKAKIS_front3.png" alt="055 DUKAKIS front"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_shiny3.png" alt="055 DUKAKIS shiny"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim.gif" alt="055 DUKAKIS animation"></td><td align="center" valign="bottom"><img src="img/055_DUKAKIS_anim_shiny.gif" alt="055 DUKAKIS shiny animation"></td></tr></table>
 

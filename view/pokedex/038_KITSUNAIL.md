@@ -1,6 +1,6 @@
 # 038 KITSUNAIL
 
-**SATANIC / SEX** · [← 037 NYMPHAX](037_NYMPHAX.md) · [Pokédex](../pokedex.md) · [039 EYEBALLY →](039_EYEBALLY.md)
+**SATANIC / DEATH** · [← 037 NYMPHAX](037_NYMPHAX.md) · [Pokédex](../pokedex.md) · [039 EYEBALLY →](039_EYEBALLY.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/038_KITSUNAIL_front3.png" alt="038 KITSUNAIL front"></td><td align="center" valign="bottom"><img src="img/038_KITSUNAIL_shiny3.png" alt="038 KITSUNAIL shiny"></td><td align="center" valign="bottom"><img src="img/038_KITSUNAIL_anim.gif" alt="038 KITSUNAIL animation"></td><td align="center" valign="bottom"><img src="img/038_KITSUNAIL_anim_shiny.gif" alt="038 KITSUNAIL shiny animation"></td></tr></table>
 

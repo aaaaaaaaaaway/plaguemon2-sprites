@@ -1,6 +1,6 @@
 # 116 COCKY
 
-**SEX** · [← 115 HELLTECH](115_HELLTECH.md) · [Pokédex](../pokedex.md) · [117 SCROTRA →](117_SCROTRA.md)
+**DEATH** · [← 115 HELLTECH](115_HELLTECH.md) · [Pokédex](../pokedex.md) · [117 SCROTRA →](117_SCROTRA.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/116_COCKY_front3.png" alt="116 COCKY front"></td><td align="center" valign="bottom"><img src="img/116_COCKY_shiny3.png" alt="116 COCKY shiny"></td><td align="center" valign="bottom"><img src="img/116_COCKY_anim.gif" alt="116 COCKY animation"></td><td align="center" valign="bottom"><img src="img/116_COCKY_anim_shiny.gif" alt="116 COCKY shiny animation"></td></tr></table>
 

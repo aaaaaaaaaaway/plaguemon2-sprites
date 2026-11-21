@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**EGG** · 3'07" · 76.0 lb
+**MOTHER** · 3'07" · 76.0 lb
 
-> People try to catch it for its extremely nutritious eggs, but it rarely can be found.
+> This species is so energy demanding that she often have to eat their own kids to battle and survive.
 
 ## Evolution
 

@@ -11,3 +11,11 @@
 <img src="intro-sprites/04.png">
 
 <img src="intro-sprites/05.png">
+
+<img src="intro-sprites/06.png">
+
+<img src="intro-sprites/07.png">
+
+<img src="intro-sprites/08.png">
+
+<img src="intro-sprites/09.png">

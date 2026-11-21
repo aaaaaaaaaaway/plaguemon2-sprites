@@ -1,6 +1,6 @@
 # 119 HOGEROT
 
-**SEX** · [← 118 BLINKY](118_BLINKY.md) · [Pokédex](../pokedex.md) · [120 MALOKINGI →](120_MALOKINGI.md)
+**DEATH** · [← 118 BLINKY](118_BLINKY.md) · [Pokédex](../pokedex.md) · [120 MALOKINGI →](120_MALOKINGI.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/119_HOGEROT_front3.png" alt="119 HOGEROT front"></td><td align="center" valign="bottom"><img src="img/119_HOGEROT_shiny3.png" alt="119 HOGEROT shiny"></td><td align="center" valign="bottom"><img src="img/119_HOGEROT_anim.gif" alt="119 HOGEROT animation"></td><td align="center" valign="bottom"><img src="img/119_HOGEROT_anim_shiny.gif" alt="119 HOGEROT shiny animation"></td></tr></table>
 

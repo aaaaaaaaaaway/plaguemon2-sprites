@@ -1,6 +1,6 @@
 # 170 RELICTOU
 
-**SEX / NUCLEAR** · [← 169 TRIZOM](169_TRIZOM.md) · [Pokédex](../pokedex.md) · [171 SOVIETO →](171_SOVIETO.md)
+**DEATH / NUCLEAR** · [← 169 TRIZOM](169_TRIZOM.md) · [Pokédex](../pokedex.md) · [171 SOVIETO →](171_SOVIETO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/170_RELICTOU_front3.png" alt="170 RELICTOU front"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_shiny3.png" alt="170 RELICTOU shiny"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_anim.gif" alt="170 RELICTOU animation"></td><td align="center" valign="bottom"><img src="img/170_RELICTOU_anim_shiny.gif" alt="170 RELICTOU shiny animation"></td></tr></table>
 

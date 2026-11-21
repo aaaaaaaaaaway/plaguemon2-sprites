@@ -1,6 +1,6 @@
 # 200 HOSTED.GOO
 
-**DEATH** · [← 199 DEPRECLOWN](199_DEPRECLOWN.md) · [Pokédex](../pokedex.md) · [202 CONDOMAX →](202_CONDOMAX.md)
+**SEX** · [← 199 DEPRECLOWN](199_DEPRECLOWN.md) · [Pokédex](../pokedex.md) · [202 CONDOMAX →](202_CONDOMAX.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_front3.png" alt="200 HOSTED.GOO front"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_shiny3.png" alt="200 HOSTED.GOO shiny"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_anim.gif" alt="200 HOSTED.GOO animation"></td><td align="center" valign="bottom"><img src="img/200_HOSTED_GOO_anim_shiny.gif" alt="200 HOSTED.GOO shiny animation"></td></tr></table>
 

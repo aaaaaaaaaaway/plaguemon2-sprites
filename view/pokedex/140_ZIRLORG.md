@@ -1,6 +1,6 @@
 # 140 ZIRLORG
 
-**MINERAL / SEX** · [← 139 MECHANIGAL](139_MECHANIGAL.md) · [Pokédex](../pokedex.md) · [141 ZILOSNAK →](141_ZILOSNAK.md)
+**MINERAL / DEATH** · [← 139 MECHANIGAL](139_MECHANIGAL.md) · [Pokédex](../pokedex.md) · [141 ZILOSNAK →](141_ZILOSNAK.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/140_ZIRLORG_front3.png" alt="140 ZIRLORG front"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_shiny3.png" alt="140 ZIRLORG shiny"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_anim.gif" alt="140 ZIRLORG animation"></td><td align="center" valign="bottom"><img src="img/140_ZIRLORG_anim_shiny.gif" alt="140 ZIRLORG shiny animation"></td></tr></table>
 

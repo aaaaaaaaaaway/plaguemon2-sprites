@@ -1,6 +1,6 @@
 # 129 ROKUJOSHI
 
-**SEX** · [← 128 DIGESTOR](128_DIGESTOR.md) · [Pokédex](../pokedex.md) · [130 HANNYADOS →](130_HANNYADOS.md)
+**DEATH** · [← 128 DIGESTOR](128_DIGESTOR.md) · [Pokédex](../pokedex.md) · [130 HANNYADOS →](130_HANNYADOS.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/129_ROKUJOSHI_front3.png" alt="129 ROKUJOSHI front"></td><td align="center" valign="bottom"><img src="img/129_ROKUJOSHI_shiny3.png" alt="129 ROKUJOSHI shiny"></td><td align="center" valign="bottom"><img src="img/129_ROKUJOSHI_anim.gif" alt="129 ROKUJOSHI animation"></td><td align="center" valign="bottom"><img src="img/129_ROKUJOSHI_anim_shiny.gif" alt="129 ROKUJOSHI shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 009 SCOLENE
 
-**SEX / MILITARY** · [← 008 SCOLANO](008_SCOLANO.md) · [Pokédex](../pokedex.md) · [010 GUNBAG →](010_GUNBAG.md)
+**DEATH / MILITARY** · [← 008 SCOLANO](008_SCOLANO.md) · [Pokédex](../pokedex.md) · [010 GUNBAG →](010_GUNBAG.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/009_SCOLENE_front3.png" alt="009 SCOLENE front"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_shiny3.png" alt="009 SCOLENE shiny"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_anim.gif" alt="009 SCOLENE animation"></td><td align="center" valign="bottom"><img src="img/009_SCOLENE_anim_shiny.gif" alt="009 SCOLENE shiny animation"></td></tr></table>
 

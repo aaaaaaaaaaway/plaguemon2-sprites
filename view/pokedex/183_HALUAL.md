@@ -1,6 +1,6 @@
 # 183 HALUAL
 
-**SEX** · [← 182 MANDELBRO](182_MANDELBRO.md) · [Pokédex](../pokedex.md) · [184 KONTROLIO →](184_KONTROLIO.md)
+**DEATH** · [← 182 MANDELBRO](182_MANDELBRO.md) · [Pokédex](../pokedex.md) · [184 KONTROLIO →](184_KONTROLIO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/183_HALUAL_front3.png" alt="183 HALUAL front"></td><td align="center" valign="bottom"><img src="img/183_HALUAL_shiny3.png" alt="183 HALUAL shiny"></td><td align="center" valign="bottom"><img src="img/183_HALUAL_anim.gif" alt="183 HALUAL animation"></td><td align="center" valign="bottom"><img src="img/183_HALUAL_anim_shiny.gif" alt="183 HALUAL shiny animation"></td></tr></table>
 

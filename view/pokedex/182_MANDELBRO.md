@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**FLOWER** · 1'04" · 13.0 lb
+**PATTERN** · 1'04" · 13.0 lb
 
-> When these dance together, their petals rub against each other, making pretty, relaxing sounds.
+> In the Mandelbrot set, everything looks the same but it actually never is. Thousands of fractals diverge.
 
 ## Evolution
 

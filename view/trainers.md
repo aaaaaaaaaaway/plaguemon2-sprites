@@ -599,7 +599,7 @@ See the [trainer data](../data/trainers.json) for held items and movesets.
 | RAYMOND | [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv22, [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv22, [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv22, [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv22 | Source of Plasma |
 | WILTON | [BLINKY](pokedex/118_BLINKY.md) Lv23, [BLINKY](pokedex/118_BLINKY.md) Lv23, [HOGEROT](pokedex/119_HOGEROT.md) Lv25 | Area 44 |
 | EDGAR | [ANIFISH](pokedex/223_ANIFISH.md) Lv25, [ANIFISH](pokedex/223_ANIFISH.md) Lv25 | Area 44 |
-| JONAH | [SHELLDER](pokedex/090_SHELLDER.md) Lv25, [OCTILLERY](pokedex/224_OCTILLERY.md) Lv29, [ANIFISH](pokedex/223_ANIFISH.md) Lv25, [VAGINDAM](pokedex/091_VAGINDAM.md) Lv29 | Fast Ship B1F |
+| JONAH | [SHELLDER](pokedex/090_SHELLDER.md) Lv25, [TOSHIOKI](pokedex/224_TOSHIOKI.md) Lv29, [ANIFISH](pokedex/223_ANIFISH.md) Lv25, [VAGINDAM](pokedex/091_VAGINDAM.md) Lv29 | Fast Ship B1F |
 | MARTIN | [ANIFISH](pokedex/223_ANIFISH.md) Lv32, [ANIFISH](pokedex/223_ANIFISH.md) Lv32 | Area 12 |
 | STEPHEN | [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv25, [ROKUJOSHI](pokedex/129_ROKUJOSHI.md) Lv25, [NAVALMINO](pokedex/211_NAVALMINO.md) Lv31, [HENTAIGORE](pokedex/073_HENTAIGORE.md) Lv31 | Area 12 |
 | BARNEY | [HANNYADOS](pokedex/130_HANNYADOS.md) Lv30, [HANNYADOS](pokedex/130_HANNYADOS.md) Lv30, [HANNYADOS](pokedex/130_HANNYADOS.md) Lv30 | Area 12 |
@@ -639,7 +639,7 @@ See the [trainer data](../data/trainers.json) for held items and movesets.
 | CORPSE | [SHELLDER](pokedex/090_SHELLDER.md) Lv30, [VAGINDAM](pokedex/091_VAGINDAM.md) Lv34 | Area 19 |
 | REMAINS | [MALOKINGI](pokedex/120_MALOKINGI.md) Lv13, [IRUKUNJI](pokedex/121_IRUKUNJI.md) Lv18, [COCKY](pokedex/116_COCKY.md) Lv16 |  |
 | CORPSE | [HALUAL](pokedex/183_HALUAL.md) Lv34 | Area 20 |
-| CORPSE | [ASPHYXIAR](pokedex/195_ASPHYXIAR.md) Lv29, [OCTILLERY](pokedex/224_OCTILLERY.md) Lv29, [ASPHYXIAR](pokedex/195_ASPHYXIAR.md) Lv32 | Area 21 |
+| CORPSE | [ASPHYXIAR](pokedex/195_ASPHYXIAR.md) Lv29, [TOSHIOKI](pokedex/224_TOSHIOKI.md) Lv29, [ASPHYXIAR](pokedex/195_ASPHYXIAR.md) Lv32 | Area 21 |
 | REMAINS | [MALOKINGI](pokedex/120_MALOKINGI.md) Lv13, [IRUKUNJI](pokedex/121_IRUKUNJI.md) Lv18, [COCKY](pokedex/116_COCKY.md) Lv16 |  |
 | REMAINS | [MALOKINGI](pokedex/120_MALOKINGI.md) Lv13, [IRUKUNJI](pokedex/121_IRUKUNJI.md) Lv18, [COCKY](pokedex/116_COCKY.md) Lv16 |  |
 | CORPSE | [COCKY](pokedex/116_COCKY.md) Lv32, [COCKY](pokedex/116_COCKY.md) Lv32, [SCROTRA](pokedex/117_SCROTRA.md) Lv35 | Cerulean City Gym |
@@ -825,7 +825,7 @@ See the [trainer data](../data/trainers.json) for held items and movesets.
 | OTIS | [BURNAR](pokedex/126_BURNAR.md) Lv29, [LUNGANSER](pokedex/110_LUNGANSER.md) Lv32, [BURNAR](pokedex/126_BURNAR.md) Lv29 | Area 3 |
 | DICK | [BELIALEON](pokedex/005_BELIALEON.md) Lv17 |  |
 | NED | [SARSARAS](pokedex/109_SARSARAS.md) Lv15, [SCRATCHY](pokedex/058_SCRATCHY.md) Lv16, [SARSARAS](pokedex/109_SARSARAS.md) Lv15 |  |
-| BURT | [SARSARAS](pokedex/109_SARSARAS.md) Lv32, [SLUGMA](pokedex/218_SLUGMA.md) Lv32 | Area 3 |
+| BURT | [SARSARAS](pokedex/109_SARSARAS.md) Lv32, [MELTEFAS](pokedex/218_MELTEFAS.md) Lv32 | Area 3 |
 | BILL | [SARSARAS](pokedex/109_SARSARAS.md) Lv6, [SARSARAS](pokedex/109_SARSARAS.md) Lv6 | Union Cave 1F |
 | WALT | [BURNAR](pokedex/126_BURNAR.md) Lv11, [BURNAR](pokedex/126_BURNAR.md) Lv13 | Area 35 |
 | RAY | [NYMPHAX](pokedex/037_NYMPHAX.md) Lv9 | Union Cave 1F |
@@ -960,7 +960,7 @@ See the [trainer data](../data/trainers.json) for held items and movesets.
 | JOHN | [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv33, [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv36, [VAMPESSA](pokedex/042_VAMPESSA.md) Lv40, [DUKAKIS](pokedex/055_DUKAKIS.md) Lv42 |  |
 | JERRY | [SPHINXO](pokedex/028_SPHINXO.md) Lv37 | Pewter City Gym |
 | SPENCER | [PAPYRYU](pokedex/027_PAPYRYU.md) Lv17, [SPHINXO](pokedex/028_SPHINXO.md) Lv17, [GOTCHICK](pokedex/041_GOTCHICK.md) Lv19 | Area 43 |
-| TODD | [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv30, [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv30, [SLUGMA](pokedex/218_SLUGMA.md) Lv30, [WORMACK](pokedex/054_WORMACK.md) Lv32 | Area 34 |
+| TODD | [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv30, [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv30, [MELTEFAS](pokedex/218_MELTEFAS.md) Lv30, [WORMACK](pokedex/054_WORMACK.md) Lv32 | Area 34 |
 | TODD | [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv33, [PLUTONIUM](pokedex/075_PLUTONIUM.md) Lv33, [MAGCARGO](pokedex/219_MAGCARGO.md) Lv36, [DUKAKIS](pokedex/055_DUKAKIS.md) Lv34 | Area 34 |
 | QUENTIN | [SGLARFO](pokedex/022_SGLARFO.md) Lv30, [NAGASAK](pokedex/057_NAGASAK.md) Lv30, [DIGESTOR](pokedex/128_DIGESTOR.md) Lv30 | Area 45 |
 

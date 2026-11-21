@@ -1,6 +1,6 @@
 {
  "game": "Plaguemon II: The AfterWorld",
- "version": "0.1.0",
+ "version": "0.1.1",
  "classes": [
   {
    "id": 1,
@@ -6841,7 +6841,7 @@
       {
        "level": 29,
        "species": 224,
-       "name": "OCTILLERY"
+       "name": "TOSHIOKI"
       },
       {
        "level": 25,
@@ -7563,7 +7563,7 @@
       {
        "level": 29,
        "species": 224,
-       "name": "OCTILLERY"
+       "name": "TOSHIOKI"
       },
       {
        "level": 32,
@@ -10012,7 +10012,7 @@
       {
        "level": 32,
        "species": 218,
-       "name": "SLUGMA"
+       "name": "MELTEFAS"
       }
      ],
      "locations": [
@@ -11906,7 +11906,7 @@
       {
        "level": 30,
        "species": 218,
-       "name": "SLUGMA"
+       "name": "MELTEFAS"
       },
       {
        "level": 32,

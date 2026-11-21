@@ -1,6 +1,6 @@
 # 230 HERMAPHROD
 
-**SEX / DIVINITY** · [← 229 HOUNDOOM](229_HOUNDOOM.md) · [Pokédex](../pokedex.md) · [231 PHANPY →](231_PHANPY.md)
+**DEATH / DIVINITY** · [← 229 HOUNDOOM](229_HOUNDOOM.md) · [Pokédex](../pokedex.md) · [231 PHANPY →](231_PHANPY.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/230_HERMAPHROD_front3.png" alt="230 HERMAPHROD front"></td><td align="center" valign="bottom"><img src="img/230_HERMAPHROD_shiny3.png" alt="230 HERMAPHROD shiny"></td><td align="center" valign="bottom"><img src="img/230_HERMAPHROD_anim.gif" alt="230 HERMAPHROD animation"></td><td align="center" valign="bottom"><img src="img/230_HERMAPHROD_anim_shiny.gif" alt="230 HERMAPHROD shiny animation"></td></tr></table>
 

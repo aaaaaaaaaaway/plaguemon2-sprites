@@ -4,7 +4,7 @@
     "player_state": "$D95D",
     "tileset": "$D199"
   },
-  "graphics_selector_offset": 261391,
+  "graphics_selector_offset": 261382,
   "palette_selector_offset": 36368,
   "other_values": "null matches all values outside the listed cases for that input",
   "variants": [

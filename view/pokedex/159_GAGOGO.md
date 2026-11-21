@@ -1,6 +1,6 @@
 # 159 GAGOGO
 
-**SEX** · [← 158 BONDILE](158_BONDILE.md) · [Pokédex](../pokedex.md) · [160 CROCOSNUFF →](160_CROCOSNUFF.md)
+**DEATH** · [← 158 BONDILE](158_BONDILE.md) · [Pokédex](../pokedex.md) · [160 CROCOSNUFF →](160_CROCOSNUFF.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/159_GAGOGO_front3.png" alt="159 GAGOGO front"></td><td align="center" valign="bottom"><img src="img/159_GAGOGO_shiny3.png" alt="159 GAGOGO shiny"></td><td align="center" valign="bottom"><img src="img/159_GAGOGO_anim.gif" alt="159 GAGOGO animation"></td><td align="center" valign="bottom"><img src="img/159_GAGOGO_anim_shiny.gif" alt="159 GAGOGO shiny animation"></td></tr></table>
 

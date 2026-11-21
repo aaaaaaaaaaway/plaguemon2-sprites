@@ -1,6 +1,6 @@
 # 098 TOXIWASTE
 
-**SEX** · [← 097 BURHAT](097_BURHAT.md) · [Pokédex](../pokedex.md) · [099 NUKEBARL →](099_NUKEBARL.md)
+**DEATH** · [← 097 BURHAT](097_BURHAT.md) · [Pokédex](../pokedex.md) · [099 NUKEBARL →](099_NUKEBARL.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/098_TOXIWASTE_front3.png" alt="098 TOXIWASTE front"></td><td align="center" valign="bottom"><img src="img/098_TOXIWASTE_shiny3.png" alt="098 TOXIWASTE shiny"></td><td align="center" valign="bottom"><img src="img/098_TOXIWASTE_anim.gif" alt="098 TOXIWASTE animation"></td><td align="center" valign="bottom"><img src="img/098_TOXIWASTE_anim_shiny.gif" alt="098 TOXIWASTE shiny animation"></td></tr></table>
 

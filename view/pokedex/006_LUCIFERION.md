@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**FLAME** · 5'07" · 200.0 lb
+**LUCIFER** · 5'07" · 200.0 lb
 
-> The lord of the lords. Its heads are always battling, but when not, it is very powerful
+> Forged from the depths of blind evilness, this creature is often named the lord of darkness.
 
 ## Evolution
 

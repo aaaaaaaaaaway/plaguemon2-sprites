@@ -1,6 +1,6 @@
 # 090 SHELLDER
 
-**SEX** · [← 089 KUMORAH](089_KUMORAH.md) · [Pokédex](../pokedex.md) · [091 VAGINDAM →](091_VAGINDAM.md)
+**DEATH** · [← 089 KUMORAH](089_KUMORAH.md) · [Pokédex](../pokedex.md) · [091 VAGINDAM →](091_VAGINDAM.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/090_SHELLDER_front3.png" alt="090 SHELLDER front"></td><td align="center" valign="bottom"><img src="img/090_SHELLDER_shiny3.png" alt="090 SHELLDER shiny"></td><td align="center" valign="bottom"><img src="img/090_SHELLDER_anim.gif" alt="090 SHELLDER animation"></td><td align="center" valign="bottom"><img src="img/090_SHELLDER_anim_shiny.gif" alt="090 SHELLDER shiny animation"></td></tr></table>
 

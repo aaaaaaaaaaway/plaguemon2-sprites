@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**FLAME** · 3'07" · 42.0 lb
+**DEMON** · 3'07" · 42.0 lb
 
-> It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legions
+> This demon is an evil trickster, hell abomination, Promotes sins like sodomy and greed.
 
 ## Evolution
 

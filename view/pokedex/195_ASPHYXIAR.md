@@ -1,6 +1,6 @@
 # 195 ASPHYXIAR
 
-**SEX / ORGANIC** · [← 194 KOTZWAR](194_KOTZWAR.md) · [Pokédex](../pokedex.md) · [196 EMBRYEON →](196_EMBRYEON.md)
+**DEATH / ORGANIC** · [← 194 KOTZWAR](194_KOTZWAR.md) · [Pokédex](../pokedex.md) · [196 EMBRYEON →](196_EMBRYEON.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_front3.png" alt="195 ASPHYXIAR front"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_shiny3.png" alt="195 ASPHYXIAR shiny"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_anim.gif" alt="195 ASPHYXIAR animation"></td><td align="center" valign="bottom"><img src="img/195_ASPHYXIAR_anim_shiny.gif" alt="195 ASPHYXIAR shiny animation"></td></tr></table>
 

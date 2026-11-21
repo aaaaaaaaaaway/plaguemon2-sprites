@@ -2,7 +2,7 @@
 
 169 items · [all sheets](../README.md)
 
-37 have new names and 12 TMs and HMs teach a different move. *In Crystal* shows the old name or move.
+41 have new names and 12 TMs and HMs teach a different move. *In Crystal* shows the old name or move.
 
 ## General items
 
@@ -167,10 +167,10 @@
 | GOD HAND |  | ? | TERU-SAMA |
 | COIN CASE |  | Holds up to 9,999 game coins. |  |
 | ITEMFINDER |  | Checks for unseen items in the area. |  |
-| OLD ROD |  | Use by water to fish for POKéMON. |  |
-| GOOD ROD |  | A good ROD for catching POKéMON. |  |
-| SUPER ROD |  | The best ROD for catching POKéMON. |  |
-| RED SCALE |  | A scale from the red GYARADOS. |  |
+| DDOS.EXE |  | Use by water to fish for POKéMON. | OLD ROD |
+| TROJAN.EXE |  | A good ROD for catching POKéMON. | GOOD ROD |
+| BACKDOOR.EXE |  | The best ROD for catching POKéMON. | SUPER ROD |
+| PLACENTA |  | A scale from the red GYARADOS. | RED SCALE |
 | AMPCAPACITOR |  | Fully heals any POKéMON. | SECRETPOTION |
 | S.S.TICKET |  | A ticket for the S.S.AQUA. |  |
 | SPECIMEN CONT. |  | An EGG obtained from MR.POKéMON. | MYSTERY EGG |

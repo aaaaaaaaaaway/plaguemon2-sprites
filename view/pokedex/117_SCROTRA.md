@@ -1,6 +1,6 @@
 # 117 SCROTRA
 
-**SEX** · [← 116 COCKY](116_COCKY.md) · [Pokédex](../pokedex.md) · [118 BLINKY →](118_BLINKY.md)
+**DEATH** · [← 116 COCKY](116_COCKY.md) · [Pokédex](../pokedex.md) · [118 BLINKY →](118_BLINKY.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/117_SCROTRA_front3.png" alt="117 SCROTRA front"></td><td align="center" valign="bottom"><img src="img/117_SCROTRA_shiny3.png" alt="117 SCROTRA shiny"></td><td align="center" valign="bottom"><img src="img/117_SCROTRA_anim.gif" alt="117 SCROTRA animation"></td><td align="center" valign="bottom"><img src="img/117_SCROTRA_anim_shiny.gif" alt="117 SCROTRA shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 245 SKYLITE
 
-**SEX** · [← 244 VITATEC](244_VITATEC.md) · [Pokédex](../pokedex.md) · [246 SEBUTAR →](246_SEBUTAR.md)
+**DEATH** · [← 244 VITATEC](244_VITATEC.md) · [Pokédex](../pokedex.md) · [246 SEBUTAR →](246_SEBUTAR.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/245_SKYLITE_front3.png" alt="245 SKYLITE front"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_shiny3.png" alt="245 SKYLITE shiny"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_anim.gif" alt="245 SKYLITE animation"></td><td align="center" valign="bottom"><img src="img/245_SKYLITE_anim_shiny.gif" alt="245 SKYLITE shiny animation"></td></tr></table>
 

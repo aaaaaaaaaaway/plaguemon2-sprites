@@ -1,6 +1,6 @@
 # 141 ZILOSNAK
 
-**MINERAL / SEX** · [← 140 ZIRLORG](140_ZIRLORG.md) · [Pokédex](../pokedex.md) · [142 PTEROXIS →](142_PTEROXIS.md)
+**MINERAL / DEATH** · [← 140 ZIRLORG](140_ZIRLORG.md) · [Pokédex](../pokedex.md) · [142 PTEROXIS →](142_PTEROXIS.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_front3.png" alt="141 ZILOSNAK front"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_shiny3.png" alt="141 ZILOSNAK shiny"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_anim.gif" alt="141 ZILOSNAK animation"></td><td align="center" valign="bottom"><img src="img/141_ZILOSNAK_anim_shiny.gif" alt="141 ZILOSNAK shiny animation"></td></tr></table>
 

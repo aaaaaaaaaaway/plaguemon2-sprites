@@ -1,6 +1,6 @@
 # 118 BLINKY
 
-**SEX** · [← 117 SCROTRA](117_SCROTRA.md) · [Pokédex](../pokedex.md) · [119 HOGEROT →](119_HOGEROT.md)
+**DEATH** · [← 117 SCROTRA](117_SCROTRA.md) · [Pokédex](../pokedex.md) · [119 HOGEROT →](119_HOGEROT.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/118_BLINKY_front3.png" alt="118 BLINKY front"></td><td align="center" valign="bottom"><img src="img/118_BLINKY_shiny3.png" alt="118 BLINKY shiny"></td><td align="center" valign="bottom"><img src="img/118_BLINKY_anim.gif" alt="118 BLINKY animation"></td><td align="center" valign="bottom"><img src="img/118_BLINKY_anim_shiny.gif" alt="118 BLINKY shiny animation"></td></tr></table>
 

@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**PSI** · 4'11" · 106.0 lb
+**MESSIAH** · 4'11" · 106.0 lb
 
-> It has an IQ of 5000. It calcu- lates many things in order to gain the edge in every battle.
+> He decided to spend his remaining life crucified, just to send a message to everyone.
 
 ## Evolution
 

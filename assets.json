@@ -33,7 +33,7 @@
   "hidden": true,
   "w": 1436,
   "h": 3562,
-  "kb": 771
+  "kb": 773
  },
  {
   "section": "Pokémon",
@@ -43,7 +43,7 @@
   "hidden": true,
   "w": 3176,
   "h": 2338,
-  "kb": 558
+  "kb": 559
  },
  {
   "section": "Pokémon",
@@ -404,7 +404,7 @@
   "view_parts": 1,
   "w": 944,
   "h": 322,
-  "kb": 38
+  "kb": 39
  },
  {
   "section": "Backgrounds (Locations)",
@@ -417,7 +417,7 @@
   "view_parts": 1,
   "w": 656,
   "h": 2650,
-  "kb": 159
+  "kb": 220
  },
  {
   "section": "Backgrounds (Locations)",
@@ -430,7 +430,7 @@
   "view_parts": 1,
   "w": 984,
   "h": 1490,
-  "kb": 164
+  "kb": 162
  },
  {
   "section": "Backgrounds (Locations)",
@@ -456,7 +456,7 @@
   "view_parts": 1,
   "w": 944,
   "h": 482,
-  "kb": 44
+  "kb": 43
  },
  {
   "section": "Backgrounds (Locations)",
@@ -521,7 +521,7 @@
   "view_parts": 1,
   "w": 984,
   "h": 642,
-  "kb": 41
+  "kb": 45
  },
  {
   "section": "Backgrounds (Locations)",
@@ -560,7 +560,7 @@
   "view_parts": 1,
   "w": 1008,
   "h": 1078,
-  "kb": 72
+  "kb": 71
  },
  {
   "section": "Backgrounds (Locations)",
@@ -664,7 +664,7 @@
   "view_parts": 5,
   "w": 960,
   "h": 914,
-  "kb": 163
+  "kb": 164
  },
  {
   "section": "Miscellaneous",
@@ -752,10 +752,10 @@
   "thumb": "thumbs/miscellaneous/intro-backgrounds.png",
   "page": "view/miscellaneous/intro-backgrounds.md",
   "view_zoom": 4,
-  "view_parts": 8,
+  "view_parts": 9,
   "w": 1016,
-  "h": 1394,
-  "kb": 25
+  "h": 1698,
+  "kb": 37
  },
  {
   "section": "Miscellaneous",
@@ -830,10 +830,10 @@
   "thumb": "thumbs/miscellaneous/intro-sprites.png",
   "page": "view/miscellaneous/intro-sprites.md",
   "view_zoom": 4,
-  "view_parts": 5,
+  "view_parts": 9,
   "w": 863,
-  "h": 920,
-  "kb": 24
+  "h": 1954,
+  "kb": 51
  },
  {
   "section": "World Map",
@@ -924,7 +924,7 @@
   "view_parts": 1,
   "w": 640,
   "h": 898,
-  "kb": 51
+  "kb": 50
  },
  {
   "section": "More maps",
@@ -1314,7 +1314,7 @@
   "view_parts": 1,
   "w": 672,
   "h": 1474,
-  "kb": 86
+  "kb": 85
  },
  {
   "section": "More maps",
@@ -1548,7 +1548,7 @@
   "view_parts": 1,
   "w": 656,
   "h": 1194,
-  "kb": 6
+  "kb": 5
  },
  {
   "section": "More maps",
@@ -1613,7 +1613,7 @@
   "view_parts": 1,
   "w": 992,
   "h": 622,
-  "kb": 82
+  "kb": 81
  },
  {
   "section": "More maps",
@@ -1626,7 +1626,7 @@
   "view_parts": 1,
   "w": 336,
   "h": 1186,
-  "kb": 49
+  "kb": 50
  },
  {
   "section": "More maps",
@@ -1639,6 +1639,6 @@
   "view_parts": 1,
   "w": 1000,
   "h": 1526,
-  "kb": 10
+  "kb": 9
  }
 ]

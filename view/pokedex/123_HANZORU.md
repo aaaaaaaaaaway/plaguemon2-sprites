@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**MANTIS** · 4'11" · 123.0 lb
+**NUKENIN** · 4'11" · 123.0 lb
 
-> A ninjutsu sensei and his student fused in one body. A very violent nukenin
+> A ninja that was damned to become an insect from a curse received from the clan he betrayed.
 
 ## Evolution
 

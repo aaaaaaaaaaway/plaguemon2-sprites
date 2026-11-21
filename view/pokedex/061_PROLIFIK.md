@@ -1,6 +1,6 @@
 # 061 PROLIFIK
 
-**SEX** · [← 060 SPERMOTZ](060_SPERMOTZ.md) · [Pokédex](../pokedex.md) · [062 SMEGMATIC →](062_SMEGMATIC.md)
+**DEATH** · [← 060 SPERMOTZ](060_SPERMOTZ.md) · [Pokédex](../pokedex.md) · [062 SMEGMATIC →](062_SMEGMATIC.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/061_PROLIFIK_front3.png" alt="061 PROLIFIK front"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_shiny3.png" alt="061 PROLIFIK shiny"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_anim.gif" alt="061 PROLIFIK animation"></td><td align="center" valign="bottom"><img src="img/061_PROLIFIK_anim_shiny.gif" alt="061 PROLIFIK shiny animation"></td></tr></table>
 

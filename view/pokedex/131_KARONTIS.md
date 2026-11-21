@@ -1,6 +1,6 @@
 # 131 KARONTIS
 
-**SEX / CHEMICAL** · [← 130 HANNYADOS](130_HANNYADOS.md) · [Pokédex](../pokedex.md) · [132 SHITTO →](132_SHITTO.md)
+**DEATH / CHEMICAL** · [← 130 HANNYADOS](130_HANNYADOS.md) · [Pokédex](../pokedex.md) · [132 SHITTO →](132_SHITTO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/131_KARONTIS_front3.png" alt="131 KARONTIS front"></td><td align="center" valign="bottom"><img src="img/131_KARONTIS_shiny3.png" alt="131 KARONTIS shiny"></td><td align="center" valign="bottom"><img src="img/131_KARONTIS_anim.gif" alt="131 KARONTIS animation"></td><td align="center" valign="bottom"><img src="img/131_KARONTIS_anim_shiny.gif" alt="131 KARONTIS shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 199 DEPRECLOWN
 
-**SEX / NEURAL** · [← 198 SKARKROW](198_SKARKROW.md) · [Pokédex](../pokedex.md) · [200 HOSTED.GOO →](200_HOSTED_GOO.md)
+**DEATH / NEURAL** · [← 198 SKARKROW](198_SKARKROW.md) · [Pokédex](../pokedex.md) · [200 HOSTED.GOO →](200_HOSTED_GOO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/199_DEPRECLOWN_front3.png" alt="199 DEPRECLOWN front"></td><td align="center" valign="bottom"><img src="img/199_DEPRECLOWN_shiny3.png" alt="199 DEPRECLOWN shiny"></td><td align="center" valign="bottom"><img src="img/199_DEPRECLOWN_anim.gif" alt="199 DEPRECLOWN animation"></td><td align="center" valign="bottom"><img src="img/199_DEPRECLOWN_anim_shiny.gif" alt="199 DEPRECLOWN shiny animation"></td></tr></table>
 

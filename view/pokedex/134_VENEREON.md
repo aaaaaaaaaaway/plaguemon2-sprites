@@ -1,6 +1,6 @@
 # 134 VENEREON
 
-**SEX** · [← 133 DEADDOG](133_DEADDOG.md) · [Pokédex](../pokedex.md) · [135 NUKENION →](135_NUKENION.md)
+**DEATH** · [← 133 DEADDOG](133_DEADDOG.md) · [Pokédex](../pokedex.md) · [135 NUKENION →](135_NUKENION.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/134_VENEREON_front3.png" alt="134 VENEREON front"></td><td align="center" valign="bottom"><img src="img/134_VENEREON_shiny3.png" alt="134 VENEREON shiny"></td><td align="center" valign="bottom"><img src="img/134_VENEREON_anim.gif" alt="134 VENEREON animation"></td><td align="center" valign="bottom"><img src="img/134_VENEREON_anim_shiny.gif" alt="134 VENEREON shiny animation"></td></tr></table>
 

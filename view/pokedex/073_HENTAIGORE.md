@@ -1,6 +1,6 @@
 # 073 HENTAIGORE
 
-**SEX / MEDICAL** · [← 072 HENTAICOOL](072_HENTAICOOL.md) · [Pokédex](../pokedex.md) · [074 URANIUM →](074_URANIUM.md)
+**DEATH / MEDICAL** · [← 072 HENTAICOOL](072_HENTAICOOL.md) · [Pokédex](../pokedex.md) · [074 URANIUM →](074_URANIUM.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/073_HENTAIGORE_front3.png" alt="073 HENTAIGORE front"></td><td align="center" valign="bottom"><img src="img/073_HENTAIGORE_shiny3.png" alt="073 HENTAIGORE shiny"></td><td align="center" valign="bottom"><img src="img/073_HENTAIGORE_anim.gif" alt="073 HENTAIGORE animation"></td><td align="center" valign="bottom"><img src="img/073_HENTAIGORE_anim_shiny.gif" alt="073 HENTAIGORE shiny animation"></td></tr></table>
 

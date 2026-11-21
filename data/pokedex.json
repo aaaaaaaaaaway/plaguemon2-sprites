@@ -1,6 +1,6 @@
 {
  "game": "Plaguemon II: The AfterWorld",
- "version": "0.1.0",
+ "version": "0.1.1",
  "types": [
   "ANGELIC",
   "CHEMICAL",
@@ -714,7 +714,7 @@
     "frames": "sprites/frames/5.png",
     "icon": "sprites/icons/charmander.png"
    },
-   "category": "FLAME",
+   "category": "DEMON",
    "height": "3'07\"",
    "weight": "42.0 lb",
    "evolves_to": [
@@ -822,7 +822,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "It was exiled from heaven with LUCIFER. It's the demon of sodomy. Leads 80 legions"
+   "pokedex_text": "This demon is an evil trickster, hell abomination, Promotes sins like sodomy and greed."
   },
   {
    "key": "6",
@@ -869,7 +869,7 @@
     "frames": "sprites/frames/6.png",
     "icon": "sprites/icons/bigmon.png"
    },
-   "category": "FLAME",
+   "category": "LUCIFER",
    "height": "5'07\"",
    "weight": "200.0 lb",
    "evolves_to": [],
@@ -987,7 +987,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "The lord of the lords. Its heads are always battling, but when not, it is very powerful"
+   "pokedex_text": "Forged from the depths of blind evilness, this creature is often named the lord of darkness."
   },
   {
    "key": "7",
@@ -995,7 +995,7 @@
    "name": "SCOLINA",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 44,
@@ -1064,7 +1064,7 @@
     {
      "level": 7,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -1072,7 +1072,7 @@
     {
      "level": 10,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -1080,7 +1080,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -1112,7 +1112,7 @@
     {
      "level": 33,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -1128,7 +1128,7 @@
     {
      "level": 47,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -1143,7 +1143,7 @@
    "name": "SCOLANO",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 59,
@@ -1218,7 +1218,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -1234,7 +1234,7 @@
     {
      "level": 7,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -1242,7 +1242,7 @@
     {
      "level": 10,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -1250,7 +1250,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -1282,7 +1282,7 @@
     {
      "level": 37,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -1298,7 +1298,7 @@
     {
      "level": 53,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -1313,7 +1313,7 @@
    "name": "SCOLENE",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MILITARY"
    ],
    "stats": {
@@ -1383,7 +1383,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -1391,7 +1391,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -1407,7 +1407,7 @@
     {
      "level": 7,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -1415,7 +1415,7 @@
     {
      "level": 10,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -1423,7 +1423,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -1455,7 +1455,7 @@
     {
      "level": 42,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -1471,7 +1471,7 @@
     {
      "level": 68,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -1524,7 +1524,7 @@
     "frames": "sprites/frames/10.png",
     "icon": "sprites/icons/caterpillar.png"
    },
-   "category": "WORM",
+   "category": "GUN",
    "height": "1'00\"",
    "weight": "6.0 lb",
    "evolves_to": [
@@ -1597,7 +1597,7 @@
      "levels": "10"
     }
    ],
-   "pokedex_text": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body."
+   "pokedex_text": "Gunpowder residues causes this bug to evolve in this gun-like form. Its shoots are fast but weak."
   },
   {
    "key": "11",
@@ -1745,7 +1745,7 @@
     "frames": "sprites/frames/12.png",
     "icon": "sprites/icons/moth.png"
    },
-   "category": "BUTTERFLY",
+   "category": "MONARCH",
    "height": "3'07\"",
    "weight": "71.0 lb",
    "evolves_to": [],
@@ -1858,7 +1858,7 @@
      "levels": "14"
     }
    ],
-   "pokedex_text": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom."
+   "pokedex_text": "Its wings evolved pointy enough to became a defense weapon. Sometimes can also grow a new pair of eyes."
   },
   {
    "key": "13",
@@ -3879,7 +3879,7 @@
     "frames": "sprites/frames/24.png",
     "icon": "sprites/icons/serpent.png"
    },
-   "category": "COBRA",
+   "category": "INFINITY",
    "height": "11'06\"",
    "weight": "143.0 lb",
    "evolves_to": [],
@@ -4016,7 +4016,7 @@
      "levels": "15"
     }
    ],
-   "pokedex_text": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth."
+   "pokedex_text": "The infinite return, the Uroboro. The snake that eats itself from the tail, never ending pain."
   },
   {
    "key": "25",
@@ -5712,7 +5712,7 @@
     {
      "level": 19,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -5752,7 +5752,7 @@
    "form": null,
    "types": [
     "SATANIC",
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 73,
@@ -5821,7 +5821,7 @@
     {
      "level": 1,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -6197,7 +6197,7 @@
     {
      "level": 19,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -6523,7 +6523,7 @@
     {
      "level": 19,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -8345,7 +8345,7 @@
    "name": "WORMACK",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 50,
@@ -8454,7 +8454,7 @@
     {
      "level": 50,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -8512,7 +8512,7 @@
    "name": "DUKAKIS",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 80,
@@ -8645,7 +8645,7 @@
     {
      "level": 58,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -9176,7 +9176,7 @@
     "frames": "sprites/frames/59.png",
     "icon": "sprites/icons/fox.png"
    },
-   "category": "LEGENDARY",
+   "category": "PUPPY",
    "height": "6'03\"",
    "weight": "342.0 lb",
    "evolves_to": [],
@@ -9224,7 +9224,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "This is the dog owned by the creator of this game. It pisses and shits everywhere"
+   "pokedex_text": "Looking in the eyes of your companion, your dog, you'll feel infinite love but also future grief."
   },
   {
    "key": "60",
@@ -9232,7 +9232,7 @@
    "name": "SPERMOTZ",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 40,
@@ -9285,7 +9285,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -9301,7 +9301,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -9317,7 +9317,7 @@
     {
      "level": 25,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -9341,7 +9341,7 @@
     {
      "level": 43,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -9435,7 +9435,7 @@
    "name": "PROLIFIK",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 65,
@@ -9494,7 +9494,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -9510,7 +9510,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -9526,7 +9526,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -9542,7 +9542,7 @@
     {
      "level": 27,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -9566,7 +9566,7 @@
     {
      "level": 51,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -9654,7 +9654,7 @@
    "name": "SMEGMATIC",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "VIOLENCE"
    ],
    "stats": {
@@ -9671,8 +9671,8 @@
    "gender": "50% female",
    "growth": "Medium Slow",
    "size": "56x56",
-   "frames": 2,
-   "animation": "cycle",
+   "frames": 4,
+   "animation": "script",
    "palette": [
     "#73accd",
     "#4a527b",
@@ -9708,7 +9708,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -10059,7 +10059,7 @@
     "frames": "sprites/frames/65.png",
     "icon": "sprites/icons/humanshape.png"
    },
-   "category": "PSI",
+   "category": "MESSIAH",
    "height": "4'11\"",
    "weight": "106.0 lb",
    "evolves_to": [],
@@ -10153,7 +10153,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "It has an IQ of 5000. It calcu- lates many things in order to gain the edge in every battle."
+   "pokedex_text": "He decided to spend his remaining life crucified, just to send a message to everyone."
   },
   {
    "key": "66",
@@ -11088,7 +11088,7 @@
    "name": "HENTAICOOL",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MEDICAL"
    ],
    "stats": {
@@ -11174,7 +11174,7 @@
     {
      "level": 25,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -11206,7 +11206,7 @@
     {
      "level": 49,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -11336,7 +11336,7 @@
    "name": "HENTAIGORE",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MEDICAL"
    ],
    "stats": {
@@ -11438,7 +11438,7 @@
     {
      "level": 25,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -11470,7 +11470,7 @@
     {
      "level": 55,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -12507,7 +12507,7 @@
    "name": "SLOWGHOST",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NEURAL"
    ],
    "stats": {
@@ -12585,7 +12585,7 @@
     {
      "level": 15,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -12677,7 +12677,7 @@
    "name": "KORNUPIAK",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NEURAL"
    ],
    "stats": {
@@ -12760,7 +12760,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -12776,7 +12776,7 @@
     {
      "level": 15,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -12808,7 +12808,7 @@
     {
      "level": 37,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -13603,7 +13603,7 @@
    "name": "MEGADIL",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 65,
@@ -13738,7 +13738,7 @@
    "name": "MEGADIL500",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "CHEMICAL"
    ],
    "stats": {
@@ -14193,7 +14193,7 @@
    "name": "SHELLDER",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 30,
@@ -14254,7 +14254,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -14294,7 +14294,7 @@
     {
      "level": 41,
      "move": "CLAMP",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 35,
      "accuracy": 75,
      "pp": 10
@@ -14317,7 +14317,7 @@
    "name": "VAGINDAM",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "CHEMICAL"
    ],
    "stats": {
@@ -14371,7 +14371,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -14426,7 +14426,7 @@
    "name": "GOSBAMP",
    "form": null,
    "types": [
-    "DEATH",
+    "SEX",
     "MEDICAL"
    ],
    "stats": {
@@ -14488,7 +14488,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -14496,7 +14496,7 @@
     {
      "level": 8,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14520,7 +14520,7 @@
     {
      "level": 21,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -14528,7 +14528,7 @@
     {
      "level": 28,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14544,7 +14544,7 @@
     {
      "level": 36,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -14638,7 +14638,7 @@
    "name": "WRAITARL",
    "form": null,
    "types": [
-    "DEATH",
+    "SEX",
     "MEDICAL"
    ],
    "stats": {
@@ -14706,7 +14706,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -14714,7 +14714,7 @@
     {
      "level": 1,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14722,7 +14722,7 @@
     {
      "level": 8,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14746,7 +14746,7 @@
     {
      "level": 21,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -14754,7 +14754,7 @@
     {
      "level": 31,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14770,7 +14770,7 @@
     {
      "level": 48,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -14804,7 +14804,7 @@
    "name": "TREROR",
    "form": null,
    "types": [
-    "DEATH",
+    "SEX",
     "MEDICAL"
    ],
    "stats": {
@@ -14866,7 +14866,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -14874,7 +14874,7 @@
     {
      "level": 1,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14882,7 +14882,7 @@
     {
      "level": 8,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14906,7 +14906,7 @@
     {
      "level": 21,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -14914,7 +14914,7 @@
     {
      "level": 31,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -14930,7 +14930,7 @@
     {
      "level": 48,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -15431,7 +15431,7 @@
    "name": "TOXIWASTE",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 30,
@@ -15484,7 +15484,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -15540,7 +15540,7 @@
     {
      "level": 41,
      "move": "CRABHAMMER",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 90,
      "accuracy": 85,
      "pp": 10
@@ -15580,7 +15580,7 @@
    "name": "NUKEBARL",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 55,
@@ -15633,7 +15633,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -15705,7 +15705,7 @@
     {
      "level": 49,
      "move": "CRABHAMMER",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 90,
      "accuracy": 85,
      "pp": 10
@@ -16948,7 +16948,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -17143,7 +17143,7 @@
     {
      "level": 45,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -17304,7 +17304,7 @@
     {
      "level": 51,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -17644,7 +17644,7 @@
     "frames": "sprites/frames/113.png",
     "icon": "sprites/icons/clefairy.png"
    },
-   "category": "EGG",
+   "category": "MOTHER",
    "height": "3'07\"",
    "weight": "76.0 lb",
    "evolves_to": [
@@ -17765,7 +17765,7 @@
      "levels": "25"
     }
    ],
-   "pokedex_text": "People try to catch it for its extremely nutritious eggs, but it rarely can be found."
+   "pokedex_text": "This species is so energy demanding that she often have to eat their own kids to battle and survive."
   },
   {
    "key": "114",
@@ -18065,7 +18065,7 @@
    "name": "COCKY",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 30,
@@ -18118,7 +18118,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -18142,7 +18142,7 @@
     {
      "level": 22,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -18166,7 +18166,7 @@
     {
      "level": 43,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -18194,7 +18194,7 @@
    "name": "SCROTRA",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 55,
@@ -18253,7 +18253,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -18277,7 +18277,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -18301,7 +18301,7 @@
     {
      "level": 22,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -18325,7 +18325,7 @@
     {
      "level": 51,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -18347,7 +18347,7 @@
    "name": "BLINKY",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 45,
@@ -18448,7 +18448,7 @@
     {
      "level": 38,
      "move": "WATERFALL",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 80,
      "accuracy": 100,
      "pp": 15
@@ -18552,7 +18552,7 @@
    "name": "HOGEROT",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 80,
@@ -18661,7 +18661,7 @@
     {
      "level": 41,
      "move": "WATERFALL",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 80,
      "accuracy": 100,
      "pp": 15
@@ -18765,7 +18765,7 @@
    "name": "MALOKINGI",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 30,
@@ -18834,7 +18834,7 @@
     {
      "level": 7,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -18866,7 +18866,7 @@
     {
      "level": 31,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -18890,7 +18890,7 @@
     {
      "level": 50,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -18905,7 +18905,7 @@
    "name": "IRUKUNJI",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NEURAL"
    ],
    "stats": {
@@ -18983,7 +18983,7 @@
     {
      "level": 1,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -18991,7 +18991,7 @@
     {
      "level": 37,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -19179,7 +19179,7 @@
    "growth": "Medium Fast",
    "size": "56x56",
    "frames": 4,
-   "animation": "cycle",
+   "animation": "script",
    "palette": [
     "#c5395a",
     "#6a6a62",
@@ -19200,7 +19200,7 @@
     "frames": "sprites/frames/123.png",
     "icon": "sprites/icons/bug.png"
    },
-   "category": "MANTIS",
+   "category": "NUKENIN",
    "height": "4'11\"",
    "weight": "123.0 lb",
    "evolves_to": [
@@ -19294,7 +19294,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "A ninjutsu sensei and his student fused in one body. A very violent nukenin"
+   "pokedex_text": "A ninja that was damned to become an insect from a curse received from the clan he betrayed."
   },
   {
    "key": "124",
@@ -19364,7 +19364,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -19750,7 +19750,7 @@
     {
      "level": 49,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -20037,7 +20037,7 @@
    "name": "ROKUJOSHI",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 20,
@@ -20164,7 +20164,7 @@
    "name": "HANNYADOS",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MECHANIC"
    ],
    "stats": {
@@ -20258,7 +20258,7 @@
     {
      "level": 40,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -20266,7 +20266,7 @@
     {
      "level": 45,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -20296,7 +20296,7 @@
    "name": "KARONTIS",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "CHEMICAL"
    ],
    "stats": {
@@ -20344,7 +20344,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -20384,7 +20384,7 @@
     {
      "level": 22,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -20408,7 +20408,7 @@
     {
      "level": 43,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -20424,7 +20424,7 @@
     {
      "level": 57,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -20584,14 +20584,14 @@
      "how": "use FIRE STONE"
     },
     {
-     "id": 196,
-     "name": "EMBRYEON",
-     "how": "happiness, morning/day"
-    },
-    {
      "id": 197,
      "name": "DAMNATEON",
      "how": "special: game counter at RAM $D9C6 is 5 or more"
+    },
+    {
+     "id": 196,
+     "name": "EMBRYEON",
+     "how": "happiness, morning/day"
     }
    ],
    "evolves_from": [],
@@ -20670,7 +20670,7 @@
    "name": "VENEREON",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 130,
@@ -20747,7 +20747,7 @@
     {
      "level": 16,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -20795,7 +20795,7 @@
     {
      "level": 52,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -21225,7 +21225,7 @@
    "form": null,
    "types": [
     "MINERAL",
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 35,
@@ -21286,7 +21286,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -21302,7 +21302,7 @@
     {
      "level": 19,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -21334,7 +21334,7 @@
     {
      "level": 55,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -21350,7 +21350,7 @@
    "form": null,
    "types": [
     "MINERAL",
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 70,
@@ -21411,7 +21411,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -21435,7 +21435,7 @@
     {
      "level": 19,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -21475,7 +21475,7 @@
     {
      "level": 65,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -21491,7 +21491,7 @@
    "form": null,
    "types": [
     "MINERAL",
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 30,
@@ -21616,7 +21616,7 @@
    "form": null,
    "types": [
     "MINERAL",
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 60,
@@ -21795,7 +21795,7 @@
     "frames": "sprites/frames/142.png",
     "icon": "sprites/icons/bird.png"
    },
-   "category": "FOSSIL",
+   "category": "ANCIENT",
    "height": "5'11\"",
    "weight": "130.0 lb",
    "evolves_to": [],
@@ -21867,7 +21867,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "In prehistoric times, this POKéMON flew freely and fearlessly through the skies."
+   "pokedex_text": "When they found the underground bones, they asked, are those real or someone just put them there?"
   },
   {
    "key": "143",
@@ -23394,6 +23394,7 @@
    "name": "AYAHUASCO",
    "form": null,
    "types": [
+    "NEURAL",
     "DRUGS"
    ],
    "stats": {
@@ -23812,7 +23813,8 @@
    "name": "INFERNATUS",
    "form": null,
    "types": [
-    "SATANIC"
+    "SATANIC",
+    "DOOM"
    ],
    "stats": {
     "hp": 78,
@@ -23952,7 +23954,7 @@
    "name": "BONDILE",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 50,
@@ -24029,7 +24031,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -24069,7 +24071,7 @@
     {
      "level": 52,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -24084,7 +24086,7 @@
    "name": "GAGOGO",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 65,
@@ -24175,7 +24177,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -24215,7 +24217,7 @@
     {
      "level": 55,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -24230,7 +24232,8 @@
    "name": "CROCOSNUFF",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH",
+    "VIOLENCE"
    ],
    "stats": {
     "hp": 85,
@@ -24307,7 +24310,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -24323,7 +24326,7 @@
     {
      "level": 13,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -24363,7 +24366,7 @@
     {
      "level": 58,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -25554,7 +25557,7 @@
     {
      "level": 17,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -25748,7 +25751,7 @@
     {
      "level": 17,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -25910,7 +25913,7 @@
     {
      "level": 19,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -25949,7 +25952,7 @@
    "name": "RELICTOU",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NUCLEAR"
    ],
    "stats": {
@@ -26003,7 +26006,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -26035,7 +26038,7 @@
     {
      "level": 17,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -26051,7 +26054,7 @@
     {
      "level": 29,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -26067,7 +26070,7 @@
     {
      "level": 41,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -26082,7 +26085,7 @@
    "name": "SOVIETO",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NUCLEAR"
    ],
    "stats": {
@@ -26136,7 +26139,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -26176,7 +26179,7 @@
     {
      "level": 17,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -26192,7 +26195,7 @@
     {
      "level": 33,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -26208,7 +26211,7 @@
     {
      "level": 53,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -26826,7 +26829,7 @@
     {
      "level": 10,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -26850,7 +26853,7 @@
     {
      "level": 40,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -26950,7 +26953,7 @@
     {
      "level": 1,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -26958,7 +26961,7 @@
     {
      "level": 10,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -26982,7 +26985,7 @@
     {
      "level": 50,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -27289,7 +27292,7 @@
     "frames": "sprites/frames/181.png",
     "icon": "sprites/icons/monster.png"
    },
-   "category": "LIGHT",
+   "category": "DICTATOR",
    "height": "4'07\"",
    "weight": "136.0 lb",
    "evolves_to": [],
@@ -27383,7 +27386,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface."
+   "pokedex_text": "When AI took up, when the AGI was fulfilled, house- -hold robots took ahold of all the ministry."
   },
   {
    "key": "182",
@@ -27429,7 +27432,7 @@
     "frames": "sprites/frames/182.png",
     "icon": "sprites/icons/oddish.png"
    },
-   "category": "FLOWER",
+   "category": "PATTERN",
    "height": "1'04\"",
    "weight": "13.0 lb",
    "evolves_to": [],
@@ -27483,7 +27486,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "When these dance together, their petals rub against each other, making pretty, relaxing sounds."
+   "pokedex_text": "In the Mandelbrot set, everything looks the same but it actually never is. Thousands of fractals diverge."
   },
   {
    "key": "183",
@@ -27491,7 +27494,7 @@
    "name": "HALUAL",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 70,
@@ -27568,7 +27571,7 @@
     {
      "level": 10,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -27584,7 +27587,7 @@
     {
      "level": 21,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -27600,7 +27603,7 @@
     {
      "level": 36,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -27658,7 +27661,7 @@
    "name": "KONTROLIO",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 100,
@@ -27696,7 +27699,7 @@
     "frames": "sprites/frames/184.png",
     "icon": "sprites/icons/jigglypuff.png"
    },
-   "category": "AQUARABBIT",
+   "category": "SURVEILLANCE",
    "height": "2'07\"",
    "weight": "63.0 lb",
    "evolves_to": [],
@@ -27735,7 +27738,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -27759,7 +27762,7 @@
     {
      "level": 10,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -27775,7 +27778,7 @@
     {
      "level": 25,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -27791,14 +27794,14 @@
     {
      "level": 48,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
     }
    ],
    "wild": [],
-   "pokedex_text": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water."
+   "pokedex_text": "A bot made by the government to control people, looks like a kawaii mascot but is actually a cam."
   },
   {
    "key": "185",
@@ -27916,7 +27919,7 @@
    "name": "FETUSO",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 90,
@@ -27963,7 +27966,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -28565,7 +28568,7 @@
     "frames": "sprites/frames/190.png",
     "icon": "sprites/icons/monster.png"
    },
-   "category": "LONG TAIL",
+   "category": "MOLESTER",
    "height": "2'07\"",
    "weight": "25.0 lb",
    "evolves_to": [],
@@ -28637,7 +28640,7 @@
     }
    ],
    "wild": [],
-   "pokedex_text": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another."
+   "pokedex_text": "This little silly creature, sneaks into public places like video arcades to grope innocent underage girls."
   },
   {
    "key": "191",
@@ -29028,7 +29031,7 @@
    "name": "KOTZWAR",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "ORGANIC"
    ],
    "stats": {
@@ -29082,7 +29085,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -29122,7 +29125,7 @@
     {
      "level": 41,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -29196,7 +29199,7 @@
    "name": "ASPHYXIAR",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "ORGANIC"
    ],
    "stats": {
@@ -29250,7 +29253,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -29290,7 +29293,7 @@
     {
      "level": 47,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -29639,7 +29642,7 @@
     {
      "level": 30,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -29758,7 +29761,7 @@
     {
      "level": 26,
      "move": "NIGHT SHADE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 1,
      "accuracy": 100,
      "pp": 15
@@ -29802,7 +29805,7 @@
    "name": "DEPRECLOWN",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "NEURAL"
    ],
    "stats": {
@@ -29874,7 +29877,7 @@
     {
      "level": 15,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -29929,7 +29932,7 @@
    "name": "HOSTED.GOO",
    "form": null,
    "types": [
-    "DEATH"
+    "SEX"
    ],
    "stats": {
     "hp": 60,
@@ -29992,7 +29995,7 @@
     {
      "level": 6,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -30000,7 +30003,7 @@
     {
      "level": 12,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -30125,7 +30128,7 @@
     {
      "level": 1,
      "move": "DESTINY BOND",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 5
@@ -30626,7 +30629,7 @@
     {
      "level": 18,
      "move": "SPITE",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -31011,7 +31014,7 @@
     {
      "level": 19,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -31168,7 +31171,7 @@
     {
      "level": 19,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -31214,7 +31217,7 @@
    "name": "NAVALMINO",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MEDICAL"
    ],
    "stats": {
@@ -31302,7 +31305,7 @@
     {
      "level": 19,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -31326,7 +31329,7 @@
     {
      "level": 46,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -31341,8 +31344,8 @@
    "name": "CYNOBI",
    "form": null,
    "types": [
-    "MILITARY",
-    "CYBER"
+    "CYBER",
+    "MILITARY"
    ],
    "stats": {
     "hp": 70,
@@ -31543,7 +31546,7 @@
     {
      "level": 1,
      "move": "WITHDRAW",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 100,
      "pp": 40
@@ -31726,20 +31729,20 @@
    "form": null,
    "types": [
     "DOOM",
-    "CHEMICAL"
+    "DEATH"
    ],
    "stats": {
     "hp": 55,
-    "atk": 95,
+    "atk": 35,
     "df": 55,
-    "spa": 35,
+    "spa": 95,
     "spd": 75,
     "spe": 115
    },
    "total": 430,
    "catch_rate": 60,
    "base_exp": 132,
-   "gender": "50% female",
+   "gender": "100% female",
    "growth": "Medium Slow",
    "size": "48x48",
    "frames": 4,
@@ -31947,7 +31950,7 @@
     {
      "level": 8,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -32086,7 +32089,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -32102,7 +32105,7 @@
     {
      "level": 8,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -32175,7 +32178,7 @@
   {
    "key": "218",
    "id": 218,
-   "name": "SLUGMA",
+   "name": "MELTEFAS",
    "form": null,
    "types": [
     "SATANIC"
@@ -32194,12 +32197,12 @@
    "gender": "50% female",
    "growth": "Medium Fast",
    "size": "40x40",
-   "frames": 9,
-   "animation": "script",
+   "frames": 4,
+   "animation": "cycle",
    "palette": [
-    "#f6e67b",
-    "#c53120",
-    "#000000"
+    "#d5525a",
+    "#7b1020",
+    "#412010"
    ],
    "shiny_palette": [
     "#acacac",
@@ -32367,7 +32370,7 @@
    "evolves_from": [
     {
      "id": 218,
-     "name": "SLUGMA",
+     "name": "MELTEFAS",
      "how": "level 38"
     }
    ],
@@ -32720,7 +32723,7 @@
    "name": "NEURAPSYS",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MINERAL"
    ],
    "stats": {
@@ -32784,7 +32787,7 @@
     {
      "level": 13,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -32800,7 +32803,7 @@
     {
      "level": 25,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -32839,7 +32842,7 @@
    "name": "ANIFISH",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 35,
@@ -32883,7 +32886,7 @@
    "evolves_to": [
     {
      "id": 224,
-     "name": "OCTILLERY",
+     "name": "TOSHIOKI",
      "how": "level 25"
     }
    ],
@@ -32892,7 +32895,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -32924,7 +32927,7 @@
     {
      "level": 22,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -32960,10 +32963,10 @@
   {
    "key": "224",
    "id": 224,
-   "name": "OCTILLERY",
+   "name": "TOSHIOKI",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 75,
@@ -32982,9 +32985,9 @@
    "frames": 4,
    "animation": "script",
    "palette": [
-    "#ffb420",
-    "#ff3118",
-    "#000000"
+    "#94b4b4",
+    "#8b5a6a",
+    "#181818"
    ],
    "shiny_palette": [
     "#b4e673",
@@ -33016,7 +33019,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -33048,7 +33051,7 @@
     {
      "level": 22,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -33056,7 +33059,7 @@
     {
      "level": 25,
      "move": "OCTAZOOKA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 85,
      "pp": 10
@@ -33183,7 +33186,7 @@
    "name": "DADAORCA",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "MECHANIC"
    ],
    "stats": {
@@ -33239,7 +33242,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -33255,7 +33258,7 @@
     {
      "level": 18,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -33287,7 +33290,7 @@
     {
      "level": 49,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -33683,7 +33686,7 @@
    "name": "HERMAPHROD",
    "form": null,
    "types": [
-    "SEX",
+    "DEATH",
     "DIVINITY"
    ],
    "stats": {
@@ -33737,7 +33740,7 @@
     {
      "level": 1,
      "move": "SALIVA",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -33761,7 +33764,7 @@
     {
      "level": 1,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -33785,7 +33788,7 @@
     {
      "level": 22,
      "move": "PISS BOMB",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 40,
      "accuracy": 100,
      "pp": 25
@@ -33809,7 +33812,7 @@
     {
      "level": 51,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -34300,7 +34303,7 @@
     {
      "level": 49,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -34721,7 +34724,7 @@
     {
      "level": 1,
      "move": "LICK",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 20,
      "accuracy": 100,
      "pp": 30
@@ -35033,7 +35036,7 @@
     {
      "level": 43,
      "move": "CONFUSE RAY",
-     "type": "DEATH",
+     "type": "SEX",
      "power": 0,
      "accuracy": 100,
      "pp": 10
@@ -35594,7 +35597,7 @@
    "name": "SKYLITE",
    "form": null,
    "types": [
-    "SEX"
+    "DEATH"
    ],
    "stats": {
     "hp": 100,
@@ -35657,7 +35660,7 @@
     {
      "level": 11,
      "move": "BUBBLEBEAM",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 65,
      "accuracy": 100,
      "pp": 20
@@ -35665,7 +35668,7 @@
     {
      "level": 21,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5
@@ -35705,7 +35708,7 @@
     {
      "level": 71,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -36275,7 +36278,7 @@
     {
      "level": 44,
      "move": "MEGA SQUIRT",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 120,
      "accuracy": 80,
      "pp": 5
@@ -36283,7 +36286,7 @@
     {
      "level": 55,
      "move": "RAIN DANCE",
-     "type": "SEX",
+     "type": "DEATH",
      "power": 0,
      "accuracy": 90,
      "pp": 5

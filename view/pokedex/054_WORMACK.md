@@ -1,6 +1,6 @@
 # 054 WORMACK
 
-**SEX** · [← 053 TENKA](053_TENKA.md) · [Pokédex](../pokedex.md) · [055 DUKAKIS →](055_DUKAKIS.md)
+**DEATH** · [← 053 TENKA](053_TENKA.md) · [Pokédex](../pokedex.md) · [055 DUKAKIS →](055_DUKAKIS.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/054_WORMACK_front3.png" alt="054 WORMACK front"></td><td align="center" valign="bottom"><img src="img/054_WORMACK_shiny3.png" alt="054 WORMACK shiny"></td><td align="center" valign="bottom"><img src="img/054_WORMACK_anim.gif" alt="054 WORMACK animation"></td><td align="center" valign="bottom"><img src="img/054_WORMACK_anim_shiny.gif" alt="054 WORMACK shiny animation"></td></tr></table>
 

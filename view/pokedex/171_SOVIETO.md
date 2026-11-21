@@ -1,6 +1,6 @@
 # 171 SOVIETO
 
-**SEX / NUCLEAR** · [← 170 RELICTOU](170_RELICTOU.md) · [Pokédex](../pokedex.md) · [172 BALBAC →](172_BALBAC.md)
+**DEATH / NUCLEAR** · [← 170 RELICTOU](170_RELICTOU.md) · [Pokédex](../pokedex.md) · [172 BALBAC →](172_BALBAC.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/171_SOVIETO_front3.png" alt="171 SOVIETO front"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_shiny3.png" alt="171 SOVIETO shiny"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim.gif" alt="171 SOVIETO animation"></td><td align="center" valign="bottom"><img src="img/171_SOVIETO_anim_shiny.gif" alt="171 SOVIETO shiny animation"></td></tr></table>
 

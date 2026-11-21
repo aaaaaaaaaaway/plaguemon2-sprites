@@ -1,6 +1,6 @@
 # 079 SLOWGHOST
 
-**SEX / NEURAL** · [← 078 FAXHIRO](078_FAXHIRO.md) · [Pokédex](../pokedex.md) · [080 KORNUPIAK →](080_KORNUPIAK.md)
+**DEATH / NEURAL** · [← 078 FAXHIRO](078_FAXHIRO.md) · [Pokédex](../pokedex.md) · [080 KORNUPIAK →](080_KORNUPIAK.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/079_SLOWGHOST_front3.png" alt="079 SLOWGHOST front"></td><td align="center" valign="bottom"><img src="img/079_SLOWGHOST_shiny3.png" alt="079 SLOWGHOST shiny"></td><td align="center" valign="bottom"><img src="img/079_SLOWGHOST_anim.gif" alt="079 SLOWGHOST animation"></td><td align="center" valign="bottom"><img src="img/079_SLOWGHOST_anim_shiny.gif" alt="079 SLOWGHOST shiny animation"></td></tr></table>
 

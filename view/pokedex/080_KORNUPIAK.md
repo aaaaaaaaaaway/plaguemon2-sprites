@@ -1,6 +1,6 @@
 # 080 KORNUPIAK
 
-**SEX / NEURAL** · [← 079 SLOWGHOST](079_SLOWGHOST.md) · [Pokédex](../pokedex.md) · [081 GHOSHELLO →](081_GHOSHELLO.md)
+**DEATH / NEURAL** · [← 079 SLOWGHOST](079_SLOWGHOST.md) · [Pokédex](../pokedex.md) · [081 GHOSHELLO →](081_GHOSHELLO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/080_KORNUPIAK_front3.png" alt="080 KORNUPIAK front"></td><td align="center" valign="bottom"><img src="img/080_KORNUPIAK_shiny3.png" alt="080 KORNUPIAK shiny"></td><td align="center" valign="bottom"><img src="img/080_KORNUPIAK_anim.gif" alt="080 KORNUPIAK animation"></td><td align="center" valign="bottom"><img src="img/080_KORNUPIAK_anim_shiny.gif" alt="080 KORNUPIAK shiny animation"></td></tr></table>
 

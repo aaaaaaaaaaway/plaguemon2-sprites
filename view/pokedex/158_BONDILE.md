@@ -1,6 +1,6 @@
 # 158 BONDILE
 
-**SEX** · [← 157 INFERNATUS](157_INFERNATUS.md) · [Pokédex](../pokedex.md) · [159 GAGOGO →](159_GAGOGO.md)
+**DEATH** · [← 157 INFERNATUS](157_INFERNATUS.md) · [Pokédex](../pokedex.md) · [159 GAGOGO →](159_GAGOGO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/158_BONDILE_front3.png" alt="158 BONDILE front"></td><td align="center" valign="bottom"><img src="img/158_BONDILE_shiny3.png" alt="158 BONDILE shiny"></td><td align="center" valign="bottom"><img src="img/158_BONDILE_anim.gif" alt="158 BONDILE animation"></td><td align="center" valign="bottom"><img src="img/158_BONDILE_anim_shiny.gif" alt="158 BONDILE shiny animation"></td></tr></table>
 

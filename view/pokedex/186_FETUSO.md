@@ -1,6 +1,6 @@
 # 186 FETUSO
 
-**SEX** · [← 185 AOKIGAKA](185_AOKIGAKA.md) · [Pokédex](../pokedex.md) · [187 ABORTITO →](187_ABORTITO.md)
+**DEATH** · [← 185 AOKIGAKA](185_AOKIGAKA.md) · [Pokédex](../pokedex.md) · [187 ABORTITO →](187_ABORTITO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/186_FETUSO_front3.png" alt="186 FETUSO front"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_shiny3.png" alt="186 FETUSO shiny"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_anim.gif" alt="186 FETUSO animation"></td><td align="center" valign="bottom"><img src="img/186_FETUSO_anim_shiny.gif" alt="186 FETUSO shiny animation"></td></tr></table>
 

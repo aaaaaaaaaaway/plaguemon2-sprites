@@ -41,7 +41,7 @@
   },
   {
    "attacker": "SATANIC",
-   "defender": "SEX",
+   "defender": "DEATH",
    "multiplier": 0.5,
    "foresight_only": false
   },
@@ -82,44 +82,44 @@
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
+   "attacker": "DEATH",
    "defender": "SATANIC",
    "multiplier": 2.0,
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
-   "defender": "SEX",
+   "attacker": "DEATH",
+   "defender": "DEATH",
    "multiplier": 0.5,
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
+   "attacker": "DEATH",
    "defender": "DRUGS",
    "multiplier": 0.5,
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
+   "attacker": "DEATH",
    "defender": "ORGANIC",
    "multiplier": 2.0,
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
+   "attacker": "DEATH",
    "defender": "MINERAL",
    "multiplier": 2.0,
    "foresight_only": false
   },
   {
-   "attacker": "SEX",
+   "attacker": "DEATH",
    "defender": "DIVINITY",
    "multiplier": 0.5,
    "foresight_only": false
   },
   {
    "attacker": "NUCLEAR",
-   "defender": "SEX",
+   "defender": "DEATH",
    "multiplier": 2.0,
    "foresight_only": false
   },
@@ -161,7 +161,7 @@
   },
   {
    "attacker": "DRUGS",
-   "defender": "SEX",
+   "defender": "DEATH",
    "multiplier": 2.0,
    "foresight_only": false
   },
@@ -215,7 +215,7 @@
   },
   {
    "attacker": "CHEMICAL",
-   "defender": "SEX",
+   "defender": "DEATH",
    "multiplier": 0.5,
    "foresight_only": false
   },
@@ -341,7 +341,7 @@
   },
   {
    "attacker": "MEDICAL",
-   "defender": "DEATH",
+   "defender": "SEX",
    "multiplier": 0.5,
    "foresight_only": false
   },
@@ -503,7 +503,7 @@
   },
   {
    "attacker": "MILITARY",
-   "defender": "DEATH",
+   "defender": "SEX",
    "multiplier": 0.5,
    "foresight_only": false
   },
@@ -562,32 +562,32 @@
    "foresight_only": false
   },
   {
-   "attacker": "DEATH",
+   "attacker": "SEX",
    "defender": "MUTANT",
    "multiplier": 0.0,
    "foresight_only": false
   },
   {
-   "attacker": "DEATH",
+   "attacker": "SEX",
    "defender": "NEURAL",
    "multiplier": 2.0,
    "foresight_only": false
   },
   {
-   "attacker": "DEATH",
+   "attacker": "SEX",
    "defender": "DOOM",
    "multiplier": 0.5,
    "foresight_only": false
   },
   {
-   "attacker": "DEATH",
+   "attacker": "SEX",
    "defender": "CYBER",
    "multiplier": 0.5,
    "foresight_only": false
   },
   {
-   "attacker": "DEATH",
-   "defender": "DEATH",
+   "attacker": "SEX",
+   "defender": "SEX",
    "multiplier": 2.0,
    "foresight_only": false
   },
@@ -617,7 +617,7 @@
   },
   {
    "attacker": "DOOM",
-   "defender": "DEATH",
+   "defender": "SEX",
    "multiplier": 2.0,
    "foresight_only": false
   },
@@ -641,7 +641,7 @@
   },
   {
    "attacker": "CYBER",
-   "defender": "SEX",
+   "defender": "DEATH",
    "multiplier": 0.5,
    "foresight_only": false
   },
@@ -671,13 +671,13 @@
   },
   {
    "attacker": "MUTANT",
-   "defender": "DEATH",
+   "defender": "SEX",
    "multiplier": 0.0,
    "foresight_only": true
   },
   {
    "attacker": "VIOLENCE",
-   "defender": "DEATH",
+   "defender": "SEX",
    "multiplier": 0.0,
    "foresight_only": true
   }

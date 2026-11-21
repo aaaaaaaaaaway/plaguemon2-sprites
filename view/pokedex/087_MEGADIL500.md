@@ -1,6 +1,6 @@
 # 087 MEGADIL500
 
-**SEX / CHEMICAL** · [← 086 MEGADIL](086_MEGADIL.md) · [Pokédex](../pokedex.md) · [088 GRINDED →](088_GRINDED.md)
+**DEATH / CHEMICAL** · [← 086 MEGADIL](086_MEGADIL.md) · [Pokédex](../pokedex.md) · [088 GRINDED →](088_GRINDED.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/087_MEGADIL500_front3.png" alt="087 MEGADIL500 front"></td><td align="center" valign="bottom"><img src="img/087_MEGADIL500_shiny3.png" alt="087 MEGADIL500 shiny"></td><td align="center" valign="bottom"><img src="img/087_MEGADIL500_anim.gif" alt="087 MEGADIL500 animation"></td><td align="center" valign="bottom"><img src="img/087_MEGADIL500_anim_shiny.gif" alt="087 MEGADIL500 shiny animation"></td></tr></table>
 

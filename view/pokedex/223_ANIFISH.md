@@ -1,6 +1,6 @@
 # 223 ANIFISH
 
-**SEX** · [← 222 NEURAPSYS](222_NEURAPSYS.md) · [Pokédex](../pokedex.md) · [224 OCTILLERY →](224_OCTILLERY.md)
+**DEATH** · [← 222 NEURAPSYS](222_NEURAPSYS.md) · [Pokédex](../pokedex.md) · [224 TOSHIOKI →](224_TOSHIOKI.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/223_ANIFISH_front3.png" alt="223 ANIFISH front"></td><td align="center" valign="bottom"><img src="img/223_ANIFISH_shiny3.png" alt="223 ANIFISH shiny"></td><td align="center" valign="bottom"><img src="img/223_ANIFISH_anim.gif" alt="223 ANIFISH animation"></td><td align="center" valign="bottom"><img src="img/223_ANIFISH_anim_shiny.gif" alt="223 ANIFISH shiny animation"></td></tr></table>
 
@@ -18,4 +18,4 @@
 
 ## Evolution
 
-Evolves into [OCTILLERY](224_OCTILLERY.md) (level 25)
+Evolves into [TOSHIOKI](224_TOSHIOKI.md) (level 25)

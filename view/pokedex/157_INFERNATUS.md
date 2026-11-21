@@ -1,6 +1,6 @@
 # 157 INFERNATUS
 
-**SATANIC** · [← 156 CRUXADO](156_CRUXADO.md) · [Pokédex](../pokedex.md) · [158 BONDILE →](158_BONDILE.md)
+**SATANIC / DOOM** · [← 156 CRUXADO](156_CRUXADO.md) · [Pokédex](../pokedex.md) · [158 BONDILE →](158_BONDILE.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/157_INFERNATUS_front3.png" alt="157 INFERNATUS front"></td><td align="center" valign="bottom"><img src="img/157_INFERNATUS_shiny3.png" alt="157 INFERNATUS shiny"></td><td align="center" valign="bottom"><img src="img/157_INFERNATUS_anim.gif" alt="157 INFERNATUS animation"></td><td align="center" valign="bottom"><img src="img/157_INFERNATUS_anim_shiny.gif" alt="157 INFERNATUS shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 091 VAGINDAM
 
-**SEX / CHEMICAL** · [← 090 SHELLDER](090_SHELLDER.md) · [Pokédex](../pokedex.md) · [092 GOSBAMP →](092_GOSBAMP.md)
+**DEATH / CHEMICAL** · [← 090 SHELLDER](090_SHELLDER.md) · [Pokédex](../pokedex.md) · [092 GOSBAMP →](092_GOSBAMP.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/091_VAGINDAM_front3.png" alt="091 VAGINDAM front"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_shiny3.png" alt="091 VAGINDAM shiny"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim.gif" alt="091 VAGINDAM animation"></td><td align="center" valign="bottom"><img src="img/091_VAGINDAM_anim_shiny.gif" alt="091 VAGINDAM shiny animation"></td></tr></table>
 

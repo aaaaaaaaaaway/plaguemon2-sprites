@@ -1,6 +1,6 @@
 # 212 CYNOBI
 
-**MILITARY / CYBER** · [← 211 NAVALMINO](211_NAVALMINO.md) · [Pokédex](../pokedex.md) · [213 PROGLOTTO →](213_PROGLOTTO.md)
+**CYBER / MILITARY** · [← 211 NAVALMINO](211_NAVALMINO.md) · [Pokédex](../pokedex.md) · [213 PROGLOTTO →](213_PROGLOTTO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/212_CYNOBI_front3.png" alt="212 CYNOBI front"></td><td align="center" valign="bottom"><img src="img/212_CYNOBI_shiny3.png" alt="212 CYNOBI shiny"></td><td align="center" valign="bottom"><img src="img/212_CYNOBI_anim.gif" alt="212 CYNOBI animation"></td><td align="center" valign="bottom"><img src="img/212_CYNOBI_anim_shiny.gif" alt="212 CYNOBI shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 160 CROCOSNUFF
 
-**SEX** · [← 159 GAGOGO](159_GAGOGO.md) · [Pokédex](../pokedex.md) · [161 BURQO →](161_BURQO.md)
+**DEATH / VIOLENCE** · [← 159 GAGOGO](159_GAGOGO.md) · [Pokédex](../pokedex.md) · [161 BURQO →](161_BURQO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_front3.png" alt="160 CROCOSNUFF front"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_shiny3.png" alt="160 CROCOSNUFF shiny"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim.gif" alt="160 CROCOSNUFF animation"></td><td align="center" valign="bottom"><img src="img/160_CROCOSNUFF_anim_shiny.gif" alt="160 CROCOSNUFF shiny animation"></td></tr></table>
 

@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**COBRA** · 11'06" · 143.0 lb
+**INFINITY** · 11'06" · 143.0 lb
 
-> To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.
+> The infinite return, the Uroboro. The snake that eats itself from the tail, never ending pain.
 
 ## Evolution
 

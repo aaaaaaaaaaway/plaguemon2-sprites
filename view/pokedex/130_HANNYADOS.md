@@ -1,6 +1,6 @@
 # 130 HANNYADOS
 
-**SEX / MECHANIC** · [← 129 ROKUJOSHI](129_ROKUJOSHI.md) · [Pokédex](../pokedex.md) · [131 KARONTIS →](131_KARONTIS.md)
+**DEATH / MECHANIC** · [← 129 ROKUJOSHI](129_ROKUJOSHI.md) · [Pokédex](../pokedex.md) · [131 KARONTIS →](131_KARONTIS.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/130_HANNYADOS_front3.png" alt="130 HANNYADOS front"></td><td align="center" valign="bottom"><img src="img/130_HANNYADOS_shiny3.png" alt="130 HANNYADOS shiny"></td><td align="center" valign="bottom"><img src="img/130_HANNYADOS_anim.gif" alt="130 HANNYADOS animation"></td><td align="center" valign="bottom"><img src="img/130_HANNYADOS_anim_shiny.gif" alt="130 HANNYADOS shiny animation"></td></tr></table>
 

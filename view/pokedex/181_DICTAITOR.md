@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**LIGHT** · 4'07" · 136.0 lb
+**DICTATOR** · 4'07" · 136.0 lb
 
-> When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.
+> When AI took up, when the AGI was fulfilled, house- -hold robots took ahold of all the ministry.
 
 ## Evolution
 

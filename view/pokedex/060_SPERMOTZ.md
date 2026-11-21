@@ -1,6 +1,6 @@
 # 060 SPERMOTZ
 
-**SEX** · [← 059 BJORN](059_BJORN.md) · [Pokédex](../pokedex.md) · [061 PROLIFIK →](061_PROLIFIK.md)
+**DEATH** · [← 059 BJORN](059_BJORN.md) · [Pokédex](../pokedex.md) · [061 PROLIFIK →](061_PROLIFIK.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_front3.png" alt="060 SPERMOTZ front"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_shiny3.png" alt="060 SPERMOTZ shiny"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_anim.gif" alt="060 SPERMOTZ animation"></td><td align="center" valign="bottom"><img src="img/060_SPERMOTZ_anim_shiny.gif" alt="060 SPERMOTZ shiny animation"></td></tr></table>
 

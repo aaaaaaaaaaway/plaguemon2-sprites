@@ -1,6 +1,6 @@
 # 007 SCOLINA
 
-**SEX** · [← 006 LUCIFERION](006_LUCIFERION.md) · [Pokédex](../pokedex.md) · [008 SCOLANO →](008_SCOLANO.md)
+**DEATH** · [← 006 LUCIFERION](006_LUCIFERION.md) · [Pokédex](../pokedex.md) · [008 SCOLANO →](008_SCOLANO.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/007_SCOLINA_front3.png" alt="007 SCOLINA front"></td><td align="center" valign="bottom"><img src="img/007_SCOLINA_shiny3.png" alt="007 SCOLINA shiny"></td><td align="center" valign="bottom"><img src="img/007_SCOLINA_anim.gif" alt="007 SCOLINA animation"></td><td align="center" valign="bottom"><img src="img/007_SCOLINA_anim_shiny.gif" alt="007 SCOLINA shiny animation"></td></tr></table>
 

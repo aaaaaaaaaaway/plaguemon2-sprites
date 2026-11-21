@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**LONG TAIL** · 2'07" · 25.0 lb
+**MOLESTER** · 2'07" · 25.0 lb
 
-> It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.
+> This little silly creature, sneaks into public places like video arcades to grope innocent underage girls.
 
 ## Evolution
 

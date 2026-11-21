@@ -1,6 +1,6 @@
 {
  "game": "Plaguemon II: The AfterWorld",
- "version": "0.1.0",
+ "version": "0.1.1",
  "items": [
   {
    "id": 1,
@@ -413,17 +413,19 @@
   },
   {
    "id": 58,
-   "name": "OLD ROD",
+   "name": "DDOS.EXE",
    "pocket": "Key Items",
    "price": 0,
-   "description": "Use by water to\nfish for POKéMON."
+   "description": "Use by water to\nfish for POKéMON.",
+   "crystal_name": "OLD ROD"
   },
   {
    "id": 59,
-   "name": "GOOD ROD",
+   "name": "TROJAN.EXE",
    "pocket": "Key Items",
    "price": 0,
-   "description": "A good ROD for\ncatching POKéMON."
+   "description": "A good ROD for\ncatching POKéMON.",
+   "crystal_name": "GOOD ROD"
   },
   {
    "id": 60,
@@ -434,10 +436,11 @@
   },
   {
    "id": 61,
-   "name": "SUPER ROD",
+   "name": "BACKDOOR.EXE",
    "pocket": "Key Items",
    "price": 0,
-   "description": "The best ROD for\ncatching POKéMON."
+   "description": "The best ROD for\ncatching POKéMON.",
+   "crystal_name": "SUPER ROD"
   },
   {
    "id": 62,
@@ -469,10 +472,11 @@
   },
   {
    "id": 66,
-   "name": "RED SCALE",
+   "name": "PLACENTA",
    "pocket": "Key Items",
    "price": 0,
-   "description": "A scale from the\nred GYARADOS."
+   "description": "A scale from the\nred GYARADOS.",
+   "crystal_name": "RED SCALE"
   },
   {
    "id": 67,

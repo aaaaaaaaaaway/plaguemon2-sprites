@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**BUTTERFLY** · 3'07" · 71.0 lb
+**MONARCH** · 3'07" · 71.0 lb
 
-> It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.
+> Its wings evolved pointy enough to became a defense weapon. Sometimes can also grow a new pair of eyes.
 
 ## Evolution
 

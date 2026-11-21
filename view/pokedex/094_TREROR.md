@@ -1,6 +1,6 @@
 # 094 TREROR
 
-**DEATH / MEDICAL** · [← 093 WRAITARL](093_WRAITARL.md) · [Pokédex](../pokedex.md) · [095 OBSIDIAN →](095_OBSIDIAN.md)
+**SEX / MEDICAL** · [← 093 WRAITARL](093_WRAITARL.md) · [Pokédex](../pokedex.md) · [095 OBSIDIAN →](095_OBSIDIAN.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/094_TREROR_front3.png" alt="094 TREROR front"></td><td align="center" valign="bottom"><img src="img/094_TREROR_shiny3.png" alt="094 TREROR shiny"></td><td align="center" valign="bottom"><img src="img/094_TREROR_anim.gif" alt="094 TREROR animation"></td><td align="center" valign="bottom"><img src="img/094_TREROR_anim_shiny.gif" alt="094 TREROR shiny animation"></td></tr></table>
 

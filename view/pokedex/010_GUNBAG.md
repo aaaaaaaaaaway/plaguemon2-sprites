@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**WORM** · 1'00" · 6.0 lb
+**GUN** · 1'00" · 6.0 lb
 
-> It crawls into foliage where it camouflages itself among leaves that are the same color as its body.
+> Gunpowder residues causes this bug to evolve in this gun-like form. Its shoots are fast but weak.
 
 ## Evolution
 

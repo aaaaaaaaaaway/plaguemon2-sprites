@@ -1,6 +1,6 @@
 # 008 SCOLANO
 
-**SEX** · [← 007 SCOLINA](007_SCOLINA.md) · [Pokédex](../pokedex.md) · [009 SCOLENE →](009_SCOLENE.md)
+**DEATH** · [← 007 SCOLINA](007_SCOLINA.md) · [Pokédex](../pokedex.md) · [009 SCOLENE →](009_SCOLENE.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/008_SCOLANO_front3.png" alt="008 SCOLANO front"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_shiny3.png" alt="008 SCOLANO shiny"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_anim.gif" alt="008 SCOLANO animation"></td><td align="center" valign="bottom"><img src="img/008_SCOLANO_anim_shiny.gif" alt="008 SCOLANO shiny animation"></td></tr></table>
 

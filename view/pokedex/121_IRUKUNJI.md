@@ -1,6 +1,6 @@
 # 121 IRUKUNJI
 
-**SEX / NEURAL** · [← 120 MALOKINGI](120_MALOKINGI.md) · [Pokédex](../pokedex.md) · [122 MR.SHADOW →](122_MR_SHADOW.md)
+**DEATH / NEURAL** · [← 120 MALOKINGI](120_MALOKINGI.md) · [Pokédex](../pokedex.md) · [122 MR.SHADOW →](122_MR_SHADOW.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_front3.png" alt="121 IRUKUNJI front"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_shiny3.png" alt="121 IRUKUNJI shiny"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_anim.gif" alt="121 IRUKUNJI animation"></td><td align="center" valign="bottom"><img src="img/121_IRUKUNJI_anim_shiny.gif" alt="121 IRUKUNJI shiny animation"></td></tr></table>
 

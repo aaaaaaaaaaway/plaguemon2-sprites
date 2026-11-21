@@ -1,6 +1,6 @@
 # 211 NAVALMINO
 
-**SEX / MEDICAL** · [← 210 GALAXIAN](210_GALAXIAN.md) · [Pokédex](../pokedex.md) · [212 CYNOBI →](212_CYNOBI.md)
+**DEATH / MEDICAL** · [← 210 GALAXIAN](210_GALAXIAN.md) · [Pokédex](../pokedex.md) · [212 CYNOBI →](212_CYNOBI.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/211_NAVALMINO_front3.png" alt="211 NAVALMINO front"></td><td align="center" valign="bottom"><img src="img/211_NAVALMINO_shiny3.png" alt="211 NAVALMINO shiny"></td><td align="center" valign="bottom"><img src="img/211_NAVALMINO_anim.gif" alt="211 NAVALMINO animation"></td><td align="center" valign="bottom"><img src="img/211_NAVALMINO_anim_shiny.gif" alt="211 NAVALMINO shiny animation"></td></tr></table>
 

@@ -1,6 +1,6 @@
 # 099 NUKEBARL
 
-**SEX** · [← 098 TOXIWASTE](098_TOXIWASTE.md) · [Pokédex](../pokedex.md) · [100 KOWARENING →](100_KOWARENING.md)
+**DEATH** · [← 098 TOXIWASTE](098_TOXIWASTE.md) · [Pokédex](../pokedex.md) · [100 KOWARENING →](100_KOWARENING.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/099_NUKEBARL_front3.png" alt="099 NUKEBARL front"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_shiny3.png" alt="099 NUKEBARL shiny"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_anim.gif" alt="099 NUKEBARL animation"></td><td align="center" valign="bottom"><img src="img/099_NUKEBARL_anim_shiny.gif" alt="099 NUKEBARL shiny animation"></td></tr></table>
 

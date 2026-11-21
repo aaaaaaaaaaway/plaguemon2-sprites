@@ -1,6 +1,6 @@
 # 219 MAGCARGO
 
-**SATANIC / MINERAL** · [← 218 SLUGMA](218_SLUGMA.md) · [Pokédex](../pokedex.md) · [220 SWINUB →](220_SWINUB.md)
+**SATANIC / MINERAL** · [← 218 MELTEFAS](218_MELTEFAS.md) · [Pokédex](../pokedex.md) · [220 SWINUB →](220_SWINUB.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/219_MAGCARGO_front3.png" alt="219 MAGCARGO front"></td><td align="center" valign="bottom"><img src="img/219_MAGCARGO_shiny3.png" alt="219 MAGCARGO shiny"></td><td align="center" valign="bottom"><img src="img/219_MAGCARGO_anim.gif" alt="219 MAGCARGO animation"></td><td align="center" valign="bottom"><img src="img/219_MAGCARGO_anim_shiny.gif" alt="219 MAGCARGO shiny animation"></td></tr></table>
 
@@ -18,4 +18,4 @@
 
 ## Evolution
 
-Evolves from [SLUGMA](218_SLUGMA.md) (level 38)
+Evolves from [MELTEFAS](218_MELTEFAS.md) (level 38)

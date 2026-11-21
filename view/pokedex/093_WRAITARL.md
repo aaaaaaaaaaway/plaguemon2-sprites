@@ -1,6 +1,6 @@
 # 093 WRAITARL
 
-**DEATH / MEDICAL** · [← 092 GOSBAMP](092_GOSBAMP.md) · [Pokédex](../pokedex.md) · [094 TREROR →](094_TREROR.md)
+**SEX / MEDICAL** · [← 092 GOSBAMP](092_GOSBAMP.md) · [Pokédex](../pokedex.md) · [094 TREROR →](094_TREROR.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/093_WRAITARL_front3.png" alt="093 WRAITARL front"></td><td align="center" valign="bottom"><img src="img/093_WRAITARL_shiny3.png" alt="093 WRAITARL shiny"></td><td align="center" valign="bottom"><img src="img/093_WRAITARL_anim.gif" alt="093 WRAITARL animation"></td><td align="center" valign="bottom"><img src="img/093_WRAITARL_anim_shiny.gif" alt="093 WRAITARL shiny animation"></td></tr></table>
 

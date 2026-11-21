@@ -1,6 +1,6 @@
 # 217 TAXYDERMA
 
-**MUTANT** · [← 216 FLESHPLUSH](216_FLESHPLUSH.md) · [Pokédex](../pokedex.md) · [218 SLUGMA →](218_SLUGMA.md)
+**MUTANT** · [← 216 FLESHPLUSH](216_FLESHPLUSH.md) · [Pokédex](../pokedex.md) · [218 MELTEFAS →](218_MELTEFAS.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/217_TAXYDERMA_front3.png" alt="217 TAXYDERMA front"></td><td align="center" valign="bottom"><img src="img/217_TAXYDERMA_shiny3.png" alt="217 TAXYDERMA shiny"></td><td align="center" valign="bottom"><img src="img/217_TAXYDERMA_anim.gif" alt="217 TAXYDERMA animation"></td><td align="center" valign="bottom"><img src="img/217_TAXYDERMA_anim_shiny.gif" alt="217 TAXYDERMA shiny animation"></td></tr></table>
 

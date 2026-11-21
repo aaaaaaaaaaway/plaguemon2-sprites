@@ -1,6 +1,6 @@
 # 194 KOTZWAR
 
-**SEX / ORGANIC** · [← 193 NAPALMYAN](193_NAPALMYAN.md) · [Pokédex](../pokedex.md) · [195 ASPHYXIAR →](195_ASPHYXIAR.md)
+**DEATH / ORGANIC** · [← 193 NAPALMYAN](193_NAPALMYAN.md) · [Pokédex](../pokedex.md) · [195 ASPHYXIAR →](195_ASPHYXIAR.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/194_KOTZWAR_front3.png" alt="194 KOTZWAR front"></td><td align="center" valign="bottom"><img src="img/194_KOTZWAR_shiny3.png" alt="194 KOTZWAR shiny"></td><td align="center" valign="bottom"><img src="img/194_KOTZWAR_anim.gif" alt="194 KOTZWAR animation"></td><td align="center" valign="bottom"><img src="img/194_KOTZWAR_anim_shiny.gif" alt="194 KOTZWAR shiny animation"></td></tr></table>
 

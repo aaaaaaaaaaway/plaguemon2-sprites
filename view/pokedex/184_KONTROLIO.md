@@ -1,6 +1,6 @@
 # 184 KONTROLIO
 
-**SEX** · [← 183 HALUAL](183_HALUAL.md) · [Pokédex](../pokedex.md) · [185 AOKIGAKA →](185_AOKIGAKA.md)
+**DEATH** · [← 183 HALUAL](183_HALUAL.md) · [Pokédex](../pokedex.md) · [185 AOKIGAKA →](185_AOKIGAKA.md)
 
 <table><tr><th>Front</th><th>Shiny</th><th>Animated</th><th>Animated shiny</th></tr><tr><td align="center" valign="bottom"><img src="img/184_KONTROLIO_front3.png" alt="184 KONTROLIO front"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_shiny3.png" alt="184 KONTROLIO shiny"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_anim.gif" alt="184 KONTROLIO animation"></td><td align="center" valign="bottom"><img src="img/184_KONTROLIO_anim_shiny.gif" alt="184 KONTROLIO shiny animation"></td></tr></table>
 
@@ -12,9 +12,9 @@
 
 ## Pokédex
 
-**AQUARABBIT** · 2'07" · 63.0 lb
+**SURVEILLANCE** · 2'07" · 63.0 lb
 
-> The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.
+> A bot made by the government to control people, looks like a kawaii mascot but is actually a cam.
 
 ## Evolution
 
